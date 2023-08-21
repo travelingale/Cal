@@ -2,35 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230821T063600
 DTEND:20230821T105400
 DESCRIPTION:Small long period waves from the S. Light and variable winds w
  ith clean conditions.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft
+SUMMARY:2 - 3ft: Poor_to_fair
 DTSTART:20230821T180600
 DTEND:20230821T194800
 DESCRIPTION:Small mid period waves from the SSW. Light SSW winds with semi
   bumpy conditions.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230822T063600
 DTEND:20230822T105400
 DESCRIPTION:Small long period waves from the S. Light and variable winds w
  ith clean conditions.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft
+SUMMARY:2 - 3ft: Poor_to_fair
 DTSTART:20230822T185400
 DTEND:20230822T194800
 DESCRIPTION:Small mid period waves from the SSW. Light SSW winds with semi
   bumpy conditions.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230823T063600
 DTEND:20230823T104800
 DESCRIPTION:Small long period waves from the S. Light and variable winds w
