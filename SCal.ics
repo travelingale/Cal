@@ -3,41 +3,39 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20230824T074200
-DTEND:20230824T103000
-DESCRIPTION:Clean morning. Reinforcing Southern Hemi arrives to keeps fun 
- surf going for summer standouts -- blend of SSW-S swells
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20230827T063600
 DTEND:20230827T072400
 DESCRIPTION:Looking to ease a touch from Saturday -- smaller SSW-S swell a
- nd inconsistent
+ nd inconsistent. Overall\, AM window still pretty fun. Maybe bring a board
+  down with more foam.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230828T063600
 DTEND:20230828T075400
-DESCRIPTION:N/A
+DESCRIPTION:Clean and small to start week. Modest\, inconsistent SSW-S swe
+ ll continues.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230828T131200
 DTEND:20230828T153600
-DESCRIPTION:N/A
+DESCRIPTION:Clean and small to start week. Modest\, inconsistent SSW-S swe
+ ll continues.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230829T064200
 DTEND:20230829T081800
-DESCRIPTION:N/A
+DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
+ ut note the tide gets pretty high by mid/later morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230829T133000
 DTEND:20230829T170600
-DESCRIPTION:N/A
+DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
+ ut note the tide gets pretty high by mid/later morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
