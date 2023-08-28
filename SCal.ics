@@ -2,52 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230827T063600
 DTEND:20230827T072400
-DESCRIPTION:Looking to ease a touch from Saturday -- smaller SSW-S swell a
- nd inconsistent. Overall\, AM window still pretty fun. Maybe bring a board
-  down with more foam.
+DESCRIPTION:Small but rideable surf - top summer spots on the AM incoming 
+ tide still kinda fun. Clean AM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230828T063600
 DTEND:20230828T075400
-DESCRIPTION:Clean and small to start week. Modest\, inconsistent SSW-S swe
- ll continues.
+DESCRIPTION:Clean and small to start the week. Small\, inconsistent SSW-S 
+ swell continues. Longboardable at top spots but even those breaks likely m
+ ax out at waist high\, average breaks more like knee high or less. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230828T131200
 DTEND:20230828T153600
-DESCRIPTION:Clean and small to start week. Modest\, inconsistent SSW-S swe
- ll continues.
+DESCRIPTION:Clean and small to start the week. Small\, inconsistent SSW-S 
+ swell continues. Longboardable at top spots but even those breaks likely m
+ ax out at waist high\, average breaks more like knee high or less. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230829T064200
 DTEND:20230829T081800
 DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
- ut note the tide gets pretty high by mid/later morning.
+ ut note the tide gets pretty high by mid/later morning. Still a bit of sma
+ ll S swell but most breaks 1-2' - standouts maybe get to waist high.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230829T133000
 DTEND:20230829T170600
 DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
- ut note the tide gets pretty high by mid/later morning.
+ ut note the tide gets pretty high by mid/later morning. Still a bit of sma
+ ll S swell but most breaks 1-2' - standouts maybe get to waist high.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230830T064200
 DTEND:20230830T084800
-DESCRIPTION:N/A
+DESCRIPTION:May see a little more NW energy wrap in but overall\, small al
+ l day. Best window will be earlier morning as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230830T140600
 DTEND:20230830T183000
-DESCRIPTION:N/A
+DESCRIPTION:May see a little more NW energy wrap in but overall\, small al
+ l day. Best window will be earlier morning as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
