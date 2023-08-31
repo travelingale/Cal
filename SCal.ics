@@ -3,38 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230828T063600
-DTEND:20230828T075400
-DESCRIPTION:Clean and small to start the week. Small\, inconsistent SSW-S 
- swell continues. Longboardable at top spots but even those breaks likely m
- ax out at waist high\, average breaks more like knee high or less. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230828T131200
-DTEND:20230828T153600
-DESCRIPTION:Clean and small to start the week. Small\, inconsistent SSW-S 
- swell continues. Longboardable at top spots but even those breaks likely m
- ax out at waist high\, average breaks more like knee high or less. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230829T064200
-DTEND:20230829T081800
-DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
- ut note the tide gets pretty high by mid/later morning. Still a bit of sma
- ll S swell but most breaks 1-2' - standouts maybe get to waist high.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230829T133000
-DTEND:20230829T170600
-DESCRIPTION:Small streak of waves continue. Cleanest through the morning b
- ut note the tide gets pretty high by mid/later morning. Still a bit of sma
- ll S swell but most breaks 1-2' - standouts maybe get to waist high.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230830T064200
 DTEND:20230830T084800
 DESCRIPTION:May see a little more NW energy wrap in but overall\, small al
@@ -62,28 +30,32 @@ DESCRIPTION:Overall still small but start to see new signs of our next S s
  well very slowly creep in. Most size before dark.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230901T070600
 DTEND:20230901T093000
-DESCRIPTION:N/A
+DESCRIPTION:Finally\, waves. New\, long-period S swell builds in all day. 
+ Cleanest in the morning but most size late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230901T152400
 DTEND:20230901T193600
-DESCRIPTION:N/A
+DESCRIPTION:Finally\, waves. New\, long-period S swell builds in all day. 
+ Cleanest in the morning but most size late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230902T064200
 DTEND:20230902T095400
-DESCRIPTION:N/A
+DESCRIPTION:Bigger and better than anything from the previous week. Straig
+ ht S swell builds through the day with fun surf. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20230902T161200
 DTEND:20230902T193000
-DESCRIPTION:N/A
+DESCRIPTION:Bigger and better than anything from the previous week. Straig
+ ht S swell builds through the day with fun surf. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -137,6 +109,30 @@ BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230910T134200
 DTEND:20230910T151200
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230911T064800
+DTEND:20230911T074200
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230911T133600
+DTEND:20230911T163600
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230912T064800
+DTEND:20230912T080600
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230912T134200
+DTEND:20230912T173600
 DESCRIPTION:N/A
 END:VEVENT
 END:VCALENDAR
