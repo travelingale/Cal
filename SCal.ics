@@ -2,21 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230910T064800
-DTEND:20230910T071200
-DESCRIPTION:Small but rideable southerly surf (mix of Jova and Southern He
- mi). Target Dawn Patrol or midday for best tide + wind. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230910T134200
-DTEND:20230910T151200
-DESCRIPTION:Small but rideable southerly surf (mix of Jova and Southern He
- mi). Target Dawn Patrol or midday for best tide + wind. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230911T064800
 DTEND:20230911T074200
 DESCRIPTION:Early morning session is best on the incoming tide. Also\, mos
@@ -34,14 +20,16 @@ SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230912T064800
 DTEND:20230912T080600
 DESCRIPTION:Looking for a slow rise in size as long-period forerunners of 
- a new SSW swell move in/creep up. Fun-zone sets due late. Stay tuned. 
+ a new SSW swell move in/creep up. Fairly fun but lully late on the very fr
+ ont end of the swell. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230912T134200
 DTEND:20230912T173600
 DESCRIPTION:Looking for a slow rise in size as long-period forerunners of 
- a new SSW swell move in/creep up. Fun-zone sets due late. Stay tuned. 
+ a new SSW swell move in/creep up. Fairly fun but lully late on the very fr
+ ont end of the swell. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -58,16 +46,20 @@ DESCRIPTION:Day to watch. New SSW swell doing the heavy lifting but some N
  W swell will be sneaky in as well. AM session looking best\, and cleanest.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20230914T065400
 DTEND:20230914T083600
-DESCRIPTION:N/A
+DESCRIPTION:Morning session looks clean/glassy. Fun to mid size SSW swell 
+ in the water. Best shape on the mid morning tide push. Manageable onshore 
+ texture through afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230914T141800
 DTEND:20230914T191200
-DESCRIPTION:N/A
+DESCRIPTION:Morning session looks clean/glassy. Fun to mid size SSW swell 
+ in the water. Best shape on the mid morning tide push. Manageable onshore 
+ texture through afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
