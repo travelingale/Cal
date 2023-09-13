@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230912T064800
-DTEND:20230912T080600
-DESCRIPTION:Looking for a slow rise in size as long-period forerunners of 
- a new SSW swell move in/creep up. Fairly fun but lully late on the very fr
- ont end of the swell. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230912T134200
-DTEND:20230912T173600
-DESCRIPTION:Looking for a slow rise in size as long-period forerunners of 
- a new SSW swell move in/creep up. Fairly fun but lully late on the very fr
- ont end of the swell. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20230913T065400
 DTEND:20230913T082400
@@ -42,7 +26,7 @@ DESCRIPTION:Go surf. Morning session looks clean/glassy. Fun to mid size S
   onshore texture through afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230914T141800
 DTEND:20230914T191200
 DESCRIPTION:Go surf. Morning session looks clean/glassy. Fun to mid size S
@@ -66,16 +50,18 @@ DESCRIPTION:Still fun. Morning session looking fun once again as SSW swell
  oon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230916T065400
 DTEND:20230916T090000
-DESCRIPTION:N/A
+DESCRIPTION:Smaller\, fading surf but still kinda fun at the south swell s
+ tandouts. SSW swell trends down. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20230916T151200
 DTEND:20230916T191200
-DESCRIPTION:N/A
+DESCRIPTION:Smaller\, fading surf but still kinda fun at the south swell s
+ tandouts. SSW swell trends down. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -129,6 +115,12 @@ BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230925T122400
 DTEND:20230925T144200
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230926T123000
+DTEND:20230926T163000
 DESCRIPTION:N/A
 END:VEVENT
 END:VCALENDAR
