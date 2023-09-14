@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20230913T065400
-DTEND:20230913T082400
-DESCRIPTION:Day to target. New SSW swell doing the heavy lifting but some 
- NW swell will be sneaky in as well. AM session looking best\, and cleanest
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20230913T140000
-DTEND:20230913T183000
-DESCRIPTION:Day to target. New SSW swell doing the heavy lifting but some 
- NW swell will be sneaky in as well. AM session looking best\, and cleanest
- .
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230914T065400
 DTEND:20230914T083600
@@ -64,16 +48,18 @@ DESCRIPTION:Smaller\, fading surf but still kinda fun at the south swell s
  tandouts. SSW swell trends down. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230917T065400
 DTEND:20230917T090600
-DESCRIPTION:N/A
+DESCRIPTION:Likely down again from Saturday as SSW swell eases. Enough to 
+ be rideable but getting small. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20230917T154200
 DTEND:20230917T191200
-DESCRIPTION:N/A
+DESCRIPTION:Likely down again from Saturday as SSW swell eases. Enough to 
+ be rideable but getting small. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -121,6 +107,12 @@ BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230926T123000
 DTEND:20230926T163000
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20230927T125400
+DTEND:20230927T175400
 DESCRIPTION:N/A
 END:VEVENT
 END:VCALENDAR
