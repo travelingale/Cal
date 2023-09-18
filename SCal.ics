@@ -3,114 +3,114 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20230917T065400
-DTEND:20230917T090600
-DESCRIPTION:Down again from Saturday as SSW swell eases. Enough to be ride
- able but getting small. Target mid to later morning as tide pushes back in
- . 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20230917T154200
-DTEND:20230917T191200
-DESCRIPTION:Down again from Saturday as SSW swell eases. Enough to be ride
- able but getting small. Target mid to later morning as tide pushes back in
- . 
+DTSTART:20230918T065400
+DTEND:20230918T090600
+DESCRIPTION:Slow to start week. Clean morning but you'll need the small-wa
+ ve gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20230918T065400
-DTEND:20230918T090600
-DESCRIPTION:Small to start week. Clean morning but you'll need the small-w
- ave gear.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20230918T161800
 DTEND:20230918T190600
-DESCRIPTION:Small to start week. Clean morning but you'll need the small-w
- ave gear.
+DESCRIPTION:Slow to start week. Clean morning but you'll need the small-wa
+ ve gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20230919T065400
 DTEND:20230919T090600
-DESCRIPTION:New NW swell building and wrapping into town. Conditions clean
-  in morning. New small SSW swell starting to show as well.
+DESCRIPTION:Day to target. New NW swell building and wrapping into town's 
+ best NW spots. Conditions clean in morning. New small SSW swell starting t
+ o show as well.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230919T170000
 DTEND:20230919T190600
-DESCRIPTION:New NW swell building and wrapping into town. Conditions clean
-  in morning. New small SSW swell starting to show as well.
+DESCRIPTION:Day to target. New NW swell building and wrapping into town's 
+ best NW spots. Conditions clean in morning. New small SSW swell starting t
+ o show as well.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230920T070000
 DTEND:20230920T085400
-DESCRIPTION:Fun morning off combo of NW and SSW swell. AM session is best 
- for cleanest surf\, and tide.
+DESCRIPTION:Watching wind -- may see S wind but looks light. Fun morning o
+ ff combo of NW and SSW swell. AM session is best for cleanest surf\, and t
+ ide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230920T174800
 DTEND:20230920T190600
-DESCRIPTION:Fun morning off combo of NW and SSW swell. AM session is best 
- for cleanest surf\, and tide.
+DESCRIPTION:Watching wind -- may see S wind but looks light. Fun morning o
+ ff combo of NW and SSW swell. AM session is best for cleanest surf\, and t
+ ide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230925T122400
 DTEND:20230925T144200
-DESCRIPTION:-2.981ft at 12:24\n-2.963ft at 14:42
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230926T123000
 DTEND:20230926T163000
-DESCRIPTION:-2.969ft at 12:30\n-2.942ft at 16:30
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230927T125400
 DTEND:20230927T175400
-DESCRIPTION:-2.984ft at 12:54\n-2.936ft at 17:54
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230928T070600
 DTEND:20230928T073600
-DESCRIPTION:-2.266ft at 07:06\n-2.940ft at 07:36
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230928T133000
 DTEND:20230928T185400
-DESCRIPTION:-2.938ft at 13:30\n-2.629ft at 18:54
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230929T070600
 DTEND:20230929T075400
-DESCRIPTION:-1.863ft at 07:06\n-2.920ft at 07:54
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230929T140600
 DTEND:20230929T185400
-DESCRIPTION:-2.977ft at 14:06\n-1.264ft at 18:54
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230930T070600
 DTEND:20230930T081200
-DESCRIPTION:-1.661ft at 07:06\n-2.935ft at 08:12
+DESCRIPTION:N/A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20230930T144800
 DTEND:20230930T184800
-DESCRIPTION:-2.956ft at 14:48\n-0.245ft at 18:48
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231001T070600
+DTEND:20231001T083000
+DESCRIPTION:N/A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231001T153000
+DTEND:20231001T183000
+DESCRIPTION:N/A
 END:VEVENT
 END:VCALENDAR
