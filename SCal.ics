@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20230919T065400
-DTEND:20230919T090600
-DESCRIPTION:Day to target. New NW swell building and wrapping into town's 
- best NW spots. Conditions clean in morning. New small SSW swell starting t
- o show as well.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20230919T170000
-DTEND:20230919T190600
-DESCRIPTION:Day to target. New NW swell building and wrapping into town's 
- best NW spots. Conditions clean in morning. New small SSW swell starting t
- o show as well.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230920T070000
 DTEND:20230920T085400
-DESCRIPTION:Watching wind -- may see S wind but looks light. Fun morning o
- ff combo of NW and SSW swell. AM session is best for cleanest surf\, and t
- ide.
+DESCRIPTION:Clean earlier morning. May see S wind late morning but looks l
+ ight. Fun morning off combo of NW and SSW swell. AM session is best for cl
+ eanest surf\, and tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230920T174800
 DTEND:20230920T190600
-DESCRIPTION:Watching wind -- may see S wind but looks light. Fun morning o
- ff combo of NW and SSW swell. AM session is best for cleanest surf\, and t
- ide.
+DESCRIPTION:Clean earlier morning. May see S wind late morning but looks l
+ ight. Fun morning off combo of NW and SSW swell. AM session is best for cl
+ eanest surf\, and tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +94,17 @@ SUMMARY:OST
 DTSTART:20231002T161800
 DTEND:20231002T184800
 DESCRIPTION:-2.947ft at 16:18\n-0.282ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231003T070600
+DTEND:20231003T084200
+DESCRIPTION:-2.620ft at 07:06\n-2.973ft at 08:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231003T170600
+DTEND:20231003T184800
+DESCRIPTION:-2.980ft at 17:06\n-1.106ft at 18:48
 END:VEVENT
 END:VCALENDAR
