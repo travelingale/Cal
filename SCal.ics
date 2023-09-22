@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230925T122400
 DTEND:20230925T144200
-DESCRIPTION:-2.981ft at 12:24\n-2.963ft at 14:42
+DESCRIPTION:Clean morning window. However\, only small NW swell in the wat
+ er. Account the high tide mid morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
