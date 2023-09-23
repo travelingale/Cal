@@ -9,10 +9,13 @@ DESCRIPTION:Clean morning window. However\, only small NW swell in the wat
  er. Account the high tide mid morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20230926T123000
 DTEND:20230926T163000
-DESCRIPTION:-2.969ft at 12:30\n-2.942ft at 16:30
+DESCRIPTION:Day to watch. New WNW swell likely fills in. Still TBD on wind
+ /conditions but should end up being clean early at least\, and if they do 
+ cooperate it'll probably be the best day so far of the very young NPAC sea
+ son. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
