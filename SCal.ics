@@ -12,16 +12,17 @@ BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20230926T123000
 DTEND:20230926T163000
-DESCRIPTION:Day to watch. New WNW swell likely fills in. Still TBD on wind
- /conditions but should end up being clean early at least\, and if they do 
- cooperate it'll probably be the best day so far of the very young NPAC sea
- son. 
+DESCRIPTION:Confidence increasing for strong surf off building/peaking WNW
+  swell (and a small SW swell). Wind looks generally light/favorable and it
+  will likely be the largest/best day of the week. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20230927T125400
 DTEND:20230927T175400
-DESCRIPTION:-2.984ft at 12:54\n-2.936ft at 17:54
+DESCRIPTION:Wind looks pretty good and we should still have good size but 
+ decreasing surf (WNW swell primary and well secondary SW swell mixing in).
+  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
