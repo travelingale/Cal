@@ -6,35 +6,42 @@ SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230925T122400
 DTEND:20230925T144200
 DESCRIPTION:Clean morning window. However\, only small NW swell in the wat
- er. Account the high tide mid morning.
+ er. Account the high tide mid morning. Look for surf to build a bit late i
+ n the day as new NW swell fills in ahead of a Tue PM peak. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20230926T123000
 DTEND:20230926T163000
-DESCRIPTION:Confidence increasing for strong surf off building/peaking WNW
-  swell (and a small SW swell). Wind looks generally light/favorable and it
-  will likely be the largest/best day of the week. 
+DESCRIPTION:Surf picks up quoite a bit and will be fairly solid off buildi
+ ng/peaking WNW swell (and a small SW swell). Wind looks generally light/fa
+ vorable and it will likely be the largest/best day of the week (PM looks b
+ iggest/best wind). 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230927T125400
 DTEND:20230927T175400
-DESCRIPTION:Wind looks pretty good and we should still have good size but 
- decreasing surf (WNW swell primary and well secondary SW swell mixing in).
-  
+DESCRIPTION:Wind looks favorable and we should still have good size but de
+ creasing surf (WNW swell primary and well secondary SW swell mixing in). 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20230928T070600
 DTEND:20230928T073600
-DESCRIPTION:-2.266ft at 07:06\n-2.940ft at 07:36
+DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
+ r/mid period NW swell and some SW swell. Wind looks lighest/most favorable
+  through the first half of the day. Could see breezy sideshore WNW wind in
+  the afternoon. \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20230928T133000
 DTEND:20230928T185400
-DESCRIPTION:-2.938ft at 13:30\n-2.629ft at 18:54
+DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
+ r/mid period NW swell and some SW swell. Wind looks lighest/most favorable
+  through the first half of the day. Could see breezy sideshore WNW wind in
+  the afternoon. \n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -101,5 +108,11 @@ SUMMARY:OST
 DTSTART:20231004T180000
 DTEND:20231004T184200
 DESCRIPTION:-2.989ft at 18:00\n-2.260ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231008T131200
+DTEND:20231008T134800
+DESCRIPTION:-2.997ft at 13:12\n-2.996ft at 13:48
 END:VEVENT
 END:VCALENDAR
