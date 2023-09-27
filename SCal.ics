@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
-DTSTART:20230926T123000
-DTEND:20230926T163000
-DESCRIPTION:Surf picks up quite a bit and will be fairly solid off buildin
- g/peaking WNW swell (and a small SW swell). Wind looks generally light/fav
- orable and it will likely be the largest/best day of the week (PM looks bi
- ggest/best wind). 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20230927T125400
 DTEND:20230927T175400
@@ -27,7 +18,7 @@ DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
   the afternoon. \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230928T133000
 DTEND:20230928T185400
 DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
@@ -52,16 +43,20 @@ DESCRIPTION:Looking like it'll be semi jumbled\, easing NW swell mix on ta
  inds also likely cooperating. Good morning tide push. \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230930T070600
 DTEND:20230930T081200
-DESCRIPTION:-1.661ft at 07:06\n-2.935ft at 08:12
+DESCRIPTION:Getting small but still rideable off mainly shorter period NW 
+ swell and a little easing SW swell. NW wind will likely increase. Stay tun
+ ed. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230930T144800
 DTEND:20230930T184800
-DESCRIPTION:-2.956ft at 14:48\n-0.245ft at 18:48
+DESCRIPTION:Getting small but still rideable off mainly shorter period NW 
+ swell and a little easing SW swell. NW wind will likely increase. Stay tun
+ ed. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -116,5 +111,11 @@ SUMMARY:OST
 DTSTART:20231009T123600
 DTEND:20231009T155400
 DESCRIPTION:-2.973ft at 12:36\n-2.977ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231010T124200
+DTEND:20231010T170600
+DESCRIPTION:-2.940ft at 12:42\n-2.964ft at 17:06
 END:VEVENT
 END:VCALENDAR
