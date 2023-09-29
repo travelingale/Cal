@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20230928T070600
-DTEND:20230928T073600
-DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
- r/mid period NW swell and some SW swell. Wind looks lighest/most favorable
-  through the first half of the day. \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230928T133000
-DTEND:20230928T185400
-DESCRIPTION:Smaller but likely still fun to maybe mid size surf off shorte
- r/mid period NW swell and some SW swell. Wind looks lighest/most favorable
-  through the first half of the day. \n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230929T070600
 DTEND:20230929T075400
@@ -66,16 +50,18 @@ DESCRIPTION:Smaller surf with mainly short period NW swell running - most
  ze through the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231002T070600
 DTEND:20231002T084200
-DESCRIPTION:-2.087ft at 07:06\n-2.986ft at 08:42
+DESCRIPTION:Small to start out the week. Clean throughout the morning\, bu
+ t bring down a bigger board.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231002T161800
 DTEND:20231002T184800
-DESCRIPTION:-2.947ft at 16:18\n-0.282ft at 18:48
+DESCRIPTION:Small to start out the week. Clean throughout the morning\, bu
+ t bring down a bigger board.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -118,5 +104,11 @@ SUMMARY:OST
 DTSTART:20231011T125400
 DTEND:20231011T180600
 DESCRIPTION:-2.938ft at 12:54\n-2.963ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231012T131200
+DTEND:20231012T183000
+DESCRIPTION:-2.935ft at 13:12\n-2.530ft at 18:30
 END:VEVENT
 END:VCALENDAR
