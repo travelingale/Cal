@@ -3,35 +3,17 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230929T070600
-DTEND:20230929T075400
-DESCRIPTION:Looking like it'll be semi jumbled\, easing NW swell mix on ta
- p (and still a bit of SW). Decent/fun size possible for the morning with w
- inds also likely cooperating. Good morning tide push. \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20230929T140600
-DTEND:20230929T185400
-DESCRIPTION:Looking like it'll be semi jumbled\, easing NW swell mix on ta
- p (and still a bit of SW). Decent/fun size possible for the morning with w
- inds also likely cooperating. Good morning tide push. \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230930T070600
 DTEND:20230930T081200
 DESCRIPTION:Getting small but still rideable off mainly shorter period NW 
- swell and a little easing SW swell. NW wind will likely increase. Stay tun
- ed. 
+ swell and a little easing SW swell. NW wind will likely increase. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20230930T144800
 DTEND:20230930T184800
 DESCRIPTION:Getting small but still rideable off mainly shorter period NW 
- swell and a little easing SW swell. NW wind will likely increase. Stay tun
- ed. 
+ swell and a little easing SW swell. NW wind will likely increase. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -64,16 +46,18 @@ DESCRIPTION:Small to start out the week. Clean throughout the morning\, bu
  t bring down a bigger board.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231003T070600
 DTEND:20231003T084200
-DESCRIPTION:-2.620ft at 07:06\n-2.973ft at 08:42
+DESCRIPTION:Lully\, but new\, long-period WNW swell fills in. Might be fun
+  morning as the tide pushes. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231003T170600
 DTEND:20231003T184800
-DESCRIPTION:-2.980ft at 17:06\n-1.106ft at 18:48
+DESCRIPTION:Lully\, but new\, long-period WNW swell fills in. Might be fun
+  morning as the tide pushes. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +94,11 @@ SUMMARY:OST
 DTSTART:20231012T131200
 DTEND:20231012T183000
 DESCRIPTION:-2.935ft at 13:12\n-2.530ft at 18:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231013T133600
+DTEND:20231013T183000
+DESCRIPTION:-2.903ft at 13:36\n-1.757ft at 18:30
 END:VEVENT
 END:VCALENDAR
