@@ -19,15 +19,18 @@ BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231010T124200
 DTEND:20231010T170600
-DESCRIPTION:We should start to see an increase in surf. Forecast confidenc
- e is still pretty low and dependent on storm activity in Gulf of Alaska. E
- xpect more size by end of day.
+DESCRIPTION:We should start to see an increase in surf gradually through t
+ he day. New NW swell starts to pick up\, especially for the later afternoo
+ n/evening hours. Favorably angled SW swell also slowly builds. Breezy NW w
+ ind in PM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231011T125400
 DTEND:20231011T180600
-DESCRIPTION:-2.938ft at 12:54\n-2.963ft at 18:06
+DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) is increasin
+ gly likely\, strongest in the afternoon/evening. Probably light wind to st
+ art the day\, with breezy NW wind in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
