@@ -3,40 +3,37 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231008T131200
-DTEND:20231008T134800
-DESCRIPTION:Similar to Saturday. Slow morning on the high tide. Might be b
- est to wait till late morning. Small blend of NW and SSW swells.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231009T123600
 DTEND:20231009T155400
-DESCRIPTION:Small to start new week. Touch more SSW swell showing but inco
- nsistent.
+DESCRIPTION:Small but rideable at the better breaks in town (more protecte
+ d spots really slow\, especially around the high tides). SSW swell eases a
+ nd mixes with couple other small NW/SW swells. Late AM/early PM window on 
+ the lower tide prob best. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231010T124200
 DTEND:20231010T170600
 DESCRIPTION:We should start to see an increase in surf gradually through t
  he day. New NW swell starts to pick up\, especially for the later afternoo
- n/evening hours. Favorably angled SW swell also slowly builds. Breezy NW w
- ind in PM. 
+ n/evening hours. Small but favorably angled SW swell also slowly builds. B
+ reezy NW wind in PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231011T125400
 DTEND:20231011T180600
-DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) is increasin
- gly likely\, strongest in the afternoon/evening. Probably light wind to st
- art the day\, with breezy NW wind in the afternoon. 
+DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) is likely\, 
+ strongest in the afternoon/evening. Probably light wind to start the day\,
+  with breezy NW wind in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231012T131200
 DTEND:20231012T183000
-DESCRIPTION:-2.935ft at 13:12\n-2.530ft at 18:30
+DESCRIPTION:Favorable/offshore NE wind likely returns -- at least in the m
+ orning. Fun to mid size surf  continues off WNW swell mix and a little SW 
+ swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
