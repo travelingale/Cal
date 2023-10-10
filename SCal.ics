@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231009T123600
-DTEND:20231009T155400
-DESCRIPTION:Small but rideable at the better breaks in town (more protecte
- d spots really slow\, especially around the high tides). SSW swell eases a
- nd mixes with couple other small NW/SW swells. Late AM/early PM window on 
- the lower tide prob best. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231010T124200
 DTEND:20231010T170600
 DESCRIPTION:We should start to see an increase in surf gradually through t
@@ -36,10 +27,12 @@ DESCRIPTION:Favorable/offshore NE wind likely returns -- at least in the m
  swell. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231013T133600
 DTEND:20231013T183000
-DESCRIPTION:-2.903ft at 13:36\n-1.757ft at 18:30
+DESCRIPTION:Favorable wind likely continues -- at least in the morning. Fu
+ n WNW swell leftovers and a bit of SW/S swell with a nice tide push all mo
+ rning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -76,5 +69,11 @@ SUMMARY:OST
 DTSTART:20231019T170600
 DTEND:20231019T182400
 DESCRIPTION:-2.992ft at 17:06\n-1.612ft at 18:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231023T115400
+DTEND:20231023T132400
+DESCRIPTION:-2.980ft at 11:54\n-2.977ft at 13:24
 END:VEVENT
 END:VCALENDAR
