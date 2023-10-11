@@ -2,43 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231010T124200
-DTEND:20231010T170600
-DESCRIPTION:We should start to see an increase in surf gradually through t
- he day. New NW swell starts to pick up\, especially for the later afternoo
- n/evening hours. Small but favorably angled SW swell also slowly builds. B
- reezy NW wind in PM. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231011T125400
 DTEND:20231011T180600
-DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) is likely\, 
- strongest in the afternoon/evening. Probably light wind to start the day\,
-  with breezy NW wind in the afternoon. 
+DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) on tap\, str
+ ongest in the afternoon/evening. Light wind to start the day\, with breezy
+  NW wind in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231012T131200
 DTEND:20231012T183000
-DESCRIPTION:Favorable/offshore NE wind likely returns -- at least in the m
- orning. Fun to mid size surf  continues off WNW swell mix and a little SW 
- swell. 
+DESCRIPTION:Favorable/offshore NE wind -- at least in the morning. Fun to 
+ mid size surf continues off WNW swell mix and a little SW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231013T133600
 DTEND:20231013T183000
-DESCRIPTION:Favorable wind likely continues -- at least in the morning. Fu
- n WNW swell leftovers and a bit of SW/S swell with a nice tide push all mo
- rning.
+DESCRIPTION:Favorable wind continues -- at least in the morning. Fun WNW s
+ well leftovers and a bit of SW/S swell with a nice tide push all morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231014T140000
 DTEND:20231014T183000
-DESCRIPTION:-2.924ft at 14:00\n-1.047ft at 18:30
+DESCRIPTION:Small'ish/fun surf off a mix of leftover WNW swell and buildin
+ g SSW swell AM. Light/favorable wind looks possible. Surf may start to reb
+ uild a bit in the PM as a new NW swell fills in. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -75,5 +66,11 @@ SUMMARY:OST
 DTSTART:20231023T115400
 DTEND:20231023T132400
 DESCRIPTION:-2.980ft at 11:54\n-2.977ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231024T113600
+DTEND:20231024T154800
+DESCRIPTION:-2.986ft at 11:36\n-2.951ft at 15:48
 END:VEVENT
 END:VCALENDAR
