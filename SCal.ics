@@ -3,18 +3,10 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20231011T125400
-DTEND:20231011T180600
-DESCRIPTION:Fun to mid size WNW swell (and a bit of SW swell) on tap\, str
- ongest in the afternoon/evening. Light wind to start the day\, with breezy
-  NW wind in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231012T131200
 DTEND:20231012T183000
 DESCRIPTION:Favorable/offshore NE wind -- at least in the morning. Fun to 
- mid size surf continues off WNW swell mix and a little SW swell. 
+ mid size surf continues off NW swell mix and a little SW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
@@ -28,14 +20,16 @@ SUMMARY:3 - 4ft: Fair
 DTSTART:20231014T140000
 DTEND:20231014T183000
 DESCRIPTION:Small'ish/fun surf off a mix of leftover WNW swell and buildin
- g SSW swell AM. Light/favorable wind looks possible. Surf may start to reb
- uild a bit in the PM as a new NW swell fills in. Stay tuned. 
+ g SSW swell. Light/favorable wind looks possible. New NW swell mix moves i
+ n midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231015T143000
 DTEND:20231015T183000
-DESCRIPTION:-2.893ft at 14:30\n-0.502ft at 18:30
+DESCRIPTION:Day to watch. Another fun day off a mix of mid period NW swell
+ \, holding to slow easing SSW swell and new\, long-period NW swell buildin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -72,5 +66,11 @@ SUMMARY:OST
 DTSTART:20231024T113600
 DTEND:20231024T154800
 DESCRIPTION:-2.986ft at 11:36\n-2.951ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231025T120000
+DTEND:20231025T172400
+DESCRIPTION:-2.926ft at 12:00\n-2.956ft at 17:24
 END:VEVENT
 END:VCALENDAR
