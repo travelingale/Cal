@@ -2,27 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231013T133600
-DTEND:20231013T183000
-DESCRIPTION:Favorable wind continues -- at least in the morning. Fun WNW s
- well leftovers and a bit of SW/S swell with a nice tide push all morning.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231014T140000
 DTEND:20231014T183000
-DESCRIPTION:Small'ish/fun surf off a mix of leftover WNW swell and buildin
- g SSW swell. Light/favorable wind looks to continue - at least in morning.
-  New NW swell mix moves in midday - more size by afternoon.
+DESCRIPTION:Small'ish/fun surf early off a mix of leftover WNW swell and b
+ uilding SSW swell. Light/favorable wind looks to continue - at least in mo
+ rning. New NW swell mix moves in midday - more size by afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231015T143000
 DTEND:20231015T183000
-DESCRIPTION:Day to watch. Another fun day off a mix of mid period NW swell
- \, holding to slow easing SSW swell and new\, long-period NW swell buildin
- g.
+DESCRIPTION:Fun. Another fun day off a mix of mid period NW swell\, holdin
+ g to slow easing SSW swell and new\, long-period NW swell building.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -33,10 +25,12 @@ DESCRIPTION:Groomed conditions in morning\, along with a favorable tide pu
  period SSW swell also mixes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231017T153600
 DTEND:20231017T182400
-DESCRIPTION:-2.941ft at 15:36\n-0.323ft at 18:24
+DESCRIPTION:Wind should remain favorable -- at least in the morning. Fun W
+ NW swell continues\, with a ideal tide push all morning. Secondary\, longe
+ r-period SSW swell also mixes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -73,5 +67,11 @@ SUMMARY:OST
 DTSTART:20231026T123000
 DTEND:20231026T181200
 DESCRIPTION:-2.904ft at 12:30\n-2.387ft at 18:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231027T130000
+DTEND:20231027T181200
+DESCRIPTION:-2.992ft at 13:00\n-1.015ft at 18:12
 END:VEVENT
 END:VCALENDAR
