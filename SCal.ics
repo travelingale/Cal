@@ -2,29 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231015T143000
-DTEND:20231015T183000
-DESCRIPTION:Fun. Another nice day off a mix of mid-period NW swell\, holdi
- ng to slow easing SSW swell and new\, long-period NW swell building. Work 
- around the late AM high tide\, early AM push and mid-afternoon dip look mo
- st favorable. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231016T150000
 DTEND:20231016T183000
 DESCRIPTION:Clean conditions in morning\, along with a favorable tide push
-  to start week. Fun mix of long and mid-period WNW swells. New\, longer-pe
- riod SSW swell also mixes in.
+  to start the week. Fun mix of long and mid-period WNW swells. New\, long-
+ period SSW swell also mixes in. PM window a good option once the tide dips
+ \, allowing for better shape.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231017T153600
 DTEND:20231017T182400
-DESCRIPTION:Wind should remain favorable -- at least in the morning. Fun W
- NW swell continues\, with a ideal tide push all morning. Secondary\, longe
- r-period SSW swell also mixes in.
+DESCRIPTION:Wind forecast improving\, looking to stay light for the PM tid
+ e drop. Fun WNW swell continues\, with an okay tide push for the early win
+ dow. Secondary\, longer-period SSW swell also mixes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -36,10 +28,12 @@ DESCRIPTION:Last day before it gets big. Favorable wind through the mornin
  n\, too.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:6 - 8ft: Fair
 DTSTART:20231019T170600
 DTEND:20231019T182400
-DESCRIPTION:-2.992ft at 17:06\n-1.612ft at 18:24
+DESCRIPTION:Big day. Confidence is increasing for a very solid day of wave
+ s as powerful WNW swell slams the coast. At the moment\, wind is looking f
+ avorable but only a day for the experts/big-wave aficionados.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -76,5 +70,11 @@ SUMMARY:OST
 DTSTART:20231028T134200
 DTEND:20231028T160000
 DESCRIPTION:-2.868ft at 13:42\n-0.018ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231029T141800
+DTEND:20231029T163000
+DESCRIPTION:-2.938ft at 14:18\n-0.006ft at 16:30
 END:VEVENT
 END:VCALENDAR
