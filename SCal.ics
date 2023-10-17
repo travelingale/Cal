@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20231016T150000
-DTEND:20231016T183000
-DESCRIPTION:Clean conditions in morning\, along with a favorable tide push
-  to start the week. Fun mix of long and mid-period WNW swells. New\, long-
- period SSW swell also mixes in. PM window a good option once the tide dips
- \, allowing for better shape.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231017T153600
 DTEND:20231017T182400
@@ -31,9 +22,9 @@ BEGIN:VEVENT
 SUMMARY:6 - 8ft: Fair
 DTSTART:20231019T170600
 DTEND:20231019T182400
-DESCRIPTION:Big day. Confidence is increasing for a very solid day of wave
- s as powerful WNW swell slams the coast. At the moment\, wind is looking f
- avorable but only a day for the experts/big-wave aficionados.
+DESCRIPTION:Big day. Very solid day of waves as powerful WNW swell slams t
+ he coast. At the moment\, wind is looking favorable but only a day for the
+  experts/big-wave aficionados.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -76,5 +67,11 @@ SUMMARY:OST
 DTSTART:20231029T141800
 DTEND:20231029T163000
 DESCRIPTION:-2.938ft at 14:18\n-0.006ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231030T150000
+DTEND:20231030T171200
+DESCRIPTION:-2.899ft at 15:00\n-0.020ft at 17:12
 END:VEVENT
 END:VCALENDAR
