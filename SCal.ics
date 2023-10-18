@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231017T153600
-DTEND:20231017T182400
-DESCRIPTION:Wind forecast improving\, looking to stay light for the PM tid
- e drop. Fun WNW swell continues\, with an okay tide push for the early win
- dow. Secondary\, longer-period SSW swell also mixes in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20231018T161800
 DTEND:20231018T182400
 DESCRIPTION:Last day before it gets big. Favorable wind through the mornin
@@ -73,5 +65,11 @@ SUMMARY:OST
 DTSTART:20231030T150000
 DTEND:20231030T171200
 DESCRIPTION:-2.899ft at 15:00\n-0.020ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231031T154200
+DTEND:20231031T180600
+DESCRIPTION:-2.909ft at 15:42\n-0.029ft at 18:06
 END:VEVENT
 END:VCALENDAR
