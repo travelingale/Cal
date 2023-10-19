@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231018T161800
-DTEND:20231018T182400
-DESCRIPTION:Last day before it gets big. Favorable wind through the mornin
- g\, and fun WNW swell lingers to slowly eases. Secondary\, longer-period S
- SW swell also mixes in. New\, long-period WNW swell forerunners creeping i
- n\, too.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
+SUMMARY:5 - 7ft: Fair to good
 DTSTART:20231019T170600
 DTEND:20231019T182400
-DESCRIPTION:Big day. Very solid day of waves as powerful WNW swell slams t
- he coast. At the moment\, wind is looking favorable but only a day for the
-  experts/big-wave aficionados.
+DESCRIPTION:Big day. Very solid day of waves as powerful WNW swell peaks m
+ idday. Hot weather\, clean conditions but only a day for the experts/big-w
+ ave aficionados.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -71,5 +62,11 @@ SUMMARY:OST
 DTSTART:20231031T154200
 DTEND:20231031T180600
 DESCRIPTION:-2.909ft at 15:42\n-0.029ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231101T162400
+DTEND:20231101T180600
+DESCRIPTION:-2.970ft at 16:24\n-0.971ft at 18:06
 END:VEVENT
 END:VCALENDAR
