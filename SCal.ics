@@ -5,21 +5,22 @@ BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231023T115400
 DTEND:20231023T132400
-DESCRIPTION:Wind looks favorable and there's some new NW swell wrapping in
- to town (more mid-period energy). Fun SSW swell lingers.
+DESCRIPTION:New\, mid to shorter-period NW swell-mix pulses in. Likely to 
+ see breezy NNW-NW winds come with it. Jumbled surf. Fun SSW swell holds.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231024T113600
 DTEND:20231024T154800
 DESCRIPTION:Wind looks favorable and NW swell (more mid-period energy) con
- tinues. Fun SSW swell lingers.
+ tinues. SSW swell starts to ease.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231025T120000
 DTEND:20231025T172400
-DESCRIPTION:-2.926ft at 12:00\n-2.956ft at 17:24
+DESCRIPTION:Wind looks favorable and NW swell (more mid-period energy) con
+ tinues. SSW swell starts to ease.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
