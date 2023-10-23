@@ -5,28 +5,30 @@ BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231023T115400
 DTEND:20231023T132400
-DESCRIPTION:New\, mid to shorter-period NW swell-mix pulses in. Likely to 
- see breezy NNW-NW winds come with it. Jumbled surf. Fun SSW swell holds.
+DESCRIPTION:Fun-size SSW swell hangs in there\, but starts to ease. New bu
+ t modest mid to shorter-period NW swell-mix builds in. Offshore wind in th
+ e AM\, then going light/variable for town.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231024T113600
 DTEND:20231024T154800
-DESCRIPTION:Wind looks favorable and NW swell (more mid-period energy) con
- tinues. SSW swell starts to ease.
+DESCRIPTION:Modest mix of old/easing SW-SSW swell and NW swell-mix. Favora
+ ble wind to prevail for town.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1 - 2ft: Poor to fair
+DTSTART:20231025T120000
+DTEND:20231025T172400
+DESCRIPTION:Modest mix of old/easing SW-SSW swell and NW swell-mix. Favora
+ ble wind to prevail for town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231025T120000
-DTEND:20231025T172400
-DESCRIPTION:Wind looks favorable and NW swell (more mid-period energy) con
- tinues. SSW swell starts to ease.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20231026T123000
 DTEND:20231026T181200
-DESCRIPTION:-2.904ft at 12:30\n-2.387ft at 18:12
+DESCRIPTION:Modest SSW swell continues to lap in with waist occasional bel
+ ly-chest high sets for top Southern Hemi spots. Likely to be lully.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
