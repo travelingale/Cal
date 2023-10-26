@@ -2,25 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231024T113600
-DTEND:20231024T154800
-DESCRIPTION:Modest mix of old/easing SW-SSW swell and NW swell-mix. Favora
- ble wind to prevail for town.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231025T120000
-DTEND:20231025T172400
-DESCRIPTION:Modest mix of old/easing SW-SSW swell and NW swell-mix. Favora
- ble wind to prevail for town.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231026T123000
 DTEND:20231026T181200
 DESCRIPTION:Modest SSW swell continues to lap in with waist occasional bel
- ly-chest high sets for top Southern Hemi spots. Likely to be lully.
+ ly-chest high sets for top Southern Hemi spots. Likely to be lully. Again\
+ , slow in morning on high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -30,16 +17,19 @@ DESCRIPTION:Another meager day for surf overall. Long-period SW swell fore
  runners creeping in. Keep an eye on long period magnets later in the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair to good
 DTSTART:20231028T134200
 DTEND:20231028T160000
-DESCRIPTION:-2.868ft at 13:42\n-0.018ft at 16:00
+DESCRIPTION:New SW swell builds in further -- Fun-size for top Southern He
+ mi spots of the region. Watching for rebuild of shorter period NW swell\, 
+ along with NW wind -- so not looking so great
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231029T141800
 DTEND:20231029T163000
-DESCRIPTION:-2.938ft at 14:18\n-0.006ft at 16:30
+DESCRIPTION:Holding SW-SSW swell with modest NW swell wrap mixing in. Favo
+ rable conditions looking likely
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -70,5 +60,17 @@ SUMMARY:OST
 DTSTART:20231106T105400
 DTEND:20231106T132400
 DESCRIPTION:-2.984ft at 10:54\n-2.985ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231107T104200
+DTEND:20231107T151800
+DESCRIPTION:-2.983ft at 10:42\n-2.998ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231108T105400
+DTEND:20231108T163000
+DESCRIPTION:-2.945ft at 10:54\n-2.945ft at 16:30
 END:VEVENT
 END:VCALENDAR
