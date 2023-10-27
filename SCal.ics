@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231026T123000
-DTEND:20231026T181200
-DESCRIPTION:Modest SSW swell continues to lap in with waist occasional bel
- ly-chest high sets for top Southern Hemi spots. Likely to be lully. Again\
- , slow in morning on high tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231027T130000
 DTEND:20231027T181200
 DESCRIPTION:Another meager day for surf overall. Long-period SW swell fore
@@ -21,21 +13,22 @@ SUMMARY:4 - 5ft: Fair to good
 DTSTART:20231028T134200
 DTEND:20231028T160000
 DESCRIPTION:New SW swell builds in further -- Fun-size for top Southern He
- mi spots of the region. Watching for rebuild of shorter period NW swell\, 
- along with NW wind -- so not looking so great
+ mi spots of the region. Dawn Patrol tide push fun but likely best later in
+  the day as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231029T141800
 DTEND:20231029T163000
-DESCRIPTION:Holding SW-SSW swell with modest NW swell wrap mixing in. Favo
- rable conditions looking likely
+DESCRIPTION:Fun day as longer-period SW-SSW swell peaks. Again\, key in on
+  the early morning tide push or wait till afternoon as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231030T150000
 DTEND:20231030T171200
-DESCRIPTION:-2.899ft at 15:00\n-0.020ft at 17:12
+DESCRIPTION:Fun early morning window on the tide push. SSW swell lingers w
+ hile a new pulse builds underneath.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -72,5 +65,11 @@ SUMMARY:OST
 DTSTART:20231108T105400
 DTEND:20231108T163000
 DESCRIPTION:-2.945ft at 10:54\n-2.945ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231109T111200
+DTEND:20231109T170000
+DESCRIPTION:-2.912ft at 11:12\n-2.537ft at 17:00
 END:VEVENT
 END:VCALENDAR
