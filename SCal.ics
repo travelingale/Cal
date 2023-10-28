@@ -2,14 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20231027T130000
-DTEND:20231027T181200
-DESCRIPTION:Another meager day for surf overall. Long-period SW swell fore
- runners creeping in. Keep an eye on long period magnets later in the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231028T134200
 DTEND:20231028T160000
 DESCRIPTION:New SW swell builds in further -- Fun-size for top Southern He
@@ -31,10 +24,11 @@ DESCRIPTION:Fun early morning window on the tide push. SSW swell lingers w
  hile a new pulse builds underneath.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231031T154200
 DTEND:20231031T180600
-DESCRIPTION:-2.909ft at 15:42\n-0.029ft at 18:06
+DESCRIPTION:Almost a copy from Monday. Fun little SSW swell on tap\, along
+  with a nice tide push all morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -71,5 +65,11 @@ SUMMARY:OST
 DTSTART:20231109T111200
 DTEND:20231109T170000
 DESCRIPTION:-2.912ft at 11:12\n-2.537ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231110T113000
+DTEND:20231110T170000
+DESCRIPTION:-2.954ft at 11:30\n-1.723ft at 17:00
 END:VEVENT
 END:VCALENDAR
