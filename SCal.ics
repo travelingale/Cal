@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20231028T134200
-DTEND:20231028T160000
-DESCRIPTION:New SW swell builds in further -- Fun-size for top Southern He
- mi spots of the region. Dawn Patrol tide push fun but likely best later in
-  the day as tide drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
 DTSTART:20231029T141800
 DTEND:20231029T163000
 DESCRIPTION:Fun day as longer-period SW-SSW swell peaks. Again\, key in on
@@ -31,10 +23,11 @@ DESCRIPTION:Almost a copy from Monday. Fun little SSW swell on tap\, along
   with a nice tide push all morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231101T162400
 DTEND:20231101T180600
-DESCRIPTION:-2.970ft at 16:24\n-0.971ft at 18:06
+DESCRIPTION:Last pulse of SW/SSW swell fills in to keep surf kinda fun. AM
+  window best at spots that don't mind a medium-higher tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -71,5 +64,11 @@ SUMMARY:OST
 DTSTART:20231110T113000
 DTEND:20231110T170000
 DESCRIPTION:-2.954ft at 11:30\n-1.723ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231111T115400
+DTEND:20231111T170000
+DESCRIPTION:-2.962ft at 11:54\n-0.891ft at 17:00
 END:VEVENT
 END:VCALENDAR
