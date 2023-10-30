@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20231029T141800
-DTEND:20231029T163000
-DESCRIPTION:Fun day as longer-period SW-SSW swell peaks. Again\, key in on
-  the early morning tide push or wait till afternoon as tide drops.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231030T150000
 DTEND:20231030T171200
@@ -30,10 +23,12 @@ DESCRIPTION:Last pulse of SW/SSW swell fills in to keep surf kinda fun. AM
   window best at spots that don't mind a medium-higher tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231102T171200
 DTEND:20231102T180600
-DESCRIPTION:-2.972ft at 17:12\n-2.013ft at 18:06
+DESCRIPTION:Broken record... Nice AM window with clean conditions and tide
+  push. SSW swell lingers. Watching for some new WNW/NW swell to show in th
+ e PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -70,5 +65,11 @@ SUMMARY:OST
 DTSTART:20231111T115400
 DTEND:20231111T170000
 DESCRIPTION:-2.962ft at 11:54\n-0.891ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231112T122400
+DTEND:20231112T152400
+DESCRIPTION:-2.916ft at 12:24\n-0.011ft at 15:24
 END:VEVENT
 END:VCALENDAR
