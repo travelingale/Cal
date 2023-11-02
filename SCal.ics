@@ -3,18 +3,10 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231101T162400
-DTEND:20231101T180600
-DESCRIPTION:Last pulse of SW/SSW swell in this run keeps surf kinda fun. A
- M window best at spots that don't mind a medium-higher tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20231102T171200
 DTEND:20231102T180600
 DESCRIPTION:Broken record... Nice AM window with clean conditions and tide
-  push. SSW swell lingers. Watching for some new WNW/NW swell to show in th
- e PM. 
+  push. SSW swell lingers. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -81,5 +73,11 @@ SUMMARY:OST
 DTSTART:20231116T145400
 DTEND:20231116T165400
 DESCRIPTION:-2.953ft at 14:54\n-0.444ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231117T154200
+DTEND:20231117T165400
+DESCRIPTION:-2.989ft at 15:42\n-1.485ft at 16:54
 END:VEVENT
 END:VCALENDAR
