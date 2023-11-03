@@ -3,16 +3,11 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231102T171200
-DTEND:20231102T180600
-DESCRIPTION:Broken record... Nice AM window with clean conditions and tide
-  push. SSW swell lingers. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20231106T105400
 DTEND:20231106T132400
-DESCRIPTION:-2.984ft at 10:54\n-2.985ft at 13:24
+DESCRIPTION:WNW swell easing but may see a new pulse late in the day. Some
+  new SW/SSW swell mixing in as well. Best around mid to later morning as t
+ ide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
