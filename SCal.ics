@@ -7,19 +7,19 @@ DTSTART:20231106T105400
 DTEND:20231106T132400
 DESCRIPTION:WNW swell easing but still fun throughout the day. Best around
   mid to later morning as tide drops. Next swell builds in through Monday n
- ight. Favorable conditions. 
+ ight. Light conditions in the AM but surf is likely a bit funky.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231107T104200
 DTEND:20231107T151800
-DESCRIPTION:Light wind and clean conditions. Stronger\, medium sized WNW s
- well due. Tide is a little high early\, but shape only improves through th
- e morning as it drops. Note new\, long-period SW swell building in (second
- ary). Favorable conditions. 
+DESCRIPTION:Light offshore wind and clean. Stronger\, medium sized WNW swe
+ ll due. Tide is a little high early\, but shape only improves through the 
+ morning as it drops. Note new\, long-period SW swell building in (secondar
+ y). 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231108T105400
 DTEND:20231108T163000
 DESCRIPTION:Tide is a little high early but plenty of size as respectable 
@@ -27,10 +27,11 @@ DESCRIPTION:Tide is a little high early but plenty of size as respectable
  oves by later morning as tide drops. Favorable conditions. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231109T111200
 DTEND:20231109T170000
-DESCRIPTION:-2.912ft at 11:12\n-2.537ft at 17:00
+DESCRIPTION:Easing WNW swell all day so most size in morning\, just let ti
+ de drop a bit. Favorable conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -79,5 +80,11 @@ SUMMARY:OST
 DTSTART:20231117T154200
 DTEND:20231117T165400
 DESCRIPTION:-2.989ft at 15:42\n-1.485ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231121T094200
+DTEND:20231121T134800
+DESCRIPTION:-2.949ft at 09:42\n-2.950ft at 13:48
 END:VEVENT
 END:VCALENDAR
