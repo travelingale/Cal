@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20231107T104200
-DTEND:20231107T151800
-DESCRIPTION:Light offshore wind and clean. Stronger\, medium sized WNW swe
- ll due. Tide is a little high early\, but shape only improves through the 
- morning as it drops. Note new\, long-period SW swell building in (secondar
- y). 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231108T105400
 DTEND:20231108T163000
@@ -33,10 +24,11 @@ DESCRIPTION:May see favorable wind conditions again. New WNW swell schedul
  ed to build through the day\, biggest late. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231111T115400
 DTEND:20231111T170000
-DESCRIPTION:-2.962ft at 11:54\n-0.891ft at 17:00
+DESCRIPTION:Watching for a new/sizable WNW swell to show for the day\, and
+  possibly with favorable local conditions. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -85,5 +77,11 @@ SUMMARY:OST
 DTSTART:20231122T100000
 DTEND:20231122T154800
 DESCRIPTION:-2.964ft at 10:00\n-2.941ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231123T103000
+DTEND:20231123T165400
+DESCRIPTION:-2.954ft at 10:30\n-2.578ft at 16:54
 END:VEVENT
 END:VCALENDAR
