@@ -2,39 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231108T105400
-DTEND:20231108T163000
-DESCRIPTION:Tide is a little high early but plenty of size as respectable 
- WNW swell starts to ease some. Secondary SW/SSW swell mixes in. Shape impr
- oves by later morning as tide drops. Favorable conditions. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231109T111200
 DTEND:20231109T170000
 DESCRIPTION:Easing WNW swell all day so most size in morning\, just let ti
- de drop a bit. Favorable conditions. 
+ de drop a bit. Favorable conditions in morning trend weak onshore midday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231110T113000
 DTEND:20231110T170000
-DESCRIPTION:May see favorable wind conditions again. New WNW swell schedul
- ed to build through the day\, biggest late. Stay tuned.
+DESCRIPTION:Favorable wind conditions continue. New WNW swell scheduled to
+  build through the day\, biggest late. Look for focal points to see overhe
+ ad+ sets before day wraps up.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231111T115400
 DTEND:20231111T170000
-DESCRIPTION:Watching for a new/sizable WNW swell to show for the day\, and
-  possibly with favorable local conditions. Stay tuned.
+DESCRIPTION:Medium WNW swell to show for the day\, and with favorable loca
+ l conditions. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231112T122400
 DTEND:20231112T152400
-DESCRIPTION:-2.916ft at 12:24\n-0.011ft at 15:24
+DESCRIPTION:Size may simmer some compared to Saturday but still in the fun
+ -zone and conditions may remain favorable. Watching for a new round of WNW
+  swell to build through the PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -83,5 +78,17 @@ SUMMARY:OST
 DTSTART:20231123T103000
 DTEND:20231123T165400
 DESCRIPTION:-2.954ft at 10:30\n-2.578ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231124T110600
+DTEND:20231124T140600
+DESCRIPTION:-2.897ft at 11:06\n-0.005ft at 14:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231124T150000
+DTEND:20231124T164800
+DESCRIPTION:-0.003ft at 15:00\n-1.192ft at 16:48
 END:VEVENT
 END:VCALENDAR
