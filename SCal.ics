@@ -3,28 +3,21 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231109T111200
-DTEND:20231109T170000
-DESCRIPTION:Easing WNW swell all day so most size in morning\, just let ti
- de drop a bit. Favorable conditions in morning trend weak onshore midday. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231110T113000
 DTEND:20231110T170000
-DESCRIPTION:Favorable wind conditions continue. New WNW swell scheduled to
-  build through the day\, biggest late. Look for focal points to see overhe
- ad+ sets before day wraps up.
+DESCRIPTION:Favorable wind conditions continue. New NW swell scheduled to 
+ build through the day\, biggest late. Look for focal points to see overhea
+ d sets before day wraps up.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231111T115400
 DTEND:20231111T170000
-DESCRIPTION:Medium WNW swell to show for the day\, and with favorable loca
- l conditions. 
+DESCRIPTION:Medium NW swell to show for the day\, and with favorable local
+  conditions. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231112T122400
 DTEND:20231112T152400
 DESCRIPTION:Size may simmer some compared to Saturday but still in the fun
@@ -32,10 +25,11 @@ DESCRIPTION:Size may simmer some compared to Saturday but still in the fun
   swell to build through the PM.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231113T125400
 DTEND:20231113T152400
-DESCRIPTION:-2.948ft at 12:54\n-0.057ft at 15:24
+DESCRIPTION:Nice size WNW swell rolls into new week\, however\, wind looks
+  suspect. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -90,5 +84,11 @@ SUMMARY:OST
 DTSTART:20231124T150000
 DTEND:20231124T164800
 DESCRIPTION:-0.003ft at 15:00\n-1.192ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231125T114200
+DTEND:20231125T135400
+DESCRIPTION:-2.884ft at 11:42\n-0.034ft at 13:54
 END:VEVENT
 END:VCALENDAR
