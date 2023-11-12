@@ -2,23 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20231111T115400
-DTEND:20231111T170000
-DESCRIPTION:Medium NW swell to show for the day\, and with favorable local
-  conditions. The tide is high in morning so entering/exiting the water may
-  be sketchy -- Use caution. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231112T122400
 DTEND:20231112T152400
 DESCRIPTION:Size may simmer a touch compared to Saturday but still nice si
- ze and conditions remain favorable. Second round of NW swell keeps surf el
+ ze and conditions mainly favorable. Second round of NW swell keeps surf el
  evated.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231113T125400
 DTEND:20231113T152400
 DESCRIPTION:Nice size NW swell rolls into new week. May see southerly flow
@@ -26,17 +18,18 @@ DESCRIPTION:Nice size NW swell rolls into new week. May see southerly flow
  light.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231114T133000
 DTEND:20231114T155400
 DESCRIPTION:Points may be textured from E wind\, but looks light at least 
  in morning. Easing NW swell through the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20231115T141200
 DTEND:20231115T163000
-DESCRIPTION:-2.889ft at 14:12\n-0.049ft at 16:30
+DESCRIPTION:Points may be textured from E wind\, but looks light at least 
+ in morning. Chance of precipitation. Fun NW swell leftovers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -91,5 +84,11 @@ SUMMARY:OST
 DTSTART:20231126T121800
 DTEND:20231126T141800
 DESCRIPTION:-2.908ft at 12:18\n-0.061ft at 14:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231127T125400
+DTEND:20231127T145400
+DESCRIPTION:-2.961ft at 12:54\n-0.069ft at 14:54
 END:VEVENT
 END:VCALENDAR
