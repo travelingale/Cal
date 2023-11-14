@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231113T125400
-DTEND:20231113T152400
-DESCRIPTION:Nice size NW swell rolls into new week. Clean early window wit
- h some southerly wind likely showing as the tide drops in the afternoon. L
- ooks light enough to keep conditions manageable\, if not still pretty clea
- n.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231114T133000
 DTEND:20231114T155400
 DESCRIPTION:Confidence increasing the points will be textured by easterly 
@@ -20,7 +11,7 @@ DESCRIPTION:Confidence increasing the points will be textured by easterly
  ble. Easing NW swell. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231115T141200
 DTEND:20231115T163000
 DESCRIPTION:Easterly wind again expected in the morning and this time arou
@@ -38,10 +29,13 @@ DESCRIPTION:Easterly wind again expected\, back to only causing problems f
   up\, offers a better window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231117T154200
 DTEND:20231117T165400
-DESCRIPTION:-2.989ft at 15:42\n-1.485ft at 16:54
+DESCRIPTION:Easterly wind is likely still around for textured conditions b
+ ut at least looks manageable at this point. Chance of precipitation. Much 
+ smaller surf with old/modest NW swell. Most spots go flat by late morning 
+ on high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -96,5 +90,11 @@ SUMMARY:OST
 DTSTART:20231128T133600
 DTEND:20231128T153600
 DESCRIPTION:-2.879ft at 13:36\n-0.101ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231129T141200
+DTEND:20231129T163000
+DESCRIPTION:-2.967ft at 14:12\n-0.044ft at 16:30
 END:VEVENT
 END:VCALENDAR
