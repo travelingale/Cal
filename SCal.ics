@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231114T133000
-DTEND:20231114T155400
-DESCRIPTION:Confidence increasing the points will be textured by easterly 
- wind in the morning. Conditions improve through the afternoon as the wind 
- slowly clocks westward -- still textured into the evening but more managea
- ble. Easing NW swell. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231115T141200
 DTEND:20231115T163000
-DESCRIPTION:Easterly wind again expected in the morning and this time arou
- nd looks to be more problematic into the afternoon\, staying stronger and 
- out of the E/SE. NW swell dipping to smaller leftovers with shorter-period
-  S/SSW swell in the mix. 
+DESCRIPTION:Easterly wind again expected in the morning\, likely trending 
+ light/variable by afternoon\, and possibly cleaner. WNW swell lingering an
+ d showing most size in morning\, with shorter-period S/SSW swell in the mi
+ x. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -96,5 +87,11 @@ SUMMARY:OST
 DTSTART:20231129T141200
 DTEND:20231129T163000
 DESCRIPTION:-2.967ft at 14:12\n-0.044ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231130T145400
+DTEND:20231130T164800
+DESCRIPTION:-2.931ft at 14:54\n-0.650ft at 16:48
 END:VEVENT
 END:VCALENDAR
