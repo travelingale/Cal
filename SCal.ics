@@ -3,20 +3,11 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231116T145400
-DTEND:20231116T165400
-DESCRIPTION:Easterly wind again expected\, back to only causing problems f
- or the morning. Much smaller surf with old/modest NW swell. Most spots go 
- flat by late AM on high tide. PM tide drop cleans up\, offers a better win
- dow.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231117T154200
 DTEND:20231117T165400
-DESCRIPTION:Easterly wind is likely still around for textured conditions b
- ut at least looks manageable at this point. Much smaller surf with old/mod
- est NW swell. Most spots go flat by late morning on high tide.
+DESCRIPTION:Semi-clean\, jumbled conditions but at least looks manageable 
+ at this point. Long-period S swell builds in but most spots struggle on la
+ te morning high tide. Afternoon tide drop worth a look.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -89,5 +80,11 @@ SUMMARY:OST
 DTSTART:20231201T153600
 DTEND:20231201T164800
 DESCRIPTION:-2.919ft at 15:36\n-1.589ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231202T161800
+DTEND:20231202T164800
+DESCRIPTION:-2.923ft at 16:18\n-2.444ft at 16:48
 END:VEVENT
 END:VCALENDAR
