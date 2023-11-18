@@ -2,18 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231117T154200
-DTEND:20231117T165400
-DESCRIPTION:Semi-clean\, jumbled conditions but at least looks manageable 
- at this point. Long-period S swell builds in but most spots struggle on la
- te morning high tide. Afternoon tide drop worth a look.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231121T094200
 DTEND:20231121T134800
-DESCRIPTION:-2.949ft at 09:42\n-2.950ft at 13:48
+DESCRIPTION:Favorable wind continues in morning\, along with a favorable d
+ ropping tide. Easing NW swell through the day as secondary\, long-period S
+ W-SSW swell peaks.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
