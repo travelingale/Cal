@@ -10,7 +10,7 @@ DESCRIPTION:Favorable wind continues in morning\, along with a favorable d
  W-SSW swell peaks.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231122T100000
 DTEND:20231122T154800
 DESCRIPTION:Favorable wind continues\, along with a optimal dropping tide 
@@ -18,10 +18,12 @@ DESCRIPTION:Favorable wind continues\, along with a optimal dropping tide
  ig. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231123T103000
 DTEND:20231123T165400
-DESCRIPTION:-2.954ft at 10:30\n-2.578ft at 16:54
+DESCRIPTION:Potential fun morning of waves before the feast. Shape improve
+ s at the points through late morning as tide drops. Nothing big but fun mi
+ x of WNW-NW swells.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -82,5 +84,11 @@ SUMMARY:OST
 DTSTART:20231202T161800
 DTEND:20231202T164800
 DESCRIPTION:-2.923ft at 16:18\n-2.444ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231205T094200
+DTEND:20231205T132400
+DESCRIPTION:-2.996ft at 09:42\n-2.973ft at 13:24
 END:VEVENT
 END:VCALENDAR
