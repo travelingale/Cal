@@ -26,16 +26,20 @@ DESCRIPTION:Potential fun morning of waves before the feast. Shape improve
  x of WNW-NW swells.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231124T110600
 DTEND:20231124T140600
-DESCRIPTION:-2.897ft at 11:06\n-0.005ft at 14:06
+DESCRIPTION:Favorable wind looking likely as ridge of high pressure builds
+  over region. Surf is jumbly from primary shorter-period NW swell but new\
+ , long-period WNW swell forerunners blend in underneath.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231124T150000
 DTEND:20231124T164800
-DESCRIPTION:-0.003ft at 15:00\n-1.192ft at 16:48
+DESCRIPTION:Favorable wind looking likely as ridge of high pressure builds
+  over region. Surf is jumbly from primary shorter-period NW swell but new\
+ , long-period WNW swell forerunners blend in underneath.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -90,5 +94,11 @@ SUMMARY:OST
 DTSTART:20231205T094200
 DTEND:20231205T132400
 DESCRIPTION:-2.996ft at 09:42\n-2.973ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231206T094800
+DTEND:20231206T153600
+DESCRIPTION:-2.976ft at 09:48\n-2.969ft at 15:36
 END:VEVENT
 END:VCALENDAR
