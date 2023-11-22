@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231121T094200
-DTEND:20231121T134800
-DESCRIPTION:Favorable wind continues in morning\, along with a favorable d
- ropping tide. Easing NW swell through the day as secondary\, long-period S
- W-SSW swell peaks.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231122T100000
 DTEND:20231122T154800
@@ -42,10 +34,12 @@ DESCRIPTION:Favorable wind looking likely as ridge of high pressure builds
  , long-period WNW swell forerunners blend in underneath.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231125T114200
 DTEND:20231125T135400
-DESCRIPTION:-2.884ft at 11:42\n-0.034ft at 13:54
+DESCRIPTION:Day to target for building & potentially strong surf with good
+  power. Conditions/wind looks favorable at this point. Increasing and good
+  odds for Sat/Sun to see the biggest/best surf of week. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -100,5 +94,11 @@ SUMMARY:OST
 DTSTART:20231206T094800
 DTEND:20231206T153600
 DESCRIPTION:-2.976ft at 09:48\n-2.969ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231207T100600
+DTEND:20231207T164800
+DESCRIPTION:-2.946ft at 10:06\n-2.832ft at 16:48
 END:VEVENT
 END:VCALENDAR
