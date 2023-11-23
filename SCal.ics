@@ -3,22 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231122T100000
-DTEND:20231122T154800
-DESCRIPTION:Favorable wind continues\, along with a optimal dropping tide 
- through the morning. New WNW swell builds and looks fun but not all that b
- ig. 
+DTSTART:20231123T103000
+DTEND:20231123T165400
+DESCRIPTION:Fun morning of waves before the feast. Shape improves at the p
+ oints through late morning as tide drops. Nothing big but fun mix of WNW-N
+ W swells.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231123T103000
-DTEND:20231123T165400
-DESCRIPTION:Potential fun morning of waves before the feast. Shape improve
- s at the points through late morning as tide drops. Nothing big but fun mi
- x of WNW-NW swells.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231124T110600
 DTEND:20231124T140600
 DESCRIPTION:Favorable wind looking likely as ridge of high pressure builds
@@ -42,10 +34,12 @@ DESCRIPTION:Day to target for building & potentially strong surf with good
   odds for Sat/Sun to see the biggest/best surf of week. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20231126T121800
 DTEND:20231126T141800
-DESCRIPTION:-2.908ft at 12:18\n-0.061ft at 14:18
+DESCRIPTION:Looks like it should be a clean day with good size. powerful s
+ urf. Probably slowly backing down through the day (but solid all day). Sta
+ y tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -100,5 +94,11 @@ SUMMARY:OST
 DTSTART:20231207T100600
 DTEND:20231207T164800
 DESCRIPTION:-2.946ft at 10:06\n-2.832ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231208T102400
+DTEND:20231208T164800
+DESCRIPTION:-2.995ft at 10:24\n-2.143ft at 16:48
 END:VEVENT
 END:VCALENDAR
