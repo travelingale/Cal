@@ -2,41 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20231127T125400
-DTEND:20231127T145400
-DESCRIPTION:Favorable AM wind carries into new week. Size down another peg
-  as NW swell eases further. Midday tide drop may be nice option\, although
-  expect some onshore texture. Small SW swell mixing in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231128T133600
 DTEND:20231128T153600
-DESCRIPTION:Big high tide bogs the surf down most of morning. Expect onsho
- re texture as tide drops through afternoon. Old NW swell leftovers. Small 
- SW swell mixing in.
+DESCRIPTION:Big high tide bogs the surf down by mid morning. Expect onshor
+ e texture as tide drops through afternoon. Old NW swell leftovers. Small S
+ W swell mixing in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231129T141200
 DTEND:20231129T163000
-DESCRIPTION:Fun pop of mid-period WNW swell but conditions look dicey with
-  southerly wind all day. Small SW swell mixing in.
+DESCRIPTION:Fun pop of mid-period WNW-W swell but conditions look dicey wi
+ th E to SE wind all day. Small SW swell mixing in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231130T145400
 DTEND:20231130T164800
-DESCRIPTION:Better wind across the board. Easing WNW swell through the day
-  and unfortunately\, incoming high tide through the morning will have hand
- ful of spots go flat by mid-later morning.
+DESCRIPTION:Better wind across the board. Lingering W swell through the da
+ y and unfortunately\, incoming high tide through the morning will have han
+ dful of spots go flat by mid-later morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231201T153600
 DTEND:20231201T164800
-DESCRIPTION:-2.919ft at 15:36\n-1.589ft at 16:48
+DESCRIPTION:Light/decent in morning but head to spots that favor mid to hi
+ gher tide. Shorter-period NW swell mostly bypassing town but there's some 
+ new\, lully long-period NW swell filling in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -97,5 +91,11 @@ SUMMARY:OST
 DTSTART:20231212T123000
 DTEND:20231212T143600
 DESCRIPTION:-2.971ft at 12:30\n-0.043ft at 14:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231213T131200
+DTEND:20231213T151200
+DESCRIPTION:-2.922ft at 13:12\n-0.003ft at 15:12
 END:VEVENT
 END:VCALENDAR
