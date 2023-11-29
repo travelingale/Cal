@@ -3,21 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231128T133600
-DTEND:20231128T153600
-DESCRIPTION:Big high tide bogs the surf down by mid morning. Expect onshor
- e texture as tide drops through afternoon. Old NW swell leftovers. Small S
- W swell mixing in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231129T141200
 DTEND:20231129T163000
 DESCRIPTION:Fun pop of mid-period WNW-W swell but conditions look dicey wi
- th E to SE wind all day. Small SW swell mixing in.
+ th E to SE wind for the AM tide push. Small SW swell mixing in. Winds impr
+ ove for spots in town as the tide drops through the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231130T145400
 DTEND:20231130T164800
 DESCRIPTION:Better wind across the board. Lingering W swell through the da
@@ -33,10 +26,11 @@ DESCRIPTION:Light/decent in morning but head to spots that favor mid to hi
  new\, lully long-period NW swell filling in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231202T161800
 DTEND:20231202T164800
-DESCRIPTION:-2.923ft at 16:18\n-2.444ft at 16:48
+DESCRIPTION:Tides are high first half of day so keep an eye on afternoon w
+ indow as tide drops out. Mid to longer-period NW swell continues.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -97,5 +91,11 @@ SUMMARY:OST
 DTSTART:20231213T131200
 DTEND:20231213T151200
 DESCRIPTION:-2.922ft at 13:12\n-0.003ft at 15:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231214T135400
+DTEND:20231214T155400
+DESCRIPTION:-2.949ft at 13:54\n-0.004ft at 15:54
 END:VEVENT
 END:VCALENDAR
