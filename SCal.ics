@@ -3,19 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231129T141200
-DTEND:20231129T163000
-DESCRIPTION:Fun pop of mid-period WNW-W swell but conditions look dicey wi
- th E to SE wind for the AM tide push. Small SW swell mixing in. Winds impr
- ove for spots in town as the tide drops through the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231130T145400
 DTEND:20231130T164800
 DESCRIPTION:Better wind across the board. Lingering W swell through the da
  y and unfortunately\, incoming high tide through the morning will have han
- dful of spots go flat by mid-later morning.
+ dful of spots go flat by mid-later morning. Afternoon still a fun option\,
+  just expect a bit less size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -97,5 +90,11 @@ SUMMARY:OST
 DTSTART:20231214T135400
 DTEND:20231214T155400
 DESCRIPTION:-2.949ft at 13:54\n-0.004ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231215T144200
+DTEND:20231215T164200
+DESCRIPTION:-2.883ft at 14:42\n-0.036ft at 16:42
 END:VEVENT
 END:VCALENDAR
