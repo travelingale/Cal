@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231130T145400
-DTEND:20231130T164800
-DESCRIPTION:Better wind across the board. Lingering W swell through the da
- y and unfortunately\, incoming high tide through the morning will have han
- dful of spots go flat by mid-later morning. Afternoon still a fun option\,
-  just expect a bit less size.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231201T153600
 DTEND:20231201T164800
@@ -96,5 +87,11 @@ SUMMARY:OST
 DTSTART:20231215T144200
 DTEND:20231215T164200
 DESCRIPTION:-2.883ft at 14:42\n-0.036ft at 16:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231216T153000
+DTEND:20231216T164800
+DESCRIPTION:-2.868ft at 15:30\n-1.058ft at 16:48
 END:VEVENT
 END:VCALENDAR
