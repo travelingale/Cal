@@ -2,26 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231202T161800
-DTEND:20231202T164800
-DESCRIPTION:Tides are high first half of day so keep an eye on afternoon w
- indow as tide drops out -- surface conditions stay manageable in town for 
- the back half of the day. Mid to longer-period NW swell continues.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231205T094200
 DTEND:20231205T132400
-DESCRIPTION:NW swell mix continues for fun surf\, likely with a bit more p
- unch to it than Monday. Conditions looking nice at this point\, even with 
- the tide a bit deeper than ideal first thing\, improving into midday.
+DESCRIPTION:Medium size surf and clean conditions likely\, should be prett
+ y good on the dropping tide through the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:6 - 8ft: Fair
 DTSTART:20231206T094800
 DTEND:20231206T153600
-DESCRIPTION:-2.976ft at 09:48\n-2.969ft at 15:36
+DESCRIPTION:Strongest day of the week and it should be pumping as new\, lo
+ ng period NW swell builds to a peak. Wind looks light/variable\, could be 
+ a hint of south in it in the AMbut doesn't appear it will be strong enough
+  to be problematic. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -94,5 +88,11 @@ SUMMARY:OST
 DTSTART:20231217T161800
 DTEND:20231217T164800
 DESCRIPTION:-2.892ft at 16:18\n-2.268ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231218T074200
+DTEND:20231218T093000
+DESCRIPTION:-2.991ft at 07:42\n-2.980ft at 09:30
 END:VEVENT
 END:VCALENDAR
