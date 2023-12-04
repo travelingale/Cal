@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20231205T094200
 DTEND:20231205T132400
 DESCRIPTION:Medium size surf and clean conditions likely\, should be prett
@@ -14,14 +14,17 @@ DTSTART:20231206T094800
 DTEND:20231206T153600
 DESCRIPTION:Strongest day of the week and it should be pumping as new\, lo
  ng period NW swell builds to a peak. Wind looks light/variable\, could be 
- a hint of south in it in the AMbut doesn't appear it will be strong enough
-  to be problematic. Stay tuned. 
+ a hint of south in it in the AM - doesn't appear it will be problematic bu
+ t worth watching. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20231207T100600
 DTEND:20231207T164800
-DESCRIPTION:-2.946ft at 10:06\n-2.832ft at 16:48
+DESCRIPTION:Will be another pumping day of waves and conditions are lookin
+ g nice\, especially for the afternoon tide push. Deep high tide and light 
+ wind early. Offshore/NW wind is possible for spots in town through the bac
+ k half of the day.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -94,5 +97,11 @@ SUMMARY:OST
 DTSTART:20231218T074200
 DTEND:20231218T093000
 DESCRIPTION:-2.991ft at 07:42\n-2.980ft at 09:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231219T081200
+DTEND:20231219T122400
+DESCRIPTION:-2.953ft at 08:12\n-2.980ft at 12:24
 END:VEVENT
 END:VCALENDAR
