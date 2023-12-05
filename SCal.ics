@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231205T094200
 DTEND:20231205T132400
 DESCRIPTION:Medium size surf and clean conditions likely\, should be prett
  y good on the dropping tide through the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
+SUMMARY:6 - 8ft: Fair to good
 DTSTART:20231206T094800
 DTEND:20231206T153600
 DESCRIPTION:Strongest day of the week and it should be pumping as new\, lo
@@ -27,10 +27,13 @@ DESCRIPTION:Will be another pumping day of waves and conditions are lookin
  k half of the day.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231208T102400
 DTEND:20231208T164800
-DESCRIPTION:-2.995ft at 10:24\n-2.143ft at 16:48
+DESCRIPTION:Size likely down a peg or two but still plenty fun. Good day t
+ o target if Wed/Thu was too large for your taste. Slow on the high tide fi
+ rst thing but picking up by mid-morning and stay nice for the rest of the 
+ day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -103,5 +106,11 @@ SUMMARY:OST
 DTSTART:20231219T081200
 DTEND:20231219T122400
 DESCRIPTION:-2.953ft at 08:12\n-2.980ft at 12:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231220T084800
+DTEND:20231220T150000
+DESCRIPTION:-2.931ft at 08:48\n-2.999ft at 15:00
 END:VEVENT
 END:VCALENDAR
