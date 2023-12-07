@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
-DTSTART:20231206T094800
-DTEND:20231206T153600
-DESCRIPTION:Strongest day of the week and it should be pumping as new\, lo
- ng period NW swell builds to a peak. Wind looks light/variable\, could be 
- a hint of south in it in the AM - doesn't appear it will be problematic.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20231207T100600
 DTEND:20231207T164800
 DESCRIPTION:Will be another pumping day of waves and conditions are lookin
@@ -36,16 +28,18 @@ DESCRIPTION:Small'ish but still rideable - wind could be favorable (offsho
  oming tide. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T112400
 DTEND:20231210T141200
-DESCRIPTION:-2.890ft at 11:24\n-0.008ft at 14:12
+DESCRIPTION:Likely small but clean and rideable\, could see a slight bump 
+ up from Saturday as a new\, mid period NW pulse fills in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T160600
 DTEND:20231210T164800
-DESCRIPTION:-0.006ft at 16:06\n-0.424ft at 16:48
+DESCRIPTION:Likely small but clean and rideable\, could see a slight bump 
+ up from Saturday as a new\, mid period NW pulse fills in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -112,5 +106,11 @@ SUMMARY:OST
 DTSTART:20231221T092400
 DTEND:20231221T165400
 DESCRIPTION:-2.952ft at 09:24\n-2.956ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231222T100600
+DTEND:20231222T165400
+DESCRIPTION:-2.882ft at 10:06\n-1.939ft at 16:54
 END:VEVENT
 END:VCALENDAR
