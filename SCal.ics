@@ -2,50 +2,44 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
-DTSTART:20231207T100600
-DTEND:20231207T164800
-DESCRIPTION:Will be another pumping day of waves and conditions are lookin
- g nice\, especially for the afternoon tide push. Deep high tide and light 
- wind early. Offshore/NW wind is possible for spots in town through the bac
- k half of the day.\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231208T102400
 DTEND:20231208T164800
-DESCRIPTION:Size likely down a peg or two but still plenty fun. Good day t
- o target if Wed/Thu was too large for your taste. Slow on the high tide fi
- rst thing but picking up by mid-morning and stay nice for the rest of the 
- day.
+DESCRIPTION:Size down a peg or two but still plenty fun. Good day to targe
+ t if Wed/Thu was too large for your taste. Slow on the high tide first thi
+ ng but picking up by mid-morning and stay nice for the rest of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231209T105400
 DTEND:20231209T164800
-DESCRIPTION:Small'ish but still rideable - wind could be favorable (offsho
- re NE). Probably best either later morning or the afternoon on the low/inc
- oming tide. 
+DESCRIPTION:Small'ish but still fun zone - wind will be favorable (offshor
+ e NE). Probably best either later morning or the afternoon on the low/inco
+ ming tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T112400
 DTEND:20231210T141200
-DESCRIPTION:Likely small but clean and rideable\, could see a slight bump 
- up from Saturday as a new\, mid period NW pulse fills in. 
+DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
+ e later in day and slight bump in  new\, mid period NW pulse fills in offe
+ rs nice window. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T160600
 DTEND:20231210T164800
-DESCRIPTION:Likely small but clean and rideable\, could see a slight bump 
- up from Saturday as a new\, mid period NW pulse fills in. 
+DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
+ e later in day and slight bump in  new\, mid period NW pulse fills in offe
+ rs nice window. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231211T115400
 DTEND:20231211T141200
-DESCRIPTION:-2.954ft at 11:54\n-0.050ft at 14:12
+DESCRIPTION:Bouncy and slow through the morning high tide. The surf improv
+ es late morning into midday as tide drops. Mid to shorter-period NW swell 
+ lingers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -112,5 +106,17 @@ SUMMARY:OST
 DTSTART:20231222T100600
 DTEND:20231222T165400
 DESCRIPTION:-2.882ft at 10:06\n-1.939ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231223T104200
+DTEND:20231223T130600
+DESCRIPTION:-2.943ft at 10:42\n-0.055ft at 13:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231223T160000
+DTEND:20231223T165400
+DESCRIPTION:-0.057ft at 16:00\n-0.811ft at 16:54
 END:VEVENT
 END:VCALENDAR
