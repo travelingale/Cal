@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231208T102400
-DTEND:20231208T164800
-DESCRIPTION:Size down a peg or two but still plenty fun. Good day to targe
- t if Wed/Thu was too large for your taste. Slow on the high tide first thi
- ng but picking up by mid-morning and stay nice for the rest of the day.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231209T105400
 DTEND:20231209T164800
-DESCRIPTION:Small'ish but still fun zone - wind will be favorable (offshor
- e NE). Probably best either later morning or the afternoon on the low/inco
- ming tide. 
+DESCRIPTION:Slow early on deep high tide. Small'ish but still fun zone - w
+ ind will be favorable (offshore NE). Probably best either later morning or
+  the afternoon on the low/incoming tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -34,7 +26,7 @@ DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
  rs nice window. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231211T115400
 DTEND:20231211T141200
 DESCRIPTION:Bouncy and slow through the morning high tide. The surf improv
@@ -42,10 +34,12 @@ DESCRIPTION:Bouncy and slow through the morning high tide. The surf improv
  lingers.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231212T123000
 DTEND:20231212T143600
-DESCRIPTION:-2.971ft at 12:30\n-0.043ft at 14:36
+DESCRIPTION:Barely breaking early morning on high tide. Wait till late mor
+ ning into midday as tide drops. Potential small-fun waves off mid-period W
+ NW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -118,5 +112,11 @@ SUMMARY:OST
 DTSTART:20231223T160000
 DTEND:20231223T165400
 DESCRIPTION:-0.057ft at 16:00\n-0.811ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231224T112400
+DTEND:20231224T133000
+DESCRIPTION:-2.865ft at 11:24\n-0.032ft at 13:30
 END:VEVENT
 END:VCALENDAR
