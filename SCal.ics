@@ -3,27 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231209T105400
-DTEND:20231209T164800
-DESCRIPTION:Slow early on deep high tide. Small'ish but still fun zone - w
- ind will be favorable (offshore NE). Probably best either later morning or
-  the afternoon on the low/incoming tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T112400
 DTEND:20231210T141200
 DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
- e later in day and slight bump in  new\, mid period NW pulse fills in offe
- rs nice window. 
+ e later in day and slight bump in new\, mid period NW pulse fills in offer
+ s nice afternoon window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231210T160600
 DTEND:20231210T164800
 DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
- e later in day and slight bump in  new\, mid period NW pulse fills in offe
- rs nice window. 
+ e later in day and slight bump in new\, mid period NW pulse fills in offer
+ s nice afternoon window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -42,10 +34,11 @@ DESCRIPTION:Barely breaking early morning on high tide. Wait till late mor
  NW swell. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231213T131200
 DTEND:20231213T151200
-DESCRIPTION:-2.922ft at 13:12\n-0.003ft at 15:12
+DESCRIPTION:Smallest day of week. Flat on AM high tide\, then marginally r
+ ideable midday as tide drops. Low expectations.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -118,5 +111,11 @@ SUMMARY:OST
 DTSTART:20231224T112400
 DTEND:20231224T133000
 DESCRIPTION:-2.865ft at 11:24\n-0.032ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231225T120000
+DTEND:20231225T140000
+DESCRIPTION:-2.932ft at 12:00\n-0.087ft at 14:00
 END:VEVENT
 END:VCALENDAR
