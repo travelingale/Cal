@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231210T112400
-DTEND:20231210T141200
-DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
- e later in day and slight bump in new\, mid period NW pulse fills in offer
- s nice afternoon window.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231210T160600
-DTEND:20231210T164800
-DESCRIPTION:Small and slow in morning on high tide but clean. Dropping tid
- e later in day and slight bump in new\, mid period NW pulse fills in offer
- s nice afternoon window.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231211T115400
 DTEND:20231211T141200
 DESCRIPTION:Bouncy and slow through the morning high tide. The surf improv
@@ -41,10 +25,13 @@ DESCRIPTION:Smallest day of week. Flat on AM high tide\, then marginally r
  ideable midday as tide drops. Low expectations.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231214T135400
 DTEND:20231214T155400
-DESCRIPTION:-2.949ft at 13:54\n-0.004ft at 15:54
+DESCRIPTION:More energy. Head to spots that do OK with high tide most of m
+ orning. Most spots improve later in day as tide recedes. New\, long-period
+  WNW swell fills in and likely peaks in afternoon. Watching winds\, could 
+ be textured from AM easterlies. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -117,5 +104,11 @@ SUMMARY:OST
 DTSTART:20231225T120000
 DTEND:20231225T140000
 DESCRIPTION:-2.932ft at 12:00\n-0.087ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231226T123600
+DTEND:20231226T144200
+DESCRIPTION:-2.988ft at 12:36\n-0.022ft at 14:42
 END:VEVENT
 END:VCALENDAR
