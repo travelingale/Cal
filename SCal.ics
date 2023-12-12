@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231211T115400
-DTEND:20231211T141200
-DESCRIPTION:Bouncy and slow through the morning high tide. The surf improv
- es late morning into midday as tide drops. Mid to shorter-period NW swell 
- lingers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231212T123000
 DTEND:20231212T143600
 DESCRIPTION:Barely breaking early morning on high tide. Wait till late mor
@@ -25,7 +17,7 @@ DESCRIPTION:Smallest day of week. Flat on AM high tide\, then marginally r
  ideable midday as tide drops. Low expectations.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231214T135400
 DTEND:20231214T155400
 DESCRIPTION:More energy. Head to spots that do OK with high tide most of m
@@ -34,10 +26,11 @@ DESCRIPTION:More energy. Head to spots that do OK with high tide most of m
  be textured from AM easterlies. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231215T144200
 DTEND:20231215T164200
-DESCRIPTION:-2.883ft at 14:42\n-0.036ft at 16:42
+DESCRIPTION:Watching winds\, could be textured from AM easterlies. Good ti
+ de push through early morning\, and most size. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +103,11 @@ SUMMARY:OST
 DTSTART:20231226T123600
 DTEND:20231226T144200
 DESCRIPTION:-2.988ft at 12:36\n-0.022ft at 14:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231227T131800
+DTEND:20231227T152400
+DESCRIPTION:-2.877ft at 13:18\n-0.027ft at 15:24
 END:VEVENT
 END:VCALENDAR
