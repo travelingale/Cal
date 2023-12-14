@@ -3,22 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231213T131200
-DTEND:20231213T151200
-DESCRIPTION:Smallest day of week. Flat on AM high tide\, then marginally r
- ideable midday as tide drops. Low expectations.
+DTSTART:20231214T135400
+DTEND:20231214T155400
+DESCRIPTION:More energy but slow in morning. Most spots improve later in d
+ ay as tide recedes. New\, long-period WNW swell fills in through PM. May s
+ ee some surface texture 2nd half of day but manageable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231214T135400
-DTEND:20231214T155400
-DESCRIPTION:More energy. Head to spots that do OK with high tide most of m
- orning. Most spots improve later in day as tide recedes. New\, long-period
-  WNW swell fills in. May see some surface texture 2nd half of day but mana
- geable.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231215T144200
 DTEND:20231215T164200
 DESCRIPTION:Most clean at Dawn Patrol\, along with good tide push through 
@@ -26,7 +18,7 @@ DESCRIPTION:Most clean at Dawn Patrol\, along with good tide push through
  ll lingers.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231216T153000
 DTEND:20231216T164800
 DESCRIPTION:Size is down a peg but a reinforcing round of WNW swell helps 
@@ -35,10 +27,12 @@ DESCRIPTION:Size is down a peg but a reinforcing round of WNW swell helps
  ps.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231217T161800
 DTEND:20231217T164800
-DESCRIPTION:-2.892ft at 16:18\n-2.268ft at 16:48
+DESCRIPTION:Jumbled mix of lingering WNW swell and shorter-period SW swell
+  from a storm off the coast. Easterly wind could again make for unwanted s
+ urface texture. Overall it looks like a funky day of waves.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -111,5 +105,11 @@ SUMMARY:OST
 DTSTART:20231228T135400
 DTEND:20231228T160600
 DESCRIPTION:-2.896ft at 13:54\n-0.087ft at 16:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231229T143000
+DTEND:20231229T165400
+DESCRIPTION:-2.891ft at 14:30\n-0.110ft at 16:54
 END:VEVENT
 END:VCALENDAR
