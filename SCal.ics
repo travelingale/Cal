@@ -3,19 +3,11 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231214T135400
-DTEND:20231214T155400
-DESCRIPTION:More energy but slow in morning. Most spots improve later in d
- ay as tide recedes. New\, long-period WNW swell fills in through PM. May s
- ee some surface texture 2nd half of day but manageable.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231215T144200
 DTEND:20231215T164200
-DESCRIPTION:Most clean at Dawn Patrol\, along with good tide push through 
- early morning. Wind is light in afternoon as tide drops\, too. Fun WNW swe
- ll lingers.
+DESCRIPTION:Good tide push through early morning but head to spots that do
+ n't mind incoming high tide. Wind is light/variable in afternoon as tide d
+ rops\, too. Fun mix of WNW swells in the water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -35,10 +27,11 @@ DESCRIPTION:Jumbled mix of lingering WNW swell and shorter-period SW swell
  urface texture. Overall it looks like a funky day of waves.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231218T074200
 DTEND:20231218T093000
-DESCRIPTION:-2.991ft at 07:42\n-2.980ft at 09:30
+DESCRIPTION:Funky start to the new week with shorter-period WSW/W swells +
+  increasing S wind. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -111,5 +104,11 @@ SUMMARY:OST
 DTSTART:20231229T143000
 DTEND:20231229T165400
 DESCRIPTION:-2.891ft at 14:30\n-0.110ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231230T150000
+DTEND:20231230T170000
+DESCRIPTION:-2.978ft at 15:00\n-0.778ft at 17:00
 END:VEVENT
 END:VCALENDAR
