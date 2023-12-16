@@ -2,42 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20231215T144200
-DTEND:20231215T164200
-DESCRIPTION:Good tide push through early morning but head to spots that do
- n't mind incoming high tide. Wind is light/variable in afternoon as tide d
- rops\, too. Fun mix of WNW swells in the water.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231216T153000
 DTEND:20231216T164800
-DESCRIPTION:Size is down a peg but a reinforcing round of WNW swell helps 
- keep it from dropping too much\, leveling off midday. Early window is fun 
- before high tide\, shape gets better through the afternoon as the tide dro
- ps.
+DESCRIPTION:New round of WNW swell keeps plenty of surf in water for weeke
+ nd. Early window is fun before midday high tide\, the shape gets better th
+ rough the afternoon as the tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231217T161800
 DTEND:20231217T164800
 DESCRIPTION:Jumbled mix of lingering WNW swell and shorter-period SW swell
-  from a storm off the coast. Easterly wind could again make for unwanted s
- urface texture. Overall it looks like a funky day of waves.
+  from a storm off the coast. May be a little funky early with E wind but s
+ hould overall be semi-clean.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231218T074200
 DTEND:20231218T093000
 DESCRIPTION:Funky start to the new week with shorter-period WSW/W swells +
   increasing S wind. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231219T081200
 DTEND:20231219T122400
-DESCRIPTION:-2.953ft at 08:12\n-2.980ft at 12:24
+DESCRIPTION:S wind likely an issue -- stay tuned. Jumbled mix of W/WNW swe
+ lls in the water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +102,11 @@ SUMMARY:OST
 DTSTART:20231230T150000
 DTEND:20231230T170000
 DESCRIPTION:-2.978ft at 15:00\n-0.778ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20231231T153600
+DTEND:20231231T170000
+DESCRIPTION:-2.923ft at 15:36\n-1.543ft at 17:00
 END:VEVENT
 END:VCALENDAR
