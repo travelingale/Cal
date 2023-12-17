@@ -2,23 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20231216T153000
-DTEND:20231216T164800
-DESCRIPTION:New round of WNW swell keeps plenty of surf in water for weeke
- nd. Early window is fun before midday high tide\, the shape gets better th
- rough the afternoon as the tide drops.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231217T161800
 DTEND:20231217T164800
 DESCRIPTION:Jumbled mix of lingering WNW swell and shorter-period SW swell
   from a storm off the coast. May be a little funky early with E wind but s
- hould overall be semi-clean.
+ hould be semi- to mostly-clean overall.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231218T074200
 DTEND:20231218T093000
 DESCRIPTION:Funky start to the new week with shorter-period WSW/W swells +
@@ -32,10 +24,11 @@ DESCRIPTION:S wind likely an issue -- stay tuned. Jumbled mix of W/WNW swe
  lls in the water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231220T084800
 DTEND:20231220T150000
-DESCRIPTION:-2.931ft at 08:48\n-2.999ft at 15:00
+DESCRIPTION:Potential sizeable shot of WNW swell. Wind uncertain at the mo
+ ment -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -108,5 +101,17 @@ SUMMARY:OST
 DTSTART:20231231T153600
 DTEND:20231231T170000
 DESCRIPTION:-2.923ft at 15:36\n-1.543ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240101T072400
+DTEND:20240101T083600
+DESCRIPTION:-2.955ft at 07:24\n-2.993ft at 08:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240101T160000
+DTEND:20240101T170000
+DESCRIPTION:-2.984ft at 16:00\n-2.199ft at 17:00
 END:VEVENT
 END:VCALENDAR
