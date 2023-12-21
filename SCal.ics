@@ -2,23 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
-DTSTART:20231220T084800
-DTEND:20231220T150000
-DESCRIPTION:Sizeable shot of WNW swell. Wind looks to still be an issue th
- rough the morning. Will likely improve through the end of the day but the 
- surf will take some time to clean up after days of southerly wind.
+SUMMARY:2 - 3ft: Poor to fair
+DTSTART:20231221T092400
+DTEND:20231221T165400
+DESCRIPTION:Good AM window... Easing WNW swell but offshore wind will retu
+ rn\, setting up groomed clean surf with the dropping tide through the morn
+ ing.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20231221T092400
-DTEND:20231221T165400
-DESCRIPTION:Good AM window... Easing WNW swell but offshore wind will like
- ly return\, setting up groomed clean surf with the dropping tide through t
- he morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231222T100600
 DTEND:20231222T165400
 DESCRIPTION:Slow early from pre-dawn high tide. Dropping tide through the 
@@ -26,24 +18,26 @@ DESCRIPTION:Slow early from pre-dawn high tide. Dropping tide through the
  ay.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20231223T104200
 DTEND:20231223T130600
-DESCRIPTION:Fun zone blend of WNW/NW swells could creep back up through th
- e day. Wind and conditions could be ok.
+DESCRIPTION:Fun zone blend of WNW/NW swells creep back up through the day.
+  Wind and conditions could be ok.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231223T160000
 DTEND:20231223T165400
-DESCRIPTION:Fun zone blend of WNW/NW swells could creep back up through th
- e day. Wind and conditions could be ok.
+DESCRIPTION:Fun zone blend of WNW/NW swells creep back up through the day.
+  Wind and conditions could be ok.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231224T112400
 DTEND:20231224T133000
-DESCRIPTION:-2.865ft at 11:24\n-0.032ft at 13:30
+DESCRIPTION:Another good size pulse of WNW swell will potentially top out 
+ overnight and hold decent size in the morning before easing through the da
+ y. Wind looks favorable. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -122,5 +116,11 @@ SUMMARY:OST
 DTSTART:20240104T083000
 DTEND:20240104T170000
 DESCRIPTION:-2.978ft at 08:30\n-2.892ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240105T090000
+DTEND:20240105T170000
+DESCRIPTION:-2.991ft at 09:00\n-2.603ft at 17:00
 END:VEVENT
 END:VCALENDAR
