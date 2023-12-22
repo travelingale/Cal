@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20231221T092400
-DTEND:20231221T165400
-DESCRIPTION:Good AM window... Easing WNW swell but offshore wind will retu
- rn\, setting up groomed clean surf with the dropping tide through the morn
- ing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20231222T100600
 DTEND:20231222T165400
 DESCRIPTION:Slow early from pre-dawn high tide. Dropping tide through the 
@@ -18,32 +10,32 @@ DESCRIPTION:Slow early from pre-dawn high tide. Dropping tide through the
  ay.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20231223T104200
 DTEND:20231223T130600
-DESCRIPTION:Fun zone blend of WNW/NW swells creep back up through the day.
-  Wind and conditions could be ok.
+DESCRIPTION:Fun zone blend of WNW/NW swells back up for the day. Tide is h
+ igh early but wind is light all day so plenty of opportunity to get wet.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20231223T160000
 DTEND:20231223T165400
-DESCRIPTION:Fun zone blend of WNW/NW swells creep back up through the day.
-  Wind and conditions could be ok.
+DESCRIPTION:Fun zone blend of WNW/NW swells back up for the day. Tide is h
+ igh early but wind is light all day so plenty of opportunity to get wet.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20231224T112400
 DTEND:20231224T133000
-DESCRIPTION:Another good size pulse of WNW swell will potentially top out 
- overnight and hold decent size in the morning before easing through the da
- y. Wind looks favorable. 
+DESCRIPTION:Longer-period WNW swell will top out early and hold decent siz
+ e most of day before easing through the end of day. Wind looks favorable. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20231225T120000
 DTEND:20231225T140000
-DESCRIPTION:-2.932ft at 12:00\n-0.087ft at 14:00
+DESCRIPTION:Longer-period WNW swell will top out early and hold decent siz
+ e most of day before easing through the end of day. Wind looks favorable. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -122,5 +114,11 @@ SUMMARY:OST
 DTSTART:20240105T090000
 DTEND:20240105T170000
 DESCRIPTION:-2.991ft at 09:00\n-2.603ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240106T093600
+DTEND:20240106T170600
+DESCRIPTION:-2.946ft at 09:36\n-2.121ft at 17:06
 END:VEVENT
 END:VCALENDAR
