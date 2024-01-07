@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:8 - 10ft: Fair to good
-DTSTART:20240106T093600
-DTEND:20240106T170600
-DESCRIPTION:Solid shot of WNW swell continues. Know your limits kind of da
- y. Cleanest early\, wind picking up but doesn't look too bad out of the W 
- in the afternoon for some extra texture in town. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240107T101200
 DTEND:20240107T133000
 DESCRIPTION:Slowed by the dawn patrol high tide\, then better shape as the
@@ -19,7 +11,7 @@ DESCRIPTION:Slowed by the dawn patrol high tide\, then better shape as the
  like the window. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240107T145400
 DTEND:20240107T170600
 DESCRIPTION:Slowed by the dawn patrol high tide\, then better shape as the
@@ -53,10 +45,13 @@ DESCRIPTION:Looking like the most user-friendly day of the past several wi
  g light at this point. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240110T121200
 DTEND:20240110T140600
-DESCRIPTION:-2.948ft at 12:12\n-0.010ft at 14:06
+DESCRIPTION:Picking back up as a new round of WNW swell moves in\, likely 
+ starting solid and getting large through the back half of the day. Wind lo
+ oking decent at this point but you'll want to wait out the deep AM high ti
+ de.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -147,5 +142,11 @@ SUMMARY:OST
 DTSTART:20240121T160600
 DTEND:20240121T171800
 DESCRIPTION:-0.057ft at 16:06\n-1.113ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240122T110000
+DTEND:20240122T131800
+DESCRIPTION:-2.996ft at 11:00\n-0.054ft at 13:18
 END:VEVENT
 END:VCALENDAR
