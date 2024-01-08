@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240107T101200
-DTEND:20240107T133000
-DESCRIPTION:Slowed by the dawn patrol high tide\, then better shape as the
-  ocean ebbs out. Solid WNW swell mix due to gradually ease during the day\
- , while NW winds make for groomed conditions. Afternoon tide push looking 
- like the window. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240107T145400
-DTEND:20240107T170600
-DESCRIPTION:Slowed by the dawn patrol high tide\, then better shape as the
-  ocean ebbs out. Solid WNW swell mix due to gradually ease during the day\
- , while NW winds make for groomed conditions. Afternoon tide push looking 
- like the window. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240108T104800
 DTEND:20240108T131200
@@ -45,7 +27,7 @@ DESCRIPTION:Looking like the most user-friendly day of the past several wi
  g light at this point. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240110T121200
 DTEND:20240110T140600
 DESCRIPTION:Picking back up as a new round of WNW swell moves in\, likely 
@@ -54,10 +36,13 @@ DESCRIPTION:Picking back up as a new round of WNW swell moves in\, likely
  de.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240111T125400
 DTEND:20240111T144200
-DESCRIPTION:-2.988ft at 12:54\n-0.050ft at 14:42
+DESCRIPTION:Shaping up to be another nice day of waves. WNW swell still so
+ lid as it eases. Could be a little funky from overnight winds and a deep h
+ igh tide to start the day\, straightening out by the afternoon as the tide
+  gets better. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +133,11 @@ SUMMARY:OST
 DTSTART:20240122T110000
 DTEND:20240122T131800
 DESCRIPTION:-2.996ft at 11:00\n-0.054ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240123T114200
+DTEND:20240123T135400
+DESCRIPTION:-2.978ft at 11:42\n-0.074ft at 13:54
 END:VEVENT
 END:VCALENDAR
