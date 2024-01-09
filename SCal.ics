@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240108T104800
-DTEND:20240108T131200
-DESCRIPTION:Fading but still fun WNW swell\, again slowed by an early morn
- ing high tide\, then improving shape as the ocean backs out. Winds looking
-  light through the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240108T163000
-DTEND:20240108T170600
-DESCRIPTION:Fading but still fun WNW swell\, again slowed by an early morn
- ing high tide\, then improving shape as the ocean backs out. Winds looking
-  light through the day. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240109T113000
 DTEND:20240109T133600
@@ -45,10 +29,12 @@ DESCRIPTION:Shaping up to be another nice day of waves. WNW swell still so
   gets better. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240112T134200
 DTEND:20240112T152400
-DESCRIPTION:-2.870ft at 13:42\n-0.096ft at 15:24
+DESCRIPTION:Wind watch with an active storm track near the coast -- possib
+ le uptick in shorter period swell as well as onshore wind and precipitatio
+ n but the morning window could be in play. Stay tuned.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -139,5 +125,11 @@ SUMMARY:OST
 DTSTART:20240123T114200
 DTEND:20240123T135400
 DESCRIPTION:-2.978ft at 11:42\n-0.074ft at 13:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240124T122400
+DTEND:20240124T143600
+DESCRIPTION:-2.887ft at 12:24\n-0.015ft at 14:36
 END:VEVENT
 END:VCALENDAR
