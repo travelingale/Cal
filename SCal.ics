@@ -2,45 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240109T113000
-DTEND:20240109T133600
-DESCRIPTION:Looking like the most user-friendly day of the past several wi
- th old WNW swell and deep dawn patrol high tide. Better tide through the m
- orning and more swell due to fill in during the day. Variable winds lookin
- g light at this point. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240110T121200
 DTEND:20240110T140600
 DESCRIPTION:Picking back up as a new round of WNW swell moves in\, likely 
- starting solid and getting large through the back half of the day. Wind lo
- oking decent at this point but you'll want to wait out the deep AM high ti
- de.
+ starting solid and getting solid through the back half of the day. Wind lo
+ oking decent but you'll want to wait out the deep AM high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240111T125400
 DTEND:20240111T144200
-DESCRIPTION:Shaping up to be another nice day of waves. WNW swell still so
- lid as it eases. Could be a little funky from overnight winds and a deep h
- igh tide to start the day\, straightening out by the afternoon as the tide
-  gets better. 
+DESCRIPTION:Shaping up to be another nice day of waves. NW swell still sol
+ id as it eases. Could be a little funky from overnight winds and a deep hi
+ gh tide to start the day\, straightening out by the afternoon as the tide 
+ gets better. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240112T134200
 DTEND:20240112T152400
-DESCRIPTION:Wind watch with an active storm track near the coast -- possib
- le uptick in shorter period swell as well as onshore wind and precipitatio
- n but the morning window could be in play. Stay tuned.\n
+DESCRIPTION:Another funky morning with the high tide but look for improvin
+ g shape at the points midday as tide drops. Fun NW swell leftovers.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240113T142400
 DTEND:20240113T161800
-DESCRIPTION:-2.923ft at 14:24\n-0.017ft at 16:18
+DESCRIPTION:Active storm track near the coast could bring an uptick in sho
+ rter period swell as well as onshore wind and precipitation. Not looking l
+ ike a great day for surfing at this point but there's time and the outlook
+  could improve.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -131,5 +123,11 @@ SUMMARY:OST
 DTSTART:20240124T122400
 DTEND:20240124T143600
 DESCRIPTION:-2.887ft at 12:24\n-0.015ft at 14:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240125T130000
+DTEND:20240125T151200
+DESCRIPTION:-2.872ft at 13:00\n-0.073ft at 15:12
 END:VEVENT
 END:VCALENDAR
