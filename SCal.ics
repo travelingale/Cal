@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240111T125400
-DTEND:20240111T144200
-DESCRIPTION:Shaping up to be another nice day of waves. NW swell still sol
- id as it slowly eases. Could be a little funky from overnight winds and a 
- deep high tide to start the day\, straightening out by the afternoon as th
- e tide gets better. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240112T134200
 DTEND:20240112T152400
@@ -22,9 +13,8 @@ SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240113T142400
 DTEND:20240113T161800
 DESCRIPTION:Active storm track near the coast could bring an uptick in sho
- rter period swell as well as onshore wind and precipitation. Not looking l
- ike a great day for surfing at this point but there's time and the outlook
-  could improve.\n\n
+ rter period swell as well as onshore/S wind and precipitation. Not looking
+  like a great day for surfing.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -35,16 +25,18 @@ DESCRIPTION:Improving wind so conditions will clean up. Currently looking
  te morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240115T072400
 DTEND:20240115T090600
-DESCRIPTION:-2.226ft at 07:24\n-2.945ft at 09:06
+DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
+ h throughout morning. Lingering NW swell mix.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240115T154800
 DTEND:20240115T171200
-DESCRIPTION:-2.982ft at 15:48\n-1.329ft at 17:12
+DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
+ h throughout morning. Lingering NW swell mix.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -129,5 +121,11 @@ SUMMARY:OST
 DTSTART:20240126T133000
 DTEND:20240126T155400
 DESCRIPTION:-2.935ft at 13:30\n-0.068ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240127T140000
+DTEND:20240127T164800
+DESCRIPTION:-2.946ft at 14:00\n-0.005ft at 16:48
 END:VEVENT
 END:VCALENDAR
