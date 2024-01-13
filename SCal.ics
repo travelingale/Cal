@@ -3,18 +3,11 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240112T134200
-DTEND:20240112T152400
-DESCRIPTION:Another funky morning with the high tide but look for improvin
- g shape at the points midday as tide drops. Fun NW swell leftovers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240113T142400
 DTEND:20240113T161800
-DESCRIPTION:Active storm track near the coast could bring an uptick in sho
- rter period swell as well as onshore/S wind and precipitation. Not looking
-  like a great day for surfing.\n\n
+DESCRIPTION:Active storm track near the coast brings onshore/S wind and pr
+ ecipitation. Not looking like a great day for surfing. New\, long-period N
+ W swell fills in.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -39,16 +32,18 @@ DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
  h throughout morning. Lingering NW swell mix.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240116T072400
 DTEND:20240116T110600
-DESCRIPTION:-2.115ft at 07:24\n-2.985ft at 11:06
+DESCRIPTION:Target the earlier AM window around the lower tide and offshor
+ e flow. Fun\, longer-period NW swell on tap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240116T163000
 DTEND:20240116T171200
-DESCRIPTION:-2.993ft at 16:30\n-2.376ft at 17:12
+DESCRIPTION:Target the earlier AM window around the lower tide and offshor
+ e flow. Fun\, longer-period NW swell on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -127,5 +122,11 @@ SUMMARY:OST
 DTSTART:20240127T140000
 DTEND:20240127T164800
 DESCRIPTION:-2.946ft at 14:00\n-0.005ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240128T143000
+DTEND:20240128T172400
+DESCRIPTION:-2.921ft at 14:30\n-0.249ft at 17:24
 END:VEVENT
 END:VCALENDAR
