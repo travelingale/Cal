@@ -2,20 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240113T142400
-DTEND:20240113T161800
-DESCRIPTION:Active storm track near the coast brings onshore/S wind and pr
- ecipitation. Not looking like a great day for surfing. New\, long-period N
- W swell fills in.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240114T150600
 DTEND:20240114T171200
-DESCRIPTION:Improving wind so conditions will clean up. Currently looking 
- like the largest surf day of the weekend but keep in mind the high tide la
- te morning.
+DESCRIPTION:Improving wind so conditions will clean up. Good combo of NW s
+ wells peaks\, but keep in mind the high tide mid day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -46,10 +37,11 @@ DESCRIPTION:Target the earlier AM window around the lower tide and offshor
  e flow. Fun\, longer-period NW swell on tap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240117T072400
 DTEND:20240117T133600
-DESCRIPTION:-2.540ft at 07:24\n-2.997ft at 13:36
+DESCRIPTION:Optimal AM window around the low tide and offshore flow. Linge
+ ring WNW swell is joined by another building\, long-period W-WNW swell.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -128,5 +120,17 @@ SUMMARY:OST
 DTSTART:20240128T143000
 DTEND:20240128T172400
 DESCRIPTION:-2.921ft at 14:30\n-0.249ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240129T071800
+DTEND:20240129T082400
+DESCRIPTION:-2.485ft at 07:18\n-2.966ft at 08:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240129T145400
+DTEND:20240129T172400
+DESCRIPTION:-2.966ft at 14:54\n-0.864ft at 17:24
 END:VEVENT
 END:VCALENDAR
