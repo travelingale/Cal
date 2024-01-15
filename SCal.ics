@@ -3,51 +3,45 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240114T150600
-DTEND:20240114T171200
-DESCRIPTION:Improving wind so conditions will clean up. Good combo of NW s
- wells peaks\, but keep in mind the high tide mid day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240115T072400
 DTEND:20240115T090600
 DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
- h throughout morning. Lingering NW swell mix.
+ h throughout morning. Good WNW swell mix.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240115T154800
 DTEND:20240115T171200
 DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
- h throughout morning. Lingering NW swell mix.
+ h throughout morning. Good WNW swell mix.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240116T072400
 DTEND:20240116T110600
 DESCRIPTION:Target the earlier AM window around the lower tide and offshor
- e flow. Fun\, longer-period NW swell on tap.
+ e flow. Good combo of WSW-WNW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240116T163000
 DTEND:20240116T171200
 DESCRIPTION:Target the earlier AM window around the lower tide and offshor
- e flow. Fun\, longer-period NW swell on tap.
+ e flow. Good combo of WSW-WNW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240117T072400
 DTEND:20240117T133600
-DESCRIPTION:Optimal AM window around the low tide and offshore flow. Linge
- ring WNW swell is joined by another building\, long-period W-WNW swell.
+DESCRIPTION:Optimal AM window around the low tide and offshore flow. WNW s
+ well peaks.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240118T074800
 DTEND:20240118T161800
-DESCRIPTION:-2.960ft at 07:48\n-2.978ft at 16:18
+DESCRIPTION:Similar to Wed. Optimal AM window around the dropping tide and
+  offshore flow. Slow easing\, still punchy swell blend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -132,5 +126,17 @@ SUMMARY:OST
 DTSTART:20240129T145400
 DTEND:20240129T172400
 DESCRIPTION:-2.966ft at 14:54\n-0.864ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240130T071800
+DTEND:20240130T094200
+DESCRIPTION:-2.230ft at 07:18\n-2.980ft at 09:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240130T151800
+DTEND:20240130T173000
+DESCRIPTION:-2.963ft at 15:18\n-1.443ft at 17:30
 END:VEVENT
 END:VCALENDAR
