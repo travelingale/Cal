@@ -2,32 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240115T072400
-DTEND:20240115T090600
-DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
- h throughout morning. Good WNW swell mix.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240115T154800
-DTEND:20240115T171200
-DESCRIPTION:Offshore flow on tap to start new week. Best shape on tide pus
- h throughout morning. Good WNW swell mix.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240116T072400
 DTEND:20240116T110600
-DESCRIPTION:Target the earlier AM window around the lower tide and offshor
- e flow. Good combo of WSW-WNW swell. 
+DESCRIPTION:Target the AM window around the low incoming tide and offshore
+  flow. Good combo of WSW-WNW swell. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240116T163000
 DTEND:20240116T171200
-DESCRIPTION:Target the earlier AM window around the lower tide and offshor
- e flow. Good combo of WSW-WNW swell. 
+DESCRIPTION:Target the AM window around the low incoming tide and offshore
+  flow. Good combo of WSW-WNW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -44,10 +30,11 @@ DESCRIPTION:Similar to Wed. Optimal AM window around the dropping tide and
   offshore flow. Slow easing\, still punchy swell blend. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240119T084200
 DTEND:20240119T171800
-DESCRIPTION:-2.929ft at 08:42\n-2.722ft at 17:18
+DESCRIPTION:Nice AM window as tide drops and wind remains light/favorable.
+  Easing WNW swell mix.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -138,5 +125,17 @@ SUMMARY:OST
 DTSTART:20240130T151800
 DTEND:20240130T173000
 DESCRIPTION:-2.963ft at 15:18\n-1.443ft at 17:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240131T071200
+DTEND:20240131T113000
+DESCRIPTION:-2.223ft at 07:12\n-2.990ft at 11:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240131T153600
+DTEND:20240131T173000
+DESCRIPTION:-2.959ft at 15:36\n-2.018ft at 17:30
 END:VEVENT
 END:VCALENDAR
