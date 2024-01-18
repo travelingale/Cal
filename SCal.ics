@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240117T072400
-DTEND:20240117T133600
-DESCRIPTION:Optimal AM window around the low tide and clean conditions. Fu
- n WNW swell in the water.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240118T074800
 DTEND:20240118T161800
 DESCRIPTION:Similar to Wed. Optimal AM window around the dropping tide and
-  offshore flow. A more westerly angled W swell joins in.
+  glassy surface conditions. A more westerly angled W swell joins in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -23,30 +16,32 @@ DESCRIPTION:Watching conditions -- may see rising S wind and bumpy surf in
   town. New W swell (short and longer-periods) build in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Poor to fair
 DTSTART:20240120T093000
 DTEND:20240120T122400
 DESCRIPTION:Watching wind -- may be S direction but at least light. Potent
  ial relatively solid W swell peaks.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Poor to fair
 DTSTART:20240120T144200
 DTEND:20240120T171800
 DESCRIPTION:Watching wind -- may be S direction but at least light. Potent
  ial relatively solid W swell peaks.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240121T101800
 DTEND:20240121T124800
-DESCRIPTION:-2.944ft at 10:18\n-0.006ft at 12:48
+DESCRIPTION:Swell looks to ease. Possible rise in southerly winds\, lookin
+ g lightest early morning. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240121T160600
 DTEND:20240121T171800
-DESCRIPTION:-0.057ft at 16:06\n-1.113ft at 17:18
+DESCRIPTION:Swell looks to ease. Possible rise in southerly winds\, lookin
+ g lightest early morning. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -131,5 +126,11 @@ SUMMARY:OST
 DTSTART:20240201T071200
 DTEND:20240201T173000
 DESCRIPTION:-2.446ft at 07:12\n-2.451ft at 17:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240202T071200
+DTEND:20240202T173000
+DESCRIPTION:-2.883ft at 07:12\n-2.679ft at 17:30
 END:VEVENT
 END:VCALENDAR
