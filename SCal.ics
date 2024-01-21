@@ -2,21 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
-DTSTART:20240120T093000
-DTEND:20240120T122400
-DESCRIPTION:Stormy. Onshore/S wind expected in town all day. Solid WSW-W s
- well tops out with junky\, low quality surf.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240120T144200
-DTEND:20240120T171800
-DESCRIPTION:Stormy. Onshore/S wind expected in town all day. Solid WSW-W s
- well tops out with junky\, low quality surf.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
 DTSTART:20240121T101800
 DTEND:20240121T124800
 DESCRIPTION:Westerly swell due to fade but S wind and lower quality surf r
@@ -30,7 +16,7 @@ DESCRIPTION:Westerly swell due to fade but S wind and lower quality surf r
  emains on the table.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240122T110000
 DTEND:20240122T131800
 DESCRIPTION:May see some onshore/S wind in morning\, then improving later 
@@ -46,10 +32,11 @@ DESCRIPTION:Day to watch. Wind may cooperate\, or at least be light. New\,
  rgy when sets roll in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240124T122400
 DTEND:20240124T143600
-DESCRIPTION:-2.887ft at 12:24\n-0.015ft at 14:36
+DESCRIPTION:Wind is a little dicey but could end up being light. Potential
+  solid W swell in the water\, slowly tapering off through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -134,5 +121,17 @@ SUMMARY:OST
 DTSTART:20240204T084200
 DTEND:20240204T173000
 DESCRIPTION:-2.965ft at 08:42\n-2.382ft at 17:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240205T093000
+DTEND:20240205T123000
+DESCRIPTION:-2.977ft at 09:30\n-0.046ft at 12:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240205T150000
+DTEND:20240205T173600
+DESCRIPTION:-0.020ft at 15:00\n-1.916ft at 17:36
 END:VEVENT
 END:VCALENDAR
