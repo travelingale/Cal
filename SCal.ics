@@ -2,40 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240122T110000
-DTEND:20240122T131800
-DESCRIPTION:Jumbled early morning\, then improving later in day as wind sw
- ings more westerly. Westerly swell down from the weekend\, but leveling of
- f to start week.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240123T114200
 DTEND:20240123T135400
-DESCRIPTION:Day to watch. Wind may cooperate\, or at least be light. New\,
-  long-period W swell slowly builds through the day. Lully\, but few good s
- ets at the end of the day.
+DESCRIPTION:Clean morning before a gentle sea breeze develops midday. New\
+ , long-period W swell slowly creeps through the day. Lully\, but few good 
+ sets at the end of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240124T122400
 DTEND:20240124T143600
-DESCRIPTION:Wind is a little dicey but could end up being light. Potential
-  solid W swell in the water\, slowly tapering off through the day.
+DESCRIPTION:Wind is a little dicey but could end up being light. Medium W 
+ swell peaks. Just wait for the dropping tide late morning into midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240125T130000
 DTEND:20240125T151200
-DESCRIPTION:New\, solid WNW swell builds to a peak. Wind may be favorable 
- so keep an eye on midday window with dropping tide.
+DESCRIPTION:New\, solid WNW swell builds to a peak. Wind looks light/ favo
+ rable so keep an eye on midday window with dropping tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240126T133000
 DTEND:20240126T155400
-DESCRIPTION:-2.935ft at 13:30\n-0.068ft at 15:54
+DESCRIPTION:Offshore flow all morning but note the high tide. Wind should 
+ remain at least light for the tide drop midday though. Easing WNW swell.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -132,5 +125,11 @@ SUMMARY:OST
 DTSTART:20240206T162400
 DTEND:20240206T173600
 DESCRIPTION:-0.046ft at 16:24\n-1.173ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240207T110600
+DTEND:20240207T130600
+DESCRIPTION:-2.950ft at 11:06\n-0.052ft at 13:06
 END:VEVENT
 END:VCALENDAR
