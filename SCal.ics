@@ -2,45 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240125T130000
-DTEND:20240125T151200
-DESCRIPTION:New\, solid WNW swell builds to a peak. Wind looks light/ favo
- rable so keep an eye on midday window with dropping tide.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240126T133000
 DTEND:20240126T155400
-DESCRIPTION:Offshore flow all morning but note the high tide. Wind should 
- remain at least light for the tide drop midday though. Easing WNW swell.
+DESCRIPTION:Clean conditions most of the morning but note the high tide. W
+ ind should remain at least light for the tide drop midday though with mana
+ geable PM texture. Easing WNW swell down from Thu\, still solid\, especial
+ ly in the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240127T140000
 DTEND:20240127T164800
 DESCRIPTION:Favorable wind continues\, just target either side of the late
-  morning high tide. Potential new westerly swell builds in.
+  morning high tide. New westerly swell shows and keeps surf fun. The most 
+ approachable day of the weekend size-wise.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240128T143000
 DTEND:20240128T172400
-DESCRIPTION:Fun and clean. Good shape at focal points as tide pushes in al
- l morning. Wind remains light/favorable in afternoon as tide drops too. Fu
- n westerly swell continues.
+DESCRIPTION:Clean conditions\, size bumps up and gets kinda solid again wi
+ th new W swell. Good shape at focal points as tide pushes in all morning. 
+ Wind remains light/favorable in afternoon as tide drops too.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240129T071800
 DTEND:20240129T082400
-DESCRIPTION:-2.485ft at 07:18\n-2.966ft at 08:24
+DESCRIPTION:Keeping an eye on wind but may end up being fine/clean in morn
+ ing -- stay tuned. WNW swell eases from weekend but still fun.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240129T145400
 DTEND:20240129T172400
-DESCRIPTION:-2.966ft at 14:54\n-0.864ft at 17:24
+DESCRIPTION:Keeping an eye on wind but may end up being fine/clean in morn
+ ing -- stay tuned. WNW swell eases from weekend but still fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -131,5 +129,11 @@ SUMMARY:OST
 DTSTART:20240209T123600
 DTEND:20240209T142400
 DESCRIPTION:-2.973ft at 12:36\n-0.022ft at 14:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240210T132400
+DTEND:20240210T151200
+DESCRIPTION:-2.860ft at 13:24\n-0.016ft at 15:12
 END:VEVENT
 END:VCALENDAR
