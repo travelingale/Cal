@@ -2,50 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240129T071800
-DTEND:20240129T082400
-DESCRIPTION:Fun W/WNW swell leftovers with most size in the morning. Clean
-  conditions for most of the day as despite size dipping through the aftern
- oon\, shape will likely be better on the tide drop later in the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240129T145400
-DTEND:20240129T172400
-DESCRIPTION:Fun W/WNW swell leftovers with most size in the morning. Clean
-  conditions for most of the day as despite size dipping through the aftern
- oon\, shape will likely be better on the tide drop later in the day.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240130T071800
 DTEND:20240130T094200
-DESCRIPTION:Keeping an eye on wind but may end up being fine/clean in morn
- ing -- stay tuned. New westerly trends up\, similar in size to the last pu
- lse.
+DESCRIPTION:New westerly trends up\, similar in size to the last pulse. Cl
+ eanest on the tide push in the morning. A bit more size for the tide drop 
+ in the afternoon\, just be ready for a touch of southerly wind texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240130T151800
 DTEND:20240130T173000
-DESCRIPTION:Keeping an eye on wind but may end up being fine/clean in morn
- ing -- stay tuned. New westerly trends up\, similar in size to the last pu
- lse.
+DESCRIPTION:New westerly trends up\, similar in size to the last pulse. Cl
+ eanest on the tide push in the morning. A bit more size for the tide drop 
+ in the afternoon\, just be ready for a touch of southerly wind texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240131T071200
 DTEND:20240131T113000
-DESCRIPTION:Low confidence on wind/conditions. May see S wind and rain ret
- urn\, looking increasingly likely. New W-WNW swell trends up further.
+DESCRIPTION:S wind and rain on tap. New W-WNW swell trends up further but 
+ there will likely be better opportunity to get some pumping surf later in 
+ the week after the front passes and winds improve in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Poor to fair
 DTSTART:20240131T153600
 DTEND:20240131T173000
-DESCRIPTION:Low confidence on wind/conditions. May see S wind and rain ret
- urn\, looking increasingly likely. New W-WNW swell trends up further.
+DESCRIPTION:S wind and rain on tap. New W-WNW swell trends up further but 
+ there will likely be better opportunity to get some pumping surf later in 
+ the week after the front passes and winds improve in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 - 10ft: Fair
@@ -56,10 +42,13 @@ DESCRIPTION:Day to watch. Could see large WNW swell arrive with offshore f
   the morning with a modest low on tap. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20240202T071200
 DTEND:20240202T173000
-DESCRIPTION:-2.883ft at 07:12\n-2.679ft at 17:30
+DESCRIPTION:Another one to watch. Potential to still be pretty large thoug
+ h likely coming down a bit in town as swell angle takes a northerly shift.
+  Will need to keep an eye on the wind too\, could be a bit more westerly t
+ han ideal. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +139,17 @@ SUMMARY:OST
 DTSTART:20240213T153000
 DTEND:20240213T174200
 DESCRIPTION:-2.932ft at 15:30\n-0.931ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240214T070000
+DTEND:20240214T120000
+DESCRIPTION:-1.146ft at 07:00\n-2.986ft at 12:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240214T161200
+DTEND:20240214T174200
+DESCRIPTION:-2.951ft at 16:12\n-1.957ft at 17:42
 END:VEVENT
 END:VCALENDAR
