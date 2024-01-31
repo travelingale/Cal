@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240130T071800
-DTEND:20240130T094200
-DESCRIPTION:New westerly trends up\, similar in size to the last pulse. Cl
- eanest on the tide push in the morning. A bit more size for the tide drop 
- in the afternoon\, just be ready for a touch of southerly wind texture. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240130T151800
-DTEND:20240130T173000
-DESCRIPTION:New westerly trends up\, similar in size to the last pulse. Cl
- eanest on the tide push in the morning. A bit more size for the tide drop 
- in the afternoon\, just be ready for a touch of southerly wind texture. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240131T071200
 DTEND:20240131T113000
@@ -37,9 +21,9 @@ BEGIN:VEVENT
 SUMMARY:8 - 10ft: Fair
 DTSTART:20240201T071200
 DTEND:20240201T173000
-DESCRIPTION:Day to watch. Could see large WNW swell arrive with offshore f
- low for spots in town. Favorable tides for most of the day\, especially in
-  the morning with a modest low on tap. 
+DESCRIPTION:Large WNW swell arrive with light wind for spots in town. Favo
+ rable tides for most of the day\, especially in the morning with a modest 
+ low on tap. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair to good
@@ -51,10 +35,12 @@ DESCRIPTION:Another one to watch. Potential to still be pretty large thoug
  han ideal. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240203T075400
 DTEND:20240203T173000
-DESCRIPTION:-2.954ft at 07:54\n-2.663ft at 17:30
+DESCRIPTION:Size expected to be down a peg but could still be pretty fun i
+ n town. Wind forecast looks great at this point with favorable tidal level
+ s for most of the day\, especially for the early to mid-afternoon window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -151,5 +137,17 @@ SUMMARY:OST
 DTSTART:20240214T161200
 DTEND:20240214T174200
 DESCRIPTION:-2.951ft at 16:12\n-1.957ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240215T070000
+DTEND:20240215T143000
+DESCRIPTION:-1.816ft at 07:00\n-2.992ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240215T165400
+DTEND:20240215T174200
+DESCRIPTION:-2.987ft at 16:54\n-2.715ft at 17:42
 END:VEVENT
 END:VCALENDAR
