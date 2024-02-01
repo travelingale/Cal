@@ -2,23 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240131T071200
-DTEND:20240131T113000
-DESCRIPTION:S wind and rain on tap. New W-WNW swell trends up further but 
- there will likely be better opportunity to get some pumping surf later in 
- the week after the front passes and winds improve in town. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
-DTSTART:20240131T153600
-DTEND:20240131T173000
-DESCRIPTION:S wind and rain on tap. New W-WNW swell trends up further but 
- there will likely be better opportunity to get some pumping surf later in 
- the week after the front passes and winds improve in town. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8 - 10ft: Fair
+SUMMARY:6 - 8ft: Fair
 DTSTART:20240201T071200
 DTEND:20240201T173000
 DESCRIPTION:Large WNW swell arrive with light wind for spots in town. Favo
@@ -29,24 +13,25 @@ BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair to good
 DTSTART:20240202T071200
 DTEND:20240202T173000
-DESCRIPTION:Another one to watch. Potential to still be pretty large thoug
- h likely coming down a bit in town as swell angle takes a northerly shift.
-  Will need to keep an eye on the wind too\, could be a bit more westerly t
- han ideal. 
+DESCRIPTION:Cleaning up. Still pretty large though likely coming down a bi
+ t in town as swell angle takes a northerly shift. Light W wind most of day
+  so conditions should be at least semi-clean in town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240203T075400
 DTEND:20240203T173000
 DESCRIPTION:Size expected to be down a peg but could still be pretty fun i
- n town. Wind forecast looks great at this point with favorable tidal level
+ n town. Wind forecast looks light at this point with favorable tidal level
  s for most of the day\, especially for the early to mid-afternoon window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor
 DTSTART:20240204T084200
 DTEND:20240204T173000
-DESCRIPTION:-2.965ft at 08:42\n-2.382ft at 17:30
+DESCRIPTION:Smaller WNW/NW swell leftovers in town\, likely dropping off s
+ harply as swell direction trends more northerly in direction. E wind in mo
+ rning\, trending S midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -149,5 +134,11 @@ SUMMARY:OST
 DTSTART:20240215T165400
 DTEND:20240215T174200
 DESCRIPTION:-2.987ft at 16:54\n-2.715ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240216T070000
+DTEND:20240216T170000
+DESCRIPTION:-2.836ft at 07:00\n-2.999ft at 17:00
 END:VEVENT
 END:VCALENDAR
