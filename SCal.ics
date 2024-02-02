@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
-DTSTART:20240201T071200
-DTEND:20240201T173000
-DESCRIPTION:Large WNW swell arrive with light wind for spots in town. Favo
- rable tides for most of the day\, especially in the morning with a modest 
- low on tap. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240202T071200
 DTEND:20240202T173000
 DESCRIPTION:Cleaning up. Still pretty large though likely coming down a bi
@@ -26,24 +18,30 @@ DESCRIPTION:Size expected to be down a peg but could still be pretty fun i
  s for most of the day\, especially for the early to mid-afternoon window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor
+SUMMARY:4 - 5ft: Poor
 DTSTART:20240204T084200
 DTEND:20240204T173000
 DESCRIPTION:Smaller WNW/NW swell leftovers in town\, likely dropping off s
  harply as swell direction trends more northerly in direction. E wind in mo
- rning\, trending S midday.
+ rning\, trending S midday so looks dicey for town.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:8 - 10ft: Poor
 DTSTART:20240205T093000
 DTEND:20240205T123000
-DESCRIPTION:-2.977ft at 09:30\n-0.046ft at 12:30
+DESCRIPTION:Southerly windswell looking like the primary surf generator at
+  this point. Very low confidence in a decent window of wind in the morning
+  but at this point\, it doesn't look like there will be swell in the water
+  worth paddling for.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240205T150000
 DTEND:20240205T173600
-DESCRIPTION:-0.020ft at 15:00\n-1.916ft at 17:36
+DESCRIPTION:Southerly windswell looking like the primary surf generator at
+  this point. Very low confidence in a decent window of wind in the morning
+  but at this point\, it doesn't look like there will be swell in the water
+  worth paddling for.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -140,5 +138,17 @@ SUMMARY:OST
 DTSTART:20240216T070000
 DTEND:20240216T170000
 DESCRIPTION:-2.836ft at 07:00\n-2.999ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240217T075400
+DTEND:20240217T114800
+DESCRIPTION:-2.984ft at 07:54\n-0.001ft at 11:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240217T123600
+DTEND:20240217T174800
+DESCRIPTION:-0.006ft at 12:36\n-2.973ft at 17:48
 END:VEVENT
 END:VCALENDAR
