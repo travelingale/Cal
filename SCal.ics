@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240202T071200
-DTEND:20240202T173000
-DESCRIPTION:Cleaning up. Still pretty large though likely coming down a bi
- t in town as swell angle takes a northerly shift. Light W wind most of day
-  so conditions should be at least semi-clean in town.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240203T075400
 DTEND:20240203T173000
@@ -18,7 +10,7 @@ DESCRIPTION:Size expected to be down a peg but could still be pretty fun i
  s for most of the day\, especially for the early to mid-afternoon window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Poor
+SUMMARY:5 - 7ft: Poor
 DTSTART:20240204T084200
 DTEND:20240204T173000
 DESCRIPTION:Smaller WNW/NW swell leftovers in town\, likely dropping off s
@@ -26,7 +18,7 @@ DESCRIPTION:Smaller WNW/NW swell leftovers in town\, likely dropping off s
  rning\, trending S midday so looks dicey for town.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8 - 10ft: Poor
+SUMMARY:8 - 10ft: Fair
 DTSTART:20240205T093000
 DTEND:20240205T123000
 DESCRIPTION:Southerly windswell looking like the primary surf generator at
@@ -35,7 +27,7 @@ DESCRIPTION:Southerly windswell looking like the primary surf generator at
   worth paddling for.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240205T150000
 DTEND:20240205T173600
 DESCRIPTION:Southerly windswell looking like the primary surf generator at
@@ -44,16 +36,18 @@ DESCRIPTION:Southerly windswell looking like the primary surf generator at
   worth paddling for.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240206T101800
 DTEND:20240206T124200
-DESCRIPTION:-2.976ft at 10:18\n-0.009ft at 12:42
+DESCRIPTION:Groomed surf returns with offshore flow in morning. New\, long
+ -period WNW swell builds in. Lully\, yet fun when those sets show.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240206T162400
 DTEND:20240206T173600
-DESCRIPTION:-0.046ft at 16:24\n-1.173ft at 17:36
+DESCRIPTION:Groomed surf returns with offshore flow in morning. New\, long
+ -period WNW swell builds in. Lully\, yet fun when those sets show.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +144,17 @@ SUMMARY:OST
 DTSTART:20240217T123600
 DTEND:20240217T174800
 DESCRIPTION:-0.006ft at 12:36\n-2.973ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240218T085400
+DTEND:20240218T120000
+DESCRIPTION:-2.986ft at 08:54\n-0.006ft at 12:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240218T143000
+DTEND:20240218T174800
+DESCRIPTION:-0.007ft at 14:30\n-2.546ft at 17:48
 END:VEVENT
 END:VCALENDAR
