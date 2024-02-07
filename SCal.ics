@@ -2,62 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:5 - 7ft: Poor
-DTSTART:20240205T093000
-DTEND:20240205T123000
-DESCRIPTION:Another rough morning of moderate S wind and choppy surf in to
- wn. S windswell drops\, yet chunky\, mid-period NW swell shows. May see ma
- rginal improvement in wind/conditions late in day.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
-DTSTART:20240205T150000
-DTEND:20240205T173600
-DESCRIPTION:Another rough morning of moderate S wind and choppy surf in to
- wn. S windswell drops\, yet chunky\, mid-period NW swell shows. May see ma
- rginal improvement in wind/conditions late in day.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240206T101800
-DTEND:20240206T124200
-DESCRIPTION:Groomed surf returns with offshore flow in morning. New\, long
- -period WNW swell builds in. Lully\, yet fun when those sets show.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240206T162400
-DTEND:20240206T173600
-DESCRIPTION:Groomed surf returns with offshore flow in morning. New\, long
- -period WNW swell builds in. Lully\, yet fun when those sets show.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240207T110600
 DTEND:20240207T130600
-DESCRIPTION:NW wind rising in outer waters\, but town should be clean all 
- day. If so\, nice late morning window as tide drops. Lully\, yet solid\, l
- ong-period WNW swell peaks.
+DESCRIPTION:A bit jumbled and high tide\, but cleanest in earlier morning.
+  Conditions become bumpy late morning through midday as wind trends onshor
+ e/S. Medium\, long-period WNW swell tops out.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240208T115400
 DTEND:20240208T134200
-DESCRIPTION:Low confidence in regards to wind/conditions -- dependent on t
- rack of coastal storm dropping along coast. Reinforcing WNW-NW swell moves
-  in to keep surf elevated.
+DESCRIPTION:Wind forecast improving... good odds we'll see offshore wind i
+ n morning but conditions will be jumbled and raw as shorter-period NW swel
+ l mixes in. Overall\, pretty good size at standouts.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240209T123600
 DTEND:20240209T142400
-DESCRIPTION:-2.973ft at 12:36\n-0.022ft at 14:24
+DESCRIPTION:High pressure nudges over region setting up offshore flow in m
+ orning. Jumbled mix of WNW-NW swells slowly eases. Late morning into midda
+ y as tide drops is worth a look.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240210T132400
 DTEND:20240210T151200
-DESCRIPTION:-2.860ft at 13:24\n-0.016ft at 15:12
+DESCRIPTION:Offshore\, yet full and jumbled shape from the AM high tide. K
+ eep an eye on midday window as tide drops and wind/conditions remain clean
+ /favorable. Reinforcing WNW swell keeps surf fun size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -166,5 +140,29 @@ SUMMARY:OST
 DTSTART:20240220T163000
 DTEND:20240220T174800
 DESCRIPTION:-0.060ft at 16:30\n-1.270ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240221T112400
+DTEND:20240221T134800
+DESCRIPTION:-2.887ft at 11:24\n-0.061ft at 13:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240221T170600
+DTEND:20240221T174800
+DESCRIPTION:-0.074ft at 17:06\n-0.708ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240222T120000
+DTEND:20240222T143000
+DESCRIPTION:-2.905ft at 12:00\n-0.015ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240222T173000
+DTEND:20240222T175400
+DESCRIPTION:-0.063ft at 17:30\n-0.398ft at 17:54
 END:VEVENT
 END:VCALENDAR
