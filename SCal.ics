@@ -2,20 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240208T115400
-DTEND:20240208T134200
-DESCRIPTION:Wind forecast improving... good odds we'll see offshore wind i
- n morning but conditions will be jumbled and raw as shorter-period NW swel
- l mixes in. Overall\, pretty good size at standouts.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240209T123600
 DTEND:20240209T142400
 DESCRIPTION:High pressure nudges over region setting up offshore flow in m
- orning. Jumbled mix of WNW-NW swells eases. Late morning into midday as ti
- de drops is worth a look.
+ orning. Jumbled mix of WNW-NW swells eases. Sluggish first half of the day
+  with less swell running and another deep high tide. Better shape and more
+  size pushing through in PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -34,16 +27,20 @@ DESCRIPTION:Day to target. Favorable wind\, just keep in mind the 6' high
   the end of day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240212T070600
 DTEND:20240212T083600
-DESCRIPTION:-1.689ft at 07:06\n-2.992ft at 08:36
+DESCRIPTION:Good size carries into start of week\, perhaps easing a touch 
+ late. At this point\, wind looks light/favorable most of the day. Just not
+ e the high tide midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240212T144800
 DTEND:20240212T172400
-DESCRIPTION:-2.919ft at 14:48\n-0.050ft at 17:24
+DESCRIPTION:Good size carries into start of week\, perhaps easing a touch 
+ late. At this point\, wind looks light/favorable most of the day. Just not
+ e the high tide midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -164,5 +161,11 @@ SUMMARY:OST
 DTSTART:20240223T123000
 DTEND:20240223T151200
 DESCRIPTION:-2.967ft at 12:30\n-0.005ft at 15:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240224T130000
+DTEND:20240224T160000
+DESCRIPTION:-2.970ft at 13:00\n-0.026ft at 16:00
 END:VEVENT
 END:VCALENDAR
