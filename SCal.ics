@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240209T123600
-DTEND:20240209T142400
-DESCRIPTION:High pressure nudges over region setting up offshore flow in m
- orning. Jumbled mix of WNW-NW swells eases. Sluggish first half of the day
-  with less swell running and another deep high tide. Better shape and more
-  size pushing through in PM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240210T132400
 DTEND:20240210T151200
 DESCRIPTION:Offshore\, yet full and jumbled shape from the AM high tide. K
@@ -19,7 +10,7 @@ DESCRIPTION:Offshore\, yet full and jumbled shape from the AM high tide. K
  /favorable. Reinforcing WNW swell keeps surf fun size.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240211T140600
 DTEND:20240211T160600
 DESCRIPTION:Day to target. Favorable wind\, just keep in mind the 6' high 
@@ -43,16 +34,20 @@ DESCRIPTION:Good size carries into start of week\, perhaps easing a touch
  e the high tide midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240213T070000
 DTEND:20240213T100600
-DESCRIPTION:-1.062ft at 07:00\n-2.975ft at 10:06
+DESCRIPTION:Favorable wind continues\, along with an ideal tide push all m
+ orning. WNW swell down a notch or two\, but fun -- especially if Sun/Mon w
+ as too big for the liking.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240213T153000
 DTEND:20240213T174200
-DESCRIPTION:-2.932ft at 15:30\n-0.931ft at 17:42
+DESCRIPTION:Favorable wind continues\, along with an ideal tide push all m
+ orning. WNW swell down a notch or two\, but fun -- especially if Sun/Mon w
+ as too big for the liking.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -167,5 +162,17 @@ SUMMARY:OST
 DTSTART:20240224T130000
 DTEND:20240224T160000
 DESCRIPTION:-2.970ft at 13:00\n-0.026ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240225T064800
+DTEND:20240225T071200
+DESCRIPTION:-2.638ft at 06:48\n-2.950ft at 07:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240225T133000
+DTEND:20240225T175400
+DESCRIPTION:-2.940ft at 13:30\n-0.261ft at 17:54
 END:VEVENT
 END:VCALENDAR
