@@ -2,20 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240210T132400
-DTEND:20240210T151200
-DESCRIPTION:Offshore\, yet full and jumbled shape from the AM high tide. K
- eep an eye on midday window as tide drops and wind/conditions remain clean
- /favorable. Reinforcing WNW swell keeps surf fun size.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240211T140600
 DTEND:20240211T160600
 DESCRIPTION:Day to target. Favorable wind\, just keep in mind the 6' high 
  tide late morning. New\, long-period WNW swell builds in and peaks through
-  the end of day.
+  the end of day. Toughest decision will be between surfing and watching th
+ e game. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -26,7 +19,7 @@ DESCRIPTION:Good size carries into start of week\, perhaps easing a touch
  e the high tide midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240212T144800
 DTEND:20240212T172400
 DESCRIPTION:Good size carries into start of week\, perhaps easing a touch 
@@ -50,16 +43,20 @@ DESCRIPTION:Favorable wind continues\, along with an ideal tide push all m
  as too big for the liking.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240214T070000
 DTEND:20240214T120000
-DESCRIPTION:-1.146ft at 07:00\n-2.986ft at 12:00
+DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
+ ng. Mid-period NW swell continues as small\, long-period SW swell from Tas
+ man Sea fills in. New\, long-period WNW swell forerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240214T161200
 DTEND:20240214T174200
-DESCRIPTION:-2.951ft at 16:12\n-1.957ft at 17:42
+DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
+ ng. Mid-period NW swell continues as small\, long-period SW swell from Tas
+ man Sea fills in. New\, long-period WNW swell forerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +171,17 @@ SUMMARY:OST
 DTSTART:20240225T133000
 DTEND:20240225T175400
 DESCRIPTION:-2.940ft at 13:30\n-0.261ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240226T064800
+DTEND:20240226T080600
+DESCRIPTION:-2.024ft at 06:48\n-2.942ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240226T135400
+DTEND:20240226T175400
+DESCRIPTION:-2.993ft at 13:54\n-0.560ft at 17:54
 END:VEVENT
 END:VCALENDAR
