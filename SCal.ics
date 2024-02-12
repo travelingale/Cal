@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240211T140600
-DTEND:20240211T160600
-DESCRIPTION:Day to target. Favorable wind\, just keep in mind the 6' high 
- tide late morning. New\, long-period WNW swell builds in and peaks through
-  the end of day. Toughest decision will be between surfing and watching th
- e game. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240212T070600
 DTEND:20240212T083600
@@ -27,7 +18,7 @@ DESCRIPTION:Good size carries into start of week\, perhaps easing a touch
  e the high tide midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240213T070000
 DTEND:20240213T100600
 DESCRIPTION:Favorable wind continues\, along with an ideal tide push all m
@@ -51,7 +42,7 @@ DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
  man Sea fills in. New\, long-period WNW swell forerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240214T161200
 DTEND:20240214T174200
 DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
@@ -59,16 +50,22 @@ DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
  man Sea fills in. New\, long-period WNW swell forerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240215T070000
 DTEND:20240215T143000
-DESCRIPTION:-1.816ft at 07:00\n-2.992ft at 14:30
+DESCRIPTION:Dynamic pattern with storm activity off the coast. Specifics w
+ ill bounce around over the next few days but at this point looks onshore a
+ nd jumbled. Potential for some solid size though\, worth keeping an eye on
+ .\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240215T165400
 DTEND:20240215T174200
-DESCRIPTION:-2.987ft at 16:54\n-2.715ft at 17:42
+DESCRIPTION:Dynamic pattern with storm activity off the coast. Specifics w
+ ill bounce around over the next few days but at this point looks onshore a
+ nd jumbled. Potential for some solid size though\, worth keeping an eye on
+ .\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -183,5 +180,17 @@ SUMMARY:OST
 DTSTART:20240226T135400
 DTEND:20240226T175400
 DESCRIPTION:-2.993ft at 13:54\n-0.560ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240227T064200
+DTEND:20240227T090600
+DESCRIPTION:-1.530ft at 06:42\n-2.931ft at 09:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240227T142400
+DTEND:20240227T175400
+DESCRIPTION:-2.937ft at 14:24\n-0.990ft at 17:54
 END:VEVENT
 END:VCALENDAR
