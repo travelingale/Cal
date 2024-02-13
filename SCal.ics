@@ -2,23 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240212T070600
-DTEND:20240212T083600
-DESCRIPTION:Good size carries into start of week\, perhaps easing a touch 
- late. At this point\, wind looks light/favorable most of the day. Just not
- e the high tide midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240212T144800
-DTEND:20240212T172400
-DESCRIPTION:Good size carries into start of week\, perhaps easing a touch 
- late. At this point\, wind looks light/favorable most of the day. Just not
- e the high tide midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240213T070000
 DTEND:20240213T100600
 DESCRIPTION:Favorable wind continues\, along with an ideal tide push all m
@@ -37,20 +21,22 @@ BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240214T070000
 DTEND:20240214T120000
-DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
- ng. Mid-period NW swell continues as small\, long-period SW swell from Tas
- man Sea fills in. New\, long-period WNW swell forerunners creep in late.
+DESCRIPTION:Almost a copy of Tuesday. Playful\, smaller surf in the mornin
+ g but may start to see S wind. Mid-period NW swell continues as small\, lo
+ ng-period SW swell from Tasman Sea fills in. New\, long-period WNW swell f
+ orerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240214T161200
 DTEND:20240214T174200
-DESCRIPTION:Almost a copy of Tuesday. Playful\, offshore surf in the morni
- ng. Mid-period NW swell continues as small\, long-period SW swell from Tas
- man Sea fills in. New\, long-period WNW swell forerunners creep in late.
+DESCRIPTION:Almost a copy of Tuesday. Playful\, smaller surf in the mornin
+ g but may start to see S wind. Mid-period NW swell continues as small\, lo
+ ng-period SW swell from Tasman Sea fills in. New\, long-period WNW swell f
+ orerunners creep in late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240215T070000
 DTEND:20240215T143000
 DESCRIPTION:Dynamic pattern with storm activity off the coast. Specifics w
@@ -68,10 +54,13 @@ DESCRIPTION:Dynamic pattern with storm activity off the coast. Specifics w
  .\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240216T070000
 DTEND:20240216T170000
-DESCRIPTION:-2.836ft at 07:00\n-2.999ft at 17:00
+DESCRIPTION:High uncertainty at this point with significant fluctuation be
+ tween model runs. Weather still looks decent at this point with size becom
+ ing more approachable as WNW swell eases. Possible target day before weath
+ er falls apart again.\n\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +181,17 @@ SUMMARY:OST
 DTSTART:20240227T142400
 DTEND:20240227T175400
 DESCRIPTION:-2.937ft at 14:24\n-0.990ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240228T064200
+DTEND:20240228T102400
+DESCRIPTION:-1.308ft at 06:42\n-2.974ft at 10:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240228T144200
+DTEND:20240228T180000
+DESCRIPTION:-2.993ft at 14:42\n-1.482ft at 18:00
 END:VEVENT
 END:VCALENDAR
