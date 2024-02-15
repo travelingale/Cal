@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240214T070000
-DTEND:20240214T120000
-DESCRIPTION:Another notch down from Tuesday. Increasing S wind through the
-  day. Old NW swell on tap as small\, long-period SW swell from Tasman Sea 
- fills in. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240214T161200
-DTEND:20240214T174200
-DESCRIPTION:Another notch down from Tuesday. Increasing S wind through the
-  day. Old NW swell on tap as small\, long-period SW swell from Tasman Sea 
- fills in. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240215T070000
 DTEND:20240215T143000
@@ -58,16 +42,20 @@ DESCRIPTION:Conditions fall apart as front sweeps the region with breezy o
  (new W swell generating most size).\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:6 - 8ft: Fair
 DTSTART:20240218T085400
 DTEND:20240218T120000
-DESCRIPTION:-2.986ft at 08:54\n-0.006ft at 12:00
+DESCRIPTION:Expecting another day of significant surf and inclement weathe
+ r. Forecast likely to bounce around a bit but confidence is increasing for
+  stormy\, dangerous conditions along the coast.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240218T143000
 DTEND:20240218T174800
-DESCRIPTION:-0.007ft at 14:30\n-2.546ft at 17:48
+DESCRIPTION:Expecting another day of significant surf and inclement weathe
+ r. Forecast likely to bounce around a bit but confidence is increasing for
+  stormy\, dangerous conditions along the coast.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -188,5 +176,11 @@ SUMMARY:OST
 DTSTART:20240229T145400
 DTEND:20240229T180000
 DESCRIPTION:-2.989ft at 14:54\n-1.983ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240301T064200
+DTEND:20240301T180000
+DESCRIPTION:-1.639ft at 06:42\n-2.419ft at 18:00
 END:VEVENT
 END:VCALENDAR
