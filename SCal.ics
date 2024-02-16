@@ -3,71 +3,55 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240215T070000
-DTEND:20240215T143000
-DESCRIPTION:Jumbly\, yet light/variable wind sets up fairly clean surf thr
- ough morning. Fresh W-WNW swell builds in and getting pretty good size by 
- afternoon.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240215T165400
-DTEND:20240215T174200
-DESCRIPTION:Jumbly\, yet light/variable wind sets up fairly clean surf thr
- ough morning. Fresh W-WNW swell builds in and getting pretty good size by 
- afternoon.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240216T070000
 DTEND:20240216T170000
-DESCRIPTION:May see a clean morning window. If wind cooperates\, fun surf 
- as W-WNW swell eases. Possible target day before weather falls apart again
- .\n\n
+DESCRIPTION:Clean morning window\, especially early. Good size early as W-
+ WNW swell eases. Be sure to take advantage before before weather falls apa
+ rt over weekend.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240217T075400
 DTEND:20240217T114800
 DESCRIPTION:Conditions fall apart as front sweeps the region with breezy o
- nshore/S wind. Jumbled mix of southerly windswell and long-period W swell 
- (new W swell generating most size).\n
+ nshore/S wind. Jumbled mix of southerly windswell and big\, long-period W 
+ swell builds (new W swell generating most size).\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair
 DTSTART:20240217T123600
 DTEND:20240217T174800
 DESCRIPTION:Conditions fall apart as front sweeps the region with breezy o
- nshore/S wind. Jumbled mix of southerly windswell and long-period W swell 
- (new W swell generating most size).\n
+ nshore/S wind. Jumbled mix of southerly windswell and big\, long-period W 
+ swell builds (new W swell generating most size).\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 - 8ft: Fair
 DTSTART:20240218T085400
 DTEND:20240218T120000
 DESCRIPTION:Expecting another day of significant surf and inclement weathe
- r. Forecast likely to bounce around a bit but confidence is increasing for
-  stormy\, dangerous conditions along the coast.\n\n
+ r. Most spots are poor with S/SE wind and maxed out surf.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240218T143000
 DTEND:20240218T174800
 DESCRIPTION:Expecting another day of significant surf and inclement weathe
- r. Forecast likely to bounce around a bit but confidence is increasing for
-  stormy\, dangerous conditions along the coast.\n\n
+ r. Most spots are poor with S/SE wind and maxed out surf.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Poor to fair
 DTSTART:20240219T095400
 DTEND:20240219T123000
-DESCRIPTION:-2.884ft at 09:54\n-0.072ft at 12:30
+DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
+ urf conditions look poor/low quality.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240219T154200
 DTEND:20240219T174800
-DESCRIPTION:-0.054ft at 15:42\n-1.924ft at 17:48
+DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
+ urf conditions look poor/low quality.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +166,11 @@ SUMMARY:OST
 DTSTART:20240301T064200
 DTEND:20240301T180000
 DESCRIPTION:-1.639ft at 06:42\n-2.419ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240302T064200
+DTEND:20240302T180000
+DESCRIPTION:-2.193ft at 06:42\n-2.728ft at 18:00
 END:VEVENT
 END:VCALENDAR
