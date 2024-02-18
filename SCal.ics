@@ -2,51 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240217T075400
-DTEND:20240217T114800
-DESCRIPTION:Not ideal\, but onshore/S wind may stay pretty manageable all 
- day. New\, long-period W swell builds to a peak later in day. Most spots b
- ecome pretty maxed out by afternoon. Use caution.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Poor to fair
-DTSTART:20240217T123600
-DTEND:20240217T174800
-DESCRIPTION:Not ideal\, but onshore/S wind may stay pretty manageable all 
- day. New\, long-period W swell builds to a peak later in day. Most spots b
- ecome pretty maxed out by afternoon. Use caution.\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:5 - 7ft: Fair
 DTSTART:20240218T085400
 DTEND:20240218T120000
-DESCRIPTION:Expecting another day of significant W swell/surf and inclemen
- t weather. Most spots are poor with S/SE wind and maxed out surf.\n
+DESCRIPTION:Another day of significant W swell/surf and inclement weather.
+  Most spots are poor with S/SE wind and maxed out surf.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240218T143000
 DTEND:20240218T174800
-DESCRIPTION:Expecting another day of significant W swell/surf and inclemen
- t weather. Most spots are poor with S/SE wind and maxed out surf.\n
+DESCRIPTION:Another day of significant W swell/surf and inclement weather.
+  Most spots are poor with S/SE wind and maxed out surf.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Poor to fair
+SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240219T095400
 DTEND:20240219T123000
 DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
  urf conditions will be poor and dangerous.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:5 - 7ft: Poor
+SUMMARY:8 - 10ft: Poor to fair
 DTSTART:20240219T154200
 DTEND:20240219T174800
 DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
  urf conditions will be poor and dangerous.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
+SUMMARY:5 - 7ft: Fair
 DTSTART:20240220T104200
 DTEND:20240220T131200
 DESCRIPTION:Sloppy day of waves as moderate to locally breezy onshore/S wi
@@ -62,16 +46,20 @@ DESCRIPTION:Sloppy day of waves as moderate to locally breezy onshore/S wi
  d all day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240221T112400
 DTEND:20240221T134800
-DESCRIPTION:-2.887ft at 11:24\n-0.061ft at 13:48
+DESCRIPTION:Low confidence on wind/conditions. There's a chance we could s
+ ee improvements though. Smaller\, yet decent size mix of swells (mid to lo
+ nger-periods) in the water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240221T170600
 DTEND:20240221T174800
-DESCRIPTION:-0.074ft at 17:06\n-0.708ft at 17:48
+DESCRIPTION:Low confidence on wind/conditions. There's a chance we could s
+ ee improvements though. Smaller\, yet decent size mix of swells (mid to lo
+ nger-periods) in the water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +162,17 @@ SUMMARY:OST
 DTSTART:20240303T064200
 DTEND:20240303T180000
 DESCRIPTION:-2.965ft at 06:42\n-2.871ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240304T074800
+DTEND:20240304T120600
+DESCRIPTION:-2.927ft at 07:48\n-0.002ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240304T123600
+DTEND:20240304T180000
+DESCRIPTION:-0.004ft at 12:36\n-2.826ft at 18:00
 END:VEVENT
 END:VCALENDAR
