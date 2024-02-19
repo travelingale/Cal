@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:5 - 7ft: Fair
-DTSTART:20240218T085400
-DTEND:20240218T120000
-DESCRIPTION:Another day of significant W swell/surf and inclement weather.
-  Most spots are poor with S/SE wind and maxed out surf.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
-DTSTART:20240218T143000
-DTEND:20240218T174800
-DESCRIPTION:Another day of significant W swell/surf and inclement weather.
-  Most spots are poor with S/SE wind and maxed out surf.\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240219T095400
 DTEND:20240219T123000
@@ -30,7 +16,7 @@ DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
  urf conditions will be poor and dangerous.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:5 - 7ft: Fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240220T104200
 DTEND:20240220T131200
 DESCRIPTION:Sloppy day of waves as moderate to locally breezy onshore/S wi
@@ -62,16 +48,20 @@ DESCRIPTION:Low confidence on wind/conditions. There's a chance we could s
  nger-periods) in the water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240222T120000
 DTEND:20240222T143000
-DESCRIPTION:-2.905ft at 12:00\n-0.015ft at 14:30
+DESCRIPTION:Low confidence on wind/conditions. There's a chance we could s
+ ee improvements though. Smaller\, yet decent size mix of swells (mid to lo
+ nger-periods) in the water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240222T173000
 DTEND:20240222T175400
-DESCRIPTION:-0.063ft at 17:30\n-0.398ft at 17:54
+DESCRIPTION:At the moment\, light/favorable wind is expected. Fun mix of W
+ /WNW swells in the water. Best shape will be on dropping tide late morning
+  into midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +164,17 @@ SUMMARY:OST
 DTSTART:20240304T123600
 DTEND:20240304T180000
 DESCRIPTION:-0.004ft at 12:36\n-2.826ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240305T084800
+DTEND:20240305T114200
+DESCRIPTION:-2.948ft at 08:48\n-0.026ft at 11:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240305T144800
+DTEND:20240305T180600
+DESCRIPTION:-0.041ft at 14:48\n-2.651ft at 18:06
 END:VEVENT
 END:VCALENDAR
