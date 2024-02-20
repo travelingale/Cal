@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Poor to fair
-DTSTART:20240219T095400
-DTEND:20240219T123000
-DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
- urf conditions will be poor and dangerous.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8 - 10ft: Poor to fair
-DTSTART:20240219T154200
-DTEND:20240219T174800
-DESCRIPTION:Another round of solid westerly swell\, unsettled weather so s
- urf conditions will be poor and dangerous.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair
 DTSTART:20240220T104200
 DTEND:20240220T131200
@@ -64,10 +50,11 @@ DESCRIPTION:At the moment\, light/favorable wind is expected. Fun mix of W
   into midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240223T123000
 DTEND:20240223T151200
-DESCRIPTION:-2.967ft at 12:30\n-0.005ft at 15:12
+DESCRIPTION:Watching for a new WNW swell to build. May see a nice early AM
+  window as tide pushes in\, and/or on afternoon tide drop. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +163,17 @@ SUMMARY:OST
 DTSTART:20240305T144800
 DTEND:20240305T180600
 DESCRIPTION:-0.041ft at 14:48\n-2.651ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240306T094800
+DTEND:20240306T120600
+DESCRIPTION:-2.876ft at 09:48\n-0.049ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240306T155400
+DTEND:20240306T180600
+DESCRIPTION:-0.043ft at 15:54\n-2.252ft at 18:06
 END:VEVENT
 END:VCALENDAR
