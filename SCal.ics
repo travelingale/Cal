@@ -2,41 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240221T112400
-DTEND:20240221T134800
-DESCRIPTION:Much lighter wind\, cleaner surf expected. W swell easing as s
- econdary\, long-period WNW swell shows underneath.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240221T170600
-DTEND:20240221T174800
-DESCRIPTION:Much lighter wind\, cleaner surf expected. W swell easing as s
- econdary\, long-period WNW swell shows underneath.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240222T120000
-DTEND:20240222T143000
-DESCRIPTION:Much lighter wind\, cleaner surf expected. W swell easing as s
- econdary\, long-period WNW swell shows underneath.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240222T173000
-DTEND:20240222T175400
-DESCRIPTION:At the moment\, light/favorable wind is expected all day. Smal
- ler\, fun mix of W/WNW swells in the water. Best shape will be on dropping
-  tide late morning into midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
 DTSTART:20240223T123000
 DTEND:20240223T151200
-DESCRIPTION:Watching for a new WNW swell to build\, potentially solid by a
- fternoon. May see a nice early AM window as tide pushes in\, and/or on aft
- ernoon tide drop. Stay tuned.
+DESCRIPTION:New WNW swell to build\, potentially solid by afternoon. May s
+ ee funky E wind in town first half of day but becoming cleaner with light/
+ variable wind midday into afternoon as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
@@ -46,28 +17,34 @@ DESCRIPTION:WNW swell that comes up Friday gradually backs down through we
  ekend. E/SE wind may be an issue\, but looking light at the moment.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240225T064800
 DTEND:20240225T071200
-DESCRIPTION:-2.638ft at 06:48\n-2.950ft at 07:12
+DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
+  moment\, wind may be dicey as unsettled weather returns.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240225T133000
 DTEND:20240225T175400
-DESCRIPTION:-2.940ft at 13:30\n-0.261ft at 17:54
+DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
+  moment\, wind may be dicey as unsettled weather returns.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240226T064800
 DTEND:20240226T080600
-DESCRIPTION:-2.024ft at 06:48\n-2.942ft at 08:06
+DESCRIPTION:May see a increase in NW swell\, along with NW wind along the 
+ coast. All in all\, groomed surf in town with a mix of fun NW swells in wa
+ ter. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240226T135400
 DTEND:20240226T175400
-DESCRIPTION:-2.993ft at 13:54\n-0.560ft at 17:54
+DESCRIPTION:May see a increase in NW swell\, along with NW wind along the 
+ coast. All in all\, groomed surf in town with a mix of fun NW swells in wa
+ ter. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -170,5 +147,29 @@ SUMMARY:OST
 DTSTART:20240307T164200
 DTEND:20240307T180600
 DESCRIPTION:-0.064ft at 16:42\n-1.704ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240308T112400
+DTEND:20240308T132400
+DESCRIPTION:-2.999ft at 11:24\n-0.043ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240308T171800
+DTEND:20240308T180600
+DESCRIPTION:-0.095ft at 17:18\n-1.096ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240309T121200
+DTEND:20240309T141200
+DESCRIPTION:-2.972ft at 12:12\n-0.059ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240309T174200
+DTEND:20240309T180600
+DESCRIPTION:-0.087ft at 17:42\n-0.565ft at 18:06
 END:VEVENT
 END:VCALENDAR
