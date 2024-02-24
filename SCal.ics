@@ -3,32 +3,25 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240223T123000
-DTEND:20240223T151200
-DESCRIPTION:New WNW swell to build\, potentially solid by afternoon. May s
- ee funky E wind in town first half of day but becoming cleaner with light/
- variable wind midday into afternoon as tide drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240224T130000
 DTEND:20240224T160000
 DESCRIPTION:WNW swell that comes up Friday gradually backs down through we
- ekend. E/SE wind may be an issue\, but looking light at the moment.
+ ekend. Groomed conditions in morning but keep in mind the high tide late m
+ orning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240225T064800
 DTEND:20240225T071200
 DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
-  moment\, wind may be dicey as unsettled weather returns.
+  moment\, wind looks light/variable most of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240225T133000
 DTEND:20240225T175400
 DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
-  moment\, wind may be dicey as unsettled weather returns.
+  moment\, wind looks light/variable most of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -47,16 +40,18 @@ DESCRIPTION:May see a increase in NW swell\, along with NW wind along the
  ter. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240227T064200
 DTEND:20240227T090600
-DESCRIPTION:-1.530ft at 06:42\n-2.931ft at 09:06
+DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
+ d NW swell mix comes up a few notches but bulk bypasses town spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240227T142400
 DTEND:20240227T175400
-DESCRIPTION:-2.937ft at 14:24\n-0.990ft at 17:54
+DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
+ d NW swell mix comes up a few notches but bulk bypasses town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -171,5 +166,11 @@ SUMMARY:OST
 DTSTART:20240309T174200
 DTEND:20240309T180600
 DESCRIPTION:-0.087ft at 17:42\n-0.565ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240310T140000
+DTEND:20240310T161200
+DESCRIPTION:-2.913ft at 14:00\n-0.043ft at 16:12
 END:VEVENT
 END:VCALENDAR
