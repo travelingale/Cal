@@ -2,42 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240224T130000
-DTEND:20240224T160000
-DESCRIPTION:WNW swell that comes up Friday gradually backs down through we
- ekend. Groomed conditions in morning but keep in mind the high tide late m
- orning.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240225T064800
 DTEND:20240225T071200
-DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
-  moment\, wind looks light/variable most of day. 
+DESCRIPTION:Old WNW swell fades. New\, inconsistent\, long-period WNW swel
+ l building in. Wind light/variable most of day\, most favorable in the mor
+ ning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240225T133000
 DTEND:20240225T175400
-DESCRIPTION:New\, inconsistent\, long-period WNW swell building in. At the
-  moment\, wind looks light/variable most of day. 
+DESCRIPTION:Old WNW swell fades. New\, inconsistent\, long-period WNW swel
+ l building in. Wind light/variable most of day\, most favorable in the mor
+ ning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240226T064800
 DTEND:20240226T080600
-DESCRIPTION:May see a increase in NW swell\, along with NW wind along the 
- coast. All in all\, groomed surf in town with a mix of fun NW swells in wa
- ter. Stay tuned.
+DESCRIPTION:Increase in NW swell\, along with NW wind along the coast. All
+  in all\, groomed surf in town with a mix of fun NW swells in water. Stay 
+ tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240226T135400
 DTEND:20240226T175400
-DESCRIPTION:May see a increase in NW swell\, along with NW wind along the 
- coast. All in all\, groomed surf in town with a mix of fun NW swells in wa
- ter. Stay tuned.
+DESCRIPTION:Increase in NW swell\, along with NW wind along the coast. All
+  in all\, groomed surf in town with a mix of fun NW swells in water. Stay 
+ tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -54,16 +48,18 @@ DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
  d NW swell mix comes up a few notches but bulk bypasses town spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240228T064200
 DTEND:20240228T102400
-DESCRIPTION:-1.308ft at 06:42\n-2.974ft at 10:24
+DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
+ he day. Again\, bulk of energy bypassing town.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240228T144200
 DTEND:20240228T180000
-DESCRIPTION:-2.993ft at 14:42\n-1.482ft at 18:00
+DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
+ he day. Again\, bulk of energy bypassing town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -172,5 +168,17 @@ SUMMARY:OST
 DTSTART:20240310T140000
 DTEND:20240310T161200
 DESCRIPTION:-2.913ft at 14:00\n-0.043ft at 16:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240311T072400
+DTEND:20240311T090000
+DESCRIPTION:-1.146ft at 07:24\n-2.937ft at 09:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240311T144200
+DTEND:20240311T191200
+DESCRIPTION:-2.985ft at 14:42\n-0.376ft at 19:12
 END:VEVENT
 END:VCALENDAR
