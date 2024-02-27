@@ -2,46 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240226T064800
-DTEND:20240226T080600
-DESCRIPTION:NW swell continues. morning winds light/variable with nice ear
- ly tide push. Afternoon winds staying on the light side.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240226T135400
-DTEND:20240226T175400
-DESCRIPTION:NW swell continues. morning winds light/variable with nice ear
- ly tide push. Afternoon winds staying on the light side.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240227T064200
 DTEND:20240227T090600
 DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
- d NW swell mix comes up a few notches but bulk bypasses town spots.
+ d NW swell mix comes up a few notches but bulk bypasses town spots. Fun at
+  NW focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240227T142400
 DTEND:20240227T175400
 DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
- d NW swell mix comes up a few notches but bulk bypasses town spots.
+ d NW swell mix comes up a few notches but bulk bypasses town spots. Fun at
+  NW focal points.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240228T064200
 DTEND:20240228T102400
 DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
- he day. Again\, bulk of energy bypassing town.
+ he day. Again\, bulk of energy bypassing town but fun at focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240228T144200
 DTEND:20240228T180000
 DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
- he day. Again\, bulk of energy bypassing town.
+ he day. Again\, bulk of energy bypassing town but fun at focal points.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -58,10 +46,11 @@ DESCRIPTION:New mix of NW/WNW swell and windswell due to slowly rise durin
  g the day\, along with steadily rising southerly winds. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240301T064200
 DTEND:20240301T180000
-DESCRIPTION:-1.639ft at 06:42\n-2.419ft at 18:00
+DESCRIPTION:Dicey onshore/S wind due all day. Watching for healthy new WNW
+  swell\, plus windswell\, to increase all day too. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +165,17 @@ SUMMARY:OST
 DTSTART:20240312T153000
 DTEND:20240312T191200
 DESCRIPTION:-2.935ft at 15:30\n-0.744ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240313T082400
+DTEND:20240313T114800
+DESCRIPTION:-0.024ft at 08:24\n-2.936ft at 11:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240313T161800
+DTEND:20240313T191200
+DESCRIPTION:-2.934ft at 16:18\n-1.393ft at 19:12
 END:VEVENT
 END:VCALENDAR
