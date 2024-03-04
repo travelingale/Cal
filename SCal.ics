@@ -2,115 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240227T064200
-DTEND:20240227T090600
-DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
- d NW swell mix comes up a few notches but bulk bypasses town spots. Fun at
-  NW focal points.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240227T142400
-DTEND:20240227T175400
-DESCRIPTION:More NW wind\, groomed surface conditions in town. Short-perio
- d NW swell mix comes up a few notches but bulk bypasses town spots. Fun at
-  NW focal points.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240228T064200
-DTEND:20240228T102400
-DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
- he day. Again\, bulk of energy bypassing town but fun at focal points.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240228T144200
-DTEND:20240228T180000
-DESCRIPTION:Offshore and groomed in town. Fun NW swell mix eases through t
- he day. Again\, bulk of energy bypassing town but fun at focal points.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240229T064200
-DTEND:20240229T121200
-DESCRIPTION:New mix of NW/WNW swell and windswell due to slowly rise durin
- g the day\, along with steadily rising southerly winds. Stay tuned. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor
-DTSTART:20240229T145400
-DTEND:20240229T180000
-DESCRIPTION:New mix of NW/WNW swell and windswell due to slowly rise durin
- g the day\, along with steadily rising southerly winds. Stay tuned. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240301T064200
-DTEND:20240301T180000
-DESCRIPTION:Dicey onshore/S wind due all day. Watching for healthy new WNW
-  swell\, plus windswell\, to increase all day too. Stay tuned. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20240302T064200
-DTEND:20240302T180000
-DESCRIPTION:-2.193ft at 06:42\n-2.728ft at 18:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20240303T064200
-DTEND:20240303T180000
-DESCRIPTION:-2.965ft at 06:42\n-2.871ft at 18:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20240304T074800
 DTEND:20240304T120600
-DESCRIPTION:-2.927ft at 07:48\n-0.002ft at 12:06
+DESCRIPTION:NW swell-mix leftovers to start week -- with head high to over
+ head sets for winter standouts. Small SSW swell mixing in. Favorable wind 
+ in morning as tide drops. Wind doesn't look to bad all day\, variable onsh
+ ore in the PM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240304T123600
 DTEND:20240304T180000
-DESCRIPTION:-0.004ft at 12:36\n-2.826ft at 18:00
+DESCRIPTION:NW swell-mix leftovers to start week -- with head high to over
+ head sets for winter standouts. Small SSW swell mixing in. Favorable wind 
+ in morning as tide drops. Wind doesn't look to bad all day\, variable onsh
+ ore in the PM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240305T084800
 DTEND:20240305T114200
-DESCRIPTION:-2.948ft at 08:48\n-0.026ft at 11:42
+DESCRIPTION:Smaller W-NW leftovers\, slowly leveling off. Small SSW swell 
+ mixing in. Light/variable wind in the AM\, then onshore breeze for the PM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240305T144800
 DTEND:20240305T180600
-DESCRIPTION:-0.041ft at 14:48\n-2.651ft at 18:06
+DESCRIPTION:Smaller W-NW leftovers\, slowly leveling off. Small SSW swell 
+ mixing in. Light/variable wind in the AM\, then onshore breeze for the PM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240306T094800
 DTEND:20240306T120600
-DESCRIPTION:-2.876ft at 09:48\n-0.049ft at 12:06
+DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
+  long-period WNW swell moves in\, but small. Lingering shorter period NW s
+ well mixing in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240306T155400
 DTEND:20240306T180600
-DESCRIPTION:-0.043ft at 15:54\n-2.252ft at 18:06
+DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
+  long-period WNW swell moves in\, but small. Lingering shorter period NW s
+ well mixing in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240307T103600
 DTEND:20240307T124200
-DESCRIPTION:-2.971ft at 10:36\n-0.041ft at 12:42
+DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
+ his energy will have a hard time wrapping into SC. NW winds.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240307T164200
 DTEND:20240307T180600
-DESCRIPTION:-0.064ft at 16:42\n-1.704ft at 18:06
+DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
+ his energy will have a hard time wrapping into SC. NW winds.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -177,5 +128,89 @@ SUMMARY:OST
 DTSTART:20240313T161800
 DTEND:20240313T191200
 DESCRIPTION:-2.934ft at 16:18\n-1.393ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240314T072400
+DTEND:20240314T080000
+DESCRIPTION:-0.372ft at 07:24\n-0.033ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240314T093600
+DTEND:20240314T133600
+DESCRIPTION:-0.011ft at 09:36\n-2.953ft at 13:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240314T170600
+DTEND:20240314T191200
+DESCRIPTION:-2.991ft at 17:06\n-2.153ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240315T071800
+DTEND:20240315T091800
+DESCRIPTION:-1.426ft at 07:18\n-0.008ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240315T104800
+DTEND:20240315T154200
+DESCRIPTION:-0.017ft at 10:48\n-2.978ft at 15:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240315T183000
+DTEND:20240315T191200
+DESCRIPTION:-2.986ft at 18:30\n-2.827ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240316T071800
+DTEND:20240316T103600
+DESCRIPTION:-2.597ft at 07:18\n-0.012ft at 10:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240316T120600
+DTEND:20240316T171200
+DESCRIPTION:-0.003ft at 12:06\n-2.969ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240317T080600
+DTEND:20240317T114200
+DESCRIPTION:-2.915ft at 08:06\n-0.007ft at 11:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240317T133600
+DTEND:20240317T180600
+DESCRIPTION:-0.008ft at 13:36\n-2.968ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240318T091200
+DTEND:20240318T123000
+DESCRIPTION:-2.920ft at 09:12\n-0.045ft at 12:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240318T145400
+DTEND:20240318T184800
+DESCRIPTION:-0.032ft at 14:54\n-2.983ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240319T101200
+DTEND:20240319T131800
+DESCRIPTION:-2.922ft at 10:12\n-0.042ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240319T154800
+DTEND:20240319T191800
+DESCRIPTION:-0.029ft at 15:48\n-2.946ft at 19:18
 END:VEVENT
 END:VCALENDAR
