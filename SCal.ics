@@ -2,39 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240304T074800
-DTEND:20240304T120600
-DESCRIPTION:NW swell-mix leftovers to start week -- with head high to over
- head sets for winter standouts. Small SSW swell mixing in. Favorable wind 
- in morning as tide drops. Wind doesn't look to bad all day\, variable onsh
- ore in the PM. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240304T123600
-DTEND:20240304T180000
-DESCRIPTION:NW swell-mix leftovers to start week -- with head high to over
- head sets for winter standouts. Small SSW swell mixing in. Favorable wind 
- in morning as tide drops. Wind doesn't look to bad all day\, variable onsh
- ore in the PM. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240305T084800
 DTEND:20240305T114200
-DESCRIPTION:Smaller W-NW leftovers\, slowly leveling off. Small SSW swell 
- mixing in. Light/variable wind in the AM\, then onshore breeze for the PM
+DESCRIPTION:Smaller NW leftovers\, slowly leveling off. Small SSW swell mi
+ xing in. Light/variable wind in the AM\, then onshore breeze for the PM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240305T144800
 DTEND:20240305T180600
-DESCRIPTION:Smaller W-NW leftovers\, slowly leveling off. Small SSW swell 
- mixing in. Light/variable wind in the AM\, then onshore breeze for the PM
+DESCRIPTION:Smaller NW leftovers\, slowly leveling off. Small SSW swell mi
+ xing in. Light/variable wind in the AM\, then onshore breeze for the PM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240306T094800
 DTEND:20240306T120600
 DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
@@ -42,7 +24,7 @@ DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
  well mixing in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240306T155400
 DTEND:20240306T180600
 DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
@@ -64,16 +46,18 @@ DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
  his energy will have a hard time wrapping into SC. NW winds.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240308T112400
 DTEND:20240308T132400
-DESCRIPTION:-2.999ft at 11:24\n-0.043ft at 13:24
+DESCRIPTION:Down in size from Thursday. Small but clean surf to show for t
+ he day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240308T171800
 DTEND:20240308T180600
-DESCRIPTION:-0.095ft at 17:18\n-1.096ft at 18:06
+DESCRIPTION:Down in size from Thursday. Small but clean surf to show for t
+ he day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -212,5 +196,17 @@ SUMMARY:OST
 DTSTART:20240319T154800
 DTEND:20240319T191800
 DESCRIPTION:-0.029ft at 15:48\n-2.946ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240320T110000
+DTEND:20240320T140600
+DESCRIPTION:-2.978ft at 11:00\n-0.011ft at 14:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240320T162400
+DTEND:20240320T191800
+DESCRIPTION:-0.018ft at 16:24\n-2.553ft at 19:18
 END:VEVENT
 END:VCALENDAR
