@@ -2,37 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240305T084800
-DTEND:20240305T114200
-DESCRIPTION:Smaller NW leftovers\, slowly leveling off. Small SSW swell mi
- xing in. Light/variable wind in the AM\, then onshore breeze for the PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240305T144800
-DTEND:20240305T180600
-DESCRIPTION:Smaller NW leftovers\, slowly leveling off. Small SSW swell mi
- xing in. Light/variable wind in the AM\, then onshore breeze for the PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240306T094800
 DTEND:20240306T120600
-DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
-  long-period WNW swell moves in\, but small. Lingering shorter period NW s
- well mixing in. 
+DESCRIPTION:Dicey\, side-onshore wind all morning trends more favorable la
+ ter in day. New\, long-period WNW swell moves in\, but small. Lingering sh
+ orter period NW swell mixing in. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2 - 3ft: Fair
+DTSTART:20240306T155400
+DTEND:20240306T180600
+DESCRIPTION:Dicey\, side-onshore wind all morning trends more favorable la
+ ter in day. New\, long-period WNW swell moves in\, but small. Lingering sh
+ orter period NW swell mixing in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240306T155400
-DTEND:20240306T180600
-DESCRIPTION:Wind/conditions suspect -- possible offshores in the AM. New\,
-  long-period WNW swell moves in\, but small. Lingering shorter period NW s
- well mixing in. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240307T103600
 DTEND:20240307T124200
 DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
@@ -60,16 +46,20 @@ DESCRIPTION:Down in size from Thursday. Small but clean surf to show for t
  he day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240309T121200
 DTEND:20240309T141200
-DESCRIPTION:-2.972ft at 12:12\n-0.059ft at 14:12
+DESCRIPTION:Small WNW-NW swell to continue and may bump up late in the day
+  with a stronger pulse of WNW swell to build in. Wind looking favorable fo
+ r at least the AM at this point. Note a deep high tide peaks mid-morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240309T174200
 DTEND:20240309T180600
-DESCRIPTION:-0.087ft at 17:42\n-0.565ft at 18:06
+DESCRIPTION:Small WNW-NW swell to continue and may bump up late in the day
+  with a stronger pulse of WNW swell to build in. Wind looking favorable fo
+ r at least the AM at this point. Note a deep high tide peaks mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -208,5 +198,17 @@ SUMMARY:OST
 DTSTART:20240320T162400
 DTEND:20240320T191800
 DESCRIPTION:-0.018ft at 16:24\n-2.553ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240321T114200
+DTEND:20240321T144800
+DESCRIPTION:-2.999ft at 11:42\n-0.043ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240321T164800
+DTEND:20240321T191800
+DESCRIPTION:-0.038ft at 16:48\n-2.184ft at 19:18
 END:VEVENT
 END:VCALENDAR
