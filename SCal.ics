@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240307T103600
-DTEND:20240307T124200
-DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
- his energy will have a hard time wrapping into SC. NW winds.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240307T164200
-DTEND:20240307T180600
-DESCRIPTION:Fresh spike in short period NW swell/windswell\, but much of t
- his energy will have a hard time wrapping into SC. NW winds.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240308T112400
 DTEND:20240308T132400
@@ -33,36 +19,37 @@ BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240309T121200
 DTEND:20240309T141200
-DESCRIPTION:Small WNW-NW swell to continue and may bump up late in the day
-  with a stronger pulse of WNW swell to build in. Wind looking favorable fo
- r at least the AM at this point. Note a deep high tide peaks mid-morning.
+DESCRIPTION:Small NW swell to continue and may bump up late in the day wit
+ h a new pulse of NW swell to build in. Wind looking favorable for at least
+  the AM at this point. Note a deep high tide peaks mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240309T174200
 DTEND:20240309T180600
-DESCRIPTION:Small WNW-NW swell to continue and may bump up late in the day
-  with a stronger pulse of WNW swell to build in. Wind looking favorable fo
- r at least the AM at this point. Note a deep high tide peaks mid-morning.
+DESCRIPTION:Small NW swell to continue and may bump up late in the day wit
+ h a new pulse of NW swell to build in. Wind looking favorable for at least
+  the AM at this point. Note a deep high tide peaks mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240310T140000
 DTEND:20240310T161200
-DESCRIPTION:Possible solid WNW swell to show\, as well as favorable AM win
- d. STAY TUNED
+DESCRIPTION:New\, solid NW swell to show\, as well as favorable AM wind.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20240311T072400
 DTEND:20240311T090000
-DESCRIPTION:-1.146ft at 07:24\n-2.937ft at 09:00
+DESCRIPTION:Solid NW swell tops out. Surf should be clean from light/varia
+ ble wind (glassy) in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240311T144200
 DTEND:20240311T191200
-DESCRIPTION:-2.985ft at 14:42\n-0.376ft at 19:12
+DESCRIPTION:Solid NW swell tops out. Surf should be clean from light/varia
+ ble wind (glassy) in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -207,5 +194,11 @@ SUMMARY:OST
 DTSTART:20240322T164200
 DTEND:20240322T191800
 DESCRIPTION:-0.009ft at 16:42\n-1.896ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240323T125400
+DTEND:20240323T191800
+DESCRIPTION:-2.976ft at 12:54\n-1.707ft at 19:18
 END:VEVENT
 END:VCALENDAR
