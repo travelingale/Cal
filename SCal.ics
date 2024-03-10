@@ -2,66 +2,60 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240309T121200
-DTEND:20240309T141200
-DESCRIPTION:Wind looking light/favorable for at least the AM. Note a deep 
- high tide peaks mid-morning. Small to locally fun NW swell in the water.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240309T174200
-DTEND:20240309T180600
-DESCRIPTION:Wind looking light/favorable for at least the AM. Note a deep 
- high tide peaks mid-morning. Small to locally fun NW swell in the water.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240310T140000
 DTEND:20240310T161200
-DESCRIPTION:Clean morning window\, but may see light onshore midday into a
- fternoon. New\, solid NW swell builds through the day -- biggest in aftern
- oon. 
+DESCRIPTION:Clean morning window\, but may see light+ onshore SW wind buil
+ d midday into afternoon. New\, solid NW swell builds through the day -- bi
+ ggest in afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240311T072400
 DTEND:20240311T090000
 DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
- rf should be clean from light/variable wind (glassy) in morning.
+ rf should be groomed clean from variable to light offshore wind in the mor
+ ning. NW/W wind builds for the afternoon but the tucked away points stay c
+ lean.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240311T144200
 DTEND:20240311T191200
 DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
- rf should be clean from light/variable wind (glassy) in morning.
+ rf should be groomed clean from variable to light offshore wind in the mor
+ ning. NW/W wind builds for the afternoon but the tucked away points stay c
+ lean.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240312T072400
 DTEND:20240312T101800
-DESCRIPTION:Clean morning conditions continue. Good mix of WNW swells (lon
- g and mid-periods) slowly fade.
+DESCRIPTION:Southerly flow threatening to texture up the morning window. G
+ ood size mix of WNW swells (long and mid-periods) to slowly fade.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240312T153000
 DTEND:20240312T191200
-DESCRIPTION:Clean morning conditions continue. Good mix of WNW swells (lon
- g and mid-periods) slowly fade.
+DESCRIPTION:Southerly flow threatening to texture up the morning window. G
+ ood size mix of WNW swells (long and mid-periods) to slowly fade.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240313T082400
 DTEND:20240313T114800
-DESCRIPTION:-0.024ft at 08:24\n-2.936ft at 11:48
+DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
+ y points. Wind may be light along the immediate coast and ripping from the
+  NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair to good
 DTSTART:20240313T161800
 DTEND:20240313T191200
-DESCRIPTION:-2.934ft at 16:18\n-1.393ft at 19:12
+DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
+ y points. Wind may be light along the immediate coast and ripping from the
+  NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -200,5 +194,17 @@ SUMMARY:OST
 DTSTART:20240324T133000
 DTEND:20240324T191800
 DESCRIPTION:-2.906ft at 13:30\n-1.620ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240325T070600
+DTEND:20240325T085400
+DESCRIPTION:-1.480ft at 07:06\n-2.976ft at 08:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240325T140000
+DTEND:20240325T192400
+DESCRIPTION:-2.926ft at 14:00\n-1.706ft at 19:24
 END:VEVENT
 END:VCALENDAR
