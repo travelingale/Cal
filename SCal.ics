@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240310T140000
-DTEND:20240310T161200
-DESCRIPTION:Clean morning window\, but may see light+ onshore SW wind buil
- d midday into afternoon. New\, solid NW swell builds through the day -- bi
- ggest in afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20240311T072400
 DTEND:20240311T090000
 DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
@@ -28,21 +20,21 @@ DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
  lean.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240312T072400
 DTEND:20240312T101800
 DESCRIPTION:Southerly flow threatening to texture up the morning window. G
  ood size mix of WNW swells (long and mid-periods) to slowly fade.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240312T153000
 DTEND:20240312T191200
 DESCRIPTION:Southerly flow threatening to texture up the morning window. G
  ood size mix of WNW swells (long and mid-periods) to slowly fade.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240313T082400
 DTEND:20240313T114800
 DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
@@ -50,7 +42,7 @@ DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
   NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240313T161800
 DTEND:20240313T191200
 DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
@@ -58,22 +50,28 @@ DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
   NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240314T072400
 DTEND:20240314T080000
-DESCRIPTION:-0.372ft at 07:24\n-0.033ft at 08:00
+DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
+ ent size NW swell in the water while secondary SSW swell blends in. Target
+  morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240314T093600
 DTEND:20240314T133600
-DESCRIPTION:-0.011ft at 09:36\n-2.953ft at 13:36
+DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
+ ent size NW swell in the water while secondary SSW swell blends in. Target
+  morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240314T170600
 DTEND:20240314T191200
-DESCRIPTION:-2.991ft at 17:06\n-2.153ft at 19:12
+DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
+ ent size NW swell in the water while secondary SSW swell blends in. Target
+  morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -206,5 +204,17 @@ SUMMARY:OST
 DTSTART:20240325T140000
 DTEND:20240325T192400
 DESCRIPTION:-2.926ft at 14:00\n-1.706ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240326T070600
+DTEND:20240326T094800
+DESCRIPTION:-0.895ft at 07:06\n-2.957ft at 09:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240326T143000
+DTEND:20240326T192400
+DESCRIPTION:-2.946ft at 14:30\n-1.795ft at 19:24
 END:VEVENT
 END:VCALENDAR
