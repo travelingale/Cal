@@ -2,25 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
-DTSTART:20240311T072400
-DTEND:20240311T090000
-DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
- rf should be groomed clean from variable to light offshore wind in the mor
- ning. NW/W wind builds for the afternoon but the tucked away points stay c
- lean.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
-DTSTART:20240311T144200
-DTEND:20240311T191200
-DESCRIPTION:Solid NW swell tops out with more size compared to weekend. Su
- rf should be groomed clean from variable to light offshore wind in the mor
- ning. NW/W wind builds for the afternoon but the tucked away points stay c
- lean.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240312T072400
 DTEND:20240312T101800
 DESCRIPTION:Southerly flow threatening to texture up the morning window. G
@@ -50,7 +32,7 @@ DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
   NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240314T072400
 DTEND:20240314T080000
 DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
@@ -58,7 +40,7 @@ DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
   morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240314T093600
 DTEND:20240314T133600
 DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
@@ -74,22 +56,28 @@ DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
   morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240315T071800
 DTEND:20240315T091800
-DESCRIPTION:-1.426ft at 07:18\n-0.008ft at 09:18
+DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
+ swell while a new\, long-period pulse starts to creep in underneath. Secon
+ dary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240315T104800
 DTEND:20240315T154200
-DESCRIPTION:-0.017ft at 10:48\n-2.978ft at 15:42
+DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
+ swell while a new\, long-period pulse starts to creep in underneath. Secon
+ dary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240315T183000
 DTEND:20240315T191200
-DESCRIPTION:-2.986ft at 18:30\n-2.827ft at 19:12
+DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
+ swell while a new\, long-period pulse starts to creep in underneath. Secon
+ dary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -216,5 +204,17 @@ SUMMARY:OST
 DTSTART:20240326T143000
 DTEND:20240326T192400
 DESCRIPTION:-2.946ft at 14:30\n-1.795ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240327T070000
+DTEND:20240327T104800
+DESCRIPTION:-0.486ft at 07:00\n-2.935ft at 10:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240327T150000
+DTEND:20240327T192400
+DESCRIPTION:-2.962ft at 15:00\n-1.969ft at 19:24
 END:VEVENT
 END:VCALENDAR
