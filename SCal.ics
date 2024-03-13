@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240312T072400
-DTEND:20240312T101800
-DESCRIPTION:Southerly flow threatening to texture up the morning window. G
- ood size mix of WNW swells (long and mid-periods) to slowly fade.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240312T153000
-DTEND:20240312T191200
-DESCRIPTION:Southerly flow threatening to texture up the morning window. G
- ood size mix of WNW swells (long and mid-periods) to slowly fade.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240313T082400
 DTEND:20240313T114800
@@ -32,7 +18,7 @@ DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
   NNW offshore for some lump/warble. Reinforcing NW swell moves in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240314T072400
 DTEND:20240314T080000
 DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
@@ -40,7 +26,7 @@ DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
   morning as tide drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240314T093600
 DTEND:20240314T133600
 DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
@@ -80,16 +66,20 @@ DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW
  dary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240316T071800
 DTEND:20240316T103600
-DESCRIPTION:-2.597ft at 07:18\n-0.012ft at 10:36
+DESCRIPTION:Potential is there for another clean AM window on the tide dro
+ p. Good size round of long period NW swell tops out. The direction takes a
+  little size off the top in town but it could still be kinda pumping.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240316T120600
 DTEND:20240316T171200
-DESCRIPTION:-0.003ft at 12:06\n-2.969ft at 17:12
+DESCRIPTION:Potential is there for another clean AM window on the tide dro
+ p. Good size round of long period NW swell tops out. The direction takes a
+  little size off the top in town but it could still be kinda pumping.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -216,5 +206,17 @@ SUMMARY:OST
 DTSTART:20240327T150000
 DTEND:20240327T192400
 DESCRIPTION:-2.962ft at 15:00\n-1.969ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240328T070000
+DTEND:20240328T120600
+DESCRIPTION:-0.381ft at 07:00\n-2.965ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240328T153000
+DTEND:20240328T192400
+DESCRIPTION:-2.965ft at 15:30\n-2.211ft at 19:24
 END:VEVENT
 END:VCALENDAR
