@@ -3,95 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240313T082400
-DTEND:20240313T114800
-DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
- y points. Wind may be light along the immediate coast and ripping from the
-  NNW offshore for some lump/warble. Reinforcing NW swell moves in.
+DTSTART:20240314T072400
+DTEND:20240314T080000
+DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
+ ater while secondary SSW swell blends in. Target morning as tide pushes ba
+ ck in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240313T161800
-DTEND:20240313T191200
-DESCRIPTION:Favorable AM conditions remain on the table for the tucked awa
- y points. Wind may be light along the immediate coast and ripping from the
-  NNW offshore for some lump/warble. Reinforcing NW swell moves in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240314T072400
-DTEND:20240314T080000
-DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
- ent size NW swell in the water while secondary SSW swell blends in. Target
-  morning as tide drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240314T093600
 DTEND:20240314T133600
-DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
- ent size NW swell in the water while secondary SSW swell blends in. Target
-  morning as tide drops.
+DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
+ ater while secondary SSW swell blends in. Target morning as tide pushes ba
+ ck in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240314T170600
 DTEND:20240314T191200
-DESCRIPTION:Offshore wind and groomed surf expected first half of day. Dec
- ent size NW swell in the water while secondary SSW swell blends in. Target
-  morning as tide drops.
+DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
+ ater while secondary SSW swell blends in. Target morning as tide pushes ba
+ ck in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240315T071800
 DTEND:20240315T091800
-DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
- swell while a new\, long-period pulse starts to creep in underneath. Secon
- dary S swell blends in.
+DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
+  swell while a new\, long-period pulse starts to creep in underneath. Seco
+ ndary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240315T104800
 DTEND:20240315T154200
-DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
- swell while a new\, long-period pulse starts to creep in underneath. Secon
- dary S swell blends in.
+DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
+  swell while a new\, long-period pulse starts to creep in underneath. Seco
+ ndary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240315T183000
 DTEND:20240315T191200
-DESCRIPTION:Optimal AM window: Offshore flow and dropping tide. Easing NW 
- swell while a new\, long-period pulse starts to creep in underneath. Secon
- dary S swell blends in.
+DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
+  swell while a new\, long-period pulse starts to creep in underneath. Seco
+ ndary S swell blends in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240316T071800
 DTEND:20240316T103600
-DESCRIPTION:Potential is there for another clean AM window on the tide dro
- p. Good size round of long period NW swell tops out. The direction takes a
-  little size off the top in town but it could still be kinda pumping.
+DESCRIPTION:Another clean AM window on the tide drop. Mid sized round of l
+ ong period NW swell tops out. The direction takes a little size off the to
+ p in town but it could still be kinda pumping.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240316T120600
 DTEND:20240316T171200
-DESCRIPTION:Potential is there for another clean AM window on the tide dro
- p. Good size round of long period NW swell tops out. The direction takes a
-  little size off the top in town but it could still be kinda pumping.
+DESCRIPTION:Another clean AM window on the tide drop. Mid sized round of l
+ ong period NW swell tops out. The direction takes a little size off the to
+ p in town but it could still be kinda pumping.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240317T080600
 DTEND:20240317T114200
-DESCRIPTION:-2.915ft at 08:06\n-0.007ft at 11:42
+DESCRIPTION:Looks like another fun day at this point - not big but rippabl
+ e off mix of mainly NW and a touch of S swell. Fair weather + light wind p
+ ossible. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240317T133600
 DTEND:20240317T180600
-DESCRIPTION:-0.008ft at 13:36\n-2.968ft at 18:06
+DESCRIPTION:Looks like another fun day at this point - not big but rippabl
+ e off mix of mainly NW and a touch of S swell. Fair weather + light wind p
+ ossible. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -218,5 +206,17 @@ SUMMARY:OST
 DTSTART:20240328T153000
 DTEND:20240328T192400
 DESCRIPTION:-2.965ft at 15:30\n-2.211ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240329T070000
+DTEND:20240329T140000
+DESCRIPTION:-0.569ft at 07:00\n-2.995ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240329T154200
+DTEND:20240329T192400
+DESCRIPTION:-2.999ft at 15:42\n-2.485ft at 19:24
 END:VEVENT
 END:VCALENDAR
