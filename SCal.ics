@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240314T072400
-DTEND:20240314T080000
-DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
- ater while secondary SSW swell blends in. Target morning as tide pushes ba
- ck in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240314T093600
-DTEND:20240314T133600
-DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
- ater while secondary SSW swell blends in. Target morning as tide pushes ba
- ck in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240314T170600
-DTEND:20240314T191200
-DESCRIPTION:Offshore wind and groomed surf. fairly solid NW swell in the w
- ater while secondary SSW swell blends in. Target morning as tide pushes ba
- ck in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240315T071800
 DTEND:20240315T091800
@@ -82,16 +58,18 @@ DESCRIPTION:Looks like another fun day at this point - not big but rippabl
  ossible. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240318T091200
 DTEND:20240318T123000
-DESCRIPTION:-2.920ft at 09:12\n-0.045ft at 12:30
+DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
+ lling in underneath. Favorable wind continues.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240318T145400
 DTEND:20240318T184800
-DESCRIPTION:-0.032ft at 14:54\n-2.983ft at 18:48
+DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
+ lling in underneath. Favorable wind continues.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -218,5 +196,11 @@ SUMMARY:OST
 DTSTART:20240329T154200
 DTEND:20240329T192400
 DESCRIPTION:-2.999ft at 15:42\n-2.485ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240330T070000
+DTEND:20240330T192400
+DESCRIPTION:-1.054ft at 07:00\n-2.753ft at 19:24
 END:VEVENT
 END:VCALENDAR
