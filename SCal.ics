@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240315T071800
-DTEND:20240315T091800
-DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
-  swell while a new\, long-period pulse starts to creep in underneath. Seco
- ndary S swell blends in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240315T104800
-DTEND:20240315T154200
-DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
-  swell while a new\, long-period pulse starts to creep in underneath. Seco
- ndary S swell blends in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240315T183000
-DTEND:20240315T191200
-DESCRIPTION:Optimal late AM window: Offshore flow and tide push. Easing NW
-  swell while a new\, long-period pulse starts to creep in underneath. Seco
- ndary S swell blends in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240316T071800
 DTEND:20240316T103600
 DESCRIPTION:Another clean AM window on the tide drop. Mid sized round of l
@@ -72,16 +48,18 @@ DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
  lling in underneath. Favorable wind continues.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240319T101200
 DTEND:20240319T131800
-DESCRIPTION:-2.922ft at 10:12\n-0.042ft at 13:18
+DESCRIPTION:Dropping tide through the morning\, and wind looks light. Long
+ -period NW swell tops out. May be a fun mid to later morning window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240319T154800
 DTEND:20240319T191800
-DESCRIPTION:-0.029ft at 15:48\n-2.946ft at 19:18
+DESCRIPTION:Dropping tide through the morning\, and wind looks light. Long
+ -period NW swell tops out. May be a fun mid to later morning window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +180,11 @@ SUMMARY:OST
 DTSTART:20240330T070000
 DTEND:20240330T192400
 DESCRIPTION:-1.054ft at 07:00\n-2.753ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240331T065400
+DTEND:20240331T193000
+DESCRIPTION:-1.891ft at 06:54\n-2.990ft at 19:30
 END:VEVENT
 END:VCALENDAR
