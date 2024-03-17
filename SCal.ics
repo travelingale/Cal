@@ -3,35 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240316T071800
-DTEND:20240316T103600
-DESCRIPTION:Another clean AM window on the tide drop. Mid sized round of l
- ong period NW swell tops out. The direction takes a little size off the to
- p in town but it could still be kinda pumping.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240316T120600
-DTEND:20240316T171200
-DESCRIPTION:Another clean AM window on the tide drop. Mid sized round of l
- ong period NW swell tops out. The direction takes a little size off the to
- p in town but it could still be kinda pumping.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240317T080600
 DTEND:20240317T114200
-DESCRIPTION:Looks like another fun day at this point - not big but rippabl
- e off mix of mainly NW and a touch of S swell. Fair weather + light wind p
- ossible. 
+DESCRIPTION:Another fun day of waves - not big but rippable off mix of mai
+ nly NW and a touch of S swell. Fair weather + light wind again with option
+ s on either side of the low tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240317T133600
 DTEND:20240317T180600
-DESCRIPTION:Looks like another fun day at this point - not big but rippabl
- e off mix of mainly NW and a touch of S swell. Fair weather + light wind p
- ossible. 
+DESCRIPTION:Another fun day of waves - not big but rippable off mix of mai
+ nly NW and a touch of S swell. Fair weather + light wind again with option
+ s on either side of the low tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -62,16 +46,18 @@ DESCRIPTION:Dropping tide through the morning\, and wind looks light. Long
  -period NW swell tops out. May be a fun mid to later morning window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240320T110000
 DTEND:20240320T140600
-DESCRIPTION:-2.978ft at 11:00\n-0.011ft at 14:06
+DESCRIPTION:Fun day. Light wind continues as NW swell lingers. Target the 
+ AM window as the tide slowly drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240320T162400
 DTEND:20240320T191800
-DESCRIPTION:-0.018ft at 16:24\n-2.553ft at 19:18
+DESCRIPTION:Fun day. Light wind continues as NW swell lingers. Target the 
+ AM window as the tide slowly drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -186,5 +172,17 @@ SUMMARY:OST
 DTSTART:20240331T065400
 DTEND:20240331T193000
 DESCRIPTION:-1.891ft at 06:54\n-2.990ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240401T065400
+DTEND:20240401T105400
+DESCRIPTION:-2.827ft at 06:54\n-0.016ft at 10:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240401T121200
+DTEND:20240401T180600
+DESCRIPTION:-0.016ft at 12:12\n-2.994ft at 18:06
 END:VEVENT
 END:VCALENDAR
