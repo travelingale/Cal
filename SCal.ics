@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240317T080600
-DTEND:20240317T114200
-DESCRIPTION:Another fun day of waves - not big but rippable off mix of mai
- nly NW and a touch of S swell. Fair weather + light wind again with option
- s on either side of the low tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240317T133600
-DTEND:20240317T180600
-DESCRIPTION:Another fun day of waves - not big but rippable off mix of mai
- nly NW and a touch of S swell. Fair weather + light wind again with option
- s on either side of the low tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240318T091200
 DTEND:20240318T123000
 DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
@@ -60,16 +44,18 @@ DESCRIPTION:Fun day. Light wind continues as NW swell lingers. Target the
  AM window as the tide slowly drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair to good
 DTSTART:20240321T114200
 DTEND:20240321T144800
-DESCRIPTION:-2.999ft at 11:42\n-0.043ft at 14:48
+DESCRIPTION:Clean morning\, but wait till later morning for the tide to dr
+ op a little. Fresh blend of WNW-NW swells may show later in the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240321T164800
 DTEND:20240321T191800
-DESCRIPTION:-0.038ft at 16:48\n-2.184ft at 19:18
+DESCRIPTION:Clean morning\, but wait till later morning for the tide to dr
+ op a little. Fresh blend of WNW-NW swells may show later in the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -184,5 +170,17 @@ SUMMARY:OST
 DTSTART:20240401T121200
 DTEND:20240401T180600
 DESCRIPTION:-0.016ft at 12:12\n-2.994ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240402T075400
+DTEND:20240402T111800
+DESCRIPTION:-2.945ft at 07:54\n-0.022ft at 11:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240402T140000
+DTEND:20240402T181800
+DESCRIPTION:-0.026ft at 14:00\n-2.972ft at 18:18
 END:VEVENT
 END:VCALENDAR
