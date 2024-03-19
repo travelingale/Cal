@@ -3,27 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240318T091200
-DTEND:20240318T123000
-DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
- lling in underneath. Favorable wind continues.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240318T145400
-DTEND:20240318T184800
-DESCRIPTION:Size down a peg from weekend but fun\, long-period NW swell fi
- lling in underneath. Favorable wind continues.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240319T101200
 DTEND:20240319T131800
 DESCRIPTION:Dropping tide through the morning\, and wind looks light. Long
  -period NW swell tops out. May be a fun mid to later morning window.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240319T154800
 DTEND:20240319T191800
 DESCRIPTION:Dropping tide through the morning\, and wind looks light. Long
@@ -44,7 +30,7 @@ DESCRIPTION:Fun day. Light wind continues as NW swell lingers. Target the
  AM window as the tide slowly drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240321T114200
 DTEND:20240321T144800
 DESCRIPTION:Clean morning\, but wait till later morning for the tide to dr
@@ -58,16 +44,18 @@ DESCRIPTION:Clean morning\, but wait till later morning for the tide to dr
  op a little. Fresh blend of WNW-NW swells may show later in the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240322T122400
 DTEND:20240322T154800
-DESCRIPTION:-2.914ft at 12:24\n-0.022ft at 15:48
+DESCRIPTION:Clean morning\, but sluggish most of morning from 5'+ high tid
+ e. Fun blend of WNW-NW swells continue.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240322T164200
 DTEND:20240322T191800
-DESCRIPTION:-0.009ft at 16:42\n-1.896ft at 19:18
+DESCRIPTION:Clean morning\, but sluggish most of morning from 5'+ high tid
+ e. Fun blend of WNW-NW swells continue.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +170,17 @@ SUMMARY:OST
 DTSTART:20240402T140000
 DTEND:20240402T181800
 DESCRIPTION:-0.026ft at 14:00\n-2.972ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240403T090000
+DTEND:20240403T115400
+DESCRIPTION:-2.973ft at 09:00\n-0.045ft at 11:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240403T151200
+DTEND:20240403T183600
+DESCRIPTION:-0.051ft at 15:12\n-2.986ft at 18:36
 END:VEVENT
 END:VCALENDAR
