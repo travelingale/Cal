@@ -2,36 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240322T122400
-DTEND:20240322T154800
-DESCRIPTION:Head to spots that don't mind the 5'+ high tide. Onshore/S win
- d increases midday for bumpy surf. Fun blend of NW and SW swells continue.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240322T164200
-DTEND:20240322T191800
-DESCRIPTION:Head to spots that don't mind the 5'+ high tide. Onshore/S win
- d increases midday for bumpy surf. Fun blend of NW and SW swells continue.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240323T125400
 DTEND:20240323T191800
-DESCRIPTION:Low pressure system near the coast driving onshore stronger SW
-  wind most of day\, and solid WNW swell. Sloppy day for surf at this point
- .
+DESCRIPTION:Low pressure system near the coast driving dicey wind. Might b
+ e light/manageable in morning though. New\, solid WNW swell builds in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240324T070600
 DTEND:20240324T080000
 DESCRIPTION:All day offshore/NW wind is in the cards for town spots. Stron
  g WNW swell lingers.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240324T133000
 DTEND:20240324T191800
 DESCRIPTION:All day offshore/NW wind is in the cards for town spots. Stron
@@ -52,16 +37,18 @@ DESCRIPTION:Clean with nice tide push through morning. Mid-period swell li
  ngers while new\, long-period WNW swell builds underneath.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240326T070600
 DTEND:20240326T094800
-DESCRIPTION:-0.895ft at 07:06\n-2.957ft at 09:48
+DESCRIPTION:NW wind blowing off CA coast\, but town spots will be sheltere
+ d and clean. Fun zone mix of WNW swells in water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240326T143000
 DTEND:20240326T192400
-DESCRIPTION:-2.946ft at 14:30\n-1.795ft at 19:24
+DESCRIPTION:NW wind blowing off CA coast\, but town spots will be sheltere
+ d and clean. Fun zone mix of WNW swells in water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +169,23 @@ SUMMARY:OST
 DTSTART:20240406T164800
 DTEND:20240406T191800
 DESCRIPTION:-0.016ft at 16:48\n-2.921ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240407T064800
+DTEND:20240407T071800
+DESCRIPTION:-2.379ft at 06:48\n-2.961ft at 07:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240407T124800
+DTEND:20240407T155400
+DESCRIPTION:-2.910ft at 12:48\n-0.013ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240407T163600
+DTEND:20240407T193600
+DESCRIPTION:-0.015ft at 16:36\n-2.964ft at 19:36
 END:VEVENT
 END:VCALENDAR
