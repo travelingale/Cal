@@ -2,25 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240323T125400
-DTEND:20240323T191800
-DESCRIPTION:Low pressure system near the coast driving dicey wind. Might b
- e light/manageable in morning though. New\, solid WNW swell builds in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240324T070600
 DTEND:20240324T080000
-DESCRIPTION:All day offshore/NW wind is in the cards for town spots. Stron
- g WNW swell lingers.
+DESCRIPTION:Good day. All day offshore/NW wind for town spots. Strong WNW 
+ swell peaks.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240324T133000
 DTEND:20240324T191800
-DESCRIPTION:All day offshore/NW wind is in the cards for town spots. Stron
- g WNW swell lingers.
+DESCRIPTION:Good day. All day offshore/NW wind for town spots. Strong WNW 
+ swell peaks.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -51,16 +44,18 @@ DESCRIPTION:NW wind blowing off CA coast\, but town spots will be sheltere
  d and clean. Fun zone mix of WNW swells in water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240327T070000
 DTEND:20240327T104800
-DESCRIPTION:-0.486ft at 07:00\n-2.935ft at 10:48
+DESCRIPTION:Dicey wind/weather. May see increase in size through day as fr
+ esh WNW swell moves in. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240327T150000
 DTEND:20240327T192400
-DESCRIPTION:-2.962ft at 15:00\n-1.969ft at 19:24
+DESCRIPTION:Dicey wind/weather. May see increase in size through day as fr
+ esh WNW swell moves in. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -187,5 +182,17 @@ SUMMARY:OST
 DTSTART:20240407T163600
 DTEND:20240407T193600
 DESCRIPTION:-0.015ft at 16:36\n-2.964ft at 19:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240408T064800
+DTEND:20240408T083000
+DESCRIPTION:-0.905ft at 06:48\n-2.944ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240408T133600
+DTEND:20240408T193600
+DESCRIPTION:-2.963ft at 13:36\n-2.593ft at 19:36
 END:VEVENT
 END:VCALENDAR
