@@ -2,72 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240326T070600
-DTEND:20240326T094800
-DESCRIPTION:NW wind blowing off CA coast\, but town spots will be sheltere
- d and clean. Fun zone mix of WNW swells in water.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240326T143000
-DTEND:20240326T192400
-DESCRIPTION:NW wind blowing off CA coast\, but town spots will be sheltere
- d and clean. Fun zone mix of WNW swells in water.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240327T070000
 DTEND:20240327T104800
 DESCRIPTION:Wind looks fine/favorable in morning as fresh\, long-period WN
- W swell moves in. Conditions may get dicey in afternoon with S wind.
+ W swell moves in. Conditions may get dicey in afternoon with onshore/S win
+ d.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240327T150000
 DTEND:20240327T192400
 DESCRIPTION:Wind looks fine/favorable in morning as fresh\, long-period WN
- W swell moves in. Conditions may get dicey in afternoon with S wind.
+ W swell moves in. Conditions may get dicey in afternoon with onshore/S win
+ d.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240328T070000
 DTEND:20240328T120600
-DESCRIPTION:Offshore and groomed in the early morning.  Less favorable win
- ds due rest of the day. Stronger WNW swell on tap with most spots getting 
- overloaded during the afternoon\, with waves in the know-your-limits zone.
-  Stay tuned. 
+DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
+ ble winds due rest of the day. More WNW swell due through the afternoon\, 
+ with waves in the know-your-limits zone by end of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240328T153000
 DTEND:20240328T192400
-DESCRIPTION:Offshore and groomed in the early morning.  Less favorable win
- ds due rest of the day. Stronger WNW swell on tap with most spots getting 
- overloaded during the afternoon\, with waves in the know-your-limits zone.
-  Stay tuned. 
+DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
+ ble winds due rest of the day. More WNW swell due through the afternoon\, 
+ with waves in the know-your-limits zone by end of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240329T070000
 DTEND:20240329T140000
 DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey\, but looking decent for the AM at this point. St
- ay tuned. 
+ ind/conditions are dicey with stronger front/storm sweeping the region. Ma
+ y see onshore/S wind all day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
+SUMMARY:2 - 3ft: Poor
 DTSTART:20240329T154200
 DTEND:20240329T192400
 DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey\, but looking decent for the AM at this point. St
- ay tuned. 
+ ind/conditions are dicey with stronger front/storm sweeping the region. Ma
+ y see onshore/S wind all day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240330T070000
 DTEND:20240330T192400
-DESCRIPTION:-1.054ft at 07:00\n-2.753ft at 19:24
+DESCRIPTION:Punchy W-WNW swell lingers. Still watching the winds -- may be
+  onshore/E-SE flow all day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -200,5 +187,17 @@ SUMMARY:OST
 DTSTART:20240410T152400
 DTEND:20240410T193600
 DESCRIPTION:-2.935ft at 15:24\n-2.204ft at 19:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240411T093000
+DTEND:20240411T122400
+DESCRIPTION:-0.090ft at 09:30\n-2.997ft at 12:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240411T162400
+DTEND:20240411T193600
+DESCRIPTION:-2.960ft at 16:24\n-2.335ft at 19:36
 END:VEVENT
 END:VCALENDAR
