@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240327T070000
-DTEND:20240327T104800
-DESCRIPTION:Wind looks fine/favorable in morning as fresh\, long-period WN
- W swell moves in. Conditions may get dicey in afternoon with onshore/S win
- d.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240327T150000
-DTEND:20240327T192400
-DESCRIPTION:Wind looks fine/favorable in morning as fresh\, long-period WN
- W swell moves in. Conditions may get dicey in afternoon with onshore/S win
- d.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240328T070000
 DTEND:20240328T120600
 DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
@@ -26,7 +10,7 @@ DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
  with waves in the know-your-limits zone by end of day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240328T153000
 DTEND:20240328T192400
 DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
@@ -50,17 +34,19 @@ DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
  y see onshore/S wind all day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:4 - 5ft: Poor to fair
 DTSTART:20240330T070000
 DTEND:20240330T192400
 DESCRIPTION:Punchy W-WNW swell lingers. Still watching the winds -- may be
-  onshore/E-SE flow all day.
+  onshore/E-SE flow most of day. There's a chance for a clean up later in d
+ ay though -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240331T065400
 DTEND:20240331T193000
-DESCRIPTION:-1.891ft at 06:54\n-2.990ft at 19:30
+DESCRIPTION:Jumbled with potential funky wind early\, but better than Sat.
+  WNW swell continues to wind down. Small S swell joins in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -199,5 +185,17 @@ SUMMARY:OST
 DTSTART:20240411T162400
 DTEND:20240411T193600
 DESCRIPTION:-2.960ft at 16:24\n-2.335ft at 19:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240412T102400
+DTEND:20240412T134800
+DESCRIPTION:-0.033ft at 10:24\n-2.952ft at 13:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240412T174200
+DTEND:20240412T193600
+DESCRIPTION:-2.987ft at 17:42\n-2.655ft at 19:36
 END:VEVENT
 END:VCALENDAR
