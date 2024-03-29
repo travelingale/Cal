@@ -2,63 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240328T070000
-DTEND:20240328T120600
-DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
- ble winds due rest of the day. More WNW swell due through the afternoon\, 
- with waves in the know-your-limits zone by end of day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240328T153000
-DTEND:20240328T192400
-DESCRIPTION:Jumbled\, but weak offshore in the early morning.  Less favora
- ble winds due rest of the day. More WNW swell due through the afternoon\, 
- with waves in the know-your-limits zone by end of day. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240329T070000
 DTEND:20240329T140000
 DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey with stronger front/storm sweeping the region. Ma
- y see onshore/S wind all day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor
-DTSTART:20240329T154200
-DTEND:20240329T192400
-DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey with stronger front/storm sweeping the region. Ma
- y see onshore/S wind all day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Poor to fair
-DTSTART:20240330T070000
-DTEND:20240330T192400
-DESCRIPTION:Punchy W-WNW swell lingers. Still watching the winds -- may be
-  onshore/E-SE flow most of day. There's a chance for a clean up later in d
- ay though -- stay tuned.
+ ind/conditions are dicey with stronger front/storm sweeping the region. Ex
+ pect bumpy/choppy surf by midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
+DTSTART:20240329T154200
+DTEND:20240329T192400
+DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
+ ind/conditions are dicey with stronger front/storm sweeping the region. Ex
+ pect bumpy/choppy surf by midday.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 - 6ft: Poor to fair
+DTSTART:20240330T070000
+DTEND:20240330T192400
+DESCRIPTION:Punchy W-WNW swell on tap. Still watching the winds -- may be 
+ onshore/E-SE flow most of day. There's a chance for a clean up later in da
+ y though -- stay tuned.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240331T065400
 DTEND:20240331T193000
-DESCRIPTION:Jumbled with potential funky wind early\, but better than Sat.
-  WNW swell continues to wind down. Small S swell joins in. 
+DESCRIPTION:Jumbled\, but better wind. WNW swell continues. Small S swell 
+ joins in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240401T065400
 DTEND:20240401T105400
-DESCRIPTION:-2.827ft at 06:54\n-0.016ft at 10:54
+DESCRIPTION:Potential fun AM window to start week. Favorable wind expected
+ \, along with a dropping tide. Fun mix of NW swells and small S swell on t
+ ap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240401T121200
 DTEND:20240401T180600
-DESCRIPTION:-0.016ft at 12:12\n-2.994ft at 18:06
+DESCRIPTION:Potential fun AM window to start week. Favorable wind expected
+ \, along with a dropping tide. Fun mix of NW swells and small S swell on t
+ ap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -197,5 +185,17 @@ SUMMARY:OST
 DTSTART:20240412T174200
 DTEND:20240412T193600
 DESCRIPTION:-2.987ft at 17:42\n-2.655ft at 19:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240413T063600
+DTEND:20240413T075400
+DESCRIPTION:-1.271ft at 06:36\n-0.032ft at 07:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240413T111800
+DTEND:20240413T151800
+DESCRIPTION:-0.024ft at 11:18\n-2.995ft at 15:18
 END:VEVENT
 END:VCALENDAR
