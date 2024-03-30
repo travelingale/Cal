@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240329T070000
-DTEND:20240329T140000
-DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey with stronger front/storm sweeping the region. Ex
- pect bumpy/choppy surf by midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240329T154200
-DTEND:20240329T192400
-DESCRIPTION:Surf/swell stays strong in the morning\, then slowly easing. W
- ind/conditions are dicey with stronger front/storm sweeping the region. Ex
- pect bumpy/choppy surf by midday.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4 - 6ft: Poor to fair
 DTSTART:20240330T070000
 DTEND:20240330T192400
-DESCRIPTION:Punchy W-WNW swell on tap. Still watching the winds -- may be 
- onshore/E-SE flow most of day. There's a chance for a clean up later in da
- y though -- stay tuned.
+DESCRIPTION:Punchy W swell on tap. Expecting onshore/E-SE flow most of day
+ . There's a chance for a clean up later in day though -- keep an eye on ca
+ ms.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240331T065400
 DTEND:20240331T193000
-DESCRIPTION:Jumbled\, but better wind. WNW swell continues. Small S swell 
- joins in. 
+DESCRIPTION:Jumbled\, but better wind in morning. Reinforcing WNW swell ke
+ eps surf sizeable. Small S swell joins in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -49,16 +33,18 @@ DESCRIPTION:Potential fun AM window to start week. Favorable wind expected
  ap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240402T075400
 DTEND:20240402T111800
-DESCRIPTION:-2.945ft at 07:54\n-0.022ft at 11:18
+DESCRIPTION:Day to watch. Groomed surf\, dropping tide through the morning
+ . New\, long-period NW swell tops out.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240402T140000
 DTEND:20240402T181800
-DESCRIPTION:-0.026ft at 14:00\n-2.972ft at 18:18
+DESCRIPTION:Day to watch. Groomed surf\, dropping tide through the morning
+ . New\, long-period NW swell tops out.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -197,5 +183,17 @@ SUMMARY:OST
 DTSTART:20240413T111800
 DTEND:20240413T151800
 DESCRIPTION:-0.024ft at 11:18\n-2.995ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240414T063600
+DTEND:20240414T091800
+DESCRIPTION:-2.447ft at 06:36\n-0.040ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240414T121200
+DTEND:20240414T162400
+DESCRIPTION:-0.032ft at 12:12\n-2.987ft at 16:24
 END:VEVENT
 END:VCALENDAR
