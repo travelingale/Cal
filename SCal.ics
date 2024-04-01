@@ -2,67 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240331T065400
-DTEND:20240331T193000
-DESCRIPTION:Jumbled\, but better wind in morning. Reinforcing WNW swell ke
- eps surf sizeable. Small S swell joins in. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240401T065400
 DTEND:20240401T105400
-DESCRIPTION:Potential fun AM window to start week. Favorable wind expected
- \, along with a dropping tide. Fun mix of NW swells and small S swell on t
- ap.
+DESCRIPTION:Fun AM window to start week. Favorable wind expected\, along w
+ ith a dropping tide. Fun mix of NW swells and small S swell on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240401T121200
 DTEND:20240401T180600
-DESCRIPTION:Potential fun AM window to start week. Favorable wind expected
- \, along with a dropping tide. Fun mix of NW swells and small S swell on t
- ap.
+DESCRIPTION:Fun AM window to start week. Favorable wind expected\, along w
+ ith a dropping tide. Fun mix of NW swells and small S swell on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240402T075400
 DTEND:20240402T111800
-DESCRIPTION:Day to watch. Groomed surf\, dropping tide through the morning
- . New\, long-period NW swell tops out.
+DESCRIPTION:Clean surf\, dropping tide through the morning. Size down a pe
+ g\, but pretty fun for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240402T140000
 DTEND:20240402T181800
-DESCRIPTION:Day to watch. Groomed surf\, dropping tide through the morning
- . New\, long-period NW swell tops out.
+DESCRIPTION:Clean surf\, dropping tide through the morning. Size down a pe
+ g\, but pretty fun for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240403T090000
 DTEND:20240403T115400
 DESCRIPTION:Wind looks light/favorable\, at least in the morning. Lingerin
- g\, mid-period NW swell.
+ g\, mid-period NW swell. Best for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240403T151200
 DTEND:20240403T183600
 DESCRIPTION:Wind looks light/favorable\, at least in the morning. Lingerin
- g\, mid-period NW swell.
+ g\, mid-period NW swell. Best for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240404T100600
 DTEND:20240404T123600
-DESCRIPTION:-2.910ft at 10:06\n-0.070ft at 12:36
+DESCRIPTION:Stronger NW wind picks up in outer waters\, but town spots sta
+ y clean. Short-period NW swell/windswell builds but mostly bypasses town s
+ pots. Head to NW focal points for most size.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240404T160000
 DTEND:20240404T184800
-DESCRIPTION:-0.057ft at 16:00\n-2.937ft at 18:48
+DESCRIPTION:Stronger NW wind picks up in outer waters\, but town spots sta
+ y clean. Short-period NW swell/windswell builds but mostly bypasses town s
+ pots. Head to NW focal points for most size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -201,5 +196,17 @@ SUMMARY:OST
 DTSTART:20240415T130000
 DTEND:20240415T171200
 DESCRIPTION:-0.014ft at 13:00\n-2.973ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240416T081200
+DTEND:20240416T120600
+DESCRIPTION:-2.929ft at 08:12\n-0.028ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240416T134200
+DTEND:20240416T174800
+DESCRIPTION:-0.015ft at 13:42\n-2.957ft at 17:48
 END:VEVENT
 END:VCALENDAR
