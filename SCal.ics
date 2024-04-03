@@ -3,75 +3,61 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240402T075400
-DTEND:20240402T111800
-DESCRIPTION:Clean surf\, dropping tide through the morning. Size down a pe
- g\, but pretty fun for small-wave gear.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240402T140000
-DTEND:20240402T181800
-DESCRIPTION:Clean surf\, dropping tide through the morning. Size down a pe
- g\, but pretty fun for small-wave gear.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240403T090000
 DTEND:20240403T115400
 DESCRIPTION:Wind looks light/favorable\, at least in the morning. Lingerin
- g\, mid-period NW swell. Best for small-wave gear.
+ g\, mid-period NW swell. Size up a peg from Tue.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240403T151200
 DTEND:20240403T183600
 DESCRIPTION:Wind looks light/favorable\, at least in the morning. Lingerin
- g\, mid-period NW swell. Best for small-wave gear.
+ g\, mid-period NW swell. Size up a peg from Tue.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240404T100600
 DTEND:20240404T123600
-DESCRIPTION:Stronger NW wind picks up in outer waters\, but town spots sta
- y clean. Short-period NW swell/windswell builds but mostly bypasses town s
- pots. Head to NW focal points for most size.
+DESCRIPTION:Wind is variable first half of day but could trend favorable i
+ n afternoon as swell fills in. Short-period WNW-NW swell/windswell builds.
+  Head to NW focal points for most size.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240404T160000
 DTEND:20240404T184800
-DESCRIPTION:Stronger NW wind picks up in outer waters\, but town spots sta
- y clean. Short-period NW swell/windswell builds but mostly bypasses town s
- pots. Head to NW focal points for most size.
+DESCRIPTION:Wind is variable first half of day but could trend favorable i
+ n afternoon as swell fills in. Short-period WNW-NW swell/windswell builds.
+  Head to NW focal points for most size.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240405T110000
 DTEND:20240405T133000
-DESCRIPTION:Solid WNW swell mix tops out. Wind remains dicey as another po
- tential coastal storm drops into region\, but could be at least light in m
- orning.
+DESCRIPTION:Solid WNW swell mix tops out. Favorable wind expected in town.
+  Know your limits type of morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240405T163000
 DTEND:20240405T190600
-DESCRIPTION:Solid WNW swell mix tops out. Wind remains dicey as another po
- tential coastal storm drops into region\, but could be at least light in m
- orning.
+DESCRIPTION:Solid WNW swell mix tops out. Favorable wind expected in town.
+  Know your limits type of morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240406T115400
 DTEND:20240406T142400
-DESCRIPTION:-2.965ft at 11:54\n-0.052ft at 14:24
+DESCRIPTION:Wind looks favorable/light in morning but the surf will be jum
+ bled from incoming tide + shorter-period swell that will be fading.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240406T164800
 DTEND:20240406T191800
-DESCRIPTION:-0.016ft at 16:48\n-2.921ft at 19:18
+DESCRIPTION:Wind looks favorable/light in morning but the surf will be jum
+ bled from incoming tide + shorter-period swell that will be fading.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -204,5 +190,11 @@ SUMMARY:OST
 DTSTART:20240417T091200
 DTEND:20240417T181800
 DESCRIPTION:-2.936ft at 09:12\n-2.979ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240418T100600
+DTEND:20240418T183600
+DESCRIPTION:-2.932ft at 10:06\n-2.948ft at 18:36
 END:VEVENT
 END:VCALENDAR
