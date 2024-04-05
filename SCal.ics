@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240404T100600
-DTEND:20240404T123600
-DESCRIPTION:Dicey wind all day\, but may trend from SW to W midday. Head t
- o spots with heavy blockage. New WNW-NW swell builds in and becomes fairly
-  solid in afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240404T160000
-DTEND:20240404T184800
-DESCRIPTION:Dicey wind all day\, but may trend from SW to W midday. Head t
- o spots with heavy blockage. New WNW-NW swell builds in and becomes fairly
-  solid in afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 5ft: Fair to good
 DTSTART:20240405T110000
 DTEND:20240405T133000
-DESCRIPTION:Solid NW swell mix tops out. Favorable wind expected in town. 
- Know your limits type of morning. Note -- entry/exit into the water may be
-  sketchy on the morning high tide.
+DESCRIPTION:Solid NW swell mix tops out. Favorable offshore NW wind in tow
+ n. Know your limits type of morning. Note -- entry/exit into the water may
+  be sketchy on the morning high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240405T163000
 DTEND:20240405T190600
-DESCRIPTION:Solid NW swell mix tops out. Favorable wind expected in town. 
- Know your limits type of morning. Note -- entry/exit into the water may be
-  sketchy on the morning high tide.
+DESCRIPTION:Solid NW swell mix tops out. Favorable offshore NW wind in tow
+ n. Know your limits type of morning. Note -- entry/exit into the water may
+  be sketchy on the morning high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -69,16 +53,18 @@ DESCRIPTION:Watching wind -- disagreement on whether we see another coasta
  l storm drop along coast. New\, long-period NW swell up a few pegs.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240408T064800
 DTEND:20240408T083000
-DESCRIPTION:-0.905ft at 06:48\n-2.944ft at 08:30
+DESCRIPTION:Clean conditions through most of morning\, along with an ideal
+  incoming tide. Jumbled NW swell mix continues. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240408T133600
 DTEND:20240408T193600
-DESCRIPTION:-2.963ft at 13:36\n-2.593ft at 19:36
+DESCRIPTION:Clean conditions through most of morning\, along with an ideal
+  incoming tide. Jumbled NW swell mix continues. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -193,5 +179,11 @@ SUMMARY:OST
 DTSTART:20240419T104800
 DTEND:20240419T184800
 DESCRIPTION:-2.998ft at 10:48\n-2.920ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240420T113600
+DTEND:20240420T190000
+DESCRIPTION:-2.923ft at 11:36\n-2.964ft at 19:00
 END:VEVENT
 END:VCALENDAR
