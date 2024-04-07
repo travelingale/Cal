@@ -3,46 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240406T115400
-DTEND:20240406T142400
-DESCRIPTION:Lighter morning wind to start the weekend but the surf will be
-  jumbled from incoming tide + fading shorter-period swell. Textured aftern
- oon\, manageable in town around the lower tide -- smaller surf by then. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240406T164800
-DTEND:20240406T191800
-DESCRIPTION:Lighter morning wind to start the weekend but the surf will be
-  jumbled from incoming tide + fading shorter-period swell. Textured aftern
- oon\, manageable in town around the lower tide -- smaller surf by then. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240407T064800
 DTEND:20240407T071800
-DESCRIPTION:Expecting another morning of light\, favorable conditions. Bit
-  of a better tide push to work with first thing in the AM New\, long-perio
- d NW swell nudges up. Potential for PM offshores to go with the later tide
-  push. 
+DESCRIPTION:Expecting another morning of light wind and favorable conditio
+ ns. Bit of a better tide push to work with first thing in the AM New\, lon
+ g-period NW swell nudges up PM 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240407T124800
 DTEND:20240407T155400
-DESCRIPTION:Expecting another morning of light\, favorable conditions. Bit
-  of a better tide push to work with first thing in the AM New\, long-perio
- d NW swell nudges up. Potential for PM offshores to go with the later tide
-  push. 
+DESCRIPTION:Expecting another morning of light wind and favorable conditio
+ ns. Bit of a better tide push to work with first thing in the AM New\, lon
+ g-period NW swell nudges up PM 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240407T163600
 DTEND:20240407T193600
-DESCRIPTION:Expecting another morning of light\, favorable conditions. Bit
-  of a better tide push to work with first thing in the AM New\, long-perio
- d NW swell nudges up. Potential for PM offshores to go with the later tide
-  push. 
+DESCRIPTION:Expecting another morning of light wind and favorable conditio
+ ns. Bit of a better tide push to work with first thing in the AM New\, lon
+ g-period NW swell nudges up PM 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -73,16 +54,20 @@ DESCRIPTION:Clean morning window\, along with a nice tide push. Size down
  from Monday\, but could be fun.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240410T082400
 DTEND:20240410T110000
-DESCRIPTION:-0.034ft at 08:24\n-2.968ft at 11:00
+DESCRIPTION:Favorable wind looks increasingly likely\, but be surf to get 
+ on it early before the tide gets too high. Fun mix of NW swells (mid and l
+ onger-periods).
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240410T152400
 DTEND:20240410T193600
-DESCRIPTION:-2.935ft at 15:24\n-2.204ft at 19:36
+DESCRIPTION:Favorable wind looks increasingly likely\, but be surf to get 
+ on it early before the tide gets too high. Fun mix of NW swells (mid and l
+ onger-periods).
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -191,5 +176,17 @@ SUMMARY:OST
 DTSTART:20240421T121200
 DTEND:20240421T190600
 DESCRIPTION:-2.973ft at 12:12\n-2.960ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240422T062400
+DTEND:20240422T083600
+DESCRIPTION:-1.122ft at 06:24\n-2.931ft at 08:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240422T125400
+DTEND:20240422T191200
+DESCRIPTION:-2.946ft at 12:54\n-2.973ft at 19:12
 END:VEVENT
 END:VCALENDAR
