@@ -2,39 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240411T093000
-DTEND:20240411T122400
-DESCRIPTION:A little drained first thing but that sets up a nice mid-morni
- ng tide push. Light wind with fresh NW swell on tap. Early indicators poin
- t to fun surf in town. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240411T162400
-DTEND:20240411T193600
-DESCRIPTION:A little drained first thing but that sets up a nice mid-morni
- ng tide push. Light wind with fresh NW swell on tap. Early indicators poin
- t to fun surf in town. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240412T102400
 DTEND:20240412T134800
-DESCRIPTION:Winds looking decent at this point with a nice tide push mid-m
- orning. Healthy NW swell mix could be running outside of town\, fun size w
- rapping into select breaks.
+DESCRIPTION:Winds decent for much of the morning with a nice tide push mid
+ -morning. Easing NW swell mix running outside of town\, fun size wrapping 
+ into select breaks.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240412T174200
 DTEND:20240412T193600
-DESCRIPTION:Winds looking decent at this point with a nice tide push mid-m
- orning. Healthy NW swell mix could be running outside of town\, fun size w
- rapping into select breaks.
+DESCRIPTION:Winds decent for much of the morning with a nice tide push mid
+ -morning. Easing NW swell mix running outside of town\, fun size wrapping 
+ into select breaks.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Poor
 DTSTART:20240413T063600
 DTEND:20240413T075400
 DESCRIPTION:Dicier conditions possible with projected coastal low. Steep-a
@@ -42,7 +26,7 @@ DESCRIPTION:Dicier conditions possible with projected coastal low. Steep-a
  lping the cause for summer exposures.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Poor
 DTSTART:20240413T111800
 DTEND:20240413T151800
 DESCRIPTION:Dicier conditions possible with projected coastal low. Steep-a
@@ -50,12 +34,12 @@ DESCRIPTION:Dicier conditions possible with projected coastal low. Steep-a
  lping the cause for summer exposures.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240414T063600
 DTEND:20240414T091800
 DESCRIPTION:Watching coastal low for possible NW swell mix. Early season S
  SW swell trends fun for summer magnets. Conditions on watch behind the pas
- sing low -- looking favorable right now.
+ sing low -- looking favorable now.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -63,19 +47,21 @@ DTSTART:20240414T121200
 DTEND:20240414T162400
 DESCRIPTION:Watching coastal low for possible NW swell mix. Early season S
  SW swell trends fun for summer magnets. Conditions on watch behind the pas
- sing low -- looking favorable right now.
+ sing low -- looking favorable now.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240415T070600
 DTEND:20240415T104800
-DESCRIPTION:-2.969ft at 07:06\n-0.022ft at 10:48
+DESCRIPTION:Size down\, and conditions still mostly jumbled. Shape could b
+ e ok though as tide drops in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240415T130000
 DTEND:20240415T171200
-DESCRIPTION:-0.014ft at 13:00\n-2.973ft at 17:12
+DESCRIPTION:Size down\, and conditions still mostly jumbled. Shape could b
+ e ok though as tide drops in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -184,5 +170,17 @@ SUMMARY:OST
 DTSTART:20240426T154800
 DTEND:20240426T193000
 DESCRIPTION:-2.999ft at 15:48\n-2.988ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240427T093000
+DTEND:20240427T135400
+DESCRIPTION:-0.001ft at 09:30\n-2.971ft at 13:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240427T170000
+DTEND:20240427T192400
+DESCRIPTION:-2.997ft at 17:00\n-2.987ft at 19:24
 END:VEVENT
 END:VCALENDAR
