@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240413T063600
-DTEND:20240413T075400
-DESCRIPTION:Coastal low sets up steady SSW winds through the day for rough
-  conditions. WNW swell\, steep-angled NW swell mix fills in\, new SSW swel
- l creeping up through the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240413T111800
-DTEND:20240413T151800
-DESCRIPTION:Coastal low sets up steady SSW winds through the day for rough
-  conditions. WNW swell\, steep-angled NW swell mix fills in\, new SSW swel
- l creeping up through the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:3 - 4ft: Poor to fair
 DTSTART:20240414T063600
 DTEND:20240414T091800
-DESCRIPTION:Lighter/more favorable winds due but still likely jumbled in t
- he morning. Early season SSW swell trends fun for summer magnets. WNW/NW s
- well mix fades. 
+DESCRIPTION:Lighter/more favorable winds but still likely a little jumbled
+  in the morning. Early season SSW swell trends fun for summer magnets. WNW
+ /NW swell mix fades. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240414T121200
 DTEND:20240414T162400
-DESCRIPTION:Lighter/more favorable winds due but still likely jumbled in t
- he morning. Early season SSW swell trends fun for summer magnets. WNW/NW s
- well mix fades. 
+DESCRIPTION:Lighter/more favorable winds but still likely a little jumbled
+  in the morning. Early season SSW swell trends fun for summer magnets. WNW
+ /NW swell mix fades. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -64,10 +48,12 @@ DESCRIPTION:Size nudging up at NW focal points as new\, mostly shorter-per
   SSW swell builds in\, largest late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240417T091200
 DTEND:20240417T181800
-DESCRIPTION:-2.936ft at 09:12\n-2.979ft at 18:18
+DESCRIPTION:Day to target. Favorable wind expected in morning\, but let th
+ e tide drop. Healthy round of longer-period SSW swell topping out. Short-p
+ eriod NW swell fades.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +168,17 @@ SUMMARY:OST
 DTSTART:20240428T103000
 DTEND:20240428T151200
 DESCRIPTION:-0.020ft at 10:30\n-2.989ft at 15:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240429T061800
+DTEND:20240429T081200
+DESCRIPTION:-1.760ft at 06:18\n-0.047ft at 08:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240429T113000
+DTEND:20240429T160000
+DESCRIPTION:-0.000ft at 11:30\n-2.972ft at 16:00
 END:VEVENT
 END:VCALENDAR
