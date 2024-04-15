@@ -2,34 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Poor to fair
-DTSTART:20240414T063600
-DTEND:20240414T091800
-DESCRIPTION:Lighter/more favorable winds but still likely a little jumbled
-  in the morning. Early season SSW swell trends fun for summer magnets. WNW
- /NW swell mix fades. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240414T121200
-DTEND:20240414T162400
-DESCRIPTION:Lighter/more favorable winds but still likely a little jumbled
-  in the morning. Early season SSW swell trends fun for summer magnets. WNW
- /NW swell mix fades. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240415T070600
 DTEND:20240415T104800
-DESCRIPTION:Size down\, and conditions looking ok. SSW swell lingers. Shap
- e best as tide drops in morning.
+DESCRIPTION:Size down\, and conditions mainly clean\, best early morning. 
+ SSW swell lingers\, NW swell fades. Shape best as tide drops in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240415T130000
 DTEND:20240415T171200
-DESCRIPTION:Size down\, and conditions looking ok. SSW swell lingers. Shap
- e best as tide drops in morning.
+DESCRIPTION:Size down\, and conditions mainly clean\, best early morning. 
+ SSW swell lingers\, NW swell fades. Shape best as tide drops in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -53,13 +37,15 @@ DTSTART:20240417T091200
 DTEND:20240417T181800
 DESCRIPTION:Day to target. Favorable wind expected in morning\, but let th
  e tide drop. Healthy round of longer-period SSW swell topping out. Short-p
- eriod NW swell fades.
+ eriod NW swell holds.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240418T100600
 DTEND:20240418T183600
-DESCRIPTION:-2.932ft at 10:06\n-2.948ft at 18:36
+DESCRIPTION:Another good day. Light winds due through the morning. Good sh
+ ot of SSW swell continues\, as NW swell drops. Tide a little high for the 
+ dawn patrol\, gets better through much of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +166,17 @@ SUMMARY:OST
 DTSTART:20240429T113000
 DTEND:20240429T160000
 DESCRIPTION:-0.000ft at 11:30\n-2.972ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240430T061800
+DTEND:20240430T091800
+DESCRIPTION:-2.784ft at 06:18\n-0.007ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240430T123600
+DTEND:20240430T163600
+DESCRIPTION:-0.046ft at 12:36\n-2.996ft at 16:36
 END:VEVENT
 END:VCALENDAR
