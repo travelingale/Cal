@@ -2,34 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240415T070600
-DTEND:20240415T104800
-DESCRIPTION:Size down\, and conditions mainly clean\, best early morning. 
- SSW swell lingers\, NW swell fades. Shape best as tide drops in morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240415T130000
-DTEND:20240415T171200
-DESCRIPTION:Size down\, and conditions mainly clean\, best early morning. 
- SSW swell lingers\, NW swell fades. Shape best as tide drops in morning.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240416T081200
 DTEND:20240416T120600
-DESCRIPTION:Size nudging up at NW focal points as new\, mostly shorter-per
- iod NW swell builds. Groomed\, offshore wind in morning. New\, long-period
-  SSW swell builds in\, largest late.
+DESCRIPTION:Groomed\, offshore wind in morning. New\, long-period SSW swel
+ l builds in\, largest late.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240416T134200
 DTEND:20240416T174800
-DESCRIPTION:Size nudging up at NW focal points as new\, mostly shorter-per
- iod NW swell builds. Groomed\, offshore wind in morning. New\, long-period
-  SSW swell builds in\, largest late.
+DESCRIPTION:Groomed\, offshore wind in morning. New\, long-period SSW swel
+ l builds in\, largest late.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -40,7 +24,7 @@ DESCRIPTION:Day to target. Favorable wind expected in morning\, but let th
  eriod NW swell holds.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240418T100600
 DTEND:20240418T183600
 DESCRIPTION:Another good day. Light winds due through the morning. Good sh
@@ -48,10 +32,12 @@ DESCRIPTION:Another good day. Light winds due through the morning. Good sh
  dawn patrol\, gets better through much of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240419T104800
 DTEND:20240419T184800
-DESCRIPTION:-2.998ft at 10:48\n-2.920ft at 18:48
+DESCRIPTION:Slow fading but still fun SSW swell\, along with a little NW s
+ well. Light winds much of the morning with the ebbing tide. SW shifting W 
+ winds over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -178,5 +164,17 @@ SUMMARY:OST
 DTSTART:20240430T123600
 DTEND:20240430T163600
 DESCRIPTION:-0.046ft at 12:36\n-2.996ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240501T071200
+DTEND:20240501T101800
+DESCRIPTION:-2.919ft at 07:12\n-0.042ft at 10:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240501T132400
+DTEND:20240501T165400
+DESCRIPTION:-0.004ft at 13:24\n-2.946ft at 16:54
 END:VEVENT
 END:VCALENDAR
