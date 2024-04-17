@@ -3,36 +3,22 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240416T081200
-DTEND:20240416T120600
-DESCRIPTION:Groomed\, offshore wind in morning. New\, long-period SSW swel
- l builds in\, largest late.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240416T134200
-DTEND:20240416T174800
-DESCRIPTION:Groomed\, offshore wind in morning. New\, long-period SSW swel
- l builds in\, largest late.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
 DTSTART:20240417T091200
 DTEND:20240417T181800
 DESCRIPTION:Day to target. Favorable wind expected in morning\, but let th
- e tide drop. Healthy round of longer-period SSW swell topping out. Short-p
- eriod NW swell holds.
+ e tide drop. Healthy round of longer-period SSW swell builds in further. S
+ hort-period NW swell holds.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20240418T100600
 DTEND:20240418T183600
 DESCRIPTION:Another good day. Light winds due through the morning. Good sh
- ot of SSW swell continues\, as NW swell drops. Tide a little high for the 
- dawn patrol\, gets better through much of the morning. 
+ ot of SSW swell tops out\, as NW swell drops. Tide a little high for the d
+ awn patrol\, gets better through much of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240419T104800
 DTEND:20240419T184800
 DESCRIPTION:Slow fading but still fun SSW swell\, along with a little NW s
@@ -40,10 +26,11 @@ DESCRIPTION:Slow fading but still fun SSW swell\, along with a little NW s
  winds over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240420T113600
 DTEND:20240420T190000
-DESCRIPTION:-2.923ft at 11:36\n-2.964ft at 19:00
+DESCRIPTION:Surf staying fun as olds SSW swell drops\, fresh SW swell star
+ ts to join in. Light winds due most of the morning. Best tide early AM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +163,17 @@ SUMMARY:OST
 DTSTART:20240501T132400
 DTEND:20240501T165400
 DESCRIPTION:-0.004ft at 13:24\n-2.946ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240502T081200
+DTEND:20240502T112400
+DESCRIPTION:-2.992ft at 08:12\n-0.030ft at 11:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240502T140600
+DTEND:20240502T171200
+DESCRIPTION:-0.046ft at 14:06\n-2.943ft at 17:12
 END:VEVENT
 END:VCALENDAR
