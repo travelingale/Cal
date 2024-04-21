@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240420T113600
-DTEND:20240420T190000
-DESCRIPTION:Surf staying fun as olds SSW swell drops\, fresh SW swell star
- ts to join in. Light winds due most of the day. Best tide early AM. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240421T063000
 DTEND:20240421T074800
@@ -16,7 +9,7 @@ DESCRIPTION:Fun zone SW/SSW swell holds. Clean/glassy in the morning\, wit
  h favorable early AM tide push. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240421T121200
 DTEND:20240421T190600
 DESCRIPTION:Fun zone SW/SSW swell holds. Clean/glassy in the morning\, wit
@@ -30,7 +23,7 @@ DESCRIPTION:Clean AM window\, along with a favorable tide push. Fun combo
  of waves off the SSW swell and new NW energy.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240422T125400
 DTEND:20240422T191200
 DESCRIPTION:Clean AM window\, along with a favorable tide push. Fun combo 
@@ -45,7 +38,7 @@ DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing
  W swell continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Poor
 DTSTART:20240423T133000
 DTEND:20240423T191800
 DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing 
@@ -53,16 +46,20 @@ DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing
  W swell continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240424T064200
 DTEND:20240424T102400
-DESCRIPTION:-0.027ft at 06:42\n-2.948ft at 10:24
+DESCRIPTION:Lighter/better wind along coast should provide another glassy 
+ morning. New\, long-period SSW/S swell fills. New NW energy also building 
+ in later in day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240424T141200
 DTEND:20240424T191800
-DESCRIPTION:-2.996ft at 14:12\n-2.928ft at 19:18
+DESCRIPTION:Lighter/better wind along coast should provide another glassy 
+ morning. New\, long-period SSW/S swell fills. New NW energy also building 
+ in later in day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -189,5 +186,17 @@ SUMMARY:OST
 DTSTART:20240505T112400
 DTEND:20240505T180000
 DESCRIPTION:-2.940ft at 11:24\n-2.984ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240506T061200
+DTEND:20240506T080600
+DESCRIPTION:-0.914ft at 06:12\n-2.971ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240506T122400
+DTEND:20240506T181200
+DESCRIPTION:-2.952ft at 12:24\n-2.894ft at 18:12
 END:VEVENT
 END:VCALENDAR
