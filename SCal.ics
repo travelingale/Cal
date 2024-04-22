@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240421T063000
-DTEND:20240421T074800
-DESCRIPTION:Fun zone SW/SSW swell holds. Clean/glassy in the morning\, wit
- h favorable early AM tide push. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240421T121200
-DTEND:20240421T190600
-DESCRIPTION:Fun zone SW/SSW swell holds. Clean/glassy in the morning\, wit
- h favorable early AM tide push. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240422T062400
 DTEND:20240422T083600
 DESCRIPTION:Clean AM window\, along with a favorable tide push. Fun combo 
@@ -38,7 +24,7 @@ DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing
  W swell continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240423T133000
 DTEND:20240423T191800
 DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing 
@@ -46,7 +32,7 @@ DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing
  W swell continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240424T064200
 DTEND:20240424T102400
 DESCRIPTION:Lighter/better wind along coast should provide another glassy 
@@ -62,16 +48,18 @@ DESCRIPTION:Lighter/better wind along coast should provide another glassy
  in later in day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240425T074200
 DTEND:20240425T112400
-DESCRIPTION:-0.016ft at 07:42\n-2.952ft at 11:24
+DESCRIPTION:Fun little combo of S and NW swells on tap. Wind best in the m
+ orning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240425T150000
 DTEND:20240425T192400
-DESCRIPTION:-2.980ft at 15:00\n-2.954ft at 19:24
+DESCRIPTION:Fun little combo of S and NW swells on tap. Wind best in the m
+ orning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +186,17 @@ SUMMARY:OST
 DTSTART:20240506T122400
 DTEND:20240506T181200
 DESCRIPTION:-2.952ft at 12:24\n-2.894ft at 18:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240507T064200
+DTEND:20240507T091200
+DESCRIPTION:-0.078ft at 06:42\n-2.933ft at 09:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240507T132400
+DTEND:20240507T183000
+DESCRIPTION:-2.974ft at 13:24\n-2.906ft at 18:30
 END:VEVENT
 END:VCALENDAR
