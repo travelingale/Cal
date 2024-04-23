@@ -2,50 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240422T062400
-DTEND:20240422T083600
-DESCRIPTION:Clean AM window\, along with a favorable tide push. Fun combo 
- of waves off the SSW swell and new NW energy.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240422T125400
-DTEND:20240422T191200
-DESCRIPTION:Clean AM window\, along with a favorable tide push. Fun combo 
- of waves off the SSW swell and new NW energy.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240423T062400
 DTEND:20240423T093000
-DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing 
- SSW swell\, but enough leftovers to offer fun'ish surf in morning. Steep N
- W swell continues for exposed breaks. 
+DESCRIPTION:Dicey wind. May see onshore/S wind most of day. Easing SSW swe
+ ll\, but enough leftovers to offer fun'ish surf in morning. Steep NW swell
+  continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240423T133000
 DTEND:20240423T191800
-DESCRIPTION:Dicey wind. May see onshore/S wind right out of gates. Easing 
- SSW swell\, but enough leftovers to offer fun'ish surf in morning. Steep N
- W swell continues for exposed breaks. 
+DESCRIPTION:Dicey wind. May see onshore/S wind most of day. Easing SSW swe
+ ll\, but enough leftovers to offer fun'ish surf in morning. Steep NW swell
+  continues for exposed breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240424T064200
 DTEND:20240424T102400
-DESCRIPTION:Lighter/better wind along coast should provide another glassy 
- morning. New\, long-period SSW/S swell fills. New NW energy also building 
- in later in day.
+DESCRIPTION:Lighter/better wind along coast should provide a cleaner morni
+ ng compared to Tue. New\, long-period SSW/S swell fills. New NW energy als
+ o building in later in day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240424T141200
 DTEND:20240424T191800
-DESCRIPTION:Lighter/better wind along coast should provide another glassy 
- morning. New\, long-period SSW/S swell fills. New NW energy also building 
- in later in day.
+DESCRIPTION:Lighter/better wind along coast should provide a cleaner morni
+ ng compared to Tue. New\, long-period SSW/S swell fills. New NW energy als
+ o building in later in day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -62,16 +48,18 @@ DESCRIPTION:Fun little combo of S and NW swells on tap. Wind best in the m
  orning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240426T083600
 DTEND:20240426T123600
-DESCRIPTION:-0.008ft at 08:36\n-2.978ft at 12:36
+DESCRIPTION:Wind remains best in the morning. Easing S swell\, but enough 
+ NW energy keeps a handful of spots kinda fun.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240426T154800
 DTEND:20240426T193000
-DESCRIPTION:-2.999ft at 15:48\n-2.988ft at 19:30
+DESCRIPTION:Wind remains best in the morning. Easing S swell\, but enough 
+ NW energy keeps a handful of spots kinda fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +186,17 @@ SUMMARY:OST
 DTSTART:20240507T132400
 DTEND:20240507T183000
 DESCRIPTION:-2.974ft at 13:24\n-2.906ft at 18:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240508T074800
+DTEND:20240508T101800
+DESCRIPTION:-0.045ft at 07:48\n-2.943ft at 10:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240508T143000
+DTEND:20240508T185400
+DESCRIPTION:-2.959ft at 14:30\n-2.989ft at 18:54
 END:VEVENT
 END:VCALENDAR
