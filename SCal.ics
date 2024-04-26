@@ -2,32 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240425T074200
-DTEND:20240425T112400
-DESCRIPTION:Fun little combo of S and NW swells on tap. Wind improving for
-  town spots\, and best in the morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240425T150000
-DTEND:20240425T192400
-DESCRIPTION:Fun little combo of S and NW swells on tap. Wind improving for
-  town spots\, and best in the morning.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240426T083600
 DTEND:20240426T123600
-DESCRIPTION:Wind remains best in the morning. Easing S swell\, but enough 
- NW energy keeps a handful of spots kinda fun.
+DESCRIPTION:Wind remains best in the morning. Small SW swell keeps a few s
+ pots kinda fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240426T154800
 DTEND:20240426T193000
-DESCRIPTION:Wind remains best in the morning. Easing S swell\, but enough 
- NW energy keeps a handful of spots kinda fun.
+DESCRIPTION:Wind remains best in the morning. Small SW swell keeps a few s
+ pots kinda fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -62,16 +48,18 @@ DESCRIPTION:NW swell down a peg with SSW swell also easing. Light wind int
   but fun when the sets show. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240429T061800
 DTEND:20240429T081200
-DESCRIPTION:-1.760ft at 06:18\n-0.047ft at 08:12
+DESCRIPTION:New mix of mid to longer period NW swell filling in. Better sh
+ ape at tide pushes in midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240429T113000
 DTEND:20240429T160000
-DESCRIPTION:-0.000ft at 11:30\n-2.972ft at 16:00
+DESCRIPTION:New mix of mid to longer period NW swell filling in. Better sh
+ ape at tide pushes in midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +186,17 @@ SUMMARY:OST
 DTSTART:20240510T170000
 DTEND:20240510T193000
 DESCRIPTION:-2.983ft at 17:00\n-2.981ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240511T102400
+DTEND:20240511T133600
+DESCRIPTION:-0.049ft at 10:24\n-2.999ft at 13:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240511T190000
+DTEND:20240511T192400
+DESCRIPTION:-2.998ft at 19:00\n-2.998ft at 19:24
 END:VEVENT
 END:VCALENDAR
