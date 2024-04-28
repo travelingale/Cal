@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240427T093000
-DTEND:20240427T135400
-DESCRIPTION:Shorter-period NW swell may increase but will mostly miss spot
- s in town as modest new pulse of SW swell creeps up. Could be a decent win
- dow around the morning low tide for the small wave gear. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240427T170000
-DTEND:20240427T192400
-DESCRIPTION:Shorter-period NW swell may increase but will mostly miss spot
- s in town as modest new pulse of SW swell creeps up. Could be a decent win
- dow around the morning low tide for the small wave gear. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240428T061800
 DTEND:20240428T071800
 DESCRIPTION:NW swell down a peg with SSW swell lingering. Light wind into 
@@ -34,14 +18,14 @@ DESCRIPTION:NW swell down a peg with SSW swell lingering. Light wind into
  ut fun when the sets show. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240429T061800
 DTEND:20240429T081200
 DESCRIPTION:New mix of mid to shorter period NW swell filling in. Better s
  hape at tide pushes in midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240429T113000
 DTEND:20240429T160000
 DESCRIPTION:New mix of mid to shorter period NW swell filling in. Better s
@@ -62,16 +46,18 @@ DESCRIPTION:Potential for decent shot of NW swell (mostly short to mid per
  iods). Offshore and clean in morning\, along with a dropping tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240501T071200
 DTEND:20240501T101800
-DESCRIPTION:-2.919ft at 07:12\n-0.042ft at 10:18
+DESCRIPTION:Clean through the morning as the tide drops. Easing NW swell t
+ hrough the day. New\, long-period SW swell creeping in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240501T132400
 DTEND:20240501T165400
-DESCRIPTION:-0.004ft at 13:24\n-2.946ft at 16:54
+DESCRIPTION:Clean through the morning as the tide drops. Easing NW swell t
+ hrough the day. New\, long-period SW swell creeping in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +184,17 @@ SUMMARY:OST
 DTSTART:20240512T110600
 DTEND:20240512T143000
 DESCRIPTION:-0.055ft at 11:06\n-2.941ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240513T060600
+DTEND:20240513T083000
+DESCRIPTION:-2.240ft at 06:06\n-0.025ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240513T113600
+DTEND:20240513T152400
+DESCRIPTION:-0.004ft at 11:36\n-2.973ft at 15:24
 END:VEVENT
 END:VCALENDAR
