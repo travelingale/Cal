@@ -3,31 +3,17 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240429T061800
-DTEND:20240429T081200
-DESCRIPTION:New mix of mid to shorter period NW swell filling in. Better s
- hape at tide pushes in midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240429T113000
-DTEND:20240429T160000
-DESCRIPTION:New mix of mid to shorter period NW swell filling in. Better s
- hape at tide pushes in midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240430T061800
 DTEND:20240430T091800
-DESCRIPTION:Potential for decent shot of NW swell (mostly short to mid per
- iods). Offshore and clean in morning\, along with a dropping tide.
+DESCRIPTION:Decent shot of NW swell (mostly short to mid periods). Offshor
+ e and clean in morning\, along with a dropping tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240430T123600
 DTEND:20240430T163600
-DESCRIPTION:Potential for decent shot of NW swell (mostly short to mid per
- iods). Offshore and clean in morning\, along with a dropping tide.
+DESCRIPTION:Decent shot of NW swell (mostly short to mid periods). Offshor
+ e and clean in morning\, along with a dropping tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -58,16 +44,18 @@ DESCRIPTION:Favorable wind\, dropping tide through the morning window. Lon
  g-period SW/SSW swell offering fun waves at focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240503T091800
 DTEND:20240503T123600
-DESCRIPTION:-2.969ft at 09:18\n-0.035ft at 12:36
+DESCRIPTION:Favorable wind in morning\, but tide needs to drop for better 
+ shape at points. Mix of small to locally fun S/SW swells show.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240503T142400
 DTEND:20240503T173000
-DESCRIPTION:-0.031ft at 14:24\n-2.985ft at 17:30
+DESCRIPTION:Favorable wind in morning\, but tide needs to drop for better 
+ shape at points. Mix of small to locally fun S/SW swells show.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +182,11 @@ SUMMARY:OST
 DTSTART:20240514T120000
 DTEND:20240514T160600
 DESCRIPTION:-0.030ft at 12:00\n-2.992ft at 16:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240515T070000
+DTEND:20240515T163600
+DESCRIPTION:-2.994ft at 07:00\n-2.993ft at 16:36
 END:VEVENT
 END:VCALENDAR
