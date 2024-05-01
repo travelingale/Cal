@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240430T061800
-DTEND:20240430T091800
-DESCRIPTION:Decent shot of NW swell (mostly short to mid periods). Offshor
- e and clean in morning\, along with a dropping tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240430T123600
-DTEND:20240430T163600
-DESCRIPTION:Decent shot of NW swell (mostly short to mid periods). Offshor
- e and clean in morning\, along with a dropping tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240501T071200
 DTEND:20240501T101800
 DESCRIPTION:Clean through the morning as the tide drops. Easing NW swell t
@@ -58,10 +44,13 @@ DESCRIPTION:Favorable wind in morning\, but tide needs to drop for better
  shape at points. Mix of small to locally fun S/SW swells show.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240504T102400
 DTEND:20240504T174200
-DESCRIPTION:-2.920ft at 10:24\n-2.931ft at 17:42
+DESCRIPTION:Sluggish in early morning\, and may even be nearly flat mid mo
+ rning on high tide due to minimal swell in water. Also\, dicey wind -- may
+  be S crumble. Dropping tide opens up a few little waves midday from modes
+ t S/SW swell.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -188,5 +177,11 @@ SUMMARY:OST
 DTSTART:20240515T070000
 DTEND:20240515T163600
 DESCRIPTION:-2.994ft at 07:00\n-2.993ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240516T075400
+DTEND:20240516T165400
+DESCRIPTION:-2.959ft at 07:54\n-2.953ft at 16:54
 END:VEVENT
 END:VCALENDAR
