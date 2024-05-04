@@ -3,26 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240503T091800
-DTEND:20240503T123600
-DESCRIPTION:Favorable wind in morning\, but tide needs to drop for better 
- shape at points. Mix of small to locally fun S/SW swells show.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240503T142400
-DTEND:20240503T173000
-DESCRIPTION:Favorable wind in morning\, but tide needs to drop for better 
- shape at points. Mix of small to locally fun S/SW swells show.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240504T102400
 DTEND:20240504T174200
 DESCRIPTION:Sluggish in early morning\, and may even be nearly flat mid mo
- rning on high tide due to minimal swell in water. Also\, dicey wind -- may
-  be S crumble. Dropping tide opens up a few little waves midday from modes
- t S/SW swell.
+ rning on high tide due to minimal swell in water. Also\, dicey wind -- S c
+ rumble in the AM. Dropping tide opens up a few little waves midday from mo
+ dest S/SW swell.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -55,16 +41,18 @@ DESCRIPTION:Favorable AM conditions but kinda slow. New\, long-period SSW
  swell forerunners creeping in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240507T064200
 DTEND:20240507T091200
-DESCRIPTION:-0.078ft at 06:42\n-2.933ft at 09:12
+DESCRIPTION:Clean surf in the morning\, along with ideal tide push. New NW
+  and SSW swell filling in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240507T132400
 DTEND:20240507T183000
-DESCRIPTION:-2.974ft at 13:24\n-2.906ft at 18:30
+DESCRIPTION:Clean surf in the morning\, along with ideal tide push. New NW
+  and SSW swell filling in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -179,5 +167,17 @@ SUMMARY:OST
 DTSTART:20240518T093600
 DTEND:20240518T171800
 DESCRIPTION:-2.992ft at 09:36\n-2.970ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240519T060000
+DTEND:20240519T073000
+DESCRIPTION:-2.101ft at 06:00\n-2.979ft at 07:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240519T103600
+DTEND:20240519T172400
+DESCRIPTION:-2.961ft at 10:36\n-2.974ft at 17:24
 END:VEVENT
 END:VCALENDAR
