@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240504T102400
-DTEND:20240504T174200
-DESCRIPTION:Sluggish in early morning\, and may even be nearly flat mid mo
- rning on high tide due to minimal swell in water. Also\, dicey wind -- S c
- rumble in the AM. Dropping tide opens up a few little waves midday from mo
- dest S/SW swell.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240505T061200
 DTEND:20240505T064800
 DESCRIPTION:Sluggish in early morning\, and may even be nearly flat mid mo
@@ -55,16 +46,18 @@ DESCRIPTION:Clean surf in the morning\, along with ideal tide push. New NW
   and SSW swell filling in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240508T074800
 DTEND:20240508T101800
-DESCRIPTION:-0.045ft at 07:48\n-2.943ft at 10:18
+DESCRIPTION:Day to target. Fun looking SSW swell tops out while NW swell m
+ ix blends in. AM session is best as tide pushes in. Clean\, too.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240508T143000
 DTEND:20240508T185400
-DESCRIPTION:-2.959ft at 14:30\n-2.989ft at 18:54
+DESCRIPTION:Day to target. Fun looking SSW swell tops out while NW swell m
+ ix blends in. AM session is best as tide pushes in. Clean\, too.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -179,5 +172,17 @@ SUMMARY:OST
 DTSTART:20240519T103600
 DTEND:20240519T172400
 DESCRIPTION:-2.961ft at 10:36\n-2.974ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240520T060000
+DTEND:20240520T082400
+DESCRIPTION:-1.323ft at 06:00\n-2.975ft at 08:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240520T113000
+DTEND:20240520T173000
+DESCRIPTION:-2.987ft at 11:30\n-2.992ft at 17:30
 END:VEVENT
 END:VCALENDAR
