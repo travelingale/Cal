@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240508T074800
-DTEND:20240508T101800
-DESCRIPTION:Day to target. Fun SSW swell tops out while NW swell mix blend
- s in. AM session is best as tide pushes in. Clean\, too. Midday high tide 
- will noticeably fatten up the surf and only improves a little bit through 
- the back half of the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240508T143000
-DTEND:20240508T185400
-DESCRIPTION:Day to target. Fun SSW swell tops out while NW swell mix blend
- s in. AM session is best as tide pushes in. Clean\, too. Midday high tide 
- will noticeably fatten up the surf and only improves a little bit through 
- the back half of the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240509T084800
 DTEND:20240509T112400
 DESCRIPTION:Day to target. Drained early\, but good tide push through mid 
@@ -70,16 +52,20 @@ DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in. th
  water in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:6 - 8ft: Fair
 DTSTART:20240512T060600
 DTEND:20240512T071200
-DESCRIPTION:-1.160ft at 06:06\n-0.031ft at 07:12
+DESCRIPTION:Southern Hemi swell doing all the work. Inconsistent but fun w
+ hen the sets show. Morning window looking best at this point\, a bit drain
+ ed early but. a nice tide push through late morning through lunchtime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:6 - 8ft: Fair
 DTSTART:20240512T110600
 DTEND:20240512T143000
-DESCRIPTION:-0.055ft at 11:06\n-2.941ft at 14:30
+DESCRIPTION:Southern Hemi swell doing all the work. Inconsistent but fun w
+ hen the sets show. Morning window looking best at this point\, a bit drain
+ ed early but. a nice tide push through late morning through lunchtime.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +180,17 @@ SUMMARY:OST
 DTSTART:20240523T143600
 DTEND:20240523T174800
 DESCRIPTION:-2.976ft at 14:36\n-2.985ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240524T081200
+DTEND:20240524T113600
+DESCRIPTION:-0.006ft at 08:12\n-2.989ft at 11:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240524T154200
+DTEND:20240524T175400
+DESCRIPTION:-2.994ft at 15:42\n-2.986ft at 17:54
 END:VEVENT
 END:VCALENDAR
