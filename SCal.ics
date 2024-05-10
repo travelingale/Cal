@@ -3,81 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240509T084800
-DTEND:20240509T112400
-DESCRIPTION:Day to target. Drained early\, but good tide push through mid 
- to late morning. Favorable wind\, clean surf all morning as well. Fun\, lo
- ng-period SSW swell continues.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240509T153600
-DTEND:20240509T191200
-DESCRIPTION:Day to target. Drained early\, but good tide push through mid 
- to late morning. Favorable wind\, clean surf all morning as well. Fun\, lo
- ng-period SSW swell continues.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240510T093600
 DTEND:20240510T123000
-DESCRIPTION:Smaller surf day with easing NW swell and a little bit of SSW 
- swell in the mix. Light wind and a low incoming tide mid morning should ma
- ke for decent conditions on the small wave gear. 
+DESCRIPTION:Smaller surf day SSW swell comes down. Light wind and a low in
+ coming tide mid morning should make for decent conditions on the small wav
+ e gear. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240510T170000
 DTEND:20240510T193000
-DESCRIPTION:Smaller surf day with easing NW swell and a little bit of SSW 
- swell in the mix. Light wind and a low incoming tide mid morning should ma
- ke for decent conditions on the small wave gear. 
+DESCRIPTION:Smaller surf day SSW swell comes down. Light wind and a low in
+ coming tide mid morning should make for decent conditions on the small wav
+ e gear. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240511T102400
 DTEND:20240511T133600
-DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in. th
- e water. Inconsistent sets and less size in the morning but it looks like 
- the better window due to the low tide. Likely slowing down with the extra 
- water in the afternoon. 
+DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in the
+  water. Inconsistent sets and less size in the morning but it looks like t
+ he better window due to the low tide. Likely slowing down with the extra w
+ ater in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240511T190000
 DTEND:20240511T192400
-DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in. th
- e water. Inconsistent sets and less size in the morning but it looks like 
- the better window due to the low tide. Likely slowing down with the extra 
- water in the afternoon. 
+DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in the
+  water. Inconsistent sets and less size in the morning but it looks like t
+ he better window due to the low tide. Likely slowing down with the extra w
+ ater in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240512T060600
 DTEND:20240512T071200
 DESCRIPTION:Southern Hemi swell doing all the work. Inconsistent but fun w
  hen the sets show. Morning window looking best at this point\, a bit drain
- ed early but. a nice tide push through late morning through lunchtime.
+ ed early but a nice tide push through late morning through lunchtime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:6 - 8ft: Fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240512T110600
 DTEND:20240512T143000
 DESCRIPTION:Southern Hemi swell doing all the work. Inconsistent but fun w
  hen the sets show. Morning window looking best at this point\, a bit drain
- ed early but. a nice tide push through late morning through lunchtime.
+ ed early but a nice tide push through late morning through lunchtime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240513T060600
 DTEND:20240513T083000
-DESCRIPTION:-2.240ft at 06:06\n-0.025ft at 08:30
+DESCRIPTION:Long-period SW swell lingers. Favorable winds in the morning\,
+  potential for some southerly texture in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240513T113600
 DTEND:20240513T152400
-DESCRIPTION:-0.004ft at 11:36\n-2.973ft at 15:24
+DESCRIPTION:Long-period SW swell lingers. Favorable winds in the morning\,
+  potential for some southerly texture in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +178,11 @@ SUMMARY:OST
 DTSTART:20240524T154200
 DTEND:20240524T175400
 DESCRIPTION:-2.994ft at 15:42\n-2.986ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240525T090600
+DTEND:20240525T122400
+DESCRIPTION:-0.046ft at 09:06\n-2.948ft at 12:24
 END:VEVENT
 END:VCALENDAR
