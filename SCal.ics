@@ -2,25 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240511T102400
-DTEND:20240511T133600
-DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in the
-  water. Inconsistent sets and less size in the morning but it looks like t
- he better window due to the low tide. Likely slowing down with the extra w
- ater in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240511T190000
-DTEND:20240511T192400
-DESCRIPTION:Fresh SW swell keeping some modest to locally fun waves in the
-  water. Inconsistent sets and less size in the morning but it looks like t
- he better window due to the low tide. Likely slowing down with the extra w
- ater in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240512T060600
 DTEND:20240512T071200
 DESCRIPTION:New SW swell up a notch. Inconsistent but fun when the sets sh
@@ -28,7 +10,7 @@ DESCRIPTION:New SW swell up a notch. Inconsistent but fun when the sets sh
  nice tide push through late morning through lunchtime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240512T110600
 DTEND:20240512T143000
 DESCRIPTION:New SW swell up a notch. Inconsistent but fun when the sets sh
@@ -66,10 +48,12 @@ DESCRIPTION:Glassy\, fun mix of swells (primary SW pulse\, secondary NW sw
  urface texture midday\, yet overall quality will remain fun/good.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240515T070000
 DTEND:20240515T163600
-DESCRIPTION:-2.994ft at 07:00\n-2.993ft at 16:36
+DESCRIPTION:Glassy surface conditions\, dropping tide sets up a good windo
+ w through the morning. Expect surface texture midday\, yet overall quality
+  will remain fun/good. SW swell slowly easing through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -178,5 +162,17 @@ SUMMARY:OST
 DTSTART:20240526T095400
 DTEND:20240526T131800
 DESCRIPTION:-0.021ft at 09:54\n-2.966ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240527T055400
+DTEND:20240527T063000
+DESCRIPTION:-0.669ft at 05:54\n-0.025ft at 06:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240527T104200
+DTEND:20240527T140600
+DESCRIPTION:-0.032ft at 10:42\n-2.984ft at 14:06
 END:VEVENT
 END:VCALENDAR
