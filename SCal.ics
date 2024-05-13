@@ -2,30 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240512T060600
-DTEND:20240512T071200
-DESCRIPTION:New SW swell up a notch. Inconsistent but fun when the sets sh
- ow. Morning window looking best at this point\, a bit drained early but a 
- nice tide push through late morning through lunchtime.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240512T110600
-DTEND:20240512T143000
-DESCRIPTION:New SW swell up a notch. Inconsistent but fun when the sets sh
- ow. Morning window looking best at this point\, a bit drained early but a 
- nice tide push through late morning through lunchtime.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240513T060600
 DTEND:20240513T083000
 DESCRIPTION:Long-period SW swell lingers. Favorable winds in the morning\,
   potential for some southerly texture in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240513T113600
 DTEND:20240513T152400
 DESCRIPTION:Long-period SW swell lingers. Favorable winds in the morning\,
@@ -35,17 +19,17 @@ BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240514T061200
 DTEND:20240514T100000
-DESCRIPTION:Glassy\, fun mix of swells (primary SW pulse\, secondary NW sw
- ell) and dropping tide sets up a nice window through the morning. Expect s
- urface texture midday\, yet overall quality will remain fun/good.
+DESCRIPTION:Modest SW swell lingers but a touch less from Monday. New/smal
+ l WNW-NW swell builds in. Clean in the AM and with dropping tide. Expect s
+ urface texture midday\, yet overall quality will remain fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240514T120000
 DTEND:20240514T160600
-DESCRIPTION:Glassy\, fun mix of swells (primary SW pulse\, secondary NW sw
- ell) and dropping tide sets up a nice window through the morning. Expect s
- urface texture midday\, yet overall quality will remain fun/good.
+DESCRIPTION:Modest SW swell lingers but a touch less from Monday. New/smal
+ l WNW-NW swell builds in. Clean in the AM and with dropping tide. Expect s
+ urface texture midday\, yet overall quality will remain fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -53,13 +37,16 @@ DTSTART:20240515T070000
 DTEND:20240515T163600
 DESCRIPTION:Glassy surface conditions\, dropping tide sets up a good windo
  w through the morning. Expect surface texture midday\, yet overall quality
-  will remain fun/good. SW swell slowly easing through the day.
+  will remain fun/good. SW swell slowly easing through the day. Small WNW-N
+ W swell mixes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240516T075400
 DTEND:20240516T165400
-DESCRIPTION:-2.959ft at 07:54\n-2.953ft at 16:54
+DESCRIPTION:Old SW swell continues to slowly ease\, while a fresh/small WN
+ W-NW swell pushes in. Might be decent on morning tide drop. Early to mid m
+ orning likely to see light wind and cleaner conditions for the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +161,17 @@ SUMMARY:OST
 DTSTART:20240527T104200
 DTEND:20240527T140600
 DESCRIPTION:-0.032ft at 10:42\n-2.984ft at 14:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240528T055400
+DTEND:20240528T072400
+DESCRIPTION:-1.728ft at 05:54\n-0.074ft at 07:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240528T112400
+DTEND:20240528T144200
+DESCRIPTION:-0.027ft at 11:24\n-2.981ft at 14:42
 END:VEVENT
 END:VCALENDAR
