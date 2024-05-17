@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240516T075400
-DTEND:20240516T165400
-DESCRIPTION:Old SW swell continues to slowly ease\, while a fresh/small WN
- W-NW swell pushes in. Might be decent on morning tide drop. Early to mid m
- orning likely to see light wind and cleaner conditions for the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240517T084200
 DTEND:20240517T170600
 DESCRIPTION:Another fairly slow day\, especially early with the high tide.
@@ -36,7 +28,7 @@ DESCRIPTION:SW sets begin to bump up in size\, as an overlapping blend of
  s to push into the coast.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240519T060000
 DTEND:20240519T073000
 DESCRIPTION:Sizable surf due\, as overlapping long period SW swells top ou
@@ -44,7 +36,7 @@ DESCRIPTION:Sizable surf due\, as overlapping long period SW swells top ou
  ts. Consistency improves. Small NW swell still mixing in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240519T103600
 DTEND:20240519T172400
 DESCRIPTION:Sizable surf due\, as overlapping long period SW swells top ou
@@ -52,16 +44,18 @@ DESCRIPTION:Sizable surf due\, as overlapping long period SW swells top ou
  ts. Consistency improves. Small NW swell still mixing in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240520T060000
 DTEND:20240520T082400
-DESCRIPTION:-1.323ft at 06:00\n-2.975ft at 08:24
+DESCRIPTION:Good quality surf continues to start new week. Long-period SW 
+ swell continues. AM window looking best\, and cleanest.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240520T113000
 DTEND:20240520T173000
-DESCRIPTION:-2.987ft at 11:30\n-2.992ft at 17:30
+DESCRIPTION:Good quality surf continues to start new week. Long-period SW 
+ swell continues. AM window looking best\, and cleanest.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +170,11 @@ SUMMARY:OST
 DTSTART:20240531T073000
 DTEND:20240531T154800
 DESCRIPTION:-2.985ft at 07:30\n-2.980ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240601T083600
+DTEND:20240601T160000
+DESCRIPTION:-2.951ft at 08:36\n-2.908ft at 16:00
 END:VEVENT
 END:VCALENDAR
