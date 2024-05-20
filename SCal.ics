@@ -3,73 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair
-DTSTART:20240519T060000
-DTEND:20240519T073000
-DESCRIPTION:Perhaps a little surface texture\, but mostly clean. Sizable s
- urf due\, as first long period SW swell tops out. Consistency improves. Sm
- all NW swell still mixing in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
-DTSTART:20240519T103600
-DTEND:20240519T172400
-DESCRIPTION:Perhaps a little surface texture\, but mostly clean. Sizable s
- urf due\, as first long period SW swell tops out. Consistency improves. Sm
- all NW swell still mixing in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
 DTSTART:20240520T060000
 DTEND:20240520T082400
 DESCRIPTION:Good quality surf continues to start new week. Overlapping\, l
- ong-period SW swell continues. AM window looking best\, and cleanest.
+ ong-period SW swell continues. AM window looking best\, and cleanest overa
+ ll.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 6ft: Fair
 DTSTART:20240520T113000
 DTEND:20240520T173000
 DESCRIPTION:Good quality surf continues to start new week. Overlapping\, l
- ong-period SW swell continues. AM window looking best\, and cleanest.
+ ong-period SW swell continues. AM window looking best\, and cleanest overa
+ ll.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240521T060000
 DTEND:20240521T091200
-DESCRIPTION:Really fun surf continues as long-period SW swell lingers. AM 
- window looking best\, and cleanest.
+DESCRIPTION:Really fun surf continues as long-period SW swell continues. A
+ M window looking best\, and cleanest once again. Good tide push through ea
+ rly morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240521T123000
 DTEND:20240521T173000
-DESCRIPTION:Really fun surf continues as long-period SW swell lingers. AM 
- window looking best\, and cleanest.
+DESCRIPTION:Really fun surf continues as long-period SW swell continues. A
+ M window looking best\, and cleanest once again. Good tide push through ea
+ rly morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240522T061800
 DTEND:20240522T100000
-DESCRIPTION:Good tide push\, clean conditions through morning. SW swell co
- ntinues. 
+DESCRIPTION:Good tide push\, clean conditions through morning. SW swell li
+ ngers with good size hanging around at focal points. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240522T133000
 DTEND:20240522T174200
-DESCRIPTION:Good tide push\, clean conditions through morning. SW swell co
- ntinues. 
+DESCRIPTION:Good tide push\, clean conditions through morning. SW swell li
+ ngers with good size hanging around at focal points. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240523T071800
 DTEND:20240523T104200
-DESCRIPTION:-0.006ft at 07:18\n-2.949ft at 10:42
+DESCRIPTION:SW swell train starts to ease. Focal points will still be very
+  fun and rip-able though. Cleanest in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240523T143600
 DTEND:20240523T174800
-DESCRIPTION:-2.976ft at 14:36\n-2.985ft at 17:48
+DESCRIPTION:SW swell train starts to ease. Focal points will still be very
+  fun and rip-able though. Cleanest in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -178,5 +168,17 @@ SUMMARY:OST
 DTSTART:20240603T110600
 DTEND:20240603T163600
 DESCRIPTION:-2.956ft at 11:06\n-2.977ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240604T055400
+DTEND:20240604T084800
+DESCRIPTION:-0.142ft at 05:54\n-2.976ft at 08:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240604T122400
+DTEND:20240604T165400
+DESCRIPTION:-2.982ft at 12:24\n-2.977ft at 16:54
 END:VEVENT
 END:VCALENDAR
