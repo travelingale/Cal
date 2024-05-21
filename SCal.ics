@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
-DTSTART:20240520T060000
-DTEND:20240520T082400
-DESCRIPTION:Good quality surf continues to start new week. Overlapping\, l
- ong-period SW swell continues. AM window looking best\, and cleanest overa
- ll.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair
-DTSTART:20240520T113000
-DTEND:20240520T173000
-DESCRIPTION:Good quality surf continues to start new week. Overlapping\, l
- ong-period SW swell continues. AM window looking best\, and cleanest overa
- ll.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240521T060000
 DTEND:20240521T091200
 DESCRIPTION:Really fun surf continues as long-period SW swell continues. A
- M window looking best\, and cleanest once again. Good tide push through ea
- rly morning.
+ M window looking best\, and cleanest once again. Good tide push through th
+ e morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240521T123000
 DTEND:20240521T173000
 DESCRIPTION:Really fun surf continues as long-period SW swell continues. A
- M window looking best\, and cleanest once again. Good tide push through ea
- rly morning.
+ M window looking best\, and cleanest once again. Good tide push through th
+ e morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -62,16 +46,18 @@ DESCRIPTION:SW swell train starts to ease. Focal points will still be very
   fun and rip-able though. Cleanest in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240524T081200
 DTEND:20240524T113600
-DESCRIPTION:-0.006ft at 08:12\n-2.989ft at 11:36
+DESCRIPTION:Surf will be getting smaller as SW swell fades\, but still kin
+ da fun for the small-wave gear. Cleanest in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240524T154200
 DTEND:20240524T175400
-DESCRIPTION:-2.994ft at 15:42\n-2.986ft at 17:54
+DESCRIPTION:Surf will be getting smaller as SW swell fades\, but still kin
+ da fun for the small-wave gear. Cleanest in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +166,17 @@ SUMMARY:OST
 DTSTART:20240604T122400
 DTEND:20240604T165400
 DESCRIPTION:-2.982ft at 12:24\n-2.977ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240605T070000
+DTEND:20240605T094200
+DESCRIPTION:-0.096ft at 07:00\n-2.965ft at 09:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240605T134800
+DTEND:20240605T171200
+DESCRIPTION:-2.957ft at 13:48\n-2.958ft at 17:12
 END:VEVENT
 END:VCALENDAR
