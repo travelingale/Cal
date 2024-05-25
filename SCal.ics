@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240524T081200
-DTEND:20240524T113600
-DESCRIPTION:Surf will be getting smaller as SW swell fades\, but still kin
- da fun for the small-wave gear. Cleanest in morning. Afternoon session bog
- s with smaller size and 3'+ tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240524T154200
-DTEND:20240524T175400
-DESCRIPTION:Surf will be getting smaller as SW swell fades\, but still kin
- da fun for the small-wave gear. Cleanest in morning. Afternoon session bog
- s with smaller size and 3'+ tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240525T090600
 DTEND:20240525T122400
 DESCRIPTION:One of the smaller days we've seen in awhile. AM tide push sho
@@ -50,16 +34,18 @@ DESCRIPTION:Similar to Sunday. Small mix of swells from Southern Hemispher
  .
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240528T055400
 DTEND:20240528T072400
-DESCRIPTION:-1.728ft at 05:54\n-0.074ft at 07:24
+DESCRIPTION:New little SSW swell building in\, but look for more consisten
+ cy and better shape late morning as tide begins to push back in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240528T112400
 DTEND:20240528T144200
-DESCRIPTION:-0.027ft at 11:24\n-2.981ft at 14:42
+DESCRIPTION:New little SSW swell building in\, but look for more consisten
+ cy and better shape late morning as tide begins to push back in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +160,11 @@ SUMMARY:OST
 DTSTART:20240608T092400
 DTEND:20240608T121200
 DESCRIPTION:-0.083ft at 09:24\n-2.990ft at 12:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240609T100000
+DTEND:20240609T125400
+DESCRIPTION:-0.093ft at 10:00\n-2.941ft at 12:54
 END:VEVENT
 END:VCALENDAR
