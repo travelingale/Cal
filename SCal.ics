@@ -2,62 +2,62 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240525T090600
-DTEND:20240525T122400
-DESCRIPTION:One of the smaller days we've seen in awhile. AM tide push sho
- uld offer a few little waves for small-wave gear though. Getting flat for 
- many spots on the higher tides in the afternoonl.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240526T095400
 DTEND:20240526T131800
-DESCRIPTION:Surf remains marginal with a little blend of SW/SSW swells rol
- ling in. Once again\, clean throughout the morning. Perhaps ok for the big
- ger boards on the late morning tide push.
+DESCRIPTION:Surf remains marginaly rideable with a little blend of SW/SSW 
+ swells rolling in. Once again\, clean throughout the morning. Perhaps ok f
+ or the bigger boards on the late morning tide push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240527T055400
 DTEND:20240527T063000
-DESCRIPTION:Similar to Sunday. Small mix of swells from Southern Hemispher
- e. Tide will be drained in morning\, but might be fine for small-wave gear
- .
+DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SW. Tide wil
+ l be drained in morning\, but might be fine for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240527T104200
 DTEND:20240527T140600
-DESCRIPTION:Similar to Sunday. Small mix of swells from Southern Hemispher
- e. Tide will be drained in morning\, but might be fine for small-wave gear
- .
+DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SW. Tide wil
+ l be drained in morning\, but might be fine for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240528T055400
 DTEND:20240528T072400
-DESCRIPTION:New little SSW swell building in\, but look for more consisten
- cy and better shape late morning as tide begins to push back in.
+DESCRIPTION:Surf should perk up a little bit - still small but probably a 
+ little more rideable than previous days as long period\, favorably angled 
+ SW swell fills in. I'd work around the negative low tide around 9am (early
+  AM or late AM/early PM). 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240528T112400
 DTEND:20240528T144200
-DESCRIPTION:New little SSW swell building in\, but look for more consisten
- cy and better shape late morning as tide begins to push back in.
+DESCRIPTION:Surf should perk up a little bit - still small but probably a 
+ little more rideable than previous days as long period\, favorably angled 
+ SW swell fills in. I'd work around the negative low tide around 9am (early
+  AM or late AM/early PM). 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240529T055400
 DTEND:20240529T083000
-DESCRIPTION:-2.763ft at 05:54\n-0.074ft at 08:30
+DESCRIPTION:Drained conditions most of morning so head out at Dawn Patrol 
+ or late morning. Small surf but rideable when the little SW swell pulses i
+ n. Some short period NW swell running but that mainly will bypass town spo
+ ts. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240529T120000
 DTEND:20240529T150600
-DESCRIPTION:-0.058ft at 12:00\n-2.934ft at 15:06
+DESCRIPTION:Drained conditions most of morning so head out at Dawn Patrol 
+ or late morning. Small surf but rideable when the little SW swell pulses i
+ n. Some short period NW swell running but that mainly will bypass town spo
+ ts. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -166,5 +166,17 @@ SUMMARY:OST
 DTSTART:20240609T100000
 DTEND:20240609T125400
 DESCRIPTION:-0.093ft at 10:00\n-2.941ft at 12:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240610T055400
+DTEND:20240610T064800
+DESCRIPTION:-0.908ft at 05:54\n-0.017ft at 06:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240610T102400
+DTEND:20240610T133600
+DESCRIPTION:-0.037ft at 10:24\n-2.939ft at 13:36
 END:VEVENT
 END:VCALENDAR
