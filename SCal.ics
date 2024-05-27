@@ -3,25 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240526T095400
-DTEND:20240526T131800
-DESCRIPTION:Surf remains marginaly rideable with a little blend of SW/SSW 
- swells rolling in. Once again\, clean throughout the morning. Perhaps ok f
- or the bigger boards on the late morning tide push.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240527T055400
 DTEND:20240527T063000
-DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SW. Tide wil
- l be drained in morning\, but might be fine for small-wave gear.
+DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SSW-SW (and 
+ a bit of short period NW swell\, although it largely bypasses town spots).
+  Tide will be drained in morning\, but might be ok for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240527T104200
 DTEND:20240527T140600
-DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SW. Tide wil
- l be drained in morning\, but might be fine for small-wave gear.
+DESCRIPTION:Similar to Sunday. Small/minor mix of swells from SSW-SW (and 
+ a bit of short period NW swell\, although it largely bypasses town spots).
+  Tide will be drained in morning\, but might be ok for small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -60,16 +54,22 @@ DESCRIPTION:Drained conditions most of morning so head out at Dawn Patrol
  ts. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240530T063600
 DTEND:20240530T095400
-DESCRIPTION:-2.951ft at 06:36\n-0.037ft at 09:54
+DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
+ in the mix. A struggle for most spots on the early and late high tides. La
+ te morning to early afternoon around the lower tide will probably the the 
+ best chance for decent waves. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240530T121800
 DTEND:20240530T153000
-DESCRIPTION:-0.050ft at 12:18\n-2.972ft at 15:30
+DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
+ in the mix. A struggle for most spots on the early and late high tides. La
+ te morning to early afternoon around the lower tide will probably the the 
+ best chance for decent waves. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -178,5 +178,17 @@ SUMMARY:OST
 DTSTART:20240610T102400
 DTEND:20240610T133600
 DESCRIPTION:-0.037ft at 10:24\n-2.939ft at 13:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240611T055400
+DTEND:20240611T080000
+DESCRIPTION:-1.855ft at 05:54\n-0.014ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240611T103600
+DTEND:20240611T141200
+DESCRIPTION:-0.009ft at 10:36\n-2.938ft at 14:12
 END:VEVENT
 END:VCALENDAR
