@@ -2,40 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240529T055400
-DTEND:20240529T083000
-DESCRIPTION:Drained conditions most of morning so head out at Dawn Patrol 
- or late morning. Small surf but rideable when the little SW swell pulses i
- n. Some short period NW swell running but that mainly will bypass town spo
- ts. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240529T120000
-DTEND:20240529T150600
-DESCRIPTION:Drained conditions most of morning so head out at Dawn Patrol 
- or late morning. Small surf but rideable when the little SW swell pulses i
- n. Some short period NW swell running but that mainly will bypass town spo
- ts. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240530T063600
 DTEND:20240530T095400
 DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
- in the mix. A struggle for most spots on the early and late high tides. La
- te morning to early afternoon around the lower tide will probably the the 
- best chance for decent waves. 
+ in the mix. Mid morning to early afternoon around the lower tide will prob
+ ably the the best chance for decent waves. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240530T121800
 DTEND:20240530T153000
 DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
- in the mix. A struggle for most spots on the early and late high tides. La
- te morning to early afternoon around the lower tide will probably the the 
- best chance for decent waves. 
+ in the mix. Mid morning to early afternoon around the lower tide will prob
+ ably the the best chance for decent waves. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -55,16 +35,18 @@ DESCRIPTION:Should be fairly fun in town off southerly swell mix (building
  he best tide window. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240602T055400
 DTEND:20240602T062400
-DESCRIPTION:-2.636ft at 05:54\n-2.960ft at 06:24
+DESCRIPTION:Surf should hang close to Saturday - fairly fun off mainly SSW
+  swell. The dawn patrol tide push has potential. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240602T094800
 DTEND:20240602T161800
-DESCRIPTION:-2.949ft at 09:48\n-2.950ft at 16:18
+DESCRIPTION:Surf should hang close to Saturday - fairly fun off mainly SSW
+  swell. The dawn patrol tide push has potential. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -173,5 +155,11 @@ SUMMARY:OST
 DTSTART:20240613T060600
 DTEND:20240613T150600
 DESCRIPTION:-2.944ft at 06:06\n-2.994ft at 15:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240614T063600
+DTEND:20240614T151800
+DESCRIPTION:-2.973ft at 06:36\n-2.967ft at 15:18
 END:VEVENT
 END:VCALENDAR
