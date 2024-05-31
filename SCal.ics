@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240530T063600
-DTEND:20240530T095400
-DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
- in the mix. Mid morning to early afternoon around the lower tide will prob
- ably the the best chance for decent waves. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240530T121800
-DTEND:20240530T153000
-DESCRIPTION:A little more NW swell wrapping into town with small SW swell 
- in the mix. Mid morning to early afternoon around the lower tide will prob
- ably the the best chance for decent waves. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240531T073000
 DTEND:20240531T154800
 DESCRIPTION:Small to fun surf\, probably coming up a bit (especially in po
@@ -39,26 +23,30 @@ SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240602T055400
 DTEND:20240602T062400
 DESCRIPTION:Surf should hang close to Saturday - fairly fun off mainly SSW
-  swell. The dawn patrol tide push has potential. Stay tuned. 
+  swell. The dawn patrol tide push has potential. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240602T094800
 DTEND:20240602T161800
 DESCRIPTION:Surf should hang close to Saturday - fairly fun off mainly SSW
-  swell. The dawn patrol tide push has potential. Stay tuned. 
+  swell. The dawn patrol tide push has potential. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240603T055400
 DTEND:20240603T074200
-DESCRIPTION:-1.419ft at 05:54\n-2.946ft at 07:42
+DESCRIPTION:Nice tide push and clean in earlier morning. Surface texture d
+ evelops midday\, but more size showing off new blend of NW and SW swells e
+ xpected.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240603T110600
 DTEND:20240603T163600
-DESCRIPTION:-2.956ft at 11:06\n-2.977ft at 16:36
+DESCRIPTION:Nice tide push and clean in earlier morning. Surface texture d
+ evelops midday\, but more size showing off new blend of NW and SW swells e
+ xpected.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -161,5 +149,11 @@ SUMMARY:OST
 DTSTART:20240614T063600
 DTEND:20240614T151800
 DESCRIPTION:-2.973ft at 06:36\n-2.967ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240615T070000
+DTEND:20240615T152400
+DESCRIPTION:-2.992ft at 07:00\n-2.931ft at 15:24
 END:VEVENT
 END:VCALENDAR
