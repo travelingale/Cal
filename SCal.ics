@@ -2,78 +2,68 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240602T055400
-DTEND:20240602T062400
-DESCRIPTION:Surf hangs close to Saturday - fairly fun off mainly SSW swell
- . The dawn patrol tide push has potential. Winds staying on the light side
- \, best in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240602T094800
-DTEND:20240602T161800
-DESCRIPTION:Surf hangs close to Saturday - fairly fun off mainly SSW swell
- . The dawn patrol tide push has potential. Winds staying on the light side
- \, best in the morning. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240603T055400
 DTEND:20240603T074200
-DESCRIPTION:Nice tide push and clean in earlier morning. Surface texture d
- evelops midday\, but more size showing off new blend of NW and SW swells e
- xpected.
+DESCRIPTION:Nice tide push and clean in earlier morning. Some surface text
+ ure develops midday. New blend of NW and SW swells showing in the PM. Even
+ ing high tide near 6'.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240603T110600
 DTEND:20240603T163600
-DESCRIPTION:Nice tide push and clean in earlier morning. Surface texture d
- evelops midday\, but more size showing off new blend of NW and SW swells e
- xpected.
+DESCRIPTION:Nice tide push and clean in earlier morning. Some surface text
+ ure develops midday. New blend of NW and SW swells showing in the PM. Even
+ ing high tide near 6'.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240604T055400
 DTEND:20240604T084800
-DESCRIPTION:New SW swell filling in. AM window likely fun on the incoming 
- tide. Wind manageable in PM as well as tide recedes.
+DESCRIPTION:New SW swell filling in\, with secondary NW swell. AM window l
+ ikely fun on the incoming tide. Light winds due through the day. Evening h
+ igh tide hits 6'. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240604T122400
 DTEND:20240604T165400
-DESCRIPTION:New SW swell filling in. AM window likely fun on the incoming 
- tide. Wind manageable in PM as well as tide recedes.
+DESCRIPTION:New SW swell filling in\, with secondary NW swell. AM window l
+ ikely fun on the incoming tide. Light winds due through the day. Evening h
+ igh tide hits 6'. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240605T070000
 DTEND:20240605T094200
-DESCRIPTION:Day to target. Clean AM\, along with incoming tide. Fun SW swe
- ll continues with nice size at focal points. Some new NW swell wrap starti
- ng to join in. Light morning winds\, manageable PM onshores. 
+DESCRIPTION:Day to target. Mainly clean AM\, along with incoming tide. Fun
+  SW swell continues with nice size at focal points. New NW swell wrap join
+ ing in. Manageable PM onshores. Mind the elevated evening high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20240605T134800
 DTEND:20240605T171200
-DESCRIPTION:Day to target. Clean AM\, along with incoming tide. Fun SW swe
- ll continues with nice size at focal points. Some new NW swell wrap starti
- ng to join in. Light morning winds\, manageable PM onshores. 
+DESCRIPTION:Day to target. Mainly clean AM\, along with incoming tide. Fun
+  SW swell continues with nice size at focal points. New NW swell wrap join
+ ing in. Manageable PM onshores. Mind the elevated evening high tide. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240606T075400
 DTEND:20240606T103000
-DESCRIPTION:-0.060ft at 07:54\n-2.925ft at 10:30
+DESCRIPTION:Another good day\, with fun SW swell and late season NW swell 
+ wrapping in. Morning winds looking light\, afternoon onshores manageable. 
+ Options throughout the region. Rising tide up around 5' at sunset. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240606T150600
 DTEND:20240606T173600
-DESCRIPTION:-2.972ft at 15:06\n-2.982ft at 17:36
+DESCRIPTION:Another good day\, with fun SW swell and late season NW swell 
+ wrapping in. Morning winds looking light\, afternoon onshores manageable. 
+ Options throughout the region. Rising tide up around 5' at sunset. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -164,5 +154,17 @@ SUMMARY:OST
 DTSTART:20240617T093000
 DTEND:20240617T153600
 DESCRIPTION:-2.992ft at 09:30\n-2.965ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240618T055400
+DTEND:20240618T084800
+DESCRIPTION:-1.268ft at 05:54\n-2.990ft at 08:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240618T111800
+DTEND:20240618T154200
+DESCRIPTION:-2.997ft at 11:18\n-2.980ft at 15:42
 END:VEVENT
 END:VCALENDAR
