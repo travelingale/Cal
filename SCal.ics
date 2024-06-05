@@ -2,23 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240604T055400
-DTEND:20240604T084800
-DESCRIPTION:New SW swell filling in\, with secondary NW swell. AM window l
- ikely fun on the incoming tide. Light winds due through the day. Evening h
- igh tide hits 6'. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240604T122400
-DTEND:20240604T165400
-DESCRIPTION:New SW swell filling in\, with secondary NW swell. AM window l
- ikely fun on the incoming tide. Light winds due through the day. Evening h
- igh tide hits 6'. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240605T070000
 DTEND:20240605T094200
 DESCRIPTION:Day to target. Mainly clean AM\, along with incoming tide. Fun
@@ -42,7 +26,7 @@ DESCRIPTION:Another good day\, with fun SW swell and late season NW swell
  Options throughout the region. Rising tide up around 5' at sunset. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240606T150600
 DTEND:20240606T173600
 DESCRIPTION:Another good day\, with fun SW swell and late season NW swell 
@@ -66,10 +50,12 @@ DESCRIPTION:Fading but fun. Easing SSW swell still rolling into better exp
  ing helps shape and overall quality. Morning mainly clean. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240608T092400
 DTEND:20240608T121200
-DESCRIPTION:-0.083ft at 09:24\n-2.990ft at 12:12
+DESCRIPTION:Waves off a notch but still fun zone\, with easing mix of SSW 
+ swell\, secondary NW swell. AM winds mainly light\, best early. Afternoon 
+ onshores looking manageable. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -166,5 +152,17 @@ SUMMARY:OST
 DTSTART:20240619T125400
 DTEND:20240619T154800
 DESCRIPTION:-2.980ft at 12:54\n-2.977ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240620T062400
+DTEND:20240620T095400
+DESCRIPTION:-0.047ft at 06:24\n-2.979ft at 09:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240620T141200
+DTEND:20240620T160000
+DESCRIPTION:-2.996ft at 14:12\n-2.990ft at 16:00
 END:VEVENT
 END:VCALENDAR
