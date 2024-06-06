@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240605T070000
-DTEND:20240605T094200
-DESCRIPTION:Day to target. Mainly clean AM\, along with incoming tide. Fun
-  SW swell continues with nice size at focal points. New NW swell wrap join
- ing in. Manageable PM onshores. Mind the elevated evening high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240605T134800
-DTEND:20240605T171200
-DESCRIPTION:Day to target. Mainly clean AM\, along with incoming tide. Fun
-  SW swell continues with nice size at focal points. New NW swell wrap join
- ing in. Manageable PM onshores. Mind the elevated evening high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240606T075400
 DTEND:20240606T103000
-DESCRIPTION:Another good day\, with fun SW swell and late season NW swell 
- wrapping in. Morning winds looking light\, afternoon onshores manageable. 
- Options throughout the region. Rising tide up around 5' at sunset. 
+DESCRIPTION:Good day. Fun SW swell and late season NW swell wrapping in. C
+ lean all morning with a tide push. Meanwhile\, afternoon onshores manageab
+ le. as well Options throughout the region. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20240606T150600
 DTEND:20240606T173600
-DESCRIPTION:Another good day\, with fun SW swell and late season NW swell 
- wrapping in. Morning winds looking light\, afternoon onshores manageable. 
- Options throughout the region. Rising tide up around 5' at sunset. 
+DESCRIPTION:Good day. Fun SW swell and late season NW swell wrapping in. C
+ lean all morning with a tide push. Meanwhile\, afternoon onshores manageab
+ le. as well Options throughout the region. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -42,7 +26,7 @@ DESCRIPTION:Fading but fun. Easing SSW swell still rolling into better exp
  ing helps shape and overall quality. Morning mainly clean. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240607T162400
 DTEND:20240607T180000
 DESCRIPTION:Fading but fun. Easing SSW swell still rolling into better exp
@@ -58,10 +42,12 @@ DESCRIPTION:Waves off a notch but still fun zone\, with easing mix of SSW
  onshores looking manageable. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240609T100000
 DTEND:20240609T125400
-DESCRIPTION:-0.093ft at 10:00\n-2.941ft at 12:54
+DESCRIPTION:Old SSW swell fades as possible new pulse of WNW swell moves i
+ n\, stay tuned. Morning winds looking light. Drained dawn patrol followed 
+ by a nice tide push into mid day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -164,5 +150,17 @@ SUMMARY:OST
 DTSTART:20240620T141200
 DTEND:20240620T160000
 DESCRIPTION:-2.996ft at 14:12\n-2.990ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240621T072400
+DTEND:20240621T103000
+DESCRIPTION:-0.077ft at 07:24\n-2.960ft at 10:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240621T153000
+DTEND:20240621T161200
+DESCRIPTION:-2.997ft at 15:30\n-2.993ft at 16:12
 END:VEVENT
 END:VCALENDAR
