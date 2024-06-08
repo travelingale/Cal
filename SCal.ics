@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240607T084200
-DTEND:20240607T112400
-DESCRIPTION:Fading but fun. Easing SSW swell still rolling into better exp
- osed magnets in town. NW swell wrap also fades. Tide push mid to late morn
- ing helps shape and overall quality. Morning mainly clean. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240607T162400
-DTEND:20240607T180000
-DESCRIPTION:Fading but fun. Easing SSW swell still rolling into better exp
- osed magnets in town. NW swell wrap also fades. Tide push mid to late morn
- ing helps shape and overall quality. Morning mainly clean. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240608T092400
 DTEND:20240608T121200
 DESCRIPTION:Waves off a notch but still fun zone\, with easing mix of SSW 
@@ -26,7 +10,7 @@ DESCRIPTION:Waves off a notch but still fun zone\, with easing mix of SSW
  onshores looking manageable. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240609T100000
 DTEND:20240609T125400
 DESCRIPTION:Old SSW swell fades as possible new pulse of WNW swell moves i
@@ -50,16 +34,20 @@ DESCRIPTION:Clean all morning but shape very drained from negative low tid
  rs as new\, mid-period NW swell fills in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240611T055400
 DTEND:20240611T080000
-DESCRIPTION:-1.855ft at 05:54\n-0.014ft at 08:00
+DESCRIPTION:Similar to Mon... Clean all morning but shape very drained fro
+ m negative low tide. Better shape and consistency on midday tide push. New
+ \, long-period SW swell builds in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240611T103600
 DTEND:20240611T141200
-DESCRIPTION:-0.009ft at 10:36\n-2.938ft at 14:12
+DESCRIPTION:Similar to Mon... Clean all morning but shape very drained fro
+ m negative low tide. Better shape and consistency on midday tide push. New
+ \, long-period SW swell builds in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -156,5 +144,11 @@ SUMMARY:OST
 DTSTART:20240622T081200
 DTEND:20240622T111200
 DESCRIPTION:-0.027ft at 08:12\n-2.990ft at 11:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240623T090000
+DTEND:20240623T114800
+DESCRIPTION:-0.060ft at 09:00\n-2.958ft at 11:48
 END:VEVENT
 END:VCALENDAR
