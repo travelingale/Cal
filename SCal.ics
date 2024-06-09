@@ -3,19 +3,11 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240608T092400
-DTEND:20240608T121200
-DESCRIPTION:Waves off a notch but still fun zone\, with easing mix of SSW 
- swell\, secondary NW swell. AM winds mainly light\, best early. Afternoon 
- onshores looking manageable. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240609T100000
 DTEND:20240609T125400
-DESCRIPTION:Old SSW swell fades as possible new pulse of WNW swell moves i
- n\, stay tuned. Morning winds looking light. Drained dawn patrol followed 
- by a nice tide push into mid day.
+DESCRIPTION:Old SSW swell fades as new modest pulse of NW swell moves in t
+ hrough the day. Drained dawn patrol followed by a nice tide push into mid 
+ day. New S swell building in as well.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -23,7 +15,7 @@ DTSTART:20240610T055400
 DTEND:20240610T064800
 DESCRIPTION:Clean all morning but shape very drained from negative low tid
  e. Better shape and consistency on midday tide push. Small SSW swell linge
- rs as new\, mid-period NW swell fills in.
+ rs as small NW swell lingers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -31,7 +23,7 @@ DTSTART:20240610T102400
 DTEND:20240610T133600
 DESCRIPTION:Clean all morning but shape very drained from negative low tid
  e. Better shape and consistency on midday tide push. Small SSW swell linge
- rs as new\, mid-period NW swell fills in.
+ rs as small NW swell lingers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -39,7 +31,7 @@ DTSTART:20240611T055400
 DTEND:20240611T080000
 DESCRIPTION:Similar to Mon... Clean all morning but shape very drained fro
  m negative low tide. Better shape and consistency on midday tide push. New
- \, long-period SW swell builds in.
+ \, long-period SW swell builds in with more size by end of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -47,13 +39,15 @@ DTSTART:20240611T103600
 DTEND:20240611T141200
 DESCRIPTION:Similar to Mon... Clean all morning but shape very drained fro
  m negative low tide. Better shape and consistency on midday tide push. New
- \, long-period SW swell builds in.
+ \, long-period SW swell builds in with more size by end of day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240612T055400
 DTEND:20240612T144200
-DESCRIPTION:-2.605ft at 05:54\n-2.956ft at 14:42
+DESCRIPTION:Good odds it's glassy in the morning. Really fun as long-perio
+ d SW swell pours in. Target late morning tide push\, and/or dropping tide 
+ in evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +144,17 @@ SUMMARY:OST
 DTSTART:20240623T090000
 DTEND:20240623T114800
 DESCRIPTION:-0.060ft at 09:00\n-2.958ft at 11:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240624T094200
+DTEND:20240624T122400
+DESCRIPTION:-0.084ft at 09:42\n-2.958ft at 12:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240624T180000
+DTEND:20240624T185400
+DESCRIPTION:-2.999ft at 18:00\n-2.996ft at 18:54
 END:VEVENT
 END:VCALENDAR
