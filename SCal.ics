@@ -2,50 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240611T055400
-DTEND:20240611T080000
-DESCRIPTION:Similar to Mon... Clean all morning but shape drained from neg
- ative low tide. Better shape and consistency on midday tide push. New\, lo
- ng-period SW swell builds in with more size by end of day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240611T103600
-DTEND:20240611T141200
-DESCRIPTION:Similar to Mon... Clean all morning but shape drained from neg
- ative low tide. Better shape and consistency on midday tide push. New\, lo
- ng-period SW swell builds in with more size by end of day.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20240612T055400
 DTEND:20240612T144200
 DESCRIPTION:Good odds it's glassy in the morning. Really fun as long-perio
- d SW swell pours in. Target late morning tide push\, and/or dropping tide 
- in evening.
+ d SW swell pours in. Target early morning tide drop\, and/or incoming tide
+  midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:4 - 5ft: Fair to good
 DTSTART:20240613T060600
 DTEND:20240613T150600
-DESCRIPTION:Another fun day of ways\, probably a little sluggish on the hi
- gher tide first thing. SW swell continues as some mid-period NW swell wrap
- s into town too. Clean morning window and afternoon texture should be mana
- geable.
+DESCRIPTION:Another fun day of waves. SW swell continues as some mid-perio
+ d NW swell wraps into town too. Clean morning window and afternoon texture
+  should be manageable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240614T063600
 DTEND:20240614T151800
-DESCRIPTION:Clean through the morning. Long-period SW swell lingers. New r
- ound of NW swell mix due later in the day. 
+DESCRIPTION:Clean through the morning. Long-period SW swell starts to ease
+ . New round of NW swell mix due later in the day but bulk of this energy b
+ ypasses town. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240615T070000
 DTEND:20240615T152400
-DESCRIPTION:-2.992ft at 07:00\n-2.931ft at 15:24
+DESCRIPTION:SW swell fading\, but still pretty fun at standout spots. Clea
+ n morning window\, along with a subtle drop in the tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -166,5 +151,17 @@ SUMMARY:OST
 DTSTART:20240626T192400
 DTEND:20240626T203000
 DESCRIPTION:-2.993ft at 19:24\n-2.698ft at 20:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240627T055400
+DTEND:20240627T083000
+DESCRIPTION:-2.448ft at 05:54\n-0.022ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240627T104200
+DTEND:20240627T134200
+DESCRIPTION:-0.053ft at 10:42\n-2.930ft at 13:42
 END:VEVENT
 END:VCALENDAR
