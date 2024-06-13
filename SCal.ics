@@ -2,15 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240612T055400
-DTEND:20240612T144200
-DESCRIPTION:Good odds it's glassy in the morning. Really fun as long-perio
- d SW swell pours in. Target early morning tide drop\, and/or incoming tide
-  midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair to good
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240613T060600
 DTEND:20240613T150600
 DESCRIPTION:Another fun day of waves. SW swell continues as some mid-perio
@@ -33,10 +25,12 @@ DESCRIPTION:SW swell fading\, but still pretty fun at standout spots. Clea
  n morning window\, along with a subtle drop in the tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240616T055400
 DTEND:20240616T153000
-DESCRIPTION:-2.622ft at 05:54\n-2.941ft at 15:30
+DESCRIPTION:Clean most of morning\, then manageable onshore in afternoon. 
+ New\, long-period SSW swell fills in while selective\, mostly shorter-peri
+ od NW swell wraps into a handful of town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -163,5 +157,11 @@ SUMMARY:OST
 DTSTART:20240627T104200
 DTEND:20240627T134200
 DESCRIPTION:-0.053ft at 10:42\n-2.930ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240628T061200
+DTEND:20240628T140000
+DESCRIPTION:-2.954ft at 06:12\n-2.913ft at 14:00
 END:VEVENT
 END:VCALENDAR
