@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240613T060600
-DTEND:20240613T150600
-DESCRIPTION:Another fun day of waves. SW swell continues as some mid-perio
- d NW swell wraps into town too. Clean morning window and afternoon texture
-  should be manageable.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240614T063600
 DTEND:20240614T151800
@@ -18,7 +10,7 @@ DESCRIPTION:Clean through the morning. Long-period SW swell starts to ease
  ypasses town. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240615T070000
 DTEND:20240615T152400
 DESCRIPTION:SW swell fading\, but still pretty fun at standout spots. Clea
@@ -33,16 +25,20 @@ DESCRIPTION:Clean most of morning\, then manageable onshore in afternoon.
  od NW swell wraps into a handful of town spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240617T055400
 DTEND:20240617T082400
-DESCRIPTION:-2.009ft at 05:54\n-2.995ft at 08:24
+DESCRIPTION:Fun. Long-period SSW swell tops out with nice size at focal po
+ ints. Cleanest in morning but certainly manageable in afternoon thanks to 
+ light onshore wind.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240617T093000
 DTEND:20240617T153600
-DESCRIPTION:-2.992ft at 09:30\n-2.965ft at 15:36
+DESCRIPTION:Fun. Long-period SSW swell tops out with nice size at focal po
+ ints. Cleanest in morning but certainly manageable in afternoon thanks to 
+ light onshore wind.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -163,5 +159,11 @@ SUMMARY:OST
 DTSTART:20240628T061200
 DTEND:20240628T140000
 DESCRIPTION:-2.954ft at 06:12\n-2.913ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240629T070000
+DTEND:20240629T141800
+DESCRIPTION:-2.981ft at 07:00\n-2.931ft at 14:18
 END:VEVENT
 END:VCALENDAR
