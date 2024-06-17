@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240616T055400
-DTEND:20240616T153000
-DESCRIPTION:Clean most of morning\, then manageable onshores in afternoon.
-  New\, long-period SSW swell fills in while selective\, mostly shorter-per
- iod NW swell wraps into a handful of town spots.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20240617T055400
 DTEND:20240617T082400
@@ -54,16 +46,22 @@ DESCRIPTION:Easing SSW swell\, but the morning window still looks decent/f
  un. Get on it before getting smaller next couple of days.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240620T062400
 DTEND:20240620T095400
-DESCRIPTION:-0.047ft at 06:24\n-2.979ft at 09:54
+DESCRIPTION:Looks like one of the smaller days in a while. Modest mix of N
+ W/WNW swells and lingering SSW swell leftovers. Most spots struggle to hit
+  waist-high\, especially on the higher tides by midday and all afternoon. 
+ Early window the call.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240620T141200
 DTEND:20240620T160000
-DESCRIPTION:-2.996ft at 14:12\n-2.990ft at 16:00
+DESCRIPTION:Looks like one of the smaller days in a while. Modest mix of N
+ W/WNW swells and lingering SSW swell leftovers. Most spots struggle to hit
+  waist-high\, especially on the higher tides by midday and all afternoon. 
+ Early window the call.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -172,5 +170,17 @@ SUMMARY:OST
 DTSTART:20240701T094800
 DTEND:20240701T145400
 DESCRIPTION:-2.976ft at 09:48\n-2.986ft at 14:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240702T055400
+DTEND:20240702T081200
+DESCRIPTION:-1.164ft at 05:54\n-2.987ft at 08:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240702T114200
+DTEND:20240702T151200
+DESCRIPTION:-2.984ft at 11:42\n-2.991ft at 15:12
 END:VEVENT
 END:VCALENDAR
