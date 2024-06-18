@@ -3,33 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240617T055400
-DTEND:20240617T082400
-DESCRIPTION:Fun. Long-period SSW swell tops out with nice size at focal po
- ints. Cleanest in morning but certainly manageable in afternoon thanks to 
- light onshore wind.
+DTSTART:20240618T055400
+DTEND:20240618T084800
+DESCRIPTION:The largest day left for a little while. Lingering SW/SSW swel
+ l blends with some NW swell mix. Fun surf and decent corners on the early 
+ tide push. Softer\, bouncier shape in the afternoon for most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
-DTSTART:20240617T093000
-DTEND:20240617T153600
-DESCRIPTION:Fun. Long-period SSW swell tops out with nice size at focal po
- ints. Cleanest in morning but certainly manageable in afternoon thanks to 
- light onshore wind.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240618T055400
-DTEND:20240618T084800
-DESCRIPTION:Clean with nice tide push early morning. Fun SSW swell lingers
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240618T111800
 DTEND:20240618T154200
-DESCRIPTION:Clean with nice tide push early morning. Fun SSW swell lingers
- .
+DESCRIPTION:The largest day left for a little while. Lingering SW/SSW swel
+ l blends with some NW swell mix. Fun surf and decent corners on the early 
+ tide push. Softer\, bouncier shape in the afternoon for most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -46,7 +32,7 @@ DESCRIPTION:Easing SSW swell\, but the morning window still looks decent/f
  un. Get on it before getting smaller next couple of days.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240620T062400
 DTEND:20240620T095400
 DESCRIPTION:Looks like one of the smaller days in a while. Modest mix of N
@@ -64,16 +50,20 @@ DESCRIPTION:Looks like one of the smaller days in a while. Modest mix of N
  Early window the call.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240621T072400
 DTEND:20240621T103000
-DESCRIPTION:-0.077ft at 07:24\n-2.960ft at 10:30
+DESCRIPTION:Another tiny day. Shorter-period NW swell mix and tiny souther
+ ly swell blending in. Clean and a nice tide push early but you'll need the
+  small wave gear. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240621T153000
 DTEND:20240621T161200
-DESCRIPTION:-2.997ft at 15:30\n-2.993ft at 16:12
+DESCRIPTION:Another tiny day. Shorter-period NW swell mix and tiny souther
+ ly swell blending in. Clean and a nice tide push early but you'll need the
+  small wave gear. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +172,17 @@ SUMMARY:OST
 DTSTART:20240702T114200
 DTEND:20240702T151200
 DESCRIPTION:-2.984ft at 11:42\n-2.991ft at 15:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240703T055400
+DTEND:20240703T085400
+DESCRIPTION:-0.096ft at 05:54\n-2.947ft at 08:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240703T132400
+DTEND:20240703T153000
+DESCRIPTION:-2.991ft at 13:24\n-2.981ft at 15:30
 END:VEVENT
 END:VCALENDAR
