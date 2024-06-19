@@ -2,34 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240618T055400
-DTEND:20240618T084800
-DESCRIPTION:The largest day left for a little while. Lingering SW/SSW swel
- l blends with some NW swell mix. Fun surf and decent corners on the early 
- tide push. Softer\, bouncier shape in the afternoon for most breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240618T111800
-DTEND:20240618T154200
-DESCRIPTION:The largest day left for a little while. Lingering SW/SSW swel
- l blends with some NW swell mix. Fun surf and decent corners on the early 
- tide push. Softer\, bouncier shape in the afternoon for most breaks. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240619T055400
 DTEND:20240619T091800
-DESCRIPTION:Easing SSW swell\, but the morning window still looks decent/f
- un. Get on it before getting smaller next couple of days.
+DESCRIPTION:Easing SSW swell\, but the morning window still decent/fun. Ge
+ t on it before getting smaller next couple of days.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240619T125400
 DTEND:20240619T154800
-DESCRIPTION:Easing SSW swell\, but the morning window still looks decent/f
- un. Get on it before getting smaller next couple of days.
+DESCRIPTION:Easing SSW swell\, but the morning window still decent/fun. Ge
+ t on it before getting smaller next couple of days.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -66,10 +50,13 @@ DESCRIPTION:Another tiny day. Shorter-period NW swell mix and tiny souther
   small wave gear. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240622T081200
 DTEND:20240622T111200
-DESCRIPTION:-0.027ft at 08:12\n-2.990ft at 11:12
+DESCRIPTION:Another small day but finally improving. New SSW swell starts 
+ to creep up\, struggling to produce much more size over the past couple of
+  days as the tide will be getting up above the 3' mark by the time it come
+ s on in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -184,5 +171,17 @@ SUMMARY:OST
 DTSTART:20240703T132400
 DTEND:20240703T153000
 DESCRIPTION:-2.991ft at 13:24\n-2.981ft at 15:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240704T064800
+DTEND:20240704T093600
+DESCRIPTION:-0.044ft at 06:48\n-2.948ft at 09:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240704T144800
+DTEND:20240704T155400
+DESCRIPTION:-2.998ft at 14:48\n-2.983ft at 15:54
 END:VEVENT
 END:VCALENDAR
