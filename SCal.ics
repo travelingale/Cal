@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240629T070000
-DTEND:20240629T141800
-DESCRIPTION:Another slow morning for surf\, but clean with favorable wind.
-  More size showing in afternoon as new/small SSW swell fills in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240630T080600
 DTEND:20240630T143600
@@ -46,16 +39,20 @@ DESCRIPTION:Small\, but early morning session may be worth a look on the t
   the water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240703T055400
 DTEND:20240703T085400
-DESCRIPTION:-0.096ft at 05:54\n-2.947ft at 08:54
+DESCRIPTION:New\, long-period SSW swell starts to creep in. Lully most of 
+ day\, but should see fun zone surf at focal points by end of day. Cleanest
+  in morning\, but seabreeze in afternoon is manageable as size comes up.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240703T132400
 DTEND:20240703T153000
-DESCRIPTION:-2.991ft at 13:24\n-2.981ft at 15:30
+DESCRIPTION:New\, long-period SSW swell starts to creep in. Lully most of 
+ day\, but should see fun zone surf at focal points by end of day. Cleanest
+  in morning\, but seabreeze in afternoon is manageable as size comes up.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +173,11 @@ SUMMARY:OST
 DTSTART:20240714T060600
 DTEND:20240714T133000
 DESCRIPTION:-2.914ft at 06:06\n-2.945ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240715T060600
+DTEND:20240715T133600
+DESCRIPTION:-2.719ft at 06:06\n-2.995ft at 13:36
 END:VEVENT
 END:VCALENDAR
