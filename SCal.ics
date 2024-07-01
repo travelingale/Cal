@@ -3,13 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240630T080600
-DTEND:20240630T143600
-DESCRIPTION:Small\, but kinda fun with small wave gear -- cleanest in the 
- AM with favorable wind.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240701T055400
 DTEND:20240701T071200
 DESCRIPTION:Decent morning for the small-wave gear. Head to summer focal p
@@ -55,16 +48,20 @@ DESCRIPTION:New\, long-period SSW swell starts to creep in. Lully most of
   in morning\, but seabreeze in afternoon is manageable as size comes up.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240704T064800
 DTEND:20240704T093600
-DESCRIPTION:-0.044ft at 06:48\n-2.948ft at 09:36
+DESCRIPTION:Day to watch as new\, long-period SSW swell fills in for the h
+ oliday. A little lully at times\, but AM window looks optimal with clean c
+ onditions and incoming tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240704T144800
 DTEND:20240704T155400
-DESCRIPTION:-2.998ft at 14:48\n-2.983ft at 15:54
+DESCRIPTION:Day to watch as new\, long-period SSW swell fills in for the h
+ oliday. A little lully at times\, but AM window looks optimal with clean c
+ onditions and incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -179,5 +176,17 @@ SUMMARY:OST
 DTSTART:20240715T060600
 DTEND:20240715T133600
 DESCRIPTION:-2.719ft at 06:06\n-2.995ft at 13:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240716T060600
+DTEND:20240716T080600
+DESCRIPTION:-2.289ft at 06:06\n-2.988ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240716T101200
+DTEND:20240716T133000
+DESCRIPTION:-2.989ft at 10:12\n-2.980ft at 13:30
 END:VEVENT
 END:VCALENDAR
