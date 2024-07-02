@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240701T055400
-DTEND:20240701T071200
-DESCRIPTION:Decent morning for the small-wave gear. Head to summer focal p
- oints for most size\, but even then might be best to lower expectations.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240701T094800
-DTEND:20240701T145400
-DESCRIPTION:Decent morning for the small-wave gear. Head to summer focal p
- oints for most size\, but even then might be best to lower expectations.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240702T055400
 DTEND:20240702T081200
 DESCRIPTION:Small\, but early morning session may be worth a look on the t
@@ -64,16 +50,18 @@ DESCRIPTION:Day to watch as new\, long-period SSW swell fills in for the h
  onditions and incoming tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240705T073600
 DTEND:20240705T101800
-DESCRIPTION:-0.079ft at 07:36\n-2.980ft at 10:18
+DESCRIPTION:Looking really fun in town as S swell pulses up. Expect better
+  consistency and clean surf through the morning tide push.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240705T154800
 DTEND:20240705T163600
-DESCRIPTION:-2.999ft at 15:48\n-2.988ft at 16:36
+DESCRIPTION:Looking really fun in town as S swell pulses up. Expect better
+  consistency and clean surf through the morning tide push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -188,5 +176,11 @@ SUMMARY:OST
 DTSTART:20240716T101200
 DTEND:20240716T133000
 DESCRIPTION:-2.989ft at 10:12\n-2.980ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240717T060600
+DTEND:20240717T082400
+DESCRIPTION:-1.660ft at 06:06\n-2.993ft at 08:24
 END:VEVENT
 END:VCALENDAR
