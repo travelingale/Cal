@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240704T064800
-DTEND:20240704T093600
-DESCRIPTION:New\, long-period SSW swell fills in for the holiday. A little
-  lully at times\, but AM window looks optimal with clean conditions and in
- coming tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240704T144800
-DTEND:20240704T155400
-DESCRIPTION:New\, long-period SSW swell fills in for the holiday. A little
-  lully at times\, but AM window looks optimal with clean conditions and in
- coming tide.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240705T073600
 DTEND:20240705T101800
@@ -40,7 +24,7 @@ DESCRIPTION:Another fun day setting up in town as S swell holds. Surf is d
  sistency and clean surf through the morning tide push.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240706T163000
 DTEND:20240706T173600
 DESCRIPTION:Another fun day setting up in town as S swell holds. Surf is d
@@ -62,16 +46,20 @@ DESCRIPTION:Backing down in town but still fun for the S swell magnets. Mo
  rning tide push has the most juice leftover. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240708T090600
 DTEND:20240708T120000
-DESCRIPTION:-0.062ft at 09:06\n-2.938ft at 12:00
+DESCRIPTION:Smaller S swell leftovers to start week. A very lackluster mor
+ ning with the negative low tide\, but it'll be rideable for the bigger boa
+ rds. Marginal improvements midday as tide pushes in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240708T174200
 DTEND:20240708T193600
-DESCRIPTION:-2.991ft at 17:42\n-2.985ft at 19:36
+DESCRIPTION:Smaller S swell leftovers to start week. A very lackluster mor
+ ning with the negative low tide\, but it'll be rideable for the bigger boa
+ rds. Marginal improvements midday as tide pushes in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -168,5 +156,17 @@ SUMMARY:OST
 DTSTART:20240719T060600
 DTEND:20240719T091800
 DESCRIPTION:-0.063ft at 06:06\n-2.940ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240720T070000
+DTEND:20240720T095400
+DESCRIPTION:-0.040ft at 07:00\n-2.988ft at 09:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240720T150600
+DTEND:20240720T161800
+DESCRIPTION:-2.983ft at 15:06\n-2.979ft at 16:18
 END:VEVENT
 END:VCALENDAR
