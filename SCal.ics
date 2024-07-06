@@ -3,81 +3,76 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240705T073600
-DTEND:20240705T101800
-DESCRIPTION:Looking really fun in town as S swell pulses up. Expect better
-  consistency and clean surf through the morning tide push.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240705T154800
-DTEND:20240705T163600
-DESCRIPTION:Looking really fun in town as S swell pulses up. Expect better
-  consistency and clean surf through the morning tide push.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240706T081200
 DTEND:20240706T105400
-DESCRIPTION:Another fun day setting up in town as S swell holds. Surf is d
- rained and a little slow for the dawn patrol low tide -- expect better con
- sistency and clean surf through the morning tide push.
+DESCRIPTION:Another fun day setting up in town as S swell continues. Surf 
+ is drained and a little slow for the dawn patrol low tide -- expect better
+  consistency and clean surf through the morning tide push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240706T163000
 DTEND:20240706T173600
-DESCRIPTION:Another fun day setting up in town as S swell holds. Surf is d
- rained and a little slow for the dawn patrol low tide -- expect better con
- sistency and clean surf through the morning tide push.
+DESCRIPTION:Another fun day setting up in town as S swell continues. Surf 
+ is drained and a little slow for the dawn patrol low tide -- expect better
+  consistency and clean surf through the morning tide push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240707T084200
 DTEND:20240707T113000
-DESCRIPTION:Backing down in town but still fun for the S swell magnets. Mo
- rning tide push has the most juice leftover. 
+DESCRIPTION:Backing down a touch but still fun for the S swell magnets. La
+ te morning tide push has the most juice\, and wind remains manageable. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240707T170600
 DTEND:20240707T183600
-DESCRIPTION:Backing down in town but still fun for the S swell magnets. Mo
- rning tide push has the most juice leftover. 
+DESCRIPTION:Backing down a touch but still fun for the S swell magnets. La
+ te morning tide push has the most juice\, and wind remains manageable. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240708T090600
 DTEND:20240708T120000
-DESCRIPTION:Smaller S swell leftovers to start week. A very lackluster mor
- ning with the negative low tide\, but it'll be rideable for the bigger boa
- rds. Marginal improvements midday as tide pushes in. 
+DESCRIPTION:Smaller S swell leftovers to start week. Somewhat lackluster m
+ orning with the negative low tide\, but it'll be rideable. Expect improvem
+ ents midday as tide pushes in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240708T174200
 DTEND:20240708T193600
-DESCRIPTION:Smaller S swell leftovers to start week. A very lackluster mor
- ning with the negative low tide\, but it'll be rideable for the bigger boa
- rds. Marginal improvements midday as tide pushes in. 
+DESCRIPTION:Smaller S swell leftovers to start week. Somewhat lackluster m
+ orning with the negative low tide\, but it'll be rideable. Expect improvem
+ ents midday as tide pushes in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240709T060000
 DTEND:20240709T063600
-DESCRIPTION:-0.530ft at 06:00\n-0.060ft at 06:36
+DESCRIPTION:Just a small mix of southerly swells in the water. Similar to 
+ Monday. A bit slow\, but potentially kinda fun when a set rolls through on
+  the right board. Better shape and consistency late morning as tide pushes
+  back in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240709T091200
 DTEND:20240709T123000
-DESCRIPTION:-0.019ft at 09:12\n-2.969ft at 12:30
+DESCRIPTION:Just a small mix of southerly swells in the water. Similar to 
+ Monday. A bit slow\, but potentially kinda fun when a set rolls through on
+  the right board. Better shape and consistency late morning as tide pushes
+  back in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240709T182400
 DTEND:20240709T202400
-DESCRIPTION:-2.987ft at 18:24\n-2.904ft at 20:24
+DESCRIPTION:Just a small mix of southerly swells in the water. Similar to 
+ Monday. A bit slow\, but potentially kinda fun when a set rolls through on
+  the right board. Better shape and consistency late morning as tide pushes
+  back in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -168,5 +163,17 @@ SUMMARY:OST
 DTSTART:20240720T150600
 DTEND:20240720T161800
 DESCRIPTION:-2.983ft at 15:06\n-2.979ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240721T074800
+DTEND:20240721T102400
+DESCRIPTION:-0.078ft at 07:48\n-2.981ft at 10:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240721T152400
+DTEND:20240721T174200
+DESCRIPTION:-2.990ft at 15:24\n-2.995ft at 17:42
 END:VEVENT
 END:VCALENDAR
