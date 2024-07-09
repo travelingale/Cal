@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20240708T090600
-DTEND:20240708T120000
-DESCRIPTION:Old SSW energy easing but still playful size. Meanwhile\, a ne
- w long period S swell will be creeping in under it. Once again\, drained o
- ut low tide early\, then watch for most spots to improve mid-morning throu
- gh midday as tide fills in. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240708T174200
-DTEND:20240708T193600
-DESCRIPTION:Old SSW energy easing but still playful size. Meanwhile\, a ne
- w long period S swell will be creeping in under it. Once again\, drained o
- ut low tide early\, then watch for most spots to improve mid-morning throu
- gh midday as tide fills in. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
 DTSTART:20240709T060000
 DTEND:20240709T063600
 DESCRIPTION:Smaller mix of southerly swells in the water. A bit slow\, but
@@ -38,7 +20,7 @@ DESCRIPTION:Smaller mix of southerly swells in the water. A bit slow\, but
  de pushes back in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240709T182400
 DTEND:20240709T202400
 DESCRIPTION:Smaller mix of southerly swells in the water. A bit slow\, but
@@ -77,10 +59,12 @@ DESCRIPTION:Similar to Wed. Drained and lully in morning. More size and co
  nsistency midday as tide pushes in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240712T060000
 DTEND:20240712T132400
-DESCRIPTION:-2.587ft at 06:00\n-2.994ft at 13:24
+DESCRIPTION:Dawn Patrol may be worth a look as the tide drops. Small S/SW 
+ swells and fraction of short-period NW swell wrapping in. Wind is light mi
+ dday as well\, so could be worth a check then too.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -177,5 +161,17 @@ SUMMARY:OST
 DTSTART:20240723T164200
 DTEND:20240723T201200
 DESCRIPTION:-2.960ft at 16:42\n-2.984ft at 20:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240724T091200
+DTEND:20240724T113600
+DESCRIPTION:-0.072ft at 09:12\n-2.900ft at 11:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240724T173000
+DTEND:20240724T201800
+DESCRIPTION:-2.952ft at 17:30\n-2.266ft at 20:18
 END:VEVENT
 END:VCALENDAR
