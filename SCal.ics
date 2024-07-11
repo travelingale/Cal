@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240710T060000
-DTEND:20240710T125400
-DESCRIPTION:Drained in earlier morning so tide push late morning into midd
- ay offers best window for the day. Just a small mix of southerly swells. B
- ring the small-wave gear.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240710T190600
-DTEND:20240710T202400
-DESCRIPTION:Drained in earlier morning so tide push late morning into midd
- ay offers best window for the day. Just a small mix of southerly swells. B
- ring the small-wave gear.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240711T060000
 DTEND:20240711T131200
 DESCRIPTION:Similar to Wed. Drained and lully in morning. More size and co
@@ -40,17 +24,17 @@ DESCRIPTION:Dawn Patrol may be worth a look as the tide drops. Small S/SW
  dday as well\, so could be worth a check then too.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240713T060000
 DTEND:20240713T133000
 DESCRIPTION:Minor surf to show for the day from a tiny mix of S/SW swells 
  and NW windswell wrap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240714T060600
 DTEND:20240714T133000
-DESCRIPTION:-2.914ft at 06:06\n-2.945ft at 13:30
+DESCRIPTION:Minor blend of S-SW swells. Minimal NW windswell wrap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -165,5 +149,17 @@ SUMMARY:OST
 DTSTART:20240725T181800
 DTEND:20240725T201800
 DESCRIPTION:-2.999ft at 18:18\n-1.927ft at 20:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240726T061200
+DTEND:20240726T121800
+DESCRIPTION:-2.052ft at 06:12\n-2.963ft at 12:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240726T191800
+DTEND:20240726T201800
+DESCRIPTION:-2.925ft at 19:18\n-2.143ft at 20:18
 END:VEVENT
 END:VCALENDAR
