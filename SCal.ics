@@ -2,26 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240712T060000
-DTEND:20240712T132400
-DESCRIPTION:Dawn Patrol may be worth a look as the tide drops. Small S swe
- ll and fraction of short-period NW swell wrapping in. Wind is light midday
-  as well\, so could be worth a check then too.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240713T060000
 DTEND:20240713T133000
-DESCRIPTION:Minor surf to show for the day from a tiny mix of S/SW swells 
- and NW windswell wrap.
+DESCRIPTION:Little surf showing for the day from a modest mix of S/SW swel
+ ls and NW windswell wrap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240714T060600
 DTEND:20240714T133000
-DESCRIPTION:Clean morning. Minor blend of S-SW swells. Minimal NW windswel
- l wrap.
+DESCRIPTION:Clean morning. Minor blend of S-SW swells continue though. Min
+ imal NW windswell wrap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
@@ -32,16 +24,20 @@ DESCRIPTION:New\, long-period SW swell forerunners start to creep in but o
  st in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240716T060600
 DTEND:20240716T080600
-DESCRIPTION:-2.289ft at 06:06\n-2.988ft at 08:06
+DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
+ h nice size at summer focal points. Cleanest through the first half of day
+ \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240716T101200
 DTEND:20240716T133000
-DESCRIPTION:-2.989ft at 10:12\n-2.980ft at 13:30
+DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
+ h nice size at summer focal points. Cleanest through the first half of day
+ \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -156,5 +152,11 @@ SUMMARY:OST
 DTSTART:20240727T061200
 DTEND:20240727T123600
 DESCRIPTION:-2.872ft at 06:12\n-2.983ft at 12:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240728T070600
+DTEND:20240728T124800
+DESCRIPTION:-2.970ft at 07:06\n-2.941ft at 12:48
 END:VEVENT
 END:VCALENDAR
