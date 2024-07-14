@@ -3,13 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240713T060000
-DTEND:20240713T133000
-DESCRIPTION:Little surf showing for the day from a modest mix of S/SW swel
- ls and NW windswell wrap.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240714T060600
 DTEND:20240714T133000
 DESCRIPTION:Clean morning. Minor blend of S-SW swells continue though. Min
@@ -24,7 +17,7 @@ DESCRIPTION:New\, long-period SW swell forerunners start to creep in but o
  st in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240716T060600
 DTEND:20240716T080600
 DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
@@ -32,7 +25,7 @@ DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
  \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240716T101200
 DTEND:20240716T133000
 DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
@@ -40,10 +33,11 @@ DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
  \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 6ft: Fair to good
 DTSTART:20240717T060600
 DTEND:20240717T082400
-DESCRIPTION:-1.660ft at 06:06\n-2.993ft at 08:24
+DESCRIPTION:Optimal AM window. Glassy\, along with tide push. Fun\, long-p
+ eriod SW-SSW swell continues. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -158,5 +152,11 @@ SUMMARY:OST
 DTSTART:20240728T070600
 DTEND:20240728T124800
 DESCRIPTION:-2.970ft at 07:06\n-2.941ft at 12:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240729T085400
+DTEND:20240729T130600
+DESCRIPTION:-2.998ft at 08:54\n-2.998ft at 13:06
 END:VEVENT
 END:VCALENDAR
