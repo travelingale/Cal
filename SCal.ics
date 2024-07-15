@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240714T060600
-DTEND:20240714T133000
-DESCRIPTION:Clean morning. Minor blend of S-SW swells continue though. Min
- imal NW windswell wrap.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240715T060600
 DTEND:20240715T133600
@@ -17,7 +10,7 @@ DESCRIPTION:New\, long-period SW swell forerunners start to creep in but o
  st in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240716T060600
 DTEND:20240716T080600
 DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
@@ -25,7 +18,7 @@ DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
  \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair
 DTSTART:20240716T101200
 DTEND:20240716T133000
 DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
@@ -33,17 +26,18 @@ DESCRIPTION:Day to target. New\, long-period SW swell fills in further wit
  \, along with a favorable mid tide for most of the points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 6ft: Fair to good
+SUMMARY:4 - 6ft: Fair
 DTSTART:20240717T060600
 DTEND:20240717T082400
 DESCRIPTION:Optimal AM window. Glassy\, along with tide push. Fun\, long-p
  eriod SW-SSW swell continues. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20240718T060600
 DTEND:20240718T084800
-DESCRIPTION:-0.889ft at 06:06\n-2.959ft at 08:48
+DESCRIPTION:Fun. Target the AM window as the tide pushes in. SSW swell lin
+ gers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -158,5 +152,17 @@ SUMMARY:OST
 DTSTART:20240729T085400
 DTEND:20240729T130600
 DESCRIPTION:-2.998ft at 08:54\n-2.998ft at 13:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240730T061800
+DTEND:20240730T070600
+DESCRIPTION:-2.524ft at 06:18\n-2.994ft at 07:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240730T114200
+DTEND:20240730T130600
+DESCRIPTION:-2.986ft at 11:42\n-2.983ft at 13:06
 END:VEVENT
 END:VCALENDAR
