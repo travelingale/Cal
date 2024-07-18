@@ -2,18 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
-DTSTART:20240717T060600
-DTEND:20240717T082400
-DESCRIPTION:Optimal AM window (with exception of possible patchy fog). Gla
- ssy\, along with tide push. Fun\, long-period SW-SSW swell continues. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4 - 5ft: Fair
 DTSTART:20240718T060600
 DTEND:20240718T084800
-DESCRIPTION:Fun\, but chance of fog in morning. Target the AM window as th
- e tide pushes in. SSW swell lingers.
+DESCRIPTION:Fun\, but chance of fog in morning. SSW swell lingers. Target 
+ the AM window as the tide pushes in for largest\, cleanest\, most shapely 
+ surf of the day. Afternoon decent\, just getting softer and a bit textured
+ .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
@@ -38,16 +33,18 @@ DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
  orning for the small-wave gear. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240721T074800
 DTEND:20240721T102400
-DESCRIPTION:-0.078ft at 07:48\n-2.981ft at 10:24
+DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
+  but should be enough energy for the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240721T152400
 DTEND:20240721T174200
-DESCRIPTION:-2.990ft at 15:24\n-2.995ft at 17:42
+DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
+  but should be enough energy for the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -156,5 +153,17 @@ SUMMARY:OST
 DTSTART:20240801T061800
 DTEND:20240801T083000
 DESCRIPTION:-0.830ft at 06:18\n-2.973ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240802T061800
+DTEND:20240802T090600
+DESCRIPTION:-0.100ft at 06:18\n-2.975ft at 09:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240802T145400
+DTEND:20240802T160000
+DESCRIPTION:-2.988ft at 14:54\n-2.984ft at 16:00
 END:VEVENT
 END:VCALENDAR
