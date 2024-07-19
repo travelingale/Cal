@@ -2,16 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20240718T060600
-DTEND:20240718T084800
-DESCRIPTION:Fun\, but chance of fog in morning. SSW swell lingers. Target 
- the AM window as the tide pushes in for largest\, cleanest\, most shapely 
- surf of the day. Afternoon decent\, just getting softer and a bit textured
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240719T060600
 DTEND:20240719T091800
 DESCRIPTION:Size from the SSW will start to trend down\, but plenty of fun
@@ -19,14 +10,14 @@ DESCRIPTION:Size from the SSW will start to trend down\, but plenty of fun
  surface texture wrap in midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240720T070000
 DTEND:20240720T095400
 DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
  orning for the small-wave gear. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240720T150600
 DTEND:20240720T161800
 DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
@@ -40,23 +31,25 @@ DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
   but should be enough energy for the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240721T152400
 DTEND:20240721T174200
 DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
   but should be enough energy for the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240722T082400
 DTEND:20240722T104800
-DESCRIPTION:-0.049ft at 08:24\n-2.912ft at 10:48
+DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
+ w most ideal as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240722T160000
 DTEND:20240722T185400
-DESCRIPTION:-2.969ft at 16:00\n-2.974ft at 18:54
+DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
+ w most ideal as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -165,5 +158,17 @@ SUMMARY:OST
 DTSTART:20240802T145400
 DTEND:20240802T160000
 DESCRIPTION:-2.988ft at 14:54\n-2.984ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240803T064800
+DTEND:20240803T093600
+DESCRIPTION:-0.009ft at 06:48\n-2.940ft at 09:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240803T150600
+DTEND:20240803T171800
+DESCRIPTION:-2.985ft at 15:06\n-2.984ft at 17:18
 END:VEVENT
 END:VCALENDAR
