@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
-DTSTART:20240719T060600
-DTEND:20240719T091800
-DESCRIPTION:Size from the SSW will start to trend down\, but plenty of fun
-  surf on tap. AM tide push is the call. Just note we may see a touch more 
- surface texture wrap in midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240720T070000
 DTEND:20240720T095400
 DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
@@ -24,7 +16,7 @@ DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
  orning for the small-wave gear. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240721T074800
 DTEND:20240721T102400
 DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
@@ -42,26 +34,32 @@ SUMMARY:1 - 2ft: Fair
 DTSTART:20240722T082400
 DTEND:20240722T104800
 DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
- w most ideal as tide pushes in.
+ w most ideal as tide pushes in. Take advantage of the lower incoming tide 
+ in the AM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240722T160000
 DTEND:20240722T185400
 DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
- w most ideal as tide pushes in.
+ w most ideal as tide pushes in. Take advantage of the lower incoming tide 
+ in the AM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240723T085400
 DTEND:20240723T111800
-DESCRIPTION:-0.069ft at 08:54\n-2.988ft at 11:18
+DESCRIPTION:The surf will be drained early from a negative low tide. New\,
+  selective S swell filling in with much better shape at the points by lunc
+ htime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240723T164200
 DTEND:20240723T201200
-DESCRIPTION:-2.960ft at 16:42\n-2.984ft at 20:12
+DESCRIPTION:The surf will be drained early from a negative low tide. New\,
+  selective S swell filling in with much better shape at the points by lunc
+ htime.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -170,5 +168,17 @@ SUMMARY:OST
 DTSTART:20240803T150600
 DTEND:20240803T171800
 DESCRIPTION:-2.985ft at 15:06\n-2.984ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240804T071800
+DTEND:20240804T100600
+DESCRIPTION:-0.056ft at 07:18\n-2.962ft at 10:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240804T153000
+DTEND:20240804T181800
+DESCRIPTION:-2.963ft at 15:30\n-2.962ft at 18:18
 END:VEVENT
 END:VCALENDAR
