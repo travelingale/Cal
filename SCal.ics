@@ -3,31 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
-DTSTART:20240720T070000
-DTEND:20240720T095400
-DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
- orning for the small-wave gear. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240720T150600
-DTEND:20240720T161800
-DESCRIPTION:Smaller leftovers from the SSW\, but few decent waves in the m
- orning for the small-wave gear. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240721T074800
 DTEND:20240721T102400
 DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
-  but should be enough energy for the small-wave gear.
+  but should be enough energy for the small-wave gear. Drained out early\, 
+ let the tide push in some if you can.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240721T152400
 DTEND:20240721T174200
 DESCRIPTION:Light wind and clean in the morning. Not a whole lot of size\,
-  but should be enough energy for the small-wave gear.
+  but should be enough energy for the small-wave gear. Drained out early\, 
+ let the tide push in some if you can.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
@@ -62,16 +50,20 @@ DESCRIPTION:The surf will be drained early from a negative low tide. New\,
  htime.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240724T091200
 DTEND:20240724T113600
-DESCRIPTION:-0.072ft at 09:12\n-2.900ft at 11:36
+DESCRIPTION:Fun\, selective S swell to work with with shorter-period NW en
+ ergy on tap that mostly misses spots in town. Low incoming tide is nice th
+ rough mid-morning and conditions look clean then too. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240724T173000
 DTEND:20240724T201800
-DESCRIPTION:-2.952ft at 17:30\n-2.266ft at 20:18
+DESCRIPTION:Fun\, selective S swell to work with with shorter-period NW en
+ ergy on tap that mostly misses spots in town. Low incoming tide is nice th
+ rough mid-morning and conditions look clean then too. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +172,17 @@ SUMMARY:OST
 DTSTART:20240804T153000
 DTEND:20240804T181800
 DESCRIPTION:-2.963ft at 15:30\n-2.962ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240805T073000
+DTEND:20240805T103000
+DESCRIPTION:-0.007ft at 07:30\n-2.955ft at 10:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240805T155400
+DTEND:20240805T191800
+DESCRIPTION:-2.977ft at 15:54\n-2.986ft at 19:18
 END:VEVENT
 END:VCALENDAR
