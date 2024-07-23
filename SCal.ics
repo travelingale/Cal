@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
-DTSTART:20240722T082400
-DTEND:20240722T104800
-DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
- w most ideal as tide pushes in. Take advantage of the lower incoming tide 
- in the AM. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240722T160000
-DTEND:20240722T185400
-DESCRIPTION:A blend of small S/SW swell on tap. Mid to later morning windo
- w most ideal as tide pushes in. Take advantage of the lower incoming tide 
- in the AM. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240723T085400
 DTEND:20240723T111800
 DESCRIPTION:The surf will be drained early from a negative low tide. New\,
@@ -74,16 +58,20 @@ DESCRIPTION:Selective S swell continues as NW energy may ramp up -- still
   morning but conditions otherwise look decent. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240726T061200
 DTEND:20240726T121800
-DESCRIPTION:-2.052ft at 06:12\n-2.963ft at 12:18
+DESCRIPTION:Selecitve S swell continues as NW energy comes up\, still most
+ ly missing spots in town. Clean morning conditions are expected with a fav
+ orable tide push later morning through lunchtime. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240726T191800
 DTEND:20240726T201800
-DESCRIPTION:-2.925ft at 19:18\n-2.143ft at 20:18
+DESCRIPTION:Selecitve S swell continues as NW energy comes up\, still most
+ ly missing spots in town. Clean morning conditions are expected with a fav
+ orable tide push later morning through lunchtime. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -186,5 +174,17 @@ SUMMARY:OST
 DTSTART:20240806T162400
 DTEND:20240806T200600
 DESCRIPTION:-2.981ft at 16:24\n-2.901ft at 20:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240807T062400
+DTEND:20240807T110600
+DESCRIPTION:-0.405ft at 06:24\n-2.952ft at 11:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240807T170000
+DTEND:20240807T200600
+DESCRIPTION:-2.967ft at 17:00\n-2.434ft at 20:06
 END:VEVENT
 END:VCALENDAR
