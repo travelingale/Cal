@@ -2,36 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240723T085400
-DTEND:20240723T111800
-DESCRIPTION:The surf will be drained early from a negative low tide. New\,
-  selective S swell filling in with much better shape at the points by lunc
- htime.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240723T164200
-DTEND:20240723T201200
-DESCRIPTION:The surf will be drained early from a negative low tide. New\,
-  selective S swell filling in with much better shape at the points by lunc
- htime.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240724T091200
 DTEND:20240724T113600
-DESCRIPTION:Fun\, selective S swell to work with with shorter-period NW en
- ergy on tap that mostly misses spots in town. Low incoming tide is nice th
- rough mid-morning and conditions look clean then too. 
+DESCRIPTION:Fun\, selective S swell on tap\, blending with shorter-period 
+ NW energy that mostly misses spots in town. Low incoming tide is nice thro
+ ugh mid-morning and conditions look clean then too. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240724T173000
 DTEND:20240724T201800
-DESCRIPTION:Fun\, selective S swell to work with with shorter-period NW en
- ergy on tap that mostly misses spots in town. Low incoming tide is nice th
- rough mid-morning and conditions look clean then too. 
+DESCRIPTION:Fun\, selective S swell on tap\, blending with shorter-period 
+ NW energy that mostly misses spots in town. Low incoming tide is nice thro
+ ugh mid-morning and conditions look clean then too. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -74,10 +58,12 @@ DESCRIPTION:Selecitve S swell continues as NW energy comes up\, still most
  orable tide push later morning through lunchtime. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240727T061200
 DTEND:20240727T123600
-DESCRIPTION:-2.872ft at 06:12\n-2.983ft at 12:36
+DESCRIPTION:Fun pulse of S swell on tap. The later morning tide push looks
+  like the window to target at this point. Short-period NW swell continues\
+ , mostly missing spots in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -186,5 +172,17 @@ SUMMARY:OST
 DTSTART:20240807T170000
 DTEND:20240807T200600
 DESCRIPTION:-2.967ft at 17:00\n-2.434ft at 20:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240808T062400
+DTEND:20240808T111800
+DESCRIPTION:-1.029ft at 06:24\n-2.954ft at 11:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240808T173600
+DTEND:20240808T200600
+DESCRIPTION:-2.988ft at 17:36\n-2.178ft at 20:06
 END:VEVENT
 END:VCALENDAR
