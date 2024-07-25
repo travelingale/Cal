@@ -3,43 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240724T091200
-DTEND:20240724T113600
-DESCRIPTION:Fun\, selective S swell on tap\, blending with shorter-period 
- NW energy that mostly misses spots in town. Low incoming tide is nice thro
- ugh mid-morning and conditions look clean then too. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240724T173000
-DTEND:20240724T201800
-DESCRIPTION:Fun\, selective S swell on tap\, blending with shorter-period 
- NW energy that mostly misses spots in town. Low incoming tide is nice thro
- ugh mid-morning and conditions look clean then too. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240725T061200
 DTEND:20240725T072400
-DESCRIPTION:Selective S swell continues as NW energy may ramp up -- still 
- mostly missing spots in town. Drained low tide to work around early in the
-  morning but conditions otherwise look decent. 
+DESCRIPTION:Selective S swell continues as NW energy rebounds -- still mos
+ tly missing spots in town. Drained low tide to work around early in the mo
+ rning but conditions otherwise look decent. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240725T090000
 DTEND:20240725T120000
-DESCRIPTION:Selective S swell continues as NW energy may ramp up -- still 
- mostly missing spots in town. Drained low tide to work around early in the
-  morning but conditions otherwise look decent. 
+DESCRIPTION:Selective S swell continues as NW energy rebounds -- still mos
+ tly missing spots in town. Drained low tide to work around early in the mo
+ rning but conditions otherwise look decent. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240725T181800
 DTEND:20240725T201800
-DESCRIPTION:Selective S swell continues as NW energy may ramp up -- still 
- mostly missing spots in town. Drained low tide to work around early in the
-  morning but conditions otherwise look decent. 
+DESCRIPTION:Selective S swell continues as NW energy rebounds -- still mos
+ tly missing spots in town. Drained low tide to work around early in the mo
+ rning but conditions otherwise look decent. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -66,10 +50,12 @@ DESCRIPTION:Fun pulse of S swell on tap. The later morning tide push looks
  , mostly missing spots in town. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240728T070600
 DTEND:20240728T124800
-DESCRIPTION:-2.970ft at 07:06\n-2.941ft at 12:48
+DESCRIPTION:New pusle of SSW swell comes up and takes over from the one be
+ fore it\, keeping fun surf running. Tides again aren't great -- the late m
+ orning push into midday looks like the best window at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -184,5 +170,17 @@ SUMMARY:OST
 DTSTART:20240808T173600
 DTEND:20240808T200600
 DESCRIPTION:-2.988ft at 17:36\n-2.178ft at 20:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240809T062400
+DTEND:20240809T112400
+DESCRIPTION:-1.682ft at 06:24\n-2.932ft at 11:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240809T181800
+DTEND:20240809T200600
+DESCRIPTION:-2.986ft at 18:18\n-2.163ft at 20:06
 END:VEVENT
 END:VCALENDAR
