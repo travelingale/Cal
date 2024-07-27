@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240726T061200
-DTEND:20240726T121800
-DESCRIPTION:Selecitve S swell continues as NW energy comes up a touch\, st
- ill mostly missing spots in town. Clean morning conditions with a favorabl
- e tide push later morning through lunchtime. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240726T191800
-DTEND:20240726T201800
-DESCRIPTION:Selecitve S swell continues as NW energy comes up a touch\, st
- ill mostly missing spots in town. Clean morning conditions with a favorabl
- e tide push later morning through lunchtime. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240727T061200
 DTEND:20240727T123600
 DESCRIPTION:Fun pulse of S swell on tap. The later morning tide push looks
@@ -42,16 +26,20 @@ DESCRIPTION:Run of selective S/SSW swell continues. Minor NW windswell on
  only dropping to 2.6' midday. Spots able to handle extra water do best.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240730T061800
 DTEND:20240730T070600
-DESCRIPTION:-2.524ft at 06:18\n-2.994ft at 07:06
+DESCRIPTION:Modest S/SSW swell easing and minor NW energy for spots outsid
+ e of town. Wind is light but tides aren't ideal\, only as low as 3' with a
+ n evening high of 5.8'. What surf does show will be soft and gutless.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240730T114200
 DTEND:20240730T130600
-DESCRIPTION:-2.986ft at 11:42\n-2.983ft at 13:06
+DESCRIPTION:Modest S/SSW swell easing and minor NW energy for spots outsid
+ e of town. Wind is light but tides aren't ideal\, only as low as 3' with a
+ n evening high of 5.8'. What surf does show will be soft and gutless.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -172,5 +160,11 @@ SUMMARY:OST
 DTSTART:20240810T190600
 DTEND:20240810T200000
 DESCRIPTION:-2.958ft at 19:06\n-2.438ft at 20:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240811T062400
+DTEND:20240811T113000
+DESCRIPTION:-2.716ft at 06:24\n-2.989ft at 11:30
 END:VEVENT
 END:VCALENDAR
