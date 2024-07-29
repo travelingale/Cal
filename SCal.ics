@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240728T070600
-DTEND:20240728T124800
-DESCRIPTION:New pusle of SSW swell comes up and takes over from the one be
- fore it\, for fun-zone surf. Tides again aren't great -- the late morning 
- push into midday looks like the best window at this point. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240729T085400
 DTEND:20240729T130600
@@ -21,17 +13,17 @@ BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240730T061800
 DTEND:20240730T070600
-DESCRIPTION:Modest S/SSW swell easing and minor NW energy for spots outsid
- e of town. Wind is light but tides aren't ideal\, only as low as 3' with a
- n evening high of 5.8'. What surf does show will be soft and gutless.
+DESCRIPTION:Modest S/SSW swell holds and minor NW energy for spots outside
+  of town. Wind is light but tides aren't ideal\, only as low as 3' with an
+  evening high of 5.8'. What surf does show will be soft and gutless.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240730T114200
 DTEND:20240730T130600
-DESCRIPTION:Modest S/SSW swell easing and minor NW energy for spots outsid
- e of town. Wind is light but tides aren't ideal\, only as low as 3' with a
- n evening high of 5.8'. What surf does show will be soft and gutless.
+DESCRIPTION:Modest S/SSW swell holds and minor NW energy for spots outside
+  of town. Wind is light but tides aren't ideal\, only as low as 3' with an
+  evening high of 5.8'. What surf does show will be soft and gutless.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
@@ -42,10 +34,13 @@ DESCRIPTION:Lingering SSW swell for a few fun waves on the bigger boards.
  ay. Clean conditions early\, manageable texture in town for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240801T061800
 DTEND:20240801T083000
-DESCRIPTION:-0.830ft at 06:18\n-2.973ft at 08:30
+DESCRIPTION:SSW swell tapers off\, still some waves for the bigger boards.
+  Decent early morning tide push\, softer mid-morning through the back half
+  of the day. Clean conditions early\, some texture in town for the afterno
+ on.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
