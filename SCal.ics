@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240730T061800
-DTEND:20240730T070600
-DESCRIPTION:Modest to locally fun S/SSW swell holds and minor NW energy fo
- r spots outside of town. Wind is light but tides aren't ideal\, only as lo
- w as 3' with an evening high of 5.8'. What surf does show will be soft and
-  gutless.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240730T114200
-DTEND:20240730T130600
-DESCRIPTION:Modest to locally fun S/SSW swell holds and minor NW energy fo
- r spots outside of town. Wind is light but tides aren't ideal\, only as lo
- w as 3' with an evening high of 5.8'. What surf does show will be soft and
-  gutless.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240731T061800
 DTEND:20240731T074800
 DESCRIPTION:Lingering SSW swell for a few fun waves on the bigger boards. 
@@ -53,16 +35,20 @@ DESCRIPTION:Modest scale SSW swell levels off\, small NW swell mainly bypa
  \, best in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240803T064800
 DTEND:20240803T093600
-DESCRIPTION:-0.009ft at 06:48\n-2.940ft at 09:36
+DESCRIPTION:SW pulse up a notch\, as small NW swell mainly bypasses Town s
+ pots. Morning winds looking light\, favorable tide push first half of the 
+ morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240803T150600
 DTEND:20240803T171800
-DESCRIPTION:-2.985ft at 15:06\n-2.984ft at 17:18
+DESCRIPTION:SW pulse up a notch\, as small NW swell mainly bypasses Town s
+ pots. Morning winds looking light\, favorable tide push first half of the 
+ morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -165,5 +151,11 @@ SUMMARY:OST
 DTSTART:20240814T063000
 DTEND:20240814T070000
 DESCRIPTION:-2.781ft at 06:30\n-2.971ft at 07:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240815T063000
+DTEND:20240815T073000
+DESCRIPTION:-2.356ft at 06:30\n-2.957ft at 07:30
 END:VEVENT
 END:VCALENDAR
