@@ -2,29 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240801T061800
-DTEND:20240801T083000
-DESCRIPTION:SSW swell tapers off\, still some waves for the bigger boards.
-  Decent early morning tide push\, softer mid-morning through the back half
-  of the day. Clean conditions early\, some texture in town for the afterno
- on.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240802T061800
 DTEND:20240802T090600
-DESCRIPTION:Modest scale SSW swell levels off\, small NW swell mainly bypa
- ssing Town spots. Early morning tide push gets an assist. Winds look light
- \, best in the morning. 
+DESCRIPTION:Old SSW swell eases\, new S and SW swells slowly creep up -- s
+ urf stays tiny. Small NW swell mainly bypassing Town spots. Early morning 
+ tide push gets an assist. Light winds\, cleanest early. Protected spots in
+  town stay clean in PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240802T145400
 DTEND:20240802T160000
-DESCRIPTION:Modest scale SSW swell levels off\, small NW swell mainly bypa
- ssing Town spots. Early morning tide push gets an assist. Winds look light
- \, best in the morning. 
+DESCRIPTION:Old SSW swell eases\, new S and SW swells slowly creep up -- s
+ urf stays tiny. Small NW swell mainly bypassing Town spots. Early morning 
+ tide push gets an assist. Light winds\, cleanest early. Protected spots in
+  town stay clean in PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -55,16 +48,18 @@ DESCRIPTION:Small to locally fun SW pulse on tap. Morning winds looking li
  ght\, favorable tide push first part of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240805T073000
 DTEND:20240805T103000
-DESCRIPTION:-0.007ft at 07:30\n-2.955ft at 10:30
+DESCRIPTION:Good tide push throughout the morning. Small to locally fun SW
+  swell lingers. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240805T155400
 DTEND:20240805T191800
-DESCRIPTION:-2.977ft at 15:54\n-2.986ft at 19:18
+DESCRIPTION:Good tide push throughout the morning. Small to locally fun SW
+  swell lingers. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -155,5 +150,17 @@ SUMMARY:OST
 DTSTART:20240816T063000
 DTEND:20240816T080000
 DESCRIPTION:-1.740ft at 06:30\n-2.951ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240817T063000
+DTEND:20240817T083000
+DESCRIPTION:-1.000ft at 06:30\n-2.972ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240817T134800
+DTEND:20240817T154800
+DESCRIPTION:-2.975ft at 13:48\n-2.996ft at 15:48
 END:VEVENT
 END:VCALENDAR
