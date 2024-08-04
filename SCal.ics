@@ -3,38 +3,20 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240803T064800
-DTEND:20240803T093600
-DESCRIPTION:New SW pulse starts to fill in -- most size later in day. Wind
- as light all day\, cleanest in the morning with manageable PM texture for 
- protected spots in town. Favorable tide push first half of the morning. Sl
- uggish PM with higher tides.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240803T150600
-DTEND:20240803T171800
-DESCRIPTION:New SW pulse starts to fill in -- most size later in day. Wind
- as light all day\, cleanest in the morning with manageable PM texture for 
- protected spots in town. Favorable tide push first half of the morning. Sl
- uggish PM with higher tides.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240804T071800
 DTEND:20240804T100600
-DESCRIPTION:Small to locally fun SW pulse on tap. Morning winds looking li
- ght\, favorable tide push first part of the morning. 
+DESCRIPTION:Small to locally fun SW pulse on tap. Morning winds light\, fa
+ vorable tide push first part of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240804T153000
 DTEND:20240804T181800
-DESCRIPTION:Small to locally fun SW pulse on tap. Morning winds looking li
- ght\, favorable tide push first part of the morning. 
+DESCRIPTION:Small to locally fun SW pulse on tap. Morning winds light\, fa
+ vorable tide push first part of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240805T073000
 DTEND:20240805T103000
 DESCRIPTION:Good tide push throughout the morning. Small to locally fun SW
@@ -62,16 +44,18 @@ DESCRIPTION:Decent AM wind on tide push. Small SW swell starting to ease s
  o expect most size in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240807T062400
 DTEND:20240807T110600
-DESCRIPTION:-0.405ft at 06:24\n-2.952ft at 11:06
+DESCRIPTION:Smaller off old SW swell leftovers. AM session decent for bigg
+ er boards.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240807T170000
 DTEND:20240807T200600
-DESCRIPTION:-2.967ft at 17:00\n-2.434ft at 20:06
+DESCRIPTION:Smaller off old SW swell leftovers. AM session decent for bigg
+ er boards.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -162,5 +146,17 @@ SUMMARY:OST
 DTSTART:20240818T140000
 DTEND:20240818T171200
 DESCRIPTION:-2.966ft at 14:00\n-2.965ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240819T065400
+DTEND:20240819T091800
+DESCRIPTION:-0.043ft at 06:54\n-2.959ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240819T143000
+DTEND:20240819T183000
+DESCRIPTION:-2.937ft at 14:30\n-2.988ft at 18:30
 END:VEVENT
 END:VCALENDAR
