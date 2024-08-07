@@ -3,31 +3,17 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240806T073000
-DTEND:20240806T104800
-DESCRIPTION:Decent AM wind on tide push. Small SW swell starting to ease s
- o expect most size in morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240806T162400
-DTEND:20240806T200600
-DESCRIPTION:Decent AM wind on tide push. Small SW swell starting to ease s
- o expect most size in morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240807T062400
 DTEND:20240807T110600
 DESCRIPTION:Smaller off old SW swell leftovers. AM session decent for bigg
- er boards.
+ er boards\, but keep expectations low due to lack of size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240807T170000
 DTEND:20240807T200600
 DESCRIPTION:Smaller off old SW swell leftovers. AM session decent for bigg
- er boards.
+ er boards\, but keep expectations low due to lack of size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -64,16 +50,22 @@ DESCRIPTION:SW swell down to minor leftovers. NW swell misses spots in tow
  th targeting. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T062400
 DTEND:20240810T113000
-DESCRIPTION:-2.272ft at 06:24\n-2.968ft at 11:30
+DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
+ all day of surf overall. Watching tropics\, but unlikely we'll see signifi
+ cant swell this far north. Morning and evening lower tide windows worth ta
+ rgeting. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T190600
 DTEND:20240810T200000
-DESCRIPTION:-2.958ft at 19:06\n-2.438ft at 20:00
+DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
+ all day of surf overall. Watching tropics\, but unlikely we'll see signifi
+ cant swell this far north. Morning and evening lower tide windows worth ta
+ rgeting. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -164,5 +156,17 @@ SUMMARY:OST
 DTSTART:20240821T154800
 DTEND:20240821T194800
 DESCRIPTION:-2.946ft at 15:48\n-1.891ft at 19:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240822T063600
+DTEND:20240822T101800
+DESCRIPTION:-0.173ft at 06:36\n-2.982ft at 10:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240822T163600
+DTEND:20240822T194800
+DESCRIPTION:-2.941ft at 16:36\n-1.143ft at 19:48
 END:VEVENT
 END:VCALENDAR
