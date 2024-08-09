@@ -3,69 +3,49 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240808T062400
-DTEND:20240808T111800
-DESCRIPTION:SW swell gets even smaller\, NW swell continues to miss spots 
- in town. Small wave gear kind of day\, and you'll want to take advantage o
- f the lower tide windows early in the morning or at the end of the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240808T173600
-DTEND:20240808T200600
-DESCRIPTION:SW swell gets even smaller\, NW swell continues to miss spots 
- in town. Small wave gear kind of day\, and you'll want to take advantage o
- f the lower tide windows early in the morning or at the end of the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240809T062400
 DTEND:20240809T112400
-DESCRIPTION:SW swell down to minor leftovers. NW swell misses spots in tow
- n. Small day of surf overall. Watching tropics\, but unlikely we'll see si
- gnificant swell this far north. Morning and evening lower tide windows wor
- th targeting. 
+DESCRIPTION:Tiny day of surf overall. May see a touch of southerly swell b
+ lending in from tropics but it'll be minor. Morning and evening lower tide
+  windows offer most rideability.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240809T181800
 DTEND:20240809T200600
-DESCRIPTION:SW swell down to minor leftovers. NW swell misses spots in tow
- n. Small day of surf overall. Watching tropics\, but unlikely we'll see si
- gnificant swell this far north. Morning and evening lower tide windows wor
- th targeting. 
+DESCRIPTION:Tiny day of surf overall. May see a touch of southerly swell b
+ lending in from tropics but it'll be minor. Morning and evening lower tide
+  windows offer most rideability.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T062400
 DTEND:20240810T113000
 DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
- all day of surf overall. Watching tropics\, but unlikely we'll see signifi
- cant swell this far north. Morning and evening lower tide windows worth ta
- rgeting. 
+ all day of surf overall. Morning and evening lower tide windows showing mo
+ st surf/rideability.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T190600
 DTEND:20240810T200000
 DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
- all day of surf overall. Watching tropics\, but unlikely we'll see signifi
- cant swell this far north. Morning and evening lower tide windows worth ta
- rgeting. 
+ all day of surf overall. Morning and evening lower tide windows showing mo
+ st surf/rideability.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240811T062400
 DTEND:20240811T113000
-DESCRIPTION:Slow rise in fresh SW/SSW swell for a little more size. Still 
- watching the tropics but not expecting to see significant swell this far n
- orth. Light winds and decent tide in the morning. 
+DESCRIPTION:Slow rise in fresh SW/SSW swell for a little more size. Light 
+ winds and decent tide in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240812T062400
 DTEND:20240812T111800
-DESCRIPTION:-2.958ft at 06:24\n-2.987ft at 11:18
+DESCRIPTION:More SW-SSW swell on the table. Overall on smaller side but co
+ uld be kinda fun at focal points in the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -168,5 +148,17 @@ SUMMARY:OST
 DTSTART:20240823T173000
 DTEND:20240823T194800
 DESCRIPTION:-2.912ft at 17:30\n-1.026ft at 19:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240824T063600
+DTEND:20240824T104800
+DESCRIPTION:-2.068ft at 06:36\n-2.947ft at 10:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240824T182400
+DTEND:20240824T194200
+DESCRIPTION:-2.971ft at 18:24\n-1.645ft at 19:42
 END:VEVENT
 END:VCALENDAR
