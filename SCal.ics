@@ -2,50 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240809T062400
-DTEND:20240809T112400
-DESCRIPTION:Tiny day of surf overall. May see a touch of southerly swell b
- lending in from tropics but it'll be minor. Morning and evening lower tide
-  windows offer most rideability.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240809T181800
-DTEND:20240809T200600
-DESCRIPTION:Tiny day of surf overall. May see a touch of southerly swell b
- lending in from tropics but it'll be minor. Morning and evening lower tide
-  windows offer most rideability.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T062400
 DTEND:20240810T113000
-DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
- all day of surf overall. Morning and evening lower tide windows showing mo
- st surf/rideability.
+DESCRIPTION:Modest new SSW swell starting to inch up. Small day of surf ov
+ erall. Morning and evening lower tide windows showing most surf/rideabilit
+ y.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240810T190600
 DTEND:20240810T200000
-DESCRIPTION:Minimal SW swell. NW swell continues to miss spots in town. Sm
- all day of surf overall. Morning and evening lower tide windows showing mo
- st surf/rideability.
+DESCRIPTION:Modest new SSW swell starting to inch up. Small day of surf ov
+ erall. Morning and evening lower tide windows showing most surf/rideabilit
+ y.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240811T062400
 DTEND:20240811T113000
-DESCRIPTION:Slow rise in fresh SW/SSW swell for a little more size. Light 
- winds and decent tide in the morning. 
+DESCRIPTION:Slow rise in fresh SSW swell for a little more size at focal p
+ oints. Light winds and decent tide in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240812T062400
 DTEND:20240812T111800
-DESCRIPTION:More SW-SSW swell on the table. Overall on smaller side but co
- uld be kinda fun at focal points in the morning.
+DESCRIPTION:More SSW swell on the table. Overall on smaller side but could
+  be kinda fun at focal points in the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -160,5 +144,11 @@ SUMMARY:OST
 DTSTART:20240824T182400
 DTEND:20240824T194200
 DESCRIPTION:-2.971ft at 18:24\n-1.645ft at 19:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240825T063600
+DTEND:20240825T110000
+DESCRIPTION:-2.907ft at 06:36\n-2.963ft at 11:00
 END:VEVENT
 END:VCALENDAR
