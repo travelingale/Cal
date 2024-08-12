@@ -2,31 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240811T062400
-DTEND:20240811T113000
-DESCRIPTION:Slow rise in fresh SSW swell for a little more size at focal p
- oints. Light winds and decent tide in the morning. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240812T062400
 DTEND:20240812T111800
-DESCRIPTION:More SSW swell on the table. Overall on smaller side but could
-  be kinda fun at focal points in the morning.
+DESCRIPTION:More SSW swell starting to fill in. Overall on smaller side bu
+ t could be kinda fun at focal points later in the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240814T063000
 DTEND:20240814T070000
-DESCRIPTION:Notch more size out of the S. Best tide window (medium'ish) wi
- ll be in morning before getting too high later in day.
+DESCRIPTION:Peaking SSW swell offers fun sets at summer focal points. Best
+  tide window (medium'ish) will be in morning before getting too high later
+  in day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240815T063000
 DTEND:20240815T073000
-DESCRIPTION:-2.356ft at 06:30\n-2.957ft at 07:30
+DESCRIPTION:Southerly swell starting to taper off so get on it in the morn
+ ing. Dawn Patrol offers a nice tide push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
