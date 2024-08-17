@@ -2,42 +2,38 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240816T063000
-DTEND:20240816T080000
-DESCRIPTION:Clean through the morning\, but only a small blend of S/SW swe
- lls in the water. Should be enough push for the bigger boards/logs. Take a
- dvantage of the tide push early/mid-morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240817T063000
 DTEND:20240817T083000
-DESCRIPTION:Small\, but new SSW swell starting to inch in so look for most
-  size at summer focal points. Nice tide push early morning\, then a little
-  slow late morning.
+DESCRIPTION:Small new SSW swell starting to inch in so look for most size 
+ at summer focal points. Nice tide push early morning\, then a little slow 
+ late morning. Tide stays high in the afternoon so you'll need a spot able 
+ to handle the extra water.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240817T134800
 DTEND:20240817T154800
-DESCRIPTION:Small\, but new SSW swell starting to inch in so look for most
-  size at summer focal points. Nice tide push early morning\, then a little
-  slow late morning.
+DESCRIPTION:Small new SSW swell starting to inch in so look for most size 
+ at summer focal points. Nice tide push early morning\, then a little slow 
+ late morning. Tide stays high in the afternoon so you'll need a spot able 
+ to handle the extra water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240818T063000
 DTEND:20240818T085400
-DESCRIPTION:New SSW swell filling in further. AM session looking best over
- all at this point.
+DESCRIPTION:New SSW swell filling in further. AM session looks best overal
+ l with a nice tide push and light wind. Mid-afternoon low tide isn't great
+  but the next best thing after the early window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240818T140000
 DTEND:20240818T171200
-DESCRIPTION:New SSW swell filling in further. AM session looking best over
- all at this point.
+DESCRIPTION:New SSW swell filling in further. AM session looks best overal
+ l with a nice tide push and light wind. Mid-afternoon low tide isn't great
+  but the next best thing after the early window.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
@@ -56,16 +52,18 @@ DESCRIPTION:A little more size to start week as SSW swell shows. Nothing b
  h is best.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240820T071800
 DTEND:20240820T093600
-DESCRIPTION:-0.013ft at 07:18\n-2.893ft at 09:36
+DESCRIPTION:Small to locally fun SSW swell on tap. AM window should be fun
+  as the tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240820T150600
 DTEND:20240820T194200
-DESCRIPTION:-2.937ft at 15:06\n-2.955ft at 19:42
+DESCRIPTION:Small to locally fun SSW swell on tap. AM window should be fun
+  as the tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -156,5 +154,17 @@ SUMMARY:OST
 DTSTART:20240831T135400
 DTEND:20240831T170000
 DESCRIPTION:-2.972ft at 13:54\n-2.958ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240901T064200
+DTEND:20240901T084200
+DESCRIPTION:-0.903ft at 06:42\n-2.994ft at 08:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240901T141200
+DTEND:20240901T180600
+DESCRIPTION:-2.950ft at 14:12\n-2.998ft at 18:06
 END:VEVENT
 END:VCALENDAR
