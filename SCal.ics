@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240818T063000
-DTEND:20240818T085400
-DESCRIPTION:New SSW swell filling in further. AM session looks best overal
- l with a nice tide push and light wind. Mid-afternoon low tide isn't great
-  but the next best thing after the early window.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240818T140000
-DTEND:20240818T171200
-DESCRIPTION:New SSW swell filling in further. AM session looks best overal
- l with a nice tide push and light wind. Mid-afternoon low tide isn't great
-  but the next best thing after the early window.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240819T065400
 DTEND:20240819T091800
@@ -64,16 +48,20 @@ DESCRIPTION:Current SSW swell fades while a new\, long-period pulse of SW
  ush.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240822T063600
 DTEND:20240822T101800
-DESCRIPTION:-0.173ft at 06:36\n-2.982ft at 10:18
+DESCRIPTION:Modest mix of SSW and SW swells on tap. Size spreads around a 
+ bit better thanks to the new SW swell. Drained out first thing with a nice
+  tide push and clean conditions through the middle of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240822T163600
 DTEND:20240822T194800
-DESCRIPTION:-2.941ft at 16:36\n-1.143ft at 19:48
+DESCRIPTION:Modest mix of SSW and SW swells on tap. Size spreads around a 
+ bit better thanks to the new SW swell. Drained out first thing with a nice
+  tide push and clean conditions through the middle of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -164,5 +152,17 @@ SUMMARY:OST
 DTSTART:20240902T143000
 DTEND:20240902T190000
 DESCRIPTION:-2.971ft at 14:30\n-2.983ft at 19:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240903T064200
+DTEND:20240903T091200
+DESCRIPTION:-0.641ft at 06:42\n-2.920ft at 09:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240903T145400
+DTEND:20240903T193000
+DESCRIPTION:-2.969ft at 14:54\n-2.679ft at 19:30
 END:VEVENT
 END:VCALENDAR
