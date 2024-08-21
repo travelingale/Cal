@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240820T071800
-DTEND:20240820T093600
-DESCRIPTION:Small to locally fun SSW swell on tap. AM window should be fun
-  as the tide pushes in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240820T150600
-DTEND:20240820T194200
-DESCRIPTION:Small to locally fun SSW swell on tap. AM window should be fun
-  as the tide pushes in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240821T073000
 DTEND:20240821T100000
 DESCRIPTION:Current SSW swell fades while a new\, long-period pulse of SW 
@@ -24,7 +10,7 @@ DESCRIPTION:Current SSW swell fades while a new\, long-period pulse of SW
  ush.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240821T154800
 DTEND:20240821T194800
 DESCRIPTION:Current SSW swell fades while a new\, long-period pulse of SW 
@@ -66,16 +52,22 @@ DESCRIPTION:Fun SW swell on tap and we could see some secondary longer per
  ce option as well.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240824T063600
 DTEND:20240824T104800
-DESCRIPTION:-2.068ft at 06:36\n-2.947ft at 10:48
+DESCRIPTION:Longer period WNW/NW swell nudges up\, along with some selecti
+ ve S-SSW tropical swell from Gilma. Should be a few fun peaks around and a
+  nice tide push mid into late morning while winds look light. One to watch
+ .
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240824T182400
 DTEND:20240824T194200
-DESCRIPTION:-2.971ft at 18:24\n-1.645ft at 19:42
+DESCRIPTION:Longer period WNW/NW swell nudges up\, along with some selecti
+ ve S-SSW tropical swell from Gilma. Should be a few fun peaks around and a
+  nice tide push mid into late morning while winds look light. One to watch
+ .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -166,5 +158,17 @@ SUMMARY:OST
 DTSTART:20240904T152400
 DTEND:20240904T193000
 DESCRIPTION:-2.931ft at 15:24\n-2.067ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240905T064800
+DTEND:20240905T093000
+DESCRIPTION:-1.128ft at 06:48\n-2.919ft at 09:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240905T155400
+DTEND:20240905T193000
+DESCRIPTION:-2.933ft at 15:54\n-1.629ft at 19:30
 END:VEVENT
 END:VCALENDAR
