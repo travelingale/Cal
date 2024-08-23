@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240822T063600
-DTEND:20240822T101800
-DESCRIPTION:Modest mix of SSW and SW swells on tap. Size spreads around a 
- bit better thanks to the new SW swell. Drained out first thing with a nice
-  tide push and clean conditions through the middle of the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240822T163600
-DTEND:20240822T194800
-DESCRIPTION:Modest mix of SSW and SW swells on tap. Size spreads around a 
- bit better thanks to the new SW swell. Drained out first thing with a nice
-  tide push and clean conditions through the middle of the morning. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240823T063600
 DTEND:20240823T103000
@@ -34,37 +18,35 @@ DESCRIPTION:Fun little SW swell on tap\, along with secondary longer perio
  rning. Tide drop into the evening looks like a nice option as well.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240824T063600
 DTEND:20240824T104800
-DESCRIPTION:Longer period WNW/NW swell nudges up\, along with some selecti
- ve S-SSW tropical swell from Gilma. Should be a few fun peaks around and a
-  nice tide push mid into late morning while winds look light. One to watch
- .
+DESCRIPTION:Fun. Long period NW swell tops out\, while southerly tropical 
+ swell from Gilma mixes in. AM session looking best overall\, but certainly
+  decent/fun midday and/or through the evening.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240824T182400
 DTEND:20240824T194200
-DESCRIPTION:Longer period WNW/NW swell nudges up\, along with some selecti
- ve S-SSW tropical swell from Gilma. Should be a few fun peaks around and a
-  nice tide push mid into late morning while winds look light. One to watch
- .
+DESCRIPTION:Fun. Long period NW swell tops out\, while southerly tropical 
+ swell from Gilma mixes in. AM session looking best overall\, but certainly
+  decent/fun midday and/or through the evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240825T063600
 DTEND:20240825T110000
-DESCRIPTION:Lingering blend of longer-period WNW/NW swell and SSW tropical
-  swell. Clean morning conditions expected at this point with a mid tide th
- rough the morning that softens up the surf a bit. Evening tide drop look l
- ike a nice option. 
+DESCRIPTION:More fun surf. Long-period NW swell lingers while SSW tropical
+  swell fades. Clean morning conditions expected with a mid tide. Evening t
+ ide drop looks like a nice option as well. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240826T083000
 DTEND:20240826T110000
-DESCRIPTION:-2.995ft at 08:30\n-2.990ft at 11:00
+DESCRIPTION:Size comes down but the morning session could offer some small
+ -wave fun off a new/small\, long-period SW swell starting to fill in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -167,5 +149,17 @@ SUMMARY:OST
 DTSTART:20240906T162400
 DTEND:20240906T192400
 DESCRIPTION:-2.983ft at 16:24\n-1.422ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240907T064800
+DTEND:20240907T093600
+DESCRIPTION:-2.017ft at 06:48\n-2.959ft at 09:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240907T170600
+DTEND:20240907T192400
+DESCRIPTION:-2.929ft at 17:06\n-1.504ft at 19:24
 END:VEVENT
 END:VCALENDAR
