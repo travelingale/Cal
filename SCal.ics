@@ -3,24 +3,18 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240825T063600
-DTEND:20240825T110000
-DESCRIPTION:More fun surf. Long-period NW swell lingers while SSW tropical
-  swell drops. Clean morning conditions expected with a mid tide. Evening t
- ide drop looks like a nice option as well. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240826T083000
 DTEND:20240826T110000
 DESCRIPTION:Size comes down but the morning session could offer some small
  -wave fun off a new/small\, long-period SW swell starting to fill in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240829T064200
 DTEND:20240829T070600
-DESCRIPTION:-2.593ft at 06:42\n-2.936ft at 07:06
+DESCRIPTION:Lully\, but summer focal points looking decent/fun as new\, lo
+ ng-period SW swell fills in. Early AM is clean with a tide push\, but migh
+ t be best to wait till midday for a bit more swell to fill in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
