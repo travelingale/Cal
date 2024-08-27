@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240826T083000
-DTEND:20240826T110000
-DESCRIPTION:Size comes down but the morning session could offer some small
- -wave fun off a new/small\, long-period SW swell starting to fill in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240829T064200
 DTEND:20240829T070600
@@ -17,16 +10,18 @@ DESCRIPTION:Lully\, but summer focal points looking decent/fun as new\, lo
  t be best to wait till midday for a bit more swell to fill in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240830T064200
 DTEND:20240830T074200
-DESCRIPTION:-1.936ft at 06:42\n-2.925ft at 07:42
+DESCRIPTION:Day to keep an eye on. Fun SW swell peaks. Early AM tide push 
+ looking good\, but also midday window looking really fun.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240830T134800
 DTEND:20240830T154200
-DESCRIPTION:-2.971ft at 13:48\n-2.974ft at 15:42
+DESCRIPTION:Day to keep an eye on. Fun SW swell peaks. Early AM tide push 
+ looking good\, but also midday window looking really fun.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
