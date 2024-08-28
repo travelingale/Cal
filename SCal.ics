@@ -24,16 +24,20 @@ DESCRIPTION:Day to keep an eye on. Fun SW swell peaks. Early AM tide push
  looking good\, but also midday window looking really fun.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240831T064200
 DTEND:20240831T081200
-DESCRIPTION:-1.339ft at 06:42\n-2.913ft at 08:12
+DESCRIPTION:Lingering SW offers the most size early. Potential for some mi
+ d period NW swell to creep up as the SW swell drops through the end of the
+  day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240831T135400
 DTEND:20240831T170000
-DESCRIPTION:-2.972ft at 13:54\n-2.958ft at 17:00
+DESCRIPTION:Lingering SW offers the most size early. Potential for some mi
+ d period NW swell to creep up as the SW swell drops through the end of the
+  day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
