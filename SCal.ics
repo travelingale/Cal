@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240829T064200
-DTEND:20240829T070600
-DESCRIPTION:Lully\, but summer focal points should be a little better as n
- ew\, long-period SW swell fills in. Early AM is clean with a tide push\, b
- ut might be best to wait till midday for a bit more swell to fill in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240830T064200
 DTEND:20240830T074200
@@ -54,16 +46,18 @@ DESCRIPTION:SW swell tapers down but there's potential for some new short
  to mid-period NW swell mix to move in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240902T064200
 DTEND:20240902T090000
-DESCRIPTION:-0.670ft at 06:42\n-2.967ft at 09:00
+DESCRIPTION:Smaller to start the week. Modest blend of NW swells (short an
+ d long-periods). AM window best on the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240902T143000
 DTEND:20240902T190000
-DESCRIPTION:-2.971ft at 14:30\n-2.983ft at 19:00
+DESCRIPTION:Smaller to start the week. Modest blend of NW swells (short an
+ d long-periods). AM window best on the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +142,11 @@ SUMMARY:OST
 DTSTART:20240909T184200
 DTEND:20240909T192400
 DESCRIPTION:-2.928ft at 18:42\n-2.411ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240914T124800
+DTEND:20240914T145400
+DESCRIPTION:-2.988ft at 12:48\n-2.984ft at 14:54
 END:VEVENT
 END:VCALENDAR
