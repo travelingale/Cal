@@ -2,21 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240830T064200
-DTEND:20240830T074200
-DESCRIPTION:Day to keep an eye on. Fun SW swell peaks. Early AM tide push 
- looking good\, but also midday window looking really fun.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240830T134800
-DTEND:20240830T154200
-DESCRIPTION:Day to keep an eye on. Fun SW swell peaks. Early AM tide push 
- looking good\, but also midday window looking really fun.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240831T064200
 DTEND:20240831T081200
 DESCRIPTION:Lingering SW offers the most size early. Potential for some mi
@@ -60,16 +46,20 @@ DESCRIPTION:Smaller to start the week. Modest blend of NW swells (short an
  d long-periods). AM window best on the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240903T064200
 DTEND:20240903T091200
-DESCRIPTION:-0.641ft at 06:42\n-2.920ft at 09:12
+DESCRIPTION:AM window looks decent for the small-wave gear off the variety
+  of swells (S/SSW to NW) in the water. None particular noteworthy but shou
+ ld be kinda fun at the better spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240903T145400
 DTEND:20240903T193000
-DESCRIPTION:-2.969ft at 14:54\n-2.679ft at 19:30
+DESCRIPTION:AM window looks decent for the small-wave gear off the variety
+  of swells (S/SSW to NW) in the water. None particular noteworthy but shou
+ ld be kinda fun at the better spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +138,17 @@ SUMMARY:OST
 DTSTART:20240914T124800
 DTEND:20240914T145400
 DESCRIPTION:-2.988ft at 12:48\n-2.984ft at 14:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240915T065400
+DTEND:20240915T072400
+DESCRIPTION:-2.440ft at 06:54\n-2.961ft at 07:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240915T124800
+DTEND:20240915T163600
+DESCRIPTION:-2.980ft at 12:48\n-2.975ft at 16:36
 END:VEVENT
 END:VCALENDAR
