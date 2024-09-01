@@ -3,33 +3,17 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240831T064200
-DTEND:20240831T081200
-DESCRIPTION:Lingering SW offers the most size early. Potential for some mi
- d period NW swell to creep up as the SW swell drops through the end of the
-  day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240831T135400
-DTEND:20240831T170000
-DESCRIPTION:Lingering SW offers the most size early. Potential for some mi
- d period NW swell to creep up as the SW swell drops through the end of the
-  day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240901T064200
 DTEND:20240901T084200
-DESCRIPTION:SW swell tapers down but there's potential for some new short 
- to mid-period NW swell mix to move in.
+DESCRIPTION:SW swell tapers down while some new short to mid-period NW swe
+ ll mix gradually moves in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240901T141200
 DTEND:20240901T180600
-DESCRIPTION:SW swell tapers down but there's potential for some new short 
- to mid-period NW swell mix to move in.
+DESCRIPTION:SW swell tapers down while some new short to mid-period NW swe
+ ll mix gradually moves in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
@@ -62,16 +46,18 @@ DESCRIPTION:AM window looks decent for the small-wave gear off the variety
  ld be kinda fun at the better spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240904T064800
 DTEND:20240904T092400
-DESCRIPTION:-0.836ft at 06:48\n-2.939ft at 09:24
+DESCRIPTION:AM window looking fun as tide pushes in. Bit more size than Tu
+ e as NW swell nudges up. New\, long-period S swell creeping in as well. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240904T152400
 DTEND:20240904T193000
-DESCRIPTION:-2.931ft at 15:24\n-2.067ft at 19:30
+DESCRIPTION:AM window looking fun as tide pushes in. Bit more size than Tu
+ e as NW swell nudges up. New\, long-period S swell creeping in as well. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +136,17 @@ SUMMARY:OST
 DTSTART:20240915T124800
 DTEND:20240915T163600
 DESCRIPTION:-2.980ft at 12:48\n-2.975ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240916T065400
+DTEND:20240916T074200
+DESCRIPTION:-1.942ft at 06:54\n-2.922ft at 07:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240916T131200
+DTEND:20240916T175400
+DESCRIPTION:-2.957ft at 13:12\n-2.930ft at 17:54
 END:VEVENT
 END:VCALENDAR
