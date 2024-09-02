@@ -2,32 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240901T064200
-DTEND:20240901T084200
-DESCRIPTION:SW swell tapers down while some new short to mid-period NW swe
- ll mix gradually moves in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240901T141200
-DTEND:20240901T180600
-DESCRIPTION:SW swell tapers down while some new short to mid-period NW swe
- ll mix gradually moves in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240902T064200
 DTEND:20240902T090000
 DESCRIPTION:Smaller to start the week. Modest blend of NW swells (short an
- d long-periods). AM window best on the incoming tide.
+ d long-periods) and remnant SW swell. AM window best on the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240902T143000
 DTEND:20240902T190000
 DESCRIPTION:Smaller to start the week. Modest blend of NW swells (short an
- d long-periods). AM window best on the incoming tide.
+ d long-periods) and remnant SW swell. AM window best on the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -60,16 +46,18 @@ DESCRIPTION:AM window looking fun as tide pushes in. Bit more size than Tu
  e as NW swell nudges up. New\, long-period S swell creeping in as well. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240905T064800
 DTEND:20240905T093000
-DESCRIPTION:-1.128ft at 06:48\n-2.919ft at 09:30
+DESCRIPTION:NW swell fades while longer-period S/SSW swell becomes primary
+ . Fun AM window as tide pushes in. Summer focal points showing most size.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240905T155400
 DTEND:20240905T193000
-DESCRIPTION:-2.933ft at 15:54\n-1.629ft at 19:30
+DESCRIPTION:NW swell fades while longer-period S/SSW swell becomes primary
+ . Fun AM window as tide pushes in. Summer focal points showing most size.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +136,17 @@ SUMMARY:OST
 DTSTART:20240916T131200
 DTEND:20240916T175400
 DESCRIPTION:-2.957ft at 13:12\n-2.930ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240917T065400
+DTEND:20240917T080000
+DESCRIPTION:-1.465ft at 06:54\n-2.913ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240917T134200
+DTEND:20240917T190600
+DESCRIPTION:-2.991ft at 13:42\n-2.872ft at 19:06
 END:VEVENT
 END:VCALENDAR
