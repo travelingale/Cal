@@ -3,75 +3,69 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240903T064200
-DTEND:20240903T091200
-DESCRIPTION:AM window looks decent for the small-wave gear off the variety
-  of swells (S/SSW to NW) in the water. None particular noteworthy but shou
- ld be kinda fun at the better spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240903T145400
-DTEND:20240903T193000
-DESCRIPTION:AM window looks decent for the small-wave gear off the variety
-  of swells (S/SSW to NW) in the water. None particular noteworthy but shou
- ld be kinda fun at the better spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240904T064800
 DTEND:20240904T092400
-DESCRIPTION:AM window looking fun as tide pushes in. Bit more size than Tu
- e as NW swell nudges up. New\, long-period S swell creeping in as well. 
+DESCRIPTION:Small\, clean morning window on the tide push. Bit more size t
+ han Tue as NW swell nudges up\, but it won't move the needle all that much
+ . New\, long-period S swell creeping in as well. Evening low tide window i
+ s likely the call.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240904T152400
 DTEND:20240904T193000
-DESCRIPTION:AM window looking fun as tide pushes in. Bit more size than Tu
- e as NW swell nudges up. New\, long-period S swell creeping in as well. 
+DESCRIPTION:Small\, clean morning window on the tide push. Bit more size t
+ han Tue as NW swell nudges up\, but it won't move the needle all that much
+ . New\, long-period S swell creeping in as well. Evening low tide window i
+ s likely the call.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240905T064800
 DTEND:20240905T093000
-DESCRIPTION:NW swell fades while longer-period S/SSW swell becomes primary
- . Fun AM window as tide pushes in. Summer focal points showing most size.
+DESCRIPTION:Small to start as NW swell mix starts the day down from Wed. L
+ ong-period S/SSW swell may offer a few decent waves early. New WNW swell r
+ amps up later in the morning and really comes on through the afternoon for
+  fun-zone surf.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240905T155400
 DTEND:20240905T193000
-DESCRIPTION:NW swell fades while longer-period S/SSW swell becomes primary
- . Fun AM window as tide pushes in. Summer focal points showing most size.
+DESCRIPTION:Small to start as NW swell mix starts the day down from Wed. L
+ ong-period S/SSW swell may offer a few decent waves early. New WNW swell r
+ amps up later in the morning and really comes on through the afternoon for
+  fun-zone surf.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240906T064800
 DTEND:20240906T093600
-DESCRIPTION:New/small NW swell building in but southerly swell continues t
- o do heavy lifting. Most size at summer focal points. Best shape mid to la
- te morning on tide  push.
+DESCRIPTION:New WNW swell tops out\, first legit pulse of the season. Clea
+ n morning conditions for the tide push. Secondary southerly swell continue
+ s as well.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240906T162400
 DTEND:20240906T192400
-DESCRIPTION:New/small NW swell building in but southerly swell continues t
- o do heavy lifting. Most size at summer focal points. Best shape mid to la
- te morning on tide  push.
+DESCRIPTION:New WNW swell tops out\, first legit pulse of the season. Clea
+ n morning conditions for the tide push. Secondary southerly swell continue
+ s as well.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20240907T064800
 DTEND:20240907T093600
-DESCRIPTION:-2.017ft at 06:48\n-2.959ft at 09:36
+DESCRIPTION:S/SSW swell tapering off as NW swell continues. Southerly expo
+ sures still seeing the most size. Best shape mid morning on tide  push.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240907T170600
 DTEND:20240907T192400
-DESCRIPTION:-2.929ft at 17:06\n-1.504ft at 19:24
+DESCRIPTION:S/SSW swell tapering off as NW swell continues. Southerly expo
+ sures still seeing the most size. Best shape mid morning on tide  push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +144,17 @@ SUMMARY:OST
 DTSTART:20240918T142400
 DTEND:20240918T190600
 DESCRIPTION:-2.921ft at 14:24\n-1.485ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240919T070000
+DTEND:20240919T083600
+DESCRIPTION:-1.146ft at 07:00\n-2.959ft at 08:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240919T150600
+DTEND:20240919T190600
+DESCRIPTION:-2.936ft at 15:06\n-0.429ft at 19:06
 END:VEVENT
 END:VCALENDAR
