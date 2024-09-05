@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240904T064800
-DTEND:20240904T092400
-DESCRIPTION:Small\, clean morning window on the tide push. Bit more size t
- han Tue as NW swell nudges up\, but it won't move the needle all that much
- . New\, long-period S swell creeping in as well. Evening low tide window i
- s likely the call.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240904T152400
-DTEND:20240904T193000
-DESCRIPTION:Small\, clean morning window on the tide push. Bit more size t
- han Tue as NW swell nudges up\, but it won't move the needle all that much
- . New\, long-period S swell creeping in as well. Evening low tide window i
- s likely the call.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240905T064800
 DTEND:20240905T093000
 DESCRIPTION:Small to start as NW swell mix starts the day down from Wed. L
@@ -68,16 +50,20 @@ DESCRIPTION:S/SSW swell tapering off as NW swell continues. Southerly expo
  sures still seeing the most size. Best shape mid morning on tide  push.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240908T064800
 DTEND:20240908T093000
-DESCRIPTION:-2.495ft at 06:48\n-2.978ft at 09:30
+DESCRIPTION:Smaller surf as old S/SSW swell fades along with easing NW swe
+ ll. Southerly exposures still have the most size. Light winds\, favorable 
+ tide push early morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240908T174800
 DTEND:20240908T192400
-DESCRIPTION:-2.956ft at 17:48\n-1.844ft at 19:24
+DESCRIPTION:Smaller surf as old S/SSW swell fades along with easing NW swe
+ ll. Southerly exposures still have the most size. Light winds\, favorable 
+ tide push early morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -156,5 +142,17 @@ SUMMARY:OST
 DTSTART:20240919T150600
 DTEND:20240919T190600
 DESCRIPTION:-2.936ft at 15:06\n-0.429ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240920T070000
+DTEND:20240920T084800
+DESCRIPTION:-1.363ft at 07:00\n-2.888ft at 08:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240920T155400
+DTEND:20240920T190600
+DESCRIPTION:-2.909ft at 15:54\n-0.007ft at 19:06
 END:VEVENT
 END:VCALENDAR
