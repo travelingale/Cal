@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240905T064800
-DTEND:20240905T093000
-DESCRIPTION:Small to start as NW swell mix starts the day down from Wed. L
- ong-period S/SSW swell may offer a few decent waves early. New WNW swell r
- amps up later in the morning and really comes on through the afternoon for
-  fun-zone surf.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240905T155400
-DTEND:20240905T193000
-DESCRIPTION:Small to start as NW swell mix starts the day down from Wed. L
- ong-period S/SSW swell may offer a few decent waves early. New WNW swell r
- amps up later in the morning and really comes on through the afternoon for
-  fun-zone surf.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20240906T064800
 DTEND:20240906T093600
@@ -66,16 +48,20 @@ DESCRIPTION:Smaller surf as old S/SSW swell fades along with easing NW swe
  tide push early morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240909T064800
 DTEND:20240909T090600
-DESCRIPTION:-2.905ft at 06:48\n-2.998ft at 09:06
+DESCRIPTION:Smallest day of the last few. NW swell is down to minor leftov
+ ers as selective S swell blends in. Conditions look decent for the morning
+  window but it'll be a small wave gear kind of day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240909T184200
 DTEND:20240909T192400
-DESCRIPTION:-2.928ft at 18:42\n-2.411ft at 19:24
+DESCRIPTION:Smallest day of the last few. NW swell is down to minor leftov
+ ers as selective S swell blends in. Conditions look decent for the morning
+  window but it'll be a small wave gear kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -154,5 +140,17 @@ SUMMARY:OST
 DTSTART:20240920T155400
 DTEND:20240920T190600
 DESCRIPTION:-2.909ft at 15:54\n-0.007ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240921T070000
+DTEND:20240921T090600
+DESCRIPTION:-1.871ft at 07:00\n-2.972ft at 09:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240921T164200
+DTEND:20240921T190000
+DESCRIPTION:-2.981ft at 16:42\n-0.391ft at 19:00
 END:VEVENT
 END:VCALENDAR
