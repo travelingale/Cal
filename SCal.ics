@@ -2,34 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20240906T064800
-DTEND:20240906T093600
-DESCRIPTION:New WNW swell tops out\, first legit pulse of the season. Clea
- n morning conditions for the tide push. Secondary southerly swell continue
- s as well.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
-DTSTART:20240906T162400
-DTEND:20240906T192400
-DESCRIPTION:New WNW swell tops out\, first legit pulse of the season. Clea
- n morning conditions for the tide push. Secondary southerly swell continue
- s as well.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240907T064800
 DTEND:20240907T093600
-DESCRIPTION:S/SSW swell tapering off as NW swell continues. Southerly expo
- sures still seeing the most size. Best shape mid morning on tide  push.
+DESCRIPTION:S/SSW swell slowly starting to taper off as NW swell continues
+ . Best shape mid morning on tide  push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240907T170600
 DTEND:20240907T192400
-DESCRIPTION:S/SSW swell tapering off as NW swell continues. Southerly expo
- sures still seeing the most size. Best shape mid morning on tide  push.
+DESCRIPTION:S/SSW swell slowly starting to taper off as NW swell continues
+ . Best shape mid morning on tide  push.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
@@ -152,5 +136,17 @@ SUMMARY:OST
 DTSTART:20240921T164200
 DTEND:20240921T190000
 DESCRIPTION:-2.981ft at 16:42\n-0.391ft at 19:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240922T070000
+DTEND:20240922T091200
+DESCRIPTION:-2.549ft at 07:00\n-2.961ft at 09:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240922T174200
+DTEND:20240922T190000
+DESCRIPTION:-2.903ft at 17:42\n-1.357ft at 19:00
 END:VEVENT
 END:VCALENDAR
