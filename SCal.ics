@@ -3,49 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
-DTSTART:20240907T064800
-DTEND:20240907T093600
-DESCRIPTION:S/SSW swell slowly starting to taper off as NW swell continues
- . Best shape mid morning on tide  push.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240907T170600
-DTEND:20240907T192400
-DESCRIPTION:S/SSW swell slowly starting to taper off as NW swell continues
- . Best shape mid morning on tide  push.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240908T064800
 DTEND:20240908T093000
-DESCRIPTION:Smaller surf as old S/SSW swell fades along with easing NW swe
- ll. Southerly exposures still have the most size. Light winds\, favorable 
- tide push early morning. 
+DESCRIPTION:A little smaller compared to Saturday. Old S/SSW swell lingers
+  with minor/easing NW swell. Light winds\, favorable tide push early morni
+ ng. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240908T174800
 DTEND:20240908T192400
-DESCRIPTION:Smaller surf as old S/SSW swell fades along with easing NW swe
- ll. Southerly exposures still have the most size. Light winds\, favorable 
- tide push early morning. 
+DESCRIPTION:A little smaller compared to Saturday. Old S/SSW swell lingers
+  with minor/easing NW swell. Light winds\, favorable tide push early morni
+ ng. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20240909T064800
 DTEND:20240909T090600
-DESCRIPTION:Smallest day of the last few. NW swell is down to minor leftov
- ers as selective S swell blends in. Conditions look decent for the morning
-  window but it'll be a small wave gear kind of day.
+DESCRIPTION:Smallest day of the last few. Selective S swell lapping in. Co
+ nditions look decent for the morning window but it'll be a small wave gear
+  kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240909T184200
 DTEND:20240909T192400
-DESCRIPTION:Smallest day of the last few. NW swell is down to minor leftov
- ers as selective S swell blends in. Conditions look decent for the morning
-  window but it'll be a small wave gear kind of day.
+DESCRIPTION:Smallest day of the last few. Selective S swell lapping in. Co
+ nditions look decent for the morning window but it'll be a small wave gear
+  kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
