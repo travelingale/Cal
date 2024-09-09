@@ -2,23 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240908T064800
-DTEND:20240908T093000
-DESCRIPTION:A little smaller compared to Saturday. Old S/SSW swell lingers
-  with minor/easing NW swell. Light winds\, favorable tide push early morni
- ng. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240908T174800
-DTEND:20240908T192400
-DESCRIPTION:A little smaller compared to Saturday. Old S/SSW swell lingers
-  with minor/easing NW swell. Light winds\, favorable tide push early morni
- ng. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
 DTSTART:20240909T064800
 DTEND:20240909T090600
 DESCRIPTION:Smallest day of the last few. Selective S swell lapping in. Co
