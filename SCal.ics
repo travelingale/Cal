@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240909T064800
-DTEND:20240909T090600
-DESCRIPTION:Smallest day of the last few. Selective S swell lapping in. Co
- nditions look decent for the morning window but it'll be a small wave gear
-  kind of day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240909T184200
-DTEND:20240909T192400
-DESCRIPTION:Smallest day of the last few. Selective S swell lapping in. Co
- nditions look decent for the morning window but it'll be a small wave gear
-  kind of day.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OST
 DTSTART:20240914T124800
 DTEND:20240914T145400
