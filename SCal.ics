@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240914T124800
 DTEND:20240914T145400
-DESCRIPTION:-2.988ft at 12:48\n-2.984ft at 14:54
+DESCRIPTION:Steep-angled S swell continues\, which surf is minor to even f
+ lat for most spots
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
