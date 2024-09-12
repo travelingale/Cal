@@ -9,16 +9,18 @@ DESCRIPTION:Steep-angled S swell continues\, which surf is minor to even f
  lat for most spots
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240915T065400
 DTEND:20240915T072400
-DESCRIPTION:-2.440ft at 06:54\n-2.961ft at 07:24
+DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
+ ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor
 DTSTART:20240915T124800
 DTEND:20240915T163600
-DESCRIPTION:-2.980ft at 12:48\n-2.975ft at 16:36
+DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
+ ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -103,5 +105,11 @@ SUMMARY:OST
 DTSTART:20240922T174200
 DTEND:20240922T190000
 DESCRIPTION:-2.903ft at 17:42\n-1.357ft at 19:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240927T124800
+DTEND:20240927T150600
+DESCRIPTION:-2.970ft at 12:48\n-2.969ft at 15:06
 END:VEVENT
 END:VCALENDAR
