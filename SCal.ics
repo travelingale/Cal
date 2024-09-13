@@ -16,23 +16,27 @@ DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
  ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240915T124800
 DTEND:20240915T163600
 DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
  ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240916T065400
 DTEND:20240916T074200
-DESCRIPTION:-1.942ft at 06:54\n-2.922ft at 07:42
+DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
+  -- lully/inconsistent sets. Could be worth waiting for the afternoon tide
+  drop.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240916T131200
 DTEND:20240916T175400
-DESCRIPTION:-2.957ft at 13:12\n-2.930ft at 17:54
+DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
+  -- lully/inconsistent sets. Could be worth waiting for the afternoon tide
+  drop.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -111,5 +115,11 @@ SUMMARY:OST
 DTSTART:20240927T124800
 DTEND:20240927T150600
 DESCRIPTION:-2.970ft at 12:48\n-2.969ft at 15:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240928T124800
+DTEND:20240928T163600
+DESCRIPTION:-2.989ft at 12:48\n-2.959ft at 16:36
 END:VEVENT
 END:VCALENDAR
