@@ -5,8 +5,9 @@ BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240914T124800
 DTEND:20240914T145400
-DESCRIPTION:Steep-angled S swell continues\, which surf is minor to even f
- lat for most spots
+DESCRIPTION:Lackluster start to the weekend. Steep-angled S swell continue
+ s\, NW energy continues to pass spots in town. Surf is minor to even flat 
+ for most spots due to the lack of energy and higher tides.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
@@ -23,7 +24,7 @@ DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
  ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240916T065400
 DTEND:20240916T074200
 DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
@@ -39,16 +40,18 @@ DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
   drop.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240917T065400
 DTEND:20240917T080000
-DESCRIPTION:-1.465ft at 06:54\n-2.913ft at 08:00
+DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in 
+ provides a few nice sets at focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240917T134200
 DTEND:20240917T190600
-DESCRIPTION:-2.991ft at 13:42\n-2.872ft at 19:06
+DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in 
+ provides a few nice sets at focal points.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -121,5 +124,11 @@ SUMMARY:OST
 DTSTART:20240928T124800
 DTEND:20240928T163600
 DESCRIPTION:-2.989ft at 12:48\n-2.959ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240929T130600
+DTEND:20240929T174200
+DESCRIPTION:-2.942ft at 13:06\n-2.941ft at 17:42
 END:VEVENT
 END:VCALENDAR
