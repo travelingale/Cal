@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240914T124800
-DTEND:20240914T145400
-DESCRIPTION:Lackluster start to the weekend. Steep-angled S swell continue
- s\, NW energy continues to pass spots in town. Surf is minor to even flat 
- for most spots due to the lack of energy and higher tides.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240915T065400
 DTEND:20240915T072400
 DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
@@ -24,7 +16,7 @@ DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
  ng much. Flat or close to it. Take a longboard in your search. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240916T065400
 DTEND:20240916T074200
 DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
@@ -54,16 +46,20 @@ DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in
  provides a few nice sets at focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240918T065400
 DTEND:20240918T081800
-DESCRIPTION:-1.133ft at 06:54\n-2.927ft at 08:18
+DESCRIPTION:Could be kinda fun with modest SW and S swells on tap. Souther
+ n Hemi standouts should have enough push for the shortboard during the mor
+ ning tide push and conditions in town look clean.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240918T142400
 DTEND:20240918T190600
-DESCRIPTION:-2.921ft at 14:24\n-1.485ft at 19:06
+DESCRIPTION:Could be kinda fun with modest SW and S swells on tap. Souther
+ n Hemi standouts should have enough push for the shortboard during the mor
+ ning tide push and conditions in town look clean.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -130,5 +126,17 @@ SUMMARY:OST
 DTSTART:20240929T130600
 DTEND:20240929T174200
 DESCRIPTION:-2.942ft at 13:06\n-2.941ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240930T070600
+DTEND:20240930T073000
+DESCRIPTION:-2.589ft at 07:06\n-2.998ft at 07:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20240930T132400
+DTEND:20240930T184200
+DESCRIPTION:-2.933ft at 13:24\n-2.973ft at 18:42
 END:VEVENT
 END:VCALENDAR
