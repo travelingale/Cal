@@ -2,34 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240915T065400
-DTEND:20240915T072400
-DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
- ng much. Flat or close to it. Take a longboard in your search. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240915T124800
-DTEND:20240915T163600
-DESCRIPTION:Minor S swell remains the primary source\, and that's not sayi
- ng much. Flat or close to it. Take a longboard in your search. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240916T065400
 DTEND:20240916T074200
 DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
-  -- lully/inconsistent sets. Could be worth waiting for the afternoon tide
-  drop.
+  -- lully/inconsistent sets. Worth waiting for the afternoon tide drop\, b
+ ut even then it'll be a small wave gear kind of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240916T131200
 DTEND:20240916T175400
 DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
-  -- lully/inconsistent sets. Could be worth waiting for the afternoon tide
-  drop.
+  -- lully/inconsistent sets. Worth waiting for the afternoon tide drop\, b
+ ut even then it'll be a small wave gear kind of day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -39,7 +25,7 @@ DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in
  provides a few nice sets at focal points.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20240917T134200
 DTEND:20240917T190600
 DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in 
@@ -62,16 +48,22 @@ DESCRIPTION:Could be kinda fun with modest SW and S swells on tap. Souther
  ning tide push and conditions in town look clean.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240919T070000
 DTEND:20240919T083600
-DESCRIPTION:-1.146ft at 07:00\n-2.959ft at 08:36
+DESCRIPTION:Favorable conditions in the morning and a nice tide push...but
+  the surf is still small. NW swell is up but too steep and low period to g
+ et significant energy into town. SW swell leftovers kinda help the cause. 
+ Keep the big board handy.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240919T150600
 DTEND:20240919T190600
-DESCRIPTION:-2.936ft at 15:06\n-0.429ft at 19:06
+DESCRIPTION:Favorable conditions in the morning and a nice tide push...but
+  the surf is still small. NW swell is up but too steep and low period to g
+ et significant energy into town. SW swell leftovers kinda help the cause. 
+ Keep the big board handy.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -138,5 +130,17 @@ SUMMARY:OST
 DTSTART:20240930T132400
 DTEND:20240930T184200
 DESCRIPTION:-2.933ft at 13:24\n-2.973ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241001T070600
+DTEND:20241001T073600
+DESCRIPTION:-2.403ft at 07:06\n-2.904ft at 07:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241001T134200
+DTEND:20241001T184800
+DESCRIPTION:-2.966ft at 13:42\n-2.297ft at 18:48
 END:VEVENT
 END:VCALENDAR
