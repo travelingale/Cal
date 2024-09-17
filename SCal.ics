@@ -3,33 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240916T065400
-DTEND:20240916T074200
-DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
-  -- lully/inconsistent sets. Worth waiting for the afternoon tide drop\, b
- ut even then it'll be a small wave gear kind of day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240916T131200
-DTEND:20240916T175400
-DESCRIPTION:We'll start to see signs of new\, long-period SW swell fill in
-  -- lully/inconsistent sets. Worth waiting for the afternoon tide drop\, b
- ut even then it'll be a small wave gear kind of day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240917T065400
 DTEND:20240917T080000
-DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in 
- provides a few nice sets at focal points.
+DESCRIPTION:Not a lot of size\, but new SW swell filling in provides a few
+  decent sets at summer focal points. AM window is cleanest\, but PM tide d
+ rop is another option.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240917T134200
 DTEND:20240917T190600
-DESCRIPTION:Day to watch. Not a lot of size\, but fun SW swell filling in 
- provides a few nice sets at focal points.
+DESCRIPTION:Not a lot of size\, but new SW swell filling in provides a few
+  decent sets at summer focal points. AM window is cleanest\, but PM tide d
+ rop is another option.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -66,16 +52,20 @@ DESCRIPTION:Favorable conditions in the morning and a nice tide push...but
  Keep the big board handy.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240920T070000
 DTEND:20240920T084800
-DESCRIPTION:-1.363ft at 07:00\n-2.888ft at 08:48
+DESCRIPTION:Another clean morning with a favorable tide push but the surf 
+ is smaller than Thursday. Have a big board ready to get what's left of the
+  SW swell and avoid the midday high tide that'll leave most spots flat. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240920T155400
 DTEND:20240920T190600
-DESCRIPTION:-2.909ft at 15:54\n-0.007ft at 19:06
+DESCRIPTION:Another clean morning with a favorable tide push but the surf 
+ is smaller than Thursday. Have a big board ready to get what's left of the
+  SW swell and avoid the midday high tide that'll leave most spots flat. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -142,5 +132,17 @@ SUMMARY:OST
 DTSTART:20241001T134200
 DTEND:20241001T184800
 DESCRIPTION:-2.966ft at 13:42\n-2.297ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241002T070600
+DTEND:20241002T074800
+DESCRIPTION:-2.323ft at 07:06\n-2.980ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241002T140600
+DTEND:20241002T184800
+DESCRIPTION:-2.953ft at 14:06\n-1.607ft at 18:48
 END:VEVENT
 END:VCALENDAR
