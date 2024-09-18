@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240917T065400
-DTEND:20240917T080000
-DESCRIPTION:Not a lot of size\, but new SW swell filling in provides a few
-  decent sets at summer focal points. AM window is cleanest\, but PM tide d
- rop is another option.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240917T134200
-DTEND:20240917T190600
-DESCRIPTION:Not a lot of size\, but new SW swell filling in provides a few
-  decent sets at summer focal points. AM window is cleanest\, but PM tide d
- rop is another option.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240918T065400
 DTEND:20240918T081800
 DESCRIPTION:Could be kinda fun with modest SW and S swells on tap. Souther
@@ -68,16 +52,20 @@ DESCRIPTION:Another clean morning with a favorable tide push but the surf
   SW swell and avoid the midday high tide that'll leave most spots flat. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240921T070000
 DTEND:20240921T090600
-DESCRIPTION:-1.871ft at 07:00\n-2.972ft at 09:06
+DESCRIPTION:Clean conditions but tiny surf. Decent morning tide push with 
+ small SW swell leftovers and NW windswell that continues to pass by spots 
+ in town. Big board\, low expectations kind of day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240921T164200
 DTEND:20240921T190000
-DESCRIPTION:-2.981ft at 16:42\n-0.391ft at 19:00
+DESCRIPTION:Clean conditions but tiny surf. Decent morning tide push with 
+ small SW swell leftovers and NW windswell that continues to pass by spots 
+ in town. Big board\, low expectations kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -144,5 +132,17 @@ SUMMARY:OST
 DTSTART:20241002T140600
 DTEND:20241002T184800
 DESCRIPTION:-2.953ft at 14:06\n-1.607ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241003T070600
+DTEND:20241003T074800
+DESCRIPTION:-2.335ft at 07:06\n-2.914ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241003T143000
+DTEND:20241003T184200
+DESCRIPTION:-2.982ft at 14:30\n-1.015ft at 18:42
 END:VEVENT
 END:VCALENDAR
