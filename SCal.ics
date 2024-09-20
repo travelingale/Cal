@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240919T070000
-DTEND:20240919T083600
-DESCRIPTION:Favorable conditions in the morning and a nice tide push...but
-  the surf is still small. Modest SW swell lingers. Keep the big board hand
- y.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240919T150600
-DTEND:20240919T190600
-DESCRIPTION:Favorable conditions in the morning and a nice tide push...but
-  the surf is still small. Modest SW swell lingers. Keep the big board hand
- y.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240920T070000
 DTEND:20240920T084800
 DESCRIPTION:Another clean morning with a favorable tide push but the surf 
@@ -144,5 +128,17 @@ SUMMARY:OST
 DTSTART:20241004T150000
 DTEND:20241004T184200
 DESCRIPTION:-2.956ft at 15:00\n-0.700ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241005T071200
+DTEND:20241005T074800
+DESCRIPTION:-2.632ft at 07:12\n-2.946ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241005T153000
+DTEND:20241005T184200
+DESCRIPTION:-2.985ft at 15:30\n-0.646ft at 18:42
 END:VEVENT
 END:VCALENDAR
