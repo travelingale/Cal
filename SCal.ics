@@ -3,53 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240920T070000
-DTEND:20240920T084800
-DESCRIPTION:Another clean morning with a favorable tide push but the surf 
- is smaller than Thursday. Have a big board ready to get what's left of the
-  SW swell and avoid the midday high tide that'll leave most spots flat. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240920T155400
-DTEND:20240920T190600
-DESCRIPTION:Another clean morning with a favorable tide push but the surf 
- is smaller than Thursday. Have a big board ready to get what's left of the
-  SW swell and avoid the midday high tide that'll leave most spots flat. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240921T070000
 DTEND:20240921T090600
-DESCRIPTION:Clean conditions but tiny surf. Decent morning tide push with 
- small SW swell leftovers and NW windswell that continues to pass by spots 
- in town. Big board\, low expectations kind of day.
+DESCRIPTION:Clean conditions but modest surf. Decent morning tide push wit
+ h small SW swell leftovers and NW windswell that continues to mostly pass 
+ by spots in town. Big board\, low expectations kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240921T164200
 DTEND:20240921T190000
-DESCRIPTION:Clean conditions but tiny surf. Decent morning tide push with 
- small SW swell leftovers and NW windswell that continues to pass by spots 
- in town. Big board\, low expectations kind of day.
+DESCRIPTION:Clean conditions but modest surf. Decent morning tide push wit
+ h small SW swell leftovers and NW windswell that continues to mostly pass 
+ by spots in town. Big board\, low expectations kind of day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240922T070000
 DTEND:20240922T091200
-DESCRIPTION:Doesn't look great. Shorter-period NW swell may increase\, but
-  it'll mostly miss spots in town. Minimal SW swell creeping in fo surf und
- er the waist-high mark. Conditions are at least clean so there should be s
- ome options for the longboards.
+DESCRIPTION:May see a touch more energy out of NW wrapping in\, but it'll 
+ mostly miss spots in town. Minimal SW swell creeping in as well. Condition
+ s are at least clean so there should be some options for the longboards.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240922T174200
 DTEND:20240922T190000
-DESCRIPTION:Doesn't look great. Shorter-period NW swell may increase\, but
-  it'll mostly miss spots in town. Minimal SW swell creeping in fo surf und
- er the waist-high mark. Conditions are at least clean so there should be s
- ome options for the longboards.
+DESCRIPTION:May see a touch more energy out of NW wrapping in\, but it'll 
+ mostly miss spots in town. Minimal SW swell creeping in as well. Condition
+ s are at least clean so there should be some options for the longboards.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -140,5 +122,17 @@ SUMMARY:OST
 DTSTART:20241005T153000
 DTEND:20241005T184200
 DESCRIPTION:-2.985ft at 15:30\n-0.646ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241006T071200
+DTEND:20241006T073600
+DESCRIPTION:-2.831ft at 07:12\n-2.961ft at 07:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241006T160600
+DTEND:20241006T184200
+DESCRIPTION:-2.985ft at 16:06\n-0.872ft at 18:42
 END:VEVENT
 END:VCALENDAR
