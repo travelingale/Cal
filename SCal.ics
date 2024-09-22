@@ -3,35 +3,19 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240921T070000
-DTEND:20240921T090600
-DESCRIPTION:Clean conditions but modest surf. Decent morning tide push wit
- h small SW swell leftovers and NW windswell that continues to mostly pass 
- by spots in town. Big board\, low expectations kind of day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20240921T164200
-DTEND:20240921T190000
-DESCRIPTION:Clean conditions but modest surf. Decent morning tide push wit
- h small SW swell leftovers and NW windswell that continues to mostly pass 
- by spots in town. Big board\, low expectations kind of day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240922T070000
 DTEND:20240922T091200
-DESCRIPTION:May see a touch more energy out of NW wrapping in\, but it'll 
- mostly miss spots in town. Minimal SW swell creeping in as well. Condition
- s are at least clean so there should be some options for the longboards.
+DESCRIPTION:Clean but very small - maybe just enough for the longboards. W
+ e should see a touch more energy out of NW wrapping in\, but it'll mostly 
+ miss spots in town. Minimal SW swell creeping in as well. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20240922T174200
 DTEND:20240922T190000
-DESCRIPTION:May see a touch more energy out of NW wrapping in\, but it'll 
- mostly miss spots in town. Minimal SW swell creeping in as well. Condition
- s are at least clean so there should be some options for the longboards.
+DESCRIPTION:Clean but very small - maybe just enough for the longboards. W
+ e should see a touch more energy out of NW wrapping in\, but it'll mostly 
+ miss spots in town. Minimal SW swell creeping in as well. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -134,5 +118,11 @@ SUMMARY:OST
 DTSTART:20241006T160600
 DTEND:20241006T184200
 DESCRIPTION:-2.985ft at 16:06\n-0.872ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241007T164800
+DTEND:20241007T183600
+DESCRIPTION:-2.987ft at 16:48\n-1.433ft at 18:36
 END:VEVENT
 END:VCALENDAR
