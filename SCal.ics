@@ -2,10 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20240927T124800
 DTEND:20240927T150600
-DESCRIPTION:-2.970ft at 12:48\n-2.969ft at 15:06
+DESCRIPTION:Another fun day of surf. Keep in mind the mid-AM high tide\, b
+ ut plenty of options on hand as NW and SW swell continue\, with size even 
+ pulsing back up some in the PM as new NW swell builds. Dropping tide throu
+ gh lunchtime may be the call.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
