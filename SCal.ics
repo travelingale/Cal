@@ -6,36 +6,37 @@ SUMMARY:1 - 2ft: Fair
 DTSTART:20240927T124800
 DTEND:20240927T150600
 DESCRIPTION:Another fun day of surf. Keep in mind the mid-AM high tide\, b
- ut plenty of options on hand as NW and SW swell continue\, with size even 
- pulsing back up some in the PM as new NW swell builds. Dropping tide throu
- gh lunchtime may be the call.
+ ut plenty of options on hand as NW and SW swell continue. Similar to Thu\,
+  dropping tide through lunchtime will be the call.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240928T124800
 DTEND:20240928T163600
-DESCRIPTION:Likely down in size from Thu-Fri but still could be kinda fun 
- off shorter/mid period NW swell and still a bit of SW swell. 
+DESCRIPTION:Likely down in size from Thu-Fri but still could be fun off sh
+ orter/mid period NW swell and still a bit of SW swell. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240929T130600
 DTEND:20240929T174200
-DESCRIPTION:Rideable/somehwat fun surf may continue with size probably eas
- ing from Saturday. Shorter to mid period NW swell may have enough energy t
- o get into town and there will still be just a bit of SW swell running. 
+DESCRIPTION:Somehwat fun surf may continue with size probably easing a tou
+ ch from Saturday. Shorter to mid period NW swell may have enough energy to
+  get into town and there will still be just a bit of SW swell running. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240930T070600
 DTEND:20240930T073000
-DESCRIPTION:-2.589ft at 07:06\n-2.998ft at 07:30
+DESCRIPTION:Clean surf to start the week. Size coming down\, but still fun
+  for the better NW spots in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240930T132400
 DTEND:20240930T184200
-DESCRIPTION:-2.933ft at 13:24\n-2.973ft at 18:42
+DESCRIPTION:Clean surf to start the week. Size coming down\, but still fun
+  for the better NW spots in morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -120,5 +121,11 @@ SUMMARY:OST
 DTSTART:20241008T174200
 DTEND:20241008T183600
 DESCRIPTION:-2.935ft at 17:42\n-2.157ft at 18:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241012T122400
+DTEND:20241012T132400
+DESCRIPTION:-2.992ft at 12:24\n-2.993ft at 13:24
 END:VEVENT
 END:VCALENDAR
