@@ -2,27 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20240927T124800
-DTEND:20240927T150600
-DESCRIPTION:Another fun day of surf. Keep in mind the mid-AM high tide\, b
- ut plenty of options on hand as NW and SW swell continue. Similar to Thu\,
-  dropping tide through lunchtime will be the call.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240928T124800
 DTEND:20240928T163600
-DESCRIPTION:Likely down in size from Thu-Fri but still could be fun off sh
- orter/mid period NW swell and still a bit of SW swell. 
+DESCRIPTION:Likely down in size from Thu-Fri but still fun off shorter/mid
+  period NW swell and still a bit of SW swell. Best window will be late mor
+ ning through midday as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240929T130600
 DTEND:20240929T174200
-DESCRIPTION:Somehwat fun surf may continue with size probably easing a tou
- ch from Saturday. Shorter to mid period NW swell may have enough energy to
-  get into town and there will still be just a bit of SW swell running. 
+DESCRIPTION:Fun surf continues with size mostly similar to Saturday. Short
+ er to mid period NW swell rolls into better NW spots and there will still 
+ be just a bit of SW swell running. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
@@ -39,16 +32,18 @@ DESCRIPTION:Clean surf to start the week. Size coming down\, but still fun
   for the better NW spots in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20241001T070600
 DTEND:20241001T073600
-DESCRIPTION:-2.403ft at 07:06\n-2.904ft at 07:36
+DESCRIPTION:Smaller. Early AM tide push may be worth a go\, but bring down
+  the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20241001T134200
 DTEND:20241001T184800
-DESCRIPTION:-2.966ft at 13:42\n-2.297ft at 18:48
+DESCRIPTION:Smaller. Early AM tide push may be worth a go\, but bring down
+  the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -127,5 +122,11 @@ SUMMARY:OST
 DTSTART:20241012T122400
 DTEND:20241012T132400
 DESCRIPTION:-2.992ft at 12:24\n-2.993ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241013T115400
+DTEND:20241013T154800
+DESCRIPTION:-2.950ft at 11:54\n-2.960ft at 15:48
 END:VEVENT
 END:VCALENDAR
