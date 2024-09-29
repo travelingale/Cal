@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20240928T124800
-DTEND:20240928T163600
-DESCRIPTION:Likely down in size from Thu-Fri but still fun off shorter/mid
-  period NW swell and still a bit of SW swell. Best window will be late mor
- ning through midday as tide drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20240929T130600
 DTEND:20240929T174200
 DESCRIPTION:Fun surf continues with size mostly similar to Saturday. Short
@@ -46,16 +38,18 @@ DESCRIPTION:Smaller. Early AM tide push may be worth a go\, but bring down
   the small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241002T070600
 DTEND:20241002T074800
-DESCRIPTION:-2.323ft at 07:06\n-2.980ft at 07:48
+DESCRIPTION:Clean morning window\, along with incoming tide. May see new N
+ W swell mix spike up late. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241002T140600
 DTEND:20241002T184800
-DESCRIPTION:-2.953ft at 14:06\n-1.607ft at 18:48
+DESCRIPTION:Clean morning window\, along with incoming tide. May see new N
+ W swell mix spike up late. Stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -128,5 +122,11 @@ SUMMARY:OST
 DTSTART:20241013T115400
 DTEND:20241013T154800
 DESCRIPTION:-2.950ft at 11:54\n-2.960ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241014T120600
+DTEND:20241014T171800
+DESCRIPTION:-2.987ft at 12:06\n-2.927ft at 17:18
 END:VEVENT
 END:VCALENDAR
