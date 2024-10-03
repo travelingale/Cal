@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20241002T070600
-DTEND:20241002T074800
-DESCRIPTION:Clean morning window\, along with incoming tide. Lully early b
- ut new\, longer-period WNW swell builds in and showing nice size for after
- noon tide drop.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20241002T140600
-DTEND:20241002T184800
-DESCRIPTION:Clean morning window\, along with incoming tide. Lully early b
- ut new\, longer-period WNW swell builds in and showing nice size for after
- noon tide drop.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20241003T070600
 DTEND:20241003T074800
@@ -66,16 +50,18 @@ DESCRIPTION:Day to target. Fun combo of longer-period SW swell and seconda
  d tide push throughout the morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241006T071200
 DTEND:20241006T073600
-DESCRIPTION:-2.831ft at 07:12\n-2.961ft at 07:36
+DESCRIPTION:Fun. SW swell lingers\, showing most size at focal points in t
+ he morning. AM window looks best as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241006T160600
 DTEND:20241006T184200
-DESCRIPTION:-2.985ft at 16:06\n-0.872ft at 18:42
+DESCRIPTION:Fun. SW swell lingers\, showing most size at focal points in t
+ he morning. AM window looks best as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -124,5 +110,11 @@ SUMMARY:OST
 DTSTART:20241017T135400
 DTEND:20241017T160600
 DESCRIPTION:-2.854ft at 13:54\n-0.037ft at 16:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241018T143600
+DTEND:20241018T163600
+DESCRIPTION:-2.869ft at 14:36\n-0.044ft at 16:36
 END:VEVENT
 END:VCALENDAR
