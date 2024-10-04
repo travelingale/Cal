@@ -2,23 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241003T070600
-DTEND:20241003T074800
-DESCRIPTION:Day to target. Fun NW swell doing the heavy lifting\, but also
-  new\, long-period SW swell starting to fill in. AM session looking best a
- s tide fills in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
-DTSTART:20241003T143000
-DTEND:20241003T184200
-DESCRIPTION:Day to target. Fun NW swell doing the heavy lifting\, but also
-  new\, long-period SW swell starting to fill in. AM session looking best a
- s tide fills in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
 DTSTART:20241004T071200
 DTEND:20241004T075400
 DESCRIPTION:Day to target. Another nice looking AM window with clean condi
@@ -64,10 +48,12 @@ DESCRIPTION:Fun. SW swell lingers\, showing most size at focal points in t
  he morning. AM window looks best as tide pushes in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241007T164800
 DTEND:20241007T183600
-DESCRIPTION:-2.987ft at 16:48\n-1.433ft at 18:36
+DESCRIPTION:SW swell starts to taper off. Up next: New\, long-period NW sw
+ ell builds through the day. NW focal points likely get pretty fun/good thr
+ ough end of day as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -116,5 +102,11 @@ SUMMARY:OST
 DTSTART:20241018T143600
 DTEND:20241018T163600
 DESCRIPTION:-2.869ft at 14:36\n-0.044ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241019T151800
+DTEND:20241019T172400
+DESCRIPTION:-2.974ft at 15:18\n-0.012ft at 17:24
 END:VEVENT
 END:VCALENDAR
