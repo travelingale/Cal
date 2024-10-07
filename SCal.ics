@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241006T071200
-DTEND:20241006T073600
-DESCRIPTION:Fun. SW swell lingers\, showing most size at focal points in t
- he morning. AM window looks best as tide pushes in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241006T160600
-DTEND:20241006T184200
-DESCRIPTION:Fun. SW swell lingers\, showing most size at focal points in t
- he morning. AM window looks best as tide pushes in.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241007T164800
 DTEND:20241007T183600
