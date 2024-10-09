@@ -3,17 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20241008T174200
-DTEND:20241008T183600
-DESCRIPTION:Another quality combo in the water as long-period NW swell top
- s out and new\, long-period SSW swell starts to build. All morning looks o
- ptimal with clean conditions and mid tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20241012T122400
 DTEND:20241012T132400
-DESCRIPTION:-2.992ft at 12:24\n-2.993ft at 13:24
+DESCRIPTION:One to watch. Keeping an eye out for a potential storm develop
+ ing in the Gulf late week that could send a boost in swell out of the W/WN
+ W. Low confidence at this point but there's potential for mid-sized surf a
+ nd decent conditions.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
