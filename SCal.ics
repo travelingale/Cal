@@ -11,10 +11,13 @@ DESCRIPTION:One to watch. Keeping an eye out for a potential storm develop
  nd decent conditions.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20241013T115400
 DTEND:20241013T154800
-DESCRIPTION:-2.950ft at 11:54\n-2.960ft at 15:48
+DESCRIPTION:Easing W/WNW swell could still produce some fun to mid-sized s
+ urf as a bit of fresh SSW swell also picks up. High tide isn't great early
+  but does drop through midday and conditions are looking nice for that win
+ dow at this point.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -63,5 +66,11 @@ SUMMARY:OST
 DTSTART:20241021T170000
 DTEND:20241021T181800
 DESCRIPTION:-2.990ft at 17:00\n-1.309ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241025T120000
+DTEND:20241025T134200
+DESCRIPTION:-2.999ft at 12:00\n-2.993ft at 13:42
 END:VEVENT
 END:VCALENDAR
