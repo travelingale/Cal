@@ -5,25 +5,26 @@ BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241012T122400
 DTEND:20241012T132400
-DESCRIPTION:One to watch. Keeping an eye out for a potential storm develop
- ing in the Gulf late week that could send a boost in swell out of the W/WN
- W. Low confidence at this point but there's potential for mid-sized surf a
- nd decent conditions.\n\n
+DESCRIPTION:Slow start to the day\, but fresh W/WNW swell builds back half
+  of day. New\, long-period SSW swell nudging up as well. Target the aftern
+ oon window as both these swells fill in\, and wind remains light.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241013T115400
 DTEND:20241013T154800
 DESCRIPTION:Easing W/WNW swell could still produce some fun to mid-sized s
- urf as a bit of fresh SSW swell also picks up. High tide isn't great early
-  but does drop through midday and conditions are looking nice for that win
- dow at this point.\n\n
+ urf as more SSW swell also picks up. High tide isn't great early but does 
+ drop through midday and conditions are looking nice for that window at thi
+ s point.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20241014T120600
 DTEND:20241014T171800
-DESCRIPTION:-2.987ft at 12:06\n-2.927ft at 17:18
+DESCRIPTION:One to watch. Starting off with fun to mid-sized surf on tap a
+ s SSW swell continues. Things could get more solid by the end of the day a
+ s a new long period NW pulse builds through the afternoon into evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -72,5 +73,11 @@ SUMMARY:OST
 DTSTART:20241025T120000
 DTEND:20241025T134200
 DESCRIPTION:-2.999ft at 12:00\n-2.993ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241026T115400
+DTEND:20241026T154800
+DESCRIPTION:-2.956ft at 11:54\n-2.963ft at 15:48
 END:VEVENT
 END:VCALENDAR
