@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
-DTSTART:20241015T123600
-DTEND:20241015T183000
-DESCRIPTION:Day to target. Solid NW swell peaks\, while SSW swell continue
- s. Incoming tide during Dawn Patrol looks ideal\, as well as. the afternoo
- n tide drop. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241016T131200
 DTEND:20241016T182400
@@ -18,7 +10,7 @@ DESCRIPTION:Size coming down but plenty of energy still rolling in. Early
  starts to drop.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241017T135400
 DTEND:20241017T160600
 DESCRIPTION:Down a peg or two from past few days\, but still fun as reinfo
@@ -33,10 +25,10 @@ DESCRIPTION:Groomed conditions looking likely from offshore flow. Mostly m
  lls blending in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20241019T151800
 DTEND:20241019T172400
-DESCRIPTION:-2.974ft at 15:18\n-0.012ft at 17:24
+DESCRIPTION:Smaller surf with groomed clean conditions likely.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -85,5 +77,11 @@ SUMMARY:OST
 DTSTART:20241030T130000
 DTEND:20241030T181200
 DESCRIPTION:-2.999ft at 13:00\n-1.329ft at 18:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241031T133000
+DTEND:20241031T180600
+DESCRIPTION:-2.890ft at 13:30\n-0.624ft at 18:06
 END:VEVENT
 END:VCALENDAR
