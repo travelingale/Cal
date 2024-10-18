@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241017T135400
-DTEND:20241017T160600
-DESCRIPTION:Down a peg or two from past few days\, but still fun. Dawn Pat
- rol/early AM best overall\, but afternoon window in play as well once tide
-  starts to drop.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241018T143600
 DTEND:20241018T163600
@@ -30,10 +22,11 @@ DTEND:20241020T181800
 DESCRIPTION:Wind looks light with a smallish NW/WNW swell mix possible. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20241021T170000
 DTEND:20241021T181800
-DESCRIPTION:-2.990ft at 17:00\n-1.309ft at 18:18
+DESCRIPTION:New NW swell mix on tap. Not big\, but focal points could be f
+ un in morning around the low-mid tide swing.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -82,5 +75,11 @@ SUMMARY:OST
 DTSTART:20241101T135400
 DTEND:20241101T180600
 DESCRIPTION:-2.943ft at 13:54\n-0.168ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241102T142400
+DTEND:20241102T174200
+DESCRIPTION:-2.934ft at 14:24\n-0.012ft at 17:42
 END:VEVENT
 END:VCALENDAR
