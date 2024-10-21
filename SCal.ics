@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20241020T161200
-DTEND:20241020T181800
-DESCRIPTION:Winds are light with a smallish NW/WNW swell mix. AM session b
- est as tide pushes in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
 DTSTART:20241021T170000
 DTEND:20241021T181800
-DESCRIPTION:New NW swell mix on tap. Not big\, but focal points could be f
- un in morning around the low-mid tide swing.
+DESCRIPTION:New NW swell mix on tap. Not big\, but focal points look fun i
+ n morning around the low-mid tide swing.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -80,5 +73,11 @@ SUMMARY:OST
 DTSTART:20241104T143600
 DTEND:20241104T170600
 DESCRIPTION:-2.891ft at 14:36\n-0.389ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241105T151800
+DTEND:20241105T170600
+DESCRIPTION:-2.891ft at 15:18\n-1.024ft at 17:06
 END:VEVENT
 END:VCALENDAR
