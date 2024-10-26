@@ -2,41 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20241021T170000
-DTEND:20241021T181800
-DESCRIPTION:New NW swell mix on tap. Not big\, but focal points look fun i
- n morning around the low-mid tide swing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20241025T120000
-DTEND:20241025T134200
-DESCRIPTION:-2.999ft at 12:00\n-2.993ft at 13:42
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241026T115400
 DTEND:20241026T154800
-DESCRIPTION:-2.956ft at 11:54\n-2.963ft at 15:48
+DESCRIPTION:Fun surf returns with clean conditions. Mix of increased W swe
+ ll and long period SW swell. Best shape late morning through midday as tid
+ e drops.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241027T120600
 DTEND:20241027T171200
-DESCRIPTION:-2.941ft at 12:06\n-2.956ft at 17:12
+DESCRIPTION:Probably losing some size from Saturday as the W/SW mix fades 
+ but still kinda fun and decent odds for clean conditions. New\, longer-per
+ iod NW swell may build late.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:4 - 5ft: Fair
 DTSTART:20241028T122400
 DTEND:20241028T181200
-DESCRIPTION:-2.916ft at 12:24\n-2.869ft at 18:12
+DESCRIPTION:Good chance for an increase in surf with stronger NW-WNW wind 
+ and swell. At least semi protected from the wind in town but probably not 
+ as clean as prior days. New SSW swell also builds. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20241029T124200
 DTEND:20241029T181200
-DESCRIPTION:-2.933ft at 12:42\n-2.084ft at 18:12
+DESCRIPTION:Wind improves but jumbled conditions\, esp. with tide filling 
+ in. Size down a little as NW swell lingers. Longer-period SSW swell contin
+ ues.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -79,5 +74,17 @@ SUMMARY:OST
 DTSTART:20241105T151800
 DTEND:20241105T170600
 DESCRIPTION:-2.891ft at 15:18\n-1.024ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241106T160000
+DTEND:20241106T170000
+DESCRIPTION:-2.990ft at 16:00\n-1.963ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241110T100000
+DTEND:20241110T134200
+DESCRIPTION:-2.964ft at 10:00\n-2.956ft at 13:42
 END:VEVENT
 END:VCALENDAR
