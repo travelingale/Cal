@@ -2,31 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241026T115400
-DTEND:20241026T154800
-DESCRIPTION:Fun surf returns with clean conditions. Mix of increased W swe
- ll and long period SW swell. Best shape late morning through midday as tid
- e drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241027T120600
 DTEND:20241027T171200
-DESCRIPTION:Probably losing some size from Saturday as the W/SW mix fades 
- but still kinda fun and decent odds for clean conditions. New\, longer-per
- iod NW swell may build late.
+DESCRIPTION:Touch less size compared to Saturday\, as the W/SW mix eases a
+  little\, but still fun and with clean conditions (for at least the AM). L
+ ikely a mellow seabreeze in the PM. New\, longer-period NW swell due to bu
+ ild in through Sunday night.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4 - 5ft: Fair
+SUMMARY:3 - 4ft: Fair to good
 DTSTART:20241028T122400
 DTEND:20241028T181200
-DESCRIPTION:Good chance for an increase in surf with stronger NW-WNW wind 
- and swell. At least semi protected from the wind in town but probably not 
- as clean as prior days. New SSW swell also builds. 
+DESCRIPTION:Increase in surf with stronger NW-WNW swell wrapping in. Rise 
+ of NW-WNW wind as well. Make sure to hit the spots that favor those winds.
+  New SSW swell also builds. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
+SUMMARY:2 - 3ft: Poor to fair
 DTSTART:20241029T124200
 DTEND:20241029T181200
 DESCRIPTION:Wind improves but jumbled conditions\, esp. with tide filling 
@@ -34,10 +27,12 @@ DESCRIPTION:Wind improves but jumbled conditions\, esp. with tide filling
  ues.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241030T130000
 DTEND:20241030T181200
-DESCRIPTION:-2.999ft at 13:00\n-1.329ft at 18:12
+DESCRIPTION:Down to smaller leftovers. Wind looks favorable but slow by mi
+ d-late morning from high tide. Afternoon dropping tide could be worth a lo
+ ok with small-wave gear.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -86,5 +81,11 @@ SUMMARY:OST
 DTSTART:20241110T100000
 DTEND:20241110T134200
 DESCRIPTION:-2.964ft at 10:00\n-2.956ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241111T101200
+DTEND:20241111T154200
+DESCRIPTION:-2.919ft at 10:12\n-2.982ft at 15:42
 END:VEVENT
 END:VCALENDAR
