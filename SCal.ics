@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20241029T124200
-DTEND:20241029T181200
-DESCRIPTION:Still plenty of NW juice running\, but starting to ease some. 
- Secondary SSW swell continues to mix in as well. Favorable wind\, but surf
-  is likely to be a little funky and lumpy.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241030T130000
 DTEND:20241030T181200
@@ -25,7 +17,7 @@ DESCRIPTION:New NW swell-mix to build in through the day\, while the old S
  SW energy becomes small. Cleanest overall in morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 - 4ft: Fair
+SUMMARY:2 - 3ft: Fair
 DTSTART:20241101T135400
 DTEND:20241101T180600
 DESCRIPTION:Watching for another solid NW swell-mix to impact the region -
@@ -33,10 +25,11 @@ DESCRIPTION:Watching for another solid NW swell-mix to impact the region -
  in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241102T142400
 DTEND:20241102T174200
-DESCRIPTION:-2.934ft at 14:24\n-0.012ft at 17:42
+DESCRIPTION:The NW swell-mix will likely drop some from Friday but still d
+ ecent size. Local winds looking favorable. Minor SSW swell joining in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -91,5 +84,11 @@ SUMMARY:OST
 DTSTART:20241113T150600
 DTEND:20241113T165400
 DESCRIPTION:-0.005ft at 15:06\n-1.332ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241114T114800
+DTEND:20241114T134800
+DESCRIPTION:-2.891ft at 11:48\n-0.081ft at 13:48
 END:VEVENT
 END:VCALENDAR
