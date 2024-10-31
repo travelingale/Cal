@@ -3,39 +3,33 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20241030T130000
-DTEND:20241030T181200
-DESCRIPTION:Down to smaller leftovers. Wind looks favorable but slow by mi
- d-late morning from high tide. Afternoon dropping tide could be worth a lo
- ok. Easing mix of NW and SSW swells.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241031T133000
 DTEND:20241031T180600
-DESCRIPTION:New NW swell-mix to build in through the day\, while the old S
- SW energy becomes small. Cleanest overall in morning.
+DESCRIPTION:New NW swell-mix to build in through the afternoon\, while the
+  old SSW energy becomes small. Cleanest overall in morning\, but certainly
+  manageable in afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241101T135400
 DTEND:20241101T180600
-DESCRIPTION:Watching for another solid NW swell-mix to impact the region -
- - we may also see another rise of breezy NW winds. Small SSW swell mixing 
- in. 
+DESCRIPTION:Solid NW swell-mix to impact the region. Cleanest in morning\,
+  yet afternoon window likely best option as tide drops.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1 - 2ft: Fair
+DTSTART:20241102T142400
+DTEND:20241102T174200
+DESCRIPTION:The NW swell-mix will likely drop some from Friday but still g
+ ood size all day. Local winds looking favorable. Ideal tide push through t
+ he morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
-DTSTART:20241102T142400
-DTEND:20241102T174200
-DESCRIPTION:The NW swell-mix will likely drop some from Friday but still d
- ecent size. Local winds looking favorable. Minor SSW swell joining in. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20241103T135400
 DTEND:20241103T170600
-DESCRIPTION:-2.991ft at 13:54\n-0.024ft at 17:06
+DESCRIPTION:Favorable AM window with clean conditions and incoming tide. G
+ ood size NW swell continues.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -90,5 +84,11 @@ SUMMARY:OST
 DTSTART:20241114T114800
 DTEND:20241114T134800
 DESCRIPTION:-2.891ft at 11:48\n-0.081ft at 13:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241115T123000
+DTEND:20241115T141800
+DESCRIPTION:-2.850ft at 12:30\n-0.040ft at 14:18
 END:VEVENT
 END:VCALENDAR
