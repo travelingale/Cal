@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20241101T135400
-DTEND:20241101T180600
-DESCRIPTION:Solid NW swell-mix to impact the region. Cleanest in morning\,
-  yet afternoon window likely best option as tide drops. May have a little 
- onshore wind but plenty of swell pushing in to keep most spots at least se
- mi-clean.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20241102T142400
 DTEND:20241102T174200
@@ -19,7 +10,7 @@ DESCRIPTION:The NW swell-mix will likely drop some from Friday but still g
  he morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241103T135400
 DTEND:20241103T170600
 DESCRIPTION:Favorable AM window with clean conditions and incoming tide. G
@@ -34,10 +25,12 @@ DESCRIPTION:Day to target. New\, long-period NW swell to build in. Good od
   and/or dropping tide through the afternoon. Know your limits.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:2 - 3ft: Fair
 DTSTART:20241105T151800
 DTEND:20241105T170600
-DESCRIPTION:-2.891ft at 15:18\n-1.024ft at 17:06
+DESCRIPTION:Day to target. Increasing confidence for offshore wind in the 
+ morning. Easing NW swell through the day. Afternoon tide drop worth a look
+  to with potential light wind. Know your limits.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -92,5 +85,11 @@ SUMMARY:OST
 DTSTART:20241116T131200
 DTEND:20241116T150000
 DESCRIPTION:-2.885ft at 13:12\n-0.003ft at 15:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241117T135400
+DTEND:20241117T154800
+DESCRIPTION:-2.980ft at 13:54\n-0.034ft at 15:48
 END:VEVENT
 END:VCALENDAR
