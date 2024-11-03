@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
-DTSTART:20241102T142400
-DTEND:20241102T174200
-DESCRIPTION:The NW swell-mix will likely drop some from Friday but still g
- ood size all day. Local winds looking favorable. Ideal tide push through t
- he morning.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241103T135400
 DTEND:20241103T170600
@@ -33,10 +25,11 @@ DESCRIPTION:Day to target. Increasing confidence for offshore wind in the
   to with potential light wind. Know your limits.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241106T160000
 DTEND:20241106T170000
-DESCRIPTION:-2.990ft at 16:00\n-1.963ft at 17:00
+DESCRIPTION:Day to target. Moderate to locally breezy offshore wind may be
+  on the card. Plenty of mid-period NW swell in the water.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -91,5 +84,11 @@ SUMMARY:OST
 DTSTART:20241117T135400
 DTEND:20241117T154800
 DESCRIPTION:-2.980ft at 13:54\n-0.034ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241118T144200
+DTEND:20241118T164200
+DESCRIPTION:-2.957ft at 14:42\n-0.111ft at 16:42
 END:VEVENT
 END:VCALENDAR
