@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20241105T151800
-DTEND:20241105T170600
-DESCRIPTION:Day to target. Clean surf through the morning. Good size carri
- es throughout day as long-period NW swell hangs around. Afternoon tide dro
- p worth a look to with potential light wind. 
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241106T160000
 DTEND:20241106T170000
-DESCRIPTION:Day to target. Moderate to locally breezy offshore wind may be
-  on the card. Reinforcing\, shorter-period swell mixes in so plenty of NW 
- swell in the water\, esp. at winter magnets.
+DESCRIPTION:Day to target. Moderate to locally breezy offshore wind on han
+ d. Reinforcing\, shorter-period swell mixes in so smaller than Mon-Tue but
+  plenty of NW swell in the water\, esp. at winter magnets.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
