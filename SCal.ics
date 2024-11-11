@@ -2,14 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Fair
-DTSTART:20241110T100000
-DTEND:20241110T134200
-DESCRIPTION:Fun day. Wind light\, favorable in the morning. More size on h
- and with WNW swell up a peg. Shape improves at the points as tide drops.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1 - 2ft: Fair
+SUMMARY:1 - 2ft: Poor to fair
 DTSTART:20241111T101200
 DTEND:20241111T154200
 DESCRIPTION:Shape and overall quality improves later morning as tide drops
@@ -20,31 +13,32 @@ BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241112T103600
 DTEND:20241112T170000
-DESCRIPTION:Potential big day for the focal points as significant NW swell
-  slams the coast. Wind looks light to potentially good in morning. Stay tu
- ned\, may be too much swell for a lot of spots.
+DESCRIPTION:Big day for the focal points as significant NW swell slams the
+  coast. Wind looks light all day. Stay tuned\, may be too much swell for a
+  lot of spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 - 4ft: Fair
 DTSTART:20241113T111200
 DTEND:20241113T140000
 DESCRIPTION:Strong WNW swell easing through the day. Focal points will be 
- pumping\, and sheltered spots get fun with the dropping tide midday. Morni
- ng winds look light\, best early. 
+ pumping\, and sheltered spots get fun with the dropping tide midday. Winds
+  look light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241113T150600
 DTEND:20241113T165400
 DESCRIPTION:Strong WNW swell easing through the day. Focal points will be 
- pumping\, and sheltered spots get fun with the dropping tide midday. Morni
- ng winds look light\, best early. 
+ pumping\, and sheltered spots get fun with the dropping tide midday. Winds
+  look light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:3 - 4ft: Fair
 DTSTART:20241114T114800
 DTEND:20241114T134800
-DESCRIPTION:-2.891ft at 11:48\n-0.081ft at 13:48
+DESCRIPTION:One to watch. Size on the rise again as old swell drops and fr
+ esh\, stronger WNW/NW swell fills in. Morning winds look light. \n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -99,5 +93,11 @@ SUMMARY:OST
 DTSTART:20241125T101800
 DTEND:20241125T164800
 DESCRIPTION:-2.974ft at 10:18\n-2.958ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241126T104200
+DTEND:20241126T164800
+DESCRIPTION:-2.919ft at 10:42\n-2.234ft at 16:48
 END:VEVENT
 END:VCALENDAR
