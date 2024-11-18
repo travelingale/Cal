@@ -2,36 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:0 - 1ft: Poor to fair
-DTSTART:20241117T135400
-DTEND:20241117T154800
-DESCRIPTION:Great day for anyone interested in smaller surf. Clean conditi
- ons continue in the morning\, and likely last through the afternoon as wel
- l. Just paddle on either side of the late morning high tide for best shape
- .
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20241118T144200
 DTEND:20241118T164200
 DESCRIPTION:Fun bump in NW swell due and conditions look favorable all day
- . Afternoon tide drop is likely the ticket\, especially as more swell fill
- s in.
+ . Afternoon tide drop is the ticket\, especially as more swell fills in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 - 2ft: Fair
 DTSTART:20241119T153000
 DTEND:20241119T165400
 DESCRIPTION:Somewhat jumbled as NW swell mix (mostly shorter-periods) come
- s down but nice size at winter focal points. AM session best at tide pushe
+ s down but nice size at winter focal points. AM session best as tide pushe
  s in.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 - 3ft: Poor to fair
+SUMMARY:3 - 4ft: Poor to fair
 DTSTART:20241120T162400
 DTEND:20241120T165400
-DESCRIPTION:Not big but day worth keeping an eye on. Favorable wind\, low'
- ish tide in morning sets up a few fun waves off NW swell leftovers.
+DESCRIPTION:A day worth keeping an eye on as new WNW swell builds in. Wind
+  outlook is manageable but Santa Cruz is right on the line... won't take m
+ uch to end up with S wind.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -92,5 +83,11 @@ SUMMARY:OST
 DTSTART:20241202T133600
 DTEND:20241202T160000
 DESCRIPTION:-2.911ft at 13:36\n-0.025ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241203T141200
+DTEND:20241203T163600
+DESCRIPTION:-2.961ft at 14:12\n-0.079ft at 16:36
 END:VEVENT
 END:VCALENDAR
