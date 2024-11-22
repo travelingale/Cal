@@ -5,22 +5,22 @@ BEGIN:VEVENT
 SUMMARY:2 - 3ft: Fair
 DTSTART:20241123T095400
 DTEND:20241123T130600
-DESCRIPTION:A day to keep tabs on. Tracking a new pulse of W swell but the
-  wind/conditions outlook is dicey with the reputable weather models at odd
- s.
+DESCRIPTION:A day to keep tabs on. Wind doesn't look great but not terribl
+ e as well. Fun surf off the mix of W/NW swells.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1 - 2ft: Poor to fair
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241124T100000
 DTEND:20241124T151800
 DESCRIPTION:Still some W/NW swell to work with but the wind outlook may so
- ur. Some models bring a return to S wind.
+ ur. Some models bring E to SE wind.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:1 - 2ft: Fair
 DTSTART:20241125T101800
 DTEND:20241125T164800
-DESCRIPTION:-2.974ft at 10:18\n-2.958ft at 16:48
+DESCRIPTION:Not a whole lot of size to start the week but wind may end up 
+ being light. If cooperates\, may be a few OK waves as tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
