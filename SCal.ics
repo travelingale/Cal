@@ -3,41 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241125T101800
-DTEND:20241125T164800
-DESCRIPTION:Another fun day looks increasingly likely with favorable wind 
- and a peaking to slowly easing S swell. Just be sure to work around the de
- ep high tide in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241126T104200
 DTEND:20241126T164800
-DESCRIPTION:Another fun day looks increasingly likely with favorable wind 
- and a peaking to slowly easing S swell. Just be sure to work around the de
- ep high tide in the morning. 
+DESCRIPTION:Conditions look favorable at this point and the surf should re
+ main fun. Deep high tide again in the morning but the late morning to earl
+ y PM session holds promise. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241127T110600
 DTEND:20241127T164800
-DESCRIPTION:Another fun day looks increasingly likely with favorable wind 
- and a peaking to slowly easing S swell. Just be sure to work around the de
- ep high tide in the morning. 
+DESCRIPTION:Conditions look favorable at this point and the surf should re
+ main fun. Deep high tide again in the morning but the late morning to earl
+ y PM session holds promise. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241128T113000
 DTEND:20241128T164800
-DESCRIPTION:Another fun day looks increasingly likely with favorable wind 
- and a peaking to slowly easing S swell. Just be sure to work around the de
- ep high tide in the morning. 
+DESCRIPTION:Conditions look favorable at this point and the surf should re
+ main fun. Deep high tide again in the morning but the late morning to earl
+ y PM session holds promise. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241129T115400
 DTEND:20241129T145400
-DESCRIPTION:-2.983ft at 11:54\n-0.006ft at 14:54
+DESCRIPTION:Conditions look favorable at this point and the surf should re
+ main fun. Deep high tide again in the morning but the late morning to earl
+ y PM session holds promise. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -98,5 +92,11 @@ SUMMARY:OST
 DTSTART:20241210T093000
 DTEND:20241210T164200
 DESCRIPTION:-2.970ft at 09:30\n-2.960ft at 16:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241211T100600
+DTEND:20241211T164800
+DESCRIPTION:-2.965ft at 10:06\n-1.924ft at 16:48
 END:VEVENT
 END:VCALENDAR
