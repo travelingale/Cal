@@ -3,41 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241126T104200
-DTEND:20241126T164800
-DESCRIPTION:Conditions look favorable at this point and the surf should re
- main fun. Deep high tide again in the morning but the late morning to earl
- y PM session holds promise. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241127T110600
 DTEND:20241127T164800
-DESCRIPTION:Conditions look favorable at this point and the surf should re
- main fun. Deep high tide again in the morning but the late morning to earl
- y PM session holds promise. 
+DESCRIPTION:Confidence is slowly growing this will be a good day of surf a
+ nd one you'll want to keep an eye on. Wind should be favorable\, weather c
+ ould be great and surf may build as new\, long period WNW swell fills in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241128T113000
 DTEND:20241128T164800
-DESCRIPTION:Conditions look favorable at this point and the surf should re
- main fun. Deep high tide again in the morning but the late morning to earl
- y PM session holds promise. 
+DESCRIPTION:Confidence is slowly growing this will be a good day of surf a
+ nd one you'll want to keep an eye on. Wind should be favorable\, weather c
+ ould be great and surf may build as new\, long period WNW swell fills in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241129T115400
 DTEND:20241129T145400
-DESCRIPTION:Conditions look favorable at this point and the surf should re
- main fun. Deep high tide again in the morning but the late morning to earl
- y PM session holds promise. 
+DESCRIPTION:Confidence is slowly growing this will be a good day of surf a
+ nd one you'll want to keep an eye on. Wind should be favorable\, weather c
+ ould be great and surf may build as new\, long period WNW swell fills in. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241130T122400
 DTEND:20241130T150000
-DESCRIPTION:-2.990ft at 12:24\n-0.053ft at 15:00
+DESCRIPTION:Confidence is slowly growing this will be a good day of surf a
+ nd one you'll want to keep an eye on. Wind should be favorable\, weather c
+ ould be great and surf may build as new\, long period WNW swell fills in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -98,5 +92,17 @@ SUMMARY:OST
 DTSTART:20241211T100600
 DTEND:20241211T164800
 DESCRIPTION:-2.965ft at 10:06\n-1.924ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241212T104800
+DTEND:20241212T130000
+DESCRIPTION:-2.893ft at 10:48\n-0.015ft at 13:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241212T161200
+DTEND:20241212T164800
+DESCRIPTION:-0.074ft at 16:12\n-0.627ft at 16:48
 END:VEVENT
 END:VCALENDAR
