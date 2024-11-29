@@ -3,41 +3,31 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241128T113000
-DTEND:20241128T164800
-DESCRIPTION:Day to watch for high quality and good surf. Decent to good od
- ds for favorable wind (light offshore under high pressure). Long period NW
-  swell continues.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241129T115400
 DTEND:20241129T145400
-DESCRIPTION:Day to watch for high quality and good surf. Decent to good od
- ds for favorable wind (light offshore under high pressure). Long period NW
-  swell continues.
+DESCRIPTION:Size down a notch or two\, but fun leftovers on tap. Condition
+ s remain clean\, best early with the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241130T122400
 DTEND:20241130T150000
-DESCRIPTION:Day to watch for high quality and good surf. Decent to good od
- ds for favorable wind (light offshore under high pressure). Long period NW
-  swell continues.
+DESCRIPTION:Size down a notch or two\, but fun leftovers on tap. Condition
+ s remain clean\, best early with the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241201T130000
 DTEND:20241201T152400
-DESCRIPTION:Day to watch for high quality and good surf. Decent to good od
- ds for favorable wind (light offshore under high pressure). Long period NW
-  swell continues.
+DESCRIPTION:Size down a notch or two\, but fun leftovers on tap. Condition
+ s remain clean\, best early with the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241202T133600
 DTEND:20241202T160000
-DESCRIPTION:-2.911ft at 13:36\n-0.025ft at 16:00
+DESCRIPTION:Size down a notch or two\, but fun leftovers on tap. Condition
+ s remain clean\, best early with the incoming tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -104,5 +94,11 @@ SUMMARY:OST
 DTSTART:20241213T113000
 DTEND:20241213T131800
 DESCRIPTION:-2.872ft at 11:30\n-0.115ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241214T121200
+DTEND:20241214T135400
+DESCRIPTION:-2.898ft at 12:12\n-0.127ft at 13:54
 END:VEVENT
 END:VCALENDAR
