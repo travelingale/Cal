@@ -3,47 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241201T130000
-DTEND:20241201T152400
-DESCRIPTION:The surf will be groomed and sorta fun early at S Hemi magnets
- . Afternoon session worth a look as wind stays light and new\, long-period
-  WNW swell fills in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20241202T133600
-DTEND:20241202T160000
-DESCRIPTION:The surf will be groomed and sorta fun early at S Hemi magnets
- . Afternoon session worth a look as wind stays light and new\, long-period
-  WNW swell fills in.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241203T141200
 DTEND:20241203T163600
-DESCRIPTION:The surf will be groomed and sorta fun early at S Hemi magnets
- . Afternoon session worth a look as wind stays light and new\, long-period
-  WNW swell fills in.
+DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
+ ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
+ mixes in. Conditions\, once again\, may be favorable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241204T145400
 DTEND:20241204T164800
-DESCRIPTION:The surf will be groomed and sorta fun early at S Hemi magnets
- . Afternoon session worth a look as wind stays light and new\, long-period
-  WNW swell fills in.
+DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
+ ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
+ mixes in. Conditions\, once again\, may be favorable.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241205T153600
 DTEND:20241205T164800
-DESCRIPTION:-2.964ft at 15:36\n-1.540ft at 16:48
+DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
+ ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
+ mixes in. Conditions\, once again\, may be favorable.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241206T162400
 DTEND:20241206T164800
-DESCRIPTION:-2.931ft at 16:24\n-2.502ft at 16:48
+DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
+ ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
+ mixes in. Conditions\, once again\, may be favorable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -104,5 +92,17 @@ SUMMARY:OST
 DTSTART:20241216T134200
 DTEND:20241216T153000
 DESCRIPTION:-2.841ft at 13:42\n-0.047ft at 15:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241217T142400
+DTEND:20241217T162400
+DESCRIPTION:-2.886ft at 14:24\n-0.045ft at 16:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241218T150600
+DTEND:20241218T164800
+DESCRIPTION:-2.896ft at 15:06\n-0.673ft at 16:48
 END:VEVENT
 END:VCALENDAR
