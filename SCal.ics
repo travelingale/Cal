@@ -3,41 +3,24 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241203T141200
-DTEND:20241203T163600
-DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
- ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
- mixes in. Conditions\, once again\, may be favorable.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20241204T145400
-DTEND:20241204T164800
-DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
- ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
- mixes in. Conditions\, once again\, may be favorable.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241205T153600
 DTEND:20241205T164800
-DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
- ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
- mixes in. Conditions\, once again\, may be favorable.
+DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
+  Wind will be offshore in morning as tide drops too.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241206T162400
 DTEND:20241206T164800
-DESCRIPTION:At this point\, Saturday is looking to be very similar to Frid
- ay. Decent size WNW swell remains elevated\, while modest/easing SW swell 
- mixes in. Conditions\, once again\, may be favorable.
+DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
+  Wind will be offshore in morning as tide drops too.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241208T084200
 DTEND:20241208T121200
-DESCRIPTION:-2.988ft at 08:42\n-2.985ft at 12:12
+DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
+  Wind will be offshore in morning as tide drops too.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -104,5 +87,17 @@ SUMMARY:OST
 DTSTART:20241218T150600
 DTEND:20241218T164800
 DESCRIPTION:-2.896ft at 15:06\n-0.673ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241219T154200
+DTEND:20241219T165400
+DESCRIPTION:-2.989ft at 15:42\n-1.600ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241220T162400
+DTEND:20241220T165400
+DESCRIPTION:-2.928ft at 16:24\n-2.458ft at 16:54
 END:VEVENT
 END:VCALENDAR
