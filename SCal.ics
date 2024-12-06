@@ -3,30 +3,24 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241205T153600
-DTEND:20241205T164800
-DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
-  Wind will be offshore in morning as tide drops too.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241206T162400
 DTEND:20241206T164800
-DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
-  Wind will be offshore in morning as tide drops too.
+DESCRIPTION:Potential great day to target if not into solid surf. Dropping
+  tide\, easing WNW swell and favorable wind through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241208T084200
 DTEND:20241208T121200
-DESCRIPTION:Potential for solid start to the week as fresh NW swell shows.
-  Wind will be offshore in morning as tide drops too.
+DESCRIPTION:Potential great day to target if not into solid surf. Dropping
+  tide\, easing WNW swell and favorable wind through the morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241209T090000
 DTEND:20241209T144800
-DESCRIPTION:-2.972ft at 09:00\n-2.967ft at 14:48
+DESCRIPTION:Potential great day to target if not into solid surf. Dropping
+  tide\, easing WNW swell and favorable wind through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -99,5 +93,11 @@ SUMMARY:OST
 DTSTART:20241220T162400
 DTEND:20241220T165400
 DESCRIPTION:-2.928ft at 16:24\n-2.458ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241221T081200
+DTEND:20241221T102400
+DESCRIPTION:-2.982ft at 08:12\n-2.979ft at 10:24
 END:VEVENT
 END:VCALENDAR
