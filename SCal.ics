@@ -3,30 +3,24 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241206T162400
-DTEND:20241206T164800
-DESCRIPTION:Potential great day to target if not into solid surf. Dropping
-  tide\, easing WNW swell and favorable wind through the morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241208T084200
 DTEND:20241208T121200
-DESCRIPTION:Potential great day to target if not into solid surf. Dropping
-  tide\, easing WNW swell and favorable wind through the morning.
+DESCRIPTION:Day to target. High quality surf expected by late morning as t
+ ide drops\, wind remains offshore and long-period tops out.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241209T090000
 DTEND:20241209T144800
-DESCRIPTION:Potential great day to target if not into solid surf. Dropping
-  tide\, easing WNW swell and favorable wind through the morning.
+DESCRIPTION:Day to target. High quality surf expected by late morning as t
+ ide drops\, wind remains offshore and long-period tops out.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241210T093000
 DTEND:20241210T164200
-DESCRIPTION:-2.970ft at 09:30\n-2.960ft at 16:42
+DESCRIPTION:Day to target. High quality surf expected by late morning as t
+ ide drops\, wind remains offshore and long-period tops out.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -99,5 +93,11 @@ SUMMARY:OST
 DTSTART:20241221T081200
 DTEND:20241221T102400
 DESCRIPTION:-2.982ft at 08:12\n-2.979ft at 10:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241222T083000
+DTEND:20241222T131800
+DESCRIPTION:-2.999ft at 08:30\n-2.993ft at 13:18
 END:VEVENT
 END:VCALENDAR
