@@ -3,47 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241208T084200
-DTEND:20241208T121200
-DESCRIPTION:Day to target. Expect good size in the morning as swell linger
- s. Conditions remain groomed/offshore\, and shape only improves as tide dr
- ops through the morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241209T090000
 DTEND:20241209T144800
-DESCRIPTION:Day to target. Expect good size in the morning as swell linger
- s. Conditions remain groomed/offshore\, and shape only improves as tide dr
- ops through the morning.
+DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
+ er\, wind/weather look dicey from low pressure approaching the region. May
+  see onshore flow\, rain at some point through the day -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241210T093000
 DTEND:20241210T164200
-DESCRIPTION:Day to target. Expect good size in the morning as swell linger
- s. Conditions remain groomed/offshore\, and shape only improves as tide dr
- ops through the morning.
+DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
+ er\, wind/weather look dicey from low pressure approaching the region. May
+  see onshore flow\, rain at some point through the day -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241211T100600
 DTEND:20241211T164800
-DESCRIPTION:Day to target. Expect good size in the morning as swell linger
- s. Conditions remain groomed/offshore\, and shape only improves as tide dr
- ops through the morning.
+DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
+ er\, wind/weather look dicey from low pressure approaching the region. May
+  see onshore flow\, rain at some point through the day -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241212T104800
 DTEND:20241212T130000
-DESCRIPTION:-2.893ft at 10:48\n-0.015ft at 13:00
+DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
+ er\, wind/weather look dicey from low pressure approaching the region. May
+  see onshore flow\, rain at some point through the day -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241212T161200
 DTEND:20241212T164800
-DESCRIPTION:-0.074ft at 16:12\n-0.627ft at 16:48
+DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
+ er\, wind/weather look dicey from low pressure approaching the region. May
+  see onshore flow\, rain at some point through the day -- stay tuned.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +106,11 @@ SUMMARY:OST
 DTSTART:20241223T090000
 DTEND:20241223T160000
 DESCRIPTION:-2.959ft at 09:00\n-2.982ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241224T092400
+DTEND:20241224T165400
+DESCRIPTION:-2.991ft at 09:24\n-2.710ft at 16:54
 END:VEVENT
 END:VCALENDAR
