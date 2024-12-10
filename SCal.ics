@@ -3,49 +3,38 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241209T090000
-DTEND:20241209T144800
-DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
- er\, wind/weather look dicey from low pressure approaching the region. May
-  see onshore flow\, rain at some point through the day -- stay tuned.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241210T093000
 DTEND:20241210T164200
-DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
- er\, wind/weather look dicey from low pressure approaching the region. May
-  see onshore flow\, rain at some point through the day -- stay tuned.
+DESCRIPTION:Conditions remain a wildcard\, and look dicey at the moment. P
+ otential bigger swell through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241211T100600
 DTEND:20241211T164800
-DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
- er\, wind/weather look dicey from low pressure approaching the region. May
-  see onshore flow\, rain at some point through the day -- stay tuned.
+DESCRIPTION:Conditions remain a wildcard\, and look dicey at the moment. P
+ otential bigger swell through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241212T104800
 DTEND:20241212T130000
-DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
- er\, wind/weather look dicey from low pressure approaching the region. May
-  see onshore flow\, rain at some point through the day -- stay tuned.
+DESCRIPTION:Conditions remain a wildcard\, and look dicey at the moment. P
+ otential bigger swell through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241212T161200
 DTEND:20241212T164800
-DESCRIPTION:Next long-period swell moves in\, keeps the surf solid\, howev
- er\, wind/weather look dicey from low pressure approaching the region. May
-  see onshore flow\, rain at some point through the day -- stay tuned.
+DESCRIPTION:Conditions remain a wildcard\, and look dicey at the moment. P
+ otential bigger swell through the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241213T113000
 DTEND:20241213T131800
-DESCRIPTION:-2.872ft at 11:30\n-0.115ft at 13:18
+DESCRIPTION:Conditions remain a wildcard\, and look dicey at the moment. P
+ otential bigger swell through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -112,5 +101,11 @@ SUMMARY:OST
 DTSTART:20241224T092400
 DTEND:20241224T165400
 DESCRIPTION:-2.991ft at 09:24\n-2.710ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241225T095400
+DTEND:20241225T165400
+DESCRIPTION:-2.965ft at 09:54\n-2.131ft at 16:54
 END:VEVENT
 END:VCALENDAR
