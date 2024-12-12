@@ -3,44 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241211T100600
-DTEND:20241211T164800
-DESCRIPTION:Perhaps a bit raw/jumbled\, yet wind improves for spots in tow
- n. Solid WNW swell eases through the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241212T104800
 DTEND:20241212T130000
-DESCRIPTION:Perhaps a bit raw/jumbled\, yet wind improves for spots in tow
- n. Solid WNW swell eases through the day.
+DESCRIPTION:Low confidence day at this point with potential for a decent w
+ indow. Frontal system in the area makes for shifty wind\, but recent model
+  guidance has trended more favorably on conditions.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241212T161200
 DTEND:20241212T164800
-DESCRIPTION:Perhaps a bit raw/jumbled\, yet wind improves for spots in tow
- n. Solid WNW swell eases through the day.
+DESCRIPTION:Low confidence day at this point with potential for a decent w
+ indow. Frontal system in the area makes for shifty wind\, but recent model
+  guidance has trended more favorably on conditions.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241213T113000
 DTEND:20241213T131800
-DESCRIPTION:Perhaps a bit raw/jumbled\, yet wind improves for spots in tow
- n. Solid WNW swell eases through the day.
+DESCRIPTION:Low confidence day at this point with potential for a decent w
+ indow. Frontal system in the area makes for shifty wind\, but recent model
+  guidance has trended more favorably on conditions.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241214T121200
 DTEND:20241214T135400
-DESCRIPTION:Perhaps a bit raw/jumbled\, yet wind improves for spots in tow
- n. Solid WNW swell eases through the day.
+DESCRIPTION:Low confidence day at this point with potential for a decent w
+ indow. Frontal system in the area makes for shifty wind\, but recent model
+  guidance has trended more favorably on conditions.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241215T125400
 DTEND:20241215T144200
-DESCRIPTION:-2.952ft at 12:54\n-0.026ft at 14:42
+DESCRIPTION:Low confidence day at this point with potential for a decent w
+ indow. Frontal system in the area makes for shifty wind\, but recent model
+  guidance has trended more favorably on conditions.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -107,5 +106,17 @@ SUMMARY:OST
 DTSTART:20241226T102400
 DTEND:20241226T165400
 DESCRIPTION:-2.959ft at 10:24\n-1.437ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241227T105400
+DTEND:20241227T141200
+DESCRIPTION:-2.986ft at 10:54\n-0.000ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241227T153600
+DTEND:20241227T165400
+DESCRIPTION:-0.004ft at 15:36\n-0.700ft at 16:54
 END:VEVENT
 END:VCALENDAR
