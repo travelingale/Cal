@@ -3,49 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241212T104800
-DTEND:20241212T130000
-DESCRIPTION:Low confidence day at this point with potential for a decent w
- indow. Frontal system in the area makes for shifty wind\, but recent model
-  guidance has trended more favorably on conditions.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20241212T161200
-DTEND:20241212T164800
-DESCRIPTION:Low confidence day at this point with potential for a decent w
- indow. Frontal system in the area makes for shifty wind\, but recent model
-  guidance has trended more favorably on conditions.\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241213T113000
 DTEND:20241213T131800
-DESCRIPTION:Low confidence day at this point with potential for a decent w
- indow. Frontal system in the area makes for shifty wind\, but recent model
-  guidance has trended more favorably on conditions.\n
+DESCRIPTION:Another low confidence day\, but better odds at a cleanup as t
+ he front moves off. Surf would likely still be big and jumbled but worth k
+ eeping an eye on as spots in town would be alright.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241214T121200
 DTEND:20241214T135400
-DESCRIPTION:Low confidence day at this point with potential for a decent w
- indow. Frontal system in the area makes for shifty wind\, but recent model
-  guidance has trended more favorably on conditions.\n
+DESCRIPTION:Another low confidence day\, but better odds at a cleanup as t
+ he front moves off. Surf would likely still be big and jumbled but worth k
+ eeping an eye on as spots in town would be alright.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241215T125400
 DTEND:20241215T144200
-DESCRIPTION:Low confidence day at this point with potential for a decent w
- indow. Frontal system in the area makes for shifty wind\, but recent model
-  guidance has trended more favorably on conditions.\n
+DESCRIPTION:Another low confidence day\, but better odds at a cleanup as t
+ he front moves off. Surf would likely still be big and jumbled but worth k
+ eeping an eye on as spots in town would be alright.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241216T134200
 DTEND:20241216T153000
-DESCRIPTION:-2.841ft at 13:42\n-0.047ft at 15:30
+DESCRIPTION:Another low confidence day\, but better odds at a cleanup as t
+ he front moves off. Surf would likely still be big and jumbled but worth k
+ eeping an eye on as spots in town would be alright.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -118,5 +104,11 @@ SUMMARY:OST
 DTSTART:20241227T153600
 DTEND:20241227T165400
 DESCRIPTION:-0.004ft at 15:36\n-0.700ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241228T113000
+DTEND:20241228T140600
+DESCRIPTION:-2.928ft at 11:30\n-0.024ft at 14:06
 END:VEVENT
 END:VCALENDAR
