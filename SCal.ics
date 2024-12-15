@@ -3,45 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241214T121200
-DTEND:20241214T135400
-DESCRIPTION:Day to watch. WNW swell is on the way down\, becoming more app
- roachable in size and winds look pretty good. Light\, favorable wind I the
-  forecast all day at this point -- the midday high tide is the one red fla
- g. \n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241215T125400
 DTEND:20241215T144200
-DESCRIPTION:Day to watch. WNW swell is on the way down\, becoming more app
- roachable in size and winds look pretty good. Light\, favorable wind I the
-  forecast all day at this point -- the midday high tide is the one red fla
- g. \n
+DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
+ rovides a solid day of waves. Good day to target if that's what you're aft
+ er...we're expecting more large surf on the horizon.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241216T134200
 DTEND:20241216T153000
-DESCRIPTION:Day to watch. WNW swell is on the way down\, becoming more app
- roachable in size and winds look pretty good. Light\, favorable wind I the
-  forecast all day at this point -- the midday high tide is the one red fla
- g. \n
+DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
+ rovides a solid day of waves. Good day to target if that's what you're aft
+ er...we're expecting more large surf on the horizon.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241217T142400
 DTEND:20241217T162400
-DESCRIPTION:Day to watch. WNW swell is on the way down\, becoming more app
- roachable in size and winds look pretty good. Light\, favorable wind I the
-  forecast all day at this point -- the midday high tide is the one red fla
- g. \n
+DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
+ rovides a solid day of waves. Good day to target if that's what you're aft
+ er...we're expecting more large surf on the horizon.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241218T150600
 DTEND:20241218T164800
-DESCRIPTION:-2.896ft at 15:06\n-0.673ft at 16:48
+DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
+ rovides a solid day of waves. Good day to target if that's what you're aft
+ er...we're expecting more large surf on the horizon.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -114,5 +104,11 @@ SUMMARY:OST
 DTSTART:20241229T120600
 DTEND:20241229T142400
 DESCRIPTION:-2.901ft at 12:06\n-0.030ft at 14:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241230T124200
+DTEND:20241230T144800
+DESCRIPTION:-2.908ft at 12:42\n-0.083ft at 14:48
 END:VEVENT
 END:VCALENDAR
