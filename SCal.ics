@@ -3,41 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241215T125400
-DTEND:20241215T144200
-DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
- rovides a solid day of waves. Good day to target if that's what you're aft
- er...we're expecting more large surf on the horizon.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241216T134200
 DTEND:20241216T153000
-DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
- rovides a solid day of waves. Good day to target if that's what you're aft
- er...we're expecting more large surf on the horizon.\n\n
+DESCRIPTION:More approachable size than the past few days and winds still 
+ look good. One to aim for if it's been too big lately\, just mind the earl
+ y afternoon high tide.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241217T142400
 DTEND:20241217T162400
-DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
- rovides a solid day of waves. Good day to target if that's what you're aft
- er...we're expecting more large surf on the horizon.\n\n
+DESCRIPTION:More approachable size than the past few days and winds still 
+ look good. One to aim for if it's been too big lately\, just mind the earl
+ y afternoon high tide.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241218T150600
 DTEND:20241218T164800
-DESCRIPTION:Another one to watch. Conditions look good and new WNW swell p
- rovides a solid day of waves. Good day to target if that's what you're aft
- er...we're expecting more large surf on the horizon.\n\n
+DESCRIPTION:More approachable size than the past few days and winds still 
+ look good. One to aim for if it's been too big lately\, just mind the earl
+ y afternoon high tide.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241219T154200
 DTEND:20241219T165400
-DESCRIPTION:-2.989ft at 15:42\n-1.600ft at 16:54
+DESCRIPTION:More approachable size than the past few days and winds still 
+ look good. One to aim for if it's been too big lately\, just mind the earl
+ y afternoon high tide.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +104,11 @@ SUMMARY:OST
 DTSTART:20241230T124200
 DTEND:20241230T144800
 DESCRIPTION:-2.908ft at 12:42\n-0.083ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20241231T131800
+DTEND:20241231T152400
+DESCRIPTION:-2.945ft at 13:18\n-0.036ft at 15:24
 END:VEVENT
 END:VCALENDAR
