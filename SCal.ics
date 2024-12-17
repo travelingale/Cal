@@ -3,41 +3,31 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241216T134200
-DTEND:20241216T153000
-DESCRIPTION:More approachable size than the past few days and winds still 
- look good. One to aim for if it's been too big lately\, just mind the earl
- y afternoon high tide.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241217T142400
 DTEND:20241217T162400
-DESCRIPTION:More approachable size than the past few days and winds still 
- look good. One to aim for if it's been too big lately\, just mind the earl
- y afternoon high tide.\n\n
+DESCRIPTION:Wind looking dicey most of the day -- stay tuned. Looking for 
+ fresh\, solid WNW swell to rise through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241218T150600
 DTEND:20241218T164800
-DESCRIPTION:More approachable size than the past few days and winds still 
- look good. One to aim for if it's been too big lately\, just mind the earl
- y afternoon high tide.\n\n
+DESCRIPTION:Wind looking dicey most of the day -- stay tuned. Looking for 
+ fresh\, solid WNW swell to rise through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241219T154200
 DTEND:20241219T165400
-DESCRIPTION:More approachable size than the past few days and winds still 
- look good. One to aim for if it's been too big lately\, just mind the earl
- y afternoon high tide.\n\n
+DESCRIPTION:Wind looking dicey most of the day -- stay tuned. Looking for 
+ fresh\, solid WNW swell to rise through the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241220T162400
 DTEND:20241220T165400
-DESCRIPTION:-2.928ft at 16:24\n-2.458ft at 16:54
+DESCRIPTION:Wind looking dicey most of the day -- stay tuned. Looking for 
+ fresh\, solid WNW swell to rise through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -110,5 +100,11 @@ SUMMARY:OST
 DTSTART:20241231T131800
 DTEND:20241231T152400
 DESCRIPTION:-2.945ft at 13:18\n-0.036ft at 15:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250101T135400
+DTEND:20250101T160000
+DESCRIPTION:-2.990ft at 13:54\n-0.050ft at 16:00
 END:VEVENT
 END:VCALENDAR
