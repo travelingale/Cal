@@ -3,37 +3,31 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241219T154200
-DTEND:20241219T165400
-DESCRIPTION:Day to watch (big wave gurus). Potential XL swell slams the co
- ast. Wind looks dicey at this point. Stay tuned.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241220T162400
 DTEND:20241220T165400
-DESCRIPTION:Day to watch (big wave gurus). Potential XL swell slams the co
- ast. Wind looks dicey at this point. Stay tuned.
+DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
+ n but still large and in charge out there. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241221T081200
 DTEND:20241221T102400
-DESCRIPTION:Day to watch (big wave gurus). Potential XL swell slams the co
- ast. Wind looks dicey at this point. Stay tuned.
+DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
+ n but still large and in charge out there. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241222T083000
 DTEND:20241222T131800
-DESCRIPTION:Day to watch (big wave gurus). Potential XL swell slams the co
- ast. Wind looks dicey at this point. Stay tuned.
+DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
+ n but still large and in charge out there. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241223T090000
 DTEND:20241223T160000
-DESCRIPTION:-2.959ft at 09:00\n-2.982ft at 16:00
+DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
+ n but still large and in charge out there. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -106,5 +100,17 @@ SUMMARY:OST
 DTSTART:20250103T151200
 DTEND:20250103T170000
 DESCRIPTION:-2.982ft at 15:12\n-0.745ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250104T072400
+DTEND:20250104T084800
+DESCRIPTION:-2.623ft at 07:24\n-2.990ft at 08:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250104T155400
+DTEND:20250104T170000
+DESCRIPTION:-2.941ft at 15:54\n-1.752ft at 17:00
 END:VEVENT
 END:VCALENDAR
