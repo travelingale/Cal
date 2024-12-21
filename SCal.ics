@@ -3,37 +3,35 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241220T162400
-DTEND:20241220T165400
-DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
- n but still large and in charge out there. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241221T081200
 DTEND:20241221T102400
-DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
- n but still large and in charge out there. 
+DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
+ led/raw overall. A handful of spots may start to come back into play as ov
+ erall size comes down.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241222T083000
 DTEND:20241222T131800
-DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
- n but still large and in charge out there. 
+DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
+ led/raw overall. A handful of spots may start to come back into play as ov
+ erall size comes down.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241223T090000
 DTEND:20241223T160000
-DESCRIPTION:Potential breezy onshore wind all day. Top end size coming dow
- n but still large and in charge out there. 
+DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
+ led/raw overall. A handful of spots may start to come back into play as ov
+ erall size comes down.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241224T092400
 DTEND:20241224T165400
-DESCRIPTION:-2.991ft at 09:24\n-2.710ft at 16:54
+DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
+ led/raw overall. A handful of spots may start to come back into play as ov
+ erall size comes down.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -112,5 +110,17 @@ SUMMARY:OST
 DTSTART:20250104T155400
 DTEND:20250104T170000
 DESCRIPTION:-2.941ft at 15:54\n-1.752ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250105T072400
+DTEND:20250105T105400
+DESCRIPTION:-2.517ft at 07:24\n-2.982ft at 10:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250105T163600
+DTEND:20250105T170000
+DESCRIPTION:-2.935ft at 16:36\n-2.611ft at 17:00
 END:VEVENT
 END:VCALENDAR
