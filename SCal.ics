@@ -3,41 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241221T081200
-DTEND:20241221T102400
-DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
- led/raw overall. A handful of spots may start to come back into play as ov
- erall size comes down.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241222T083000
 DTEND:20241222T131800
-DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
- led/raw overall. A handful of spots may start to come back into play as ov
- erall size comes down.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241223T090000
 DTEND:20241223T160000
-DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
- led/raw overall. A handful of spots may start to come back into play as ov
- erall size comes down.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241224T092400
 DTEND:20241224T165400
-DESCRIPTION:Wind looks a lot lighter\, although it'll likely be a bit jumb
- led/raw overall. A handful of spots may start to come back into play as ov
- erall size comes down.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241225T095400
 DTEND:20241225T165400
-DESCRIPTION:-2.965ft at 09:54\n-2.131ft at 16:54
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -122,5 +108,11 @@ SUMMARY:OST
 DTSTART:20250105T163600
 DTEND:20250105T170000
 DESCRIPTION:-2.935ft at 16:36\n-2.611ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250106T072400
+DTEND:20250106T133000
+DESCRIPTION:-2.844ft at 07:24\n-2.965ft at 13:30
 END:VEVENT
 END:VCALENDAR
