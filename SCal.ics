@@ -3,44 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241225T095400
-DTEND:20241225T165400
-DESCRIPTION:Surf remains solid\, but there may be some lump and bump runni
- ng through the lineup. Stay tuned.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241226T102400
 DTEND:20241226T165400
-DESCRIPTION:Surf remains solid\, but there may be some lump and bump runni
- ng through the lineup. Stay tuned.
+DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
+ two from weekend. Northerly wind kicks up along coast so town will be nice
+  and groomed. Best window will be dropping tide midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241227T105400
 DTEND:20241227T141200
-DESCRIPTION:Surf remains solid\, but there may be some lump and bump runni
- ng through the lineup. Stay tuned.
+DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
+ two from weekend. Northerly wind kicks up along coast so town will be nice
+  and groomed. Best window will be dropping tide midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241227T153600
 DTEND:20241227T165400
-DESCRIPTION:Surf remains solid\, but there may be some lump and bump runni
- ng through the lineup. Stay tuned.
+DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
+ two from weekend. Northerly wind kicks up along coast so town will be nice
+  and groomed. Best window will be dropping tide midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241228T113000
 DTEND:20241228T140600
-DESCRIPTION:Surf remains solid\, but there may be some lump and bump runni
- ng through the lineup. Stay tuned.
+DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
+ two from weekend. Northerly wind kicks up along coast so town will be nice
+  and groomed. Best window will be dropping tide midday.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241229T120600
 DTEND:20241229T142400
-DESCRIPTION:-2.901ft at 12:06\n-0.030ft at 14:24
+DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
+ two from weekend. Northerly wind kicks up along coast so town will be nice
+  and groomed. Best window will be dropping tide midday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -125,5 +124,17 @@ SUMMARY:OST
 DTSTART:20250109T150000
 DTEND:20250109T170600
 DESCRIPTION:-0.039ft at 15:00\n-1.748ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250110T102400
+DTEND:20250110T123600
+DESCRIPTION:-2.983ft at 10:24\n-0.027ft at 12:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250110T162400
+DTEND:20250110T170600
+DESCRIPTION:-0.018ft at 16:24\n-0.691ft at 17:06
 END:VEVENT
 END:VCALENDAR
