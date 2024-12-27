@@ -3,49 +3,33 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241226T102400
-DTEND:20241226T165400
-DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
- two from weekend. Northerly wind kicks up along coast so town will be nice
-  and groomed. Best window will be dropping tide midday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241227T105400
 DTEND:20241227T141200
-DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
- two from weekend. Northerly wind kicks up along coast so town will be nice
-  and groomed. Best window will be dropping tide midday.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241227T153600
 DTEND:20241227T165400
-DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
- two from weekend. Northerly wind kicks up along coast so town will be nice
-  and groomed. Best window will be dropping tide midday.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241228T113000
 DTEND:20241228T140600
-DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
- two from weekend. Northerly wind kicks up along coast so town will be nice
-  and groomed. Best window will be dropping tide midday.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241229T120600
 DTEND:20241229T142400
-DESCRIPTION:The surf will still be relatively solid\, yet down a notch or 
- two from weekend. Northerly wind kicks up along coast so town will be nice
-  and groomed. Best window will be dropping tide midday.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20241230T124200
 DTEND:20241230T144800
-DESCRIPTION:-2.908ft at 12:42\n-0.083ft at 14:48
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -136,5 +120,11 @@ SUMMARY:OST
 DTSTART:20250110T162400
 DTEND:20250110T170600
 DESCRIPTION:-0.018ft at 16:24\n-0.691ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250111T111200
+DTEND:20250111T131200
+DESCRIPTION:-2.951ft at 11:12\n-0.004ft at 13:12
 END:VEVENT
 END:VCALENDAR
