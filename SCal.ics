@@ -3,45 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241229T120600
-DTEND:20241229T142400
-DESCRIPTION:Promising day to keep tabs on. Not a big swell but classic\, s
- olid NW swell on tap. Biggest at the wintertime magnets but enough juice f
- or sheltered spots to get in on the action\, especially late in the day as
-  tide drains out. Stay tuned.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20241230T124200
 DTEND:20241230T144800
-DESCRIPTION:Promising day to keep tabs on. Not a big swell but classic\, s
- olid NW swell on tap. Biggest at the wintertime magnets but enough juice f
- or sheltered spots to get in on the action\, especially late in the day as
-  tide drains out. Stay tuned.
+DESCRIPTION:Thursday's NW swell will likely trend down but we may see the 
+ long period forerunners of the next NW swell slowly move in over the PM. R
+ ight now it looks like surf will be down at least a notch from Thursday. \
+ n\nConditions look favorable at this point with with either light or offsh
+ ore wind most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20241231T131800
 DTEND:20241231T152400
-DESCRIPTION:Promising day to keep tabs on. Not a big swell but classic\, s
- olid NW swell on tap. Biggest at the wintertime magnets but enough juice f
- or sheltered spots to get in on the action\, especially late in the day as
-  tide drains out. Stay tuned.
+DESCRIPTION:Thursday's NW swell will likely trend down but we may see the 
+ long period forerunners of the next NW swell slowly move in over the PM. R
+ ight now it looks like surf will be down at least a notch from Thursday. \
+ n\nConditions look favorable at this point with with either light or offsh
+ ore wind most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250101T135400
 DTEND:20250101T160000
-DESCRIPTION:Promising day to keep tabs on. Not a big swell but classic\, s
- olid NW swell on tap. Biggest at the wintertime magnets but enough juice f
- or sheltered spots to get in on the action\, especially late in the day as
-  tide drains out. Stay tuned.
+DESCRIPTION:Thursday's NW swell will likely trend down but we may see the 
+ long period forerunners of the next NW swell slowly move in over the PM. R
+ ight now it looks like surf will be down at least a notch from Thursday. \
+ n\nConditions look favorable at this point with with either light or offsh
+ ore wind most of the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250102T143600
 DTEND:20250102T164800
-DESCRIPTION:-2.909ft at 14:36\n-0.017ft at 16:48
+DESCRIPTION:Thursday's NW swell will likely trend down but we may see the 
+ long period forerunners of the next NW swell slowly move in over the PM. R
+ ight now it looks like surf will be down at least a notch from Thursday. \
+ n\nConditions look favorable at this point with with either light or offsh
+ ore wind most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -132,5 +130,11 @@ SUMMARY:OST
 DTSTART:20250113T124200
 DTEND:20250113T143600
 DESCRIPTION:-2.906ft at 12:42\n-0.015ft at 14:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250114T132400
+DTEND:20250114T151800
+DESCRIPTION:-2.870ft at 13:24\n-0.102ft at 15:18
 END:VEVENT
 END:VCALENDAR
