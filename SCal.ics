@@ -3,63 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20241231T131800
-DTEND:20241231T152400
-DESCRIPTION:New NW swell comes up through the morning and peaks in the aft
- ernoon\, providing solid waves all day long. Decent tide push in the morni
- ng\, getting a bit fat midday around the high tide. Afternoon window looks
-  good on the dropping tide with winds likely decent for spots in town.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250101T135400
-DTEND:20250101T160000
-DESCRIPTION:New NW swell comes up through the morning and peaks in the aft
- ernoon\, providing solid waves all day long. Decent tide push in the morni
- ng\, getting a bit fat midday around the high tide. Afternoon window looks
-  good on the dropping tide with winds likely decent for spots in town.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250102T143600
 DTEND:20250102T164800
-DESCRIPTION:New NW swell comes up through the morning and peaks in the aft
- ernoon\, providing solid waves all day long. Decent tide push in the morni
- ng\, getting a bit fat midday around the high tide. Afternoon window looks
-  good on the dropping tide with winds likely decent for spots in town.
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250103T151200
 DTEND:20250103T170000
-DESCRIPTION:New NW swell comes up through the morning and peaks in the aft
- ernoon\, providing solid waves all day long. Decent tide push in the morni
- ng\, getting a bit fat midday around the high tide. Afternoon window looks
-  good on the dropping tide with winds likely decent for spots in town.
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250104T072400
 DTEND:20250104T084800
-DESCRIPTION:-2.623ft at 07:24\n-2.990ft at 08:48
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250104T155400
 DTEND:20250104T170000
-DESCRIPTION:-2.941ft at 15:54\n-1.752ft at 17:00
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250105T072400
 DTEND:20250105T105400
-DESCRIPTION:-2.517ft at 07:24\n-2.982ft at 10:54
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250105T163600
 DTEND:20250105T170000
-DESCRIPTION:-2.935ft at 16:36\n-2.611ft at 17:00
+DESCRIPTION:Waves due to kick back up again as another solid\, long-period
+  WNW swell builds in. Nice incoming tide push later morning into the early
+  afternoon. Winds looking to remain light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -132,5 +120,23 @@ SUMMARY:OST
 DTSTART:20250115T140000
 DTEND:20250115T161200
 DESCRIPTION:-2.916ft at 14:00\n-0.025ft at 16:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250116T143600
+DTEND:20250116T171200
+DESCRIPTION:-2.893ft at 14:36\n-0.011ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250117T072400
+DTEND:20250117T080600
+DESCRIPTION:-2.646ft at 07:24\n-2.954ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250117T150600
+DTEND:20250117T171200
+DESCRIPTION:-2.934ft at 15:06\n-0.825ft at 17:12
 END:VEVENT
 END:VCALENDAR
