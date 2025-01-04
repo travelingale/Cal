@@ -3,51 +3,45 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250103T151200
-DTEND:20250103T170000
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250104T072400
 DTEND:20250104T084800
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250104T155400
 DTEND:20250104T170000
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250105T072400
 DTEND:20250105T105400
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250105T163600
 DTEND:20250105T170000
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250106T072400
 DTEND:20250106T133000
-DESCRIPTION:Slow easing but still punchy WNW swell\, showing strongest in 
- the morning. Winds looking favorable. 
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250107T080000
 DTEND:20250107T161800
-DESCRIPTION:-2.988ft at 08:00\n-2.981ft at 16:18
+DESCRIPTION:Healthy mix of WNW swell helps to hold up the surf. Favorable 
+ winds due through the day\, along with a fair tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -138,5 +132,17 @@ SUMMARY:OST
 DTSTART:20250118T153000
 DTEND:20250118T171800
 DESCRIPTION:-2.998ft at 15:30\n-1.526ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250119T072400
+DTEND:20250119T111200
+DESCRIPTION:-2.376ft at 07:24\n-2.977ft at 11:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250119T155400
+DTEND:20250119T171800
+DESCRIPTION:-2.978ft at 15:54\n-2.165ft at 17:18
 END:VEVENT
 END:VCALENDAR
