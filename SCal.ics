@@ -3,55 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250105T072400
-DTEND:20250105T105400
-DESCRIPTION:Gradually fading but still plenty of fun waves off easing WNW 
- swell\, showing most size in the AM. Winds looking light/favorable most of
-  the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250105T163600
-DTEND:20250105T170000
-DESCRIPTION:Gradually fading but still plenty of fun waves off easing WNW 
- swell\, showing most size in the AM. Winds looking light/favorable most of
-  the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250106T072400
 DTEND:20250106T133000
-DESCRIPTION:Gradually fading but still plenty of fun waves off easing WNW 
- swell\, showing most size in the AM. Winds looking light/favorable most of
-  the day. 
+DESCRIPTION:New WNW swell rolls in and adds some more size to the surf. Wi
+ nds staying on the light side. Dawn patrol slowed by the early AM high tid
+ e\, then shape improving on the ebbing tide most of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250107T080000
 DTEND:20250107T161800
-DESCRIPTION:Gradually fading but still plenty of fun waves off easing WNW 
- swell\, showing most size in the AM. Winds looking light/favorable most of
-  the day. 
+DESCRIPTION:New WNW swell rolls in and adds some more size to the surf. Wi
+ nds staying on the light side. Dawn patrol slowed by the early AM high tid
+ e\, then shape improving on the ebbing tide most of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250108T084800
 DTEND:20250108T170600
-DESCRIPTION:Gradually fading but still plenty of fun waves off easing WNW 
- swell\, showing most size in the AM. Winds looking light/favorable most of
-  the day. 
+DESCRIPTION:New WNW swell rolls in and adds some more size to the surf. Wi
+ nds staying on the light side. Dawn patrol slowed by the early AM high tid
+ e\, then shape improving on the ebbing tide most of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250109T093600
 DTEND:20250109T121200
-DESCRIPTION:-2.989ft at 09:36\n-0.065ft at 12:12
+DESCRIPTION:New WNW swell rolls in and adds some more size to the surf. Wi
+ nds staying on the light side. Dawn patrol slowed by the early AM high tid
+ e\, then shape improving on the ebbing tide most of the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250109T150000
 DTEND:20250109T170600
-DESCRIPTION:-0.039ft at 15:00\n-1.748ft at 17:06
+DESCRIPTION:New WNW swell rolls in and adds some more size to the surf. Wi
+ nds staying on the light side. Dawn patrol slowed by the early AM high tid
+ e\, then shape improving on the ebbing tide most of the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +136,11 @@ SUMMARY:OST
 DTSTART:20250120T154800
 DTEND:20250120T171800
 DESCRIPTION:-2.996ft at 15:48\n-2.582ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250121T073000
+DTEND:20250121T171800
+DESCRIPTION:-2.974ft at 07:30\n-2.739ft at 17:18
 END:VEVENT
 END:VCALENDAR
