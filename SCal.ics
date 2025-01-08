@@ -3,57 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250107T080000
-DTEND:20250107T161800
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250108T084800
 DTEND:20250108T170600
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250109T093600
 DTEND:20250109T121200
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250109T150000
 DTEND:20250109T170600
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250110T102400
 DTEND:20250110T123600
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250110T162400
 DTEND:20250110T170600
-DESCRIPTION:WNW swell peaks to add some more size for the morning. Favorab
- le winds due all day. Best to let the 6'+ dawn patrol high tide ebb out fo
- r a while. 
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250111T111200
 DTEND:20250111T131200
-DESCRIPTION:-2.951ft at 11:12\n-0.004ft at 13:12
+DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
+ ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
+ high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -144,5 +138,11 @@ SUMMARY:OST
 DTSTART:20250122T081200
 DTEND:20250122T171800
 DESCRIPTION:-2.999ft at 08:12\n-2.635ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250123T090000
+DTEND:20250123T171800
+DESCRIPTION:-2.929ft at 09:00\n-2.299ft at 17:18
 END:VEVENT
 END:VCALENDAR
