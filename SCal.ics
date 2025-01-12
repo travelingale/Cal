@@ -3,75 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250108T084800
-DTEND:20250108T170600
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250109T093600
-DTEND:20250109T121200
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250109T150000
-DTEND:20250109T170600
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250110T102400
-DTEND:20250110T123600
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250110T162400
-DTEND:20250110T170600
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250111T111200
-DTEND:20250111T131200
-DESCRIPTION:Surf winds down off fading but still fun WNW swell\, showing m
- ost size in the AM. Best winds in the AM\, but mind the 6'+ early morning 
- high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20250112T120000
 DTEND:20250112T134800
-DESCRIPTION:-2.875ft at 12:00\n-0.102ft at 13:48
+DESCRIPTION:WNW swell slowly eases for solid surf throughout the day. Ligh
+ t offshore NE wind for the first half of the day but an incoming tide -- h
+ it spots able to handle the extra water. Afternoon likely sees wind trend 
+ lightly onshore in town but conditions should still be pretty clean\, espe
+ cially at spots with some blockage/kelp protection.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250113T124200
 DTEND:20250113T143600
-DESCRIPTION:-2.906ft at 12:42\n-0.015ft at 14:36
+DESCRIPTION:WNW swell slowly eases for solid surf throughout the day. Ligh
+ t offshore NE wind for the first half of the day but an incoming tide -- h
+ it spots able to handle the extra water. Afternoon likely sees wind trend 
+ lightly onshore in town but conditions should still be pretty clean\, espe
+ cially at spots with some blockage/kelp protection.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250114T132400
 DTEND:20250114T151800
-DESCRIPTION:-2.870ft at 13:24\n-0.102ft at 15:18
+DESCRIPTION:WNW swell slowly eases for solid surf throughout the day. Ligh
+ t offshore NE wind for the first half of the day but an incoming tide -- h
+ it spots able to handle the extra water. Afternoon likely sees wind trend 
+ lightly onshore in town but conditions should still be pretty clean\, espe
+ cially at spots with some blockage/kelp protection.\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250115T140000
 DTEND:20250115T161200
-DESCRIPTION:-2.916ft at 14:00\n-0.025ft at 16:12
+DESCRIPTION:WNW swell slowly eases for solid surf throughout the day. Ligh
+ t offshore NE wind for the first half of the day but an incoming tide -- h
+ it spots able to handle the extra water. Afternoon likely sees wind trend 
+ lightly onshore in town but conditions should still be pretty clean\, espe
+ cially at spots with some blockage/kelp protection.\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -144,5 +112,41 @@ SUMMARY:OST
 DTSTART:20250123T090000
 DTEND:20250123T171800
 DESCRIPTION:-2.929ft at 09:00\n-2.299ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250124T094200
+DTEND:20250124T172400
+DESCRIPTION:-2.922ft at 09:42\n-1.843ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250125T102400
+DTEND:20250125T131800
+DESCRIPTION:-2.893ft at 10:24\n-0.039ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250125T154200
+DTEND:20250125T172400
+DESCRIPTION:-0.005ft at 15:42\n-1.197ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250126T110000
+DTEND:20250126T133000
+DESCRIPTION:-2.970ft at 11:00\n-0.010ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250126T165400
+DTEND:20250126T172400
+DESCRIPTION:-0.057ft at 16:54\n-0.473ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250127T114200
+DTEND:20250127T134800
+DESCRIPTION:-2.904ft at 11:42\n-0.078ft at 13:48
 END:VEVENT
 END:VCALENDAR
