@@ -3,51 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250113T124200
-DTEND:20250113T143600
-DESCRIPTION:Down in size from most of the week but still some decent waves
-  to track down. Wind looks light for the morning so a great day to watch i
- f you're after a little less size. Early tide push or later day low tide a
- re the best windows to target in town.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250114T132400
 DTEND:20250114T151800
-DESCRIPTION:Down in size from most of the week but still some decent waves
-  to track down. Wind looks light for the morning so a great day to watch i
- f you're after a little less size. Early tide push or later day low tide a
- re the best windows to target in town.
+DESCRIPTION:Mainly leftover NW swell mix through the morning to setup a pl
+ ayful window of surf before things get more serious again on Sunday. For n
+ ow the wind looks light in the morning. Front end of a strong\, long perio
+ d new WNW swell expected to build in through the end of the day. Should ge
+ t pretty good in town before sundown.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250115T140000
 DTEND:20250115T161200
-DESCRIPTION:Down in size from most of the week but still some decent waves
-  to track down. Wind looks light for the morning so a great day to watch i
- f you're after a little less size. Early tide push or later day low tide a
- re the best windows to target in town.
+DESCRIPTION:Mainly leftover NW swell mix through the morning to setup a pl
+ ayful window of surf before things get more serious again on Sunday. For n
+ ow the wind looks light in the morning. Front end of a strong\, long perio
+ d new WNW swell expected to build in through the end of the day. Should ge
+ t pretty good in town before sundown.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250116T143600
 DTEND:20250116T171200
-DESCRIPTION:Down in size from most of the week but still some decent waves
-  to track down. Wind looks light for the morning so a great day to watch i
- f you're after a little less size. Early tide push or later day low tide a
- re the best windows to target in town.
+DESCRIPTION:Mainly leftover NW swell mix through the morning to setup a pl
+ ayful window of surf before things get more serious again on Sunday. For n
+ ow the wind looks light in the morning. Front end of a strong\, long perio
+ d new WNW swell expected to build in through the end of the day. Should ge
+ t pretty good in town before sundown.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250117T072400
 DTEND:20250117T080600
-DESCRIPTION:-2.646ft at 07:24\n-2.954ft at 08:06
+DESCRIPTION:Mainly leftover NW swell mix through the morning to setup a pl
+ ayful window of surf before things get more serious again on Sunday. For n
+ ow the wind looks light in the morning. Front end of a strong\, long perio
+ d new WNW swell expected to build in through the end of the day. Should ge
+ t pretty good in town before sundown.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250117T150600
 DTEND:20250117T171200
-DESCRIPTION:-2.934ft at 15:06\n-0.825ft at 17:12
+DESCRIPTION:Mainly leftover NW swell mix through the morning to setup a pl
+ ayful window of surf before things get more serious again on Sunday. For n
+ ow the wind looks light in the morning. Front end of a strong\, long perio
+ d new WNW swell expected to build in through the end of the day. Should ge
+ t pretty good in town before sundown.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -144,5 +146,11 @@ SUMMARY:OST
 DTSTART:20250128T121800
 DTEND:20250128T141800
 DESCRIPTION:-2.970ft at 12:18\n-0.070ft at 14:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250129T130000
+DTEND:20250129T145400
+DESCRIPTION:-2.879ft at 13:00\n-0.061ft at 14:54
 END:VEVENT
 END:VCALENDAR
