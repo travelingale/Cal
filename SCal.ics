@@ -3,81 +3,73 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250115T140000
-DTEND:20250115T161200
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250116T143600
 DTEND:20250116T171200
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250117T072400
 DTEND:20250117T080600
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250117T150600
 DTEND:20250117T171200
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250118T072400
 DTEND:20250118T092400
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250118T153000
 DTEND:20250118T171800
-DESCRIPTION:The potent new WNW swell creeping in Saturday afternoon tops o
- ut for the regions focal points. With a very long period the best size is 
- going to be somewhat selective but there will be some leftover NW swell to
-  keep many breaks in play.\n\nThe wind and tide are in a good place for ma
- ny town spots all day. Could be a little lower tide for some spots to real
- ly turn on but there should be plenty of good options.
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250119T072400
 DTEND:20250119T111200
-DESCRIPTION:-2.376ft at 07:24\n-2.977ft at 11:12
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250119T155400
 DTEND:20250119T171800
-DESCRIPTION:-2.978ft at 15:54\n-2.165ft at 17:18
+DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
+ s the swell around more\, putting lots of spots in good waves\, showing mo
+ st size in the morning then gradually easing during the day. \n\nLight off
+ shores due most of the day for nice conditions. Mellow 3' high tide much o
+ f the afternoon is the most favorable for most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -162,5 +154,11 @@ SUMMARY:OST
 DTSTART:20250130T133600
 DTEND:20250130T153600
 DESCRIPTION:-2.944ft at 13:36\n-0.067ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250131T141800
+DTEND:20250131T163000
+DESCRIPTION:-2.864ft at 14:18\n-0.040ft at 16:30
 END:VEVENT
 END:VCALENDAR
