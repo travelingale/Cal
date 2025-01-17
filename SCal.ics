@@ -3,85 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250116T143600
-DTEND:20250116T171200
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250117T072400
 DTEND:20250117T080600
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250117T150600
 DTEND:20250117T171200
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250118T072400
 DTEND:20250118T092400
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250118T153000
 DTEND:20250118T171800
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250119T072400
 DTEND:20250119T111200
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250119T155400
 DTEND:20250119T171800
-DESCRIPTION:Dropping from Sunday's peak\, but the decreasing period spread
- s the swell around more\, putting lots of spots in good waves\, showing mo
- st size in the morning then gradually easing during the day. \n\nLight off
- shores due most of the day for nice conditions. Mellow 3' high tide much o
- f the afternoon is the most favorable for most spots.
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250120T071800
 DTEND:20250120T140000
-DESCRIPTION:-2.666ft at 07:18\n-2.984ft at 14:00
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250120T154800
 DTEND:20250120T171800
-DESCRIPTION:-2.996ft at 15:48\n-2.582ft at 17:18
+DESCRIPTION:Surf size holds fairly steady off a mix of old fading WNW swel
+ l and new WNW pulse. Winds looking light offshore in the AM and light onsh
+ ore SW in the PM. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -160,5 +142,17 @@ SUMMARY:OST
 DTSTART:20250131T141800
 DTEND:20250131T163000
 DESCRIPTION:-2.864ft at 14:18\n-0.040ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250201T071200
+DTEND:20250201T083000
+DESCRIPTION:-2.080ft at 07:12\n-2.993ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250201T145400
+DTEND:20250201T173000
+DESCRIPTION:-2.932ft at 14:54\n-0.195ft at 17:30
 END:VEVENT
 END:VCALENDAR
