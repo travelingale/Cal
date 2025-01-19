@@ -3,65 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250118T072400
-DTEND:20250118T092400
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250118T153000
-DTEND:20250118T171800
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250119T072400
 DTEND:20250119T111200
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250119T155400
 DTEND:20250119T171800
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250120T071800
 DTEND:20250120T140000
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250120T154800
 DTEND:20250120T171800
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250121T073000
 DTEND:20250121T171800
-DESCRIPTION:Waves wind down as old WNW swell tapers off\, little SSW swell
-  drops\, still fun surf\, showing most size in the AM. Light offshores due
-  in the morning\, and the most favorable tide will be in the early AM.
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250122T081200
 DTEND:20250122T171800
-DESCRIPTION:-2.999ft at 08:12\n-2.635ft at 17:18
+DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
+ swell leftovers most of the day. Possible new WNW swell starting to show i
+ n the afternoon for more fun zone waves..stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -152,5 +138,17 @@ SUMMARY:OST
 DTSTART:20250202T153000
 DTEND:20250202T173000
 DESCRIPTION:-2.980ft at 15:30\n-1.180ft at 17:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250203T071200
+DTEND:20250203T120000
+DESCRIPTION:-1.491ft at 07:12\n-2.956ft at 12:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250203T160600
+DTEND:20250203T173000
+DESCRIPTION:-2.999ft at 16:06\n-2.107ft at 17:30
 END:VEVENT
 END:VCALENDAR
