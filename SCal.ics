@@ -3,152 +3,200 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250119T072400
-DTEND:20250119T111200
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250221T075400
+DTEND:20250221T175400
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250119T155400
-DTEND:20250119T171800
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250222T084800
+DTEND:20250222T175400
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250120T071800
-DTEND:20250120T140000
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250223T094200
+DTEND:20250223T123600
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250120T154800
-DTEND:20250120T171800
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250223T151800
+DTEND:20250223T175400
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250121T073000
-DTEND:20250121T171800
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250224T102400
+DTEND:20250224T125400
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250122T081200
-DTEND:20250122T171800
-DESCRIPTION:Looking like the smallest day of the week with mainly old WNW 
- swell leftovers most of the day. Possible new WNW swell starting to show i
- n the afternoon for more fun zone waves..stay tuned. 
+DTSTART:20250224T161800
+DTEND:20250224T175400
+DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
+ erage spots in head high+ to easily overhead waves\, while top breaks hit 
+ double overhead+. Most spots see better shape after the dawn patrol high t
+ ide backs out for a while. Winds looking favorable through the day at this
+  point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250123T090000
-DTEND:20250123T171800
-DESCRIPTION:-2.929ft at 09:00\n-2.299ft at 17:18
+DTSTART:20250225T111200
+DTEND:20250225T131800
+DESCRIPTION:-2.872ft at 11:12\n-0.088ft at 13:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250124T094200
-DTEND:20250124T172400
-DESCRIPTION:-2.922ft at 09:42\n-1.843ft at 17:24
+DTSTART:20250225T170600
+DTEND:20250225T175400
+DESCRIPTION:-0.092ft at 17:06\n-0.938ft at 17:54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250125T102400
-DTEND:20250125T131800
-DESCRIPTION:-2.893ft at 10:24\n-0.039ft at 13:18
+DTSTART:20250226T115400
+DTEND:20250226T135400
+DESCRIPTION:-2.865ft at 11:54\n-0.068ft at 13:54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250125T154200
-DTEND:20250125T172400
-DESCRIPTION:-0.005ft at 15:42\n-1.197ft at 17:24
+DTSTART:20250227T123000
+DTEND:20250227T143600
+DESCRIPTION:-2.996ft at 12:30\n-0.079ft at 14:36
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250126T110000
-DTEND:20250126T133000
-DESCRIPTION:-2.970ft at 11:00\n-0.010ft at 13:30
+DTSTART:20250228T131200
+DTEND:20250228T153000
+DESCRIPTION:-2.975ft at 13:12\n-0.072ft at 15:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250126T165400
-DTEND:20250126T172400
-DESCRIPTION:-0.057ft at 16:54\n-0.473ft at 17:24
+DTSTART:20250301T064200
+DTEND:20250301T080000
+DESCRIPTION:-1.597ft at 06:42\n-2.929ft at 08:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250127T114200
-DTEND:20250127T134800
-DESCRIPTION:-2.904ft at 11:42\n-0.078ft at 13:48
+DTSTART:20250301T135400
+DTEND:20250301T171200
+DESCRIPTION:-2.964ft at 13:54\n-0.008ft at 17:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250128T121800
-DTEND:20250128T141800
-DESCRIPTION:-2.970ft at 12:18\n-0.070ft at 14:18
+DTSTART:20250301T173000
+DTEND:20250301T180000
+DESCRIPTION:-0.000ft at 17:30\n-0.115ft at 18:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250129T130000
-DTEND:20250129T145400
-DESCRIPTION:-2.879ft at 13:00\n-0.061ft at 14:54
+DTSTART:20250302T064200
+DTEND:20250302T091800
+DESCRIPTION:-0.655ft at 06:42\n-2.902ft at 09:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250130T133600
-DTEND:20250130T153600
-DESCRIPTION:-2.944ft at 13:36\n-0.067ft at 15:36
+DTSTART:20250302T143600
+DTEND:20250302T180000
+DESCRIPTION:-2.966ft at 14:36\n-0.636ft at 18:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250131T141800
-DTEND:20250131T163000
-DESCRIPTION:-2.864ft at 14:18\n-0.040ft at 16:30
+DTSTART:20250303T063600
+DTEND:20250303T105400
+DESCRIPTION:-0.291ft at 06:36\n-2.946ft at 10:54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250201T071200
-DTEND:20250201T083000
-DESCRIPTION:-2.080ft at 07:12\n-2.993ft at 08:30
+DTSTART:20250303T151800
+DTEND:20250303T180000
+DESCRIPTION:-2.983ft at 15:18\n-1.387ft at 18:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250201T145400
-DTEND:20250201T173000
-DESCRIPTION:-2.932ft at 14:54\n-0.195ft at 17:30
+DTSTART:20250304T063600
+DTEND:20250304T125400
+DESCRIPTION:-0.640ft at 06:36\n-2.966ft at 12:54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250202T071200
-DTEND:20250202T100000
-DESCRIPTION:-1.522ft at 07:12\n-2.952ft at 10:00
+DTSTART:20250304T160600
+DTEND:20250304T180000
+DESCRIPTION:-2.974ft at 16:06\n-2.186ft at 18:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250202T153000
-DTEND:20250202T173000
-DESCRIPTION:-2.980ft at 15:30\n-1.180ft at 17:30
+DTSTART:20250305T063600
+DTEND:20250305T090600
+DESCRIPTION:-1.561ft at 06:36\n-0.001ft at 09:06
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250203T071200
-DTEND:20250203T120000
-DESCRIPTION:-1.491ft at 07:12\n-2.956ft at 12:00
+DTSTART:20250305T094200
+DTEND:20250305T152400
+DESCRIPTION:-0.004ft at 09:42\n-2.995ft at 15:24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250203T160600
-DTEND:20250203T173000
-DESCRIPTION:-2.999ft at 16:06\n-2.107ft at 17:30
+DTSTART:20250305T171200
+DTEND:20250305T180600
+DESCRIPTION:-2.994ft at 17:12\n-2.814ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250306T063600
+DTEND:20250306T094800
+DESCRIPTION:-2.787ft at 06:36\n-0.006ft at 09:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250306T114800
+DTEND:20250306T164800
+DESCRIPTION:-0.010ft at 11:48\n-2.984ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250307T073600
+DTEND:20250307T103600
+DESCRIPTION:-2.947ft at 07:36\n-0.036ft at 10:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250307T133000
+DTEND:20250307T173000
+DESCRIPTION:-0.015ft at 13:30\n-2.955ft at 17:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250308T084200
+DTEND:20250308T112400
+DESCRIPTION:-2.957ft at 08:42\n-0.066ft at 11:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250308T144800
+DTEND:20250308T180600
+DESCRIPTION:-0.057ft at 14:48\n-2.940ft at 18:06
 END:VEVENT
 END:VCALENDAR
