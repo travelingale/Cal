@@ -3,75 +3,73 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250221T075400
-DTEND:20250221T175400
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250222T084800
 DTEND:20250222T175400
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250223T094200
 DTEND:20250223T123600
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250223T151800
 DTEND:20250223T175400
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250224T102400
 DTEND:20250224T125400
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250224T161800
 DTEND:20250224T175400
-DESCRIPTION:Good shot of long-period WNW swell due to max out\, putting av
- erage spots in head high+ to easily overhead waves\, while top breaks hit 
- double overhead+. Most spots see better shape after the dawn patrol high t
- ide backs out for a while. Winds looking favorable through the day at this
-  point. 
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250225T111200
 DTEND:20250225T131800
-DESCRIPTION:-2.872ft at 11:12\n-0.088ft at 13:18
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250225T170600
 DTEND:20250225T175400
-DESCRIPTION:-0.092ft at 17:06\n-0.938ft at 17:54
+DESCRIPTION:Lots of spots still running head high to overhead in the morni
+ ng\, as best exposures see better sets. Surf gradually winds down during t
+ he day as WNW swell eases. Looks like winds stay on the light side\, most 
+ favorable in the morning. \n\nThe trend towards slowly decreasing but stil
+ l fun waves conditions on Thursday. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +196,17 @@ SUMMARY:OST
 DTSTART:20250308T144800
 DTEND:20250308T180600
 DESCRIPTION:-0.057ft at 14:48\n-2.940ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250309T104200
+DTEND:20250309T131200
+DESCRIPTION:-2.946ft at 10:42\n-0.071ft at 13:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250309T164200
+DTEND:20250309T190600
+DESCRIPTION:-0.075ft at 16:42\n-2.462ft at 19:06
 END:VEVENT
 END:VCALENDAR
