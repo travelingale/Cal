@@ -3,72 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250223T094200
-DTEND:20250223T123600
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250223T151800
-DTEND:20250223T175400
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250224T102400
 DTEND:20250224T125400
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250224T161800
 DTEND:20250224T175400
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250225T111200
 DTEND:20250225T131800
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250225T170600
 DTEND:20250225T175400
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250226T115400
 DTEND:20250226T135400
-DESCRIPTION:Forecast charts showing potential for another good round of WN
- W swell peaking over the 27th-28th\, then a better WNW swell during the fo
- llowing weekend\, 1st-2nd. Winds looking mainly cooperative then too\, mos
- t favorable in the mornings. 
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250227T123000
 DTEND:20250227T143600
-DESCRIPTION:-2.996ft at 12:30\n-0.079ft at 14:36
+DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
+ e water\, steadily winding down through the day.\n\nMorning low tide windo
+ w looks like the one to target. Lighter\, variable wind in the morning (no
+  more offshores)\, trending to moderate/breezy onshore westerly wind in th
+ e afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -207,5 +198,17 @@ SUMMARY:OST
 DTSTART:20250310T171800
 DTEND:20250310T190600
 DESCRIPTION:-0.060ft at 17:18\n-1.924ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250311T121800
+DTEND:20250311T144800
+DESCRIPTION:-2.925ft at 12:18\n-0.043ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250311T174200
+DTEND:20250311T190600
+DESCRIPTION:-0.062ft at 17:42\n-1.451ft at 19:06
 END:VEVENT
 END:VCALENDAR
