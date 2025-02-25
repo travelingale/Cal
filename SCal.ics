@@ -3,69 +3,58 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250224T102400
-DTEND:20250224T125400
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250224T161800
-DTEND:20250224T175400
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250225T111200
 DTEND:20250225T131800
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
+DESCRIPTION:Long period WNW swell is due to build through the day and coul
+ d get significant by the afternoon. Both larger in size. and longer in per
+ iod than the swells from earlier in the week Medium\, increasing confidenc
+ e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
+ nt story\, but it doesn't look bad. More of a question of offshore potenti
+ al. Either way\, this is one to keep an eye on for the chargers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250225T170600
 DTEND:20250225T175400
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
+DESCRIPTION:Long period WNW swell is due to build through the day and coul
+ d get significant by the afternoon. Both larger in size. and longer in per
+ iod than the swells from earlier in the week Medium\, increasing confidenc
+ e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
+ nt story\, but it doesn't look bad. More of a question of offshore potenti
+ al. Either way\, this is one to keep an eye on for the chargers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250226T115400
 DTEND:20250226T135400
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
+DESCRIPTION:Long period WNW swell is due to build through the day and coul
+ d get significant by the afternoon. Both larger in size. and longer in per
+ iod than the swells from earlier in the week Medium\, increasing confidenc
+ e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
+ nt story\, but it doesn't look bad. More of a question of offshore potenti
+ al. Either way\, this is one to keep an eye on for the chargers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250227T123000
 DTEND:20250227T143600
-DESCRIPTION:Looks like easing WNW swell will still have pumping surf in th
- e water\, steadily winding down through the day.\n\nMorning low tide windo
- w looks like the one to target. Lighter\, variable wind in the morning (no
-  more offshores)\, trending to moderate/breezy onshore westerly wind in th
- e afternoon.
+DESCRIPTION:Long period WNW swell is due to build through the day and coul
+ d get significant by the afternoon. Both larger in size. and longer in per
+ iod than the swells from earlier in the week Medium\, increasing confidenc
+ e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
+ nt story\, but it doesn't look bad. More of a question of offshore potenti
+ al. Either way\, this is one to keep an eye on for the chargers.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250228T131200
 DTEND:20250228T153000
-DESCRIPTION:-2.975ft at 13:12\n-0.072ft at 15:30
+DESCRIPTION:Long period WNW swell is due to build through the day and coul
+ d get significant by the afternoon. Both larger in size. and longer in per
+ iod than the swells from earlier in the week Medium\, increasing confidenc
+ e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
+ nt story\, but it doesn't look bad. More of a question of offshore potenti
+ al. Either way\, this is one to keep an eye on for the chargers.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -210,5 +199,17 @@ SUMMARY:OST
 DTSTART:20250311T174200
 DTEND:20250311T190600
 DESCRIPTION:-0.062ft at 17:42\n-1.451ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250312T125400
+DTEND:20250312T154200
+DESCRIPTION:-2.971ft at 12:54\n-0.027ft at 15:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250312T174800
+DTEND:20250312T191200
+DESCRIPTION:-0.028ft at 17:48\n-1.230ft at 19:12
 END:VEVENT
 END:VCALENDAR
