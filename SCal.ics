@@ -3,76 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250225T111200
-DTEND:20250225T131800
-DESCRIPTION:Long period WNW swell is due to build through the day and coul
- d get significant by the afternoon. Both larger in size. and longer in per
- iod than the swells from earlier in the week Medium\, increasing confidenc
- e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
- nt story\, but it doesn't look bad. More of a question of offshore potenti
- al. Either way\, this is one to keep an eye on for the chargers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250225T170600
-DTEND:20250225T175400
-DESCRIPTION:Long period WNW swell is due to build through the day and coul
- d get significant by the afternoon. Both larger in size. and longer in per
- iod than the swells from earlier in the week Medium\, increasing confidenc
- e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
- nt story\, but it doesn't look bad. More of a question of offshore potenti
- al. Either way\, this is one to keep an eye on for the chargers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250226T115400
 DTEND:20250226T135400
-DESCRIPTION:Long period WNW swell is due to build through the day and coul
- d get significant by the afternoon. Both larger in size. and longer in per
- iod than the swells from earlier in the week Medium\, increasing confidenc
- e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
- nt story\, but it doesn't look bad. More of a question of offshore potenti
- al. Either way\, this is one to keep an eye on for the chargers.
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250227T123000
 DTEND:20250227T143600
-DESCRIPTION:Long period WNW swell is due to build through the day and coul
- d get significant by the afternoon. Both larger in size. and longer in per
- iod than the swells from earlier in the week Medium\, increasing confidenc
- e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
- nt story\, but it doesn't look bad. More of a question of offshore potenti
- al. Either way\, this is one to keep an eye on for the chargers.
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250228T131200
 DTEND:20250228T153000
-DESCRIPTION:Long period WNW swell is due to build through the day and coul
- d get significant by the afternoon. Both larger in size. and longer in per
- iod than the swells from earlier in the week Medium\, increasing confidenc
- e in the swell at this point.<br>\n<br>\nConditions are a bit of a differe
- nt story\, but it doesn't look bad. More of a question of offshore potenti
- al. Either way\, this is one to keep an eye on for the chargers.
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250301T064200
 DTEND:20250301T080000
-DESCRIPTION:-1.597ft at 06:42\n-2.929ft at 08:00
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250301T135400
 DTEND:20250301T171200
-DESCRIPTION:-2.964ft at 13:54\n-0.008ft at 17:12
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250301T173000
 DTEND:20250301T180000
-DESCRIPTION:-0.000ft at 17:30\n-0.115ft at 18:00
+DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
+ ranking. Showing most size in the morning with better breaks going overhea
+ d to double overhead\, then gradually tapering off during the day.<br>\n<b
+ r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
+ g\, then SW onshores puff up during the afternoon for some bump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -211,5 +198,11 @@ SUMMARY:OST
 DTSTART:20250312T174800
 DTEND:20250312T191200
 DESCRIPTION:-0.028ft at 17:48\n-1.230ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250313T133000
+DTEND:20250313T191200
+DESCRIPTION:-2.938ft at 13:30\n-1.069ft at 19:12
 END:VEVENT
 END:VCALENDAR
