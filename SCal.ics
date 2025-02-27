@@ -3,75 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250226T115400
-DTEND:20250226T135400
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250227T123000
 DTEND:20250227T143600
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250228T131200
 DTEND:20250228T153000
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250301T064200
 DTEND:20250301T080000
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250301T135400
 DTEND:20250301T171200
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250301T173000
 DTEND:20250301T180000
-DESCRIPTION:Likely down a peg from Saturday as WNW swell eases but still c
- ranking. Showing most size in the morning with better breaks going overhea
- d to double overhead\, then gradually tapering off during the day.<br>\n<b
- r>\nWinds looking similar to Saturday's: Light/variable much of the mornin
- g\, then SW onshores puff up during the afternoon for some bump.
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250302T064200
 DTEND:20250302T091800
-DESCRIPTION:-0.655ft at 06:42\n-2.902ft at 09:18
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250302T143600
 DTEND:20250302T180000
-DESCRIPTION:-2.966ft at 14:36\n-0.636ft at 18:00
+DESCRIPTION:Fading WNW swell still looks good for overhead waves early mor
+ ning then surf eases as the day goes on. That trend continues through Tues
+ day.<br>\n<br>\nConditions looking at least a little bumpy with ESE winds 
+ expected much of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -204,5 +195,17 @@ SUMMARY:OST
 DTSTART:20250313T133000
 DTEND:20250313T191200
 DESCRIPTION:-2.938ft at 13:30\n-1.069ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250314T072400
+DTEND:20250314T083000
+DESCRIPTION:-2.016ft at 07:24\n-2.989ft at 08:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250314T140000
+DTEND:20250314T191200
+DESCRIPTION:-2.971ft at 14:00\n-1.079ft at 19:12
 END:VEVENT
 END:VCALENDAR
