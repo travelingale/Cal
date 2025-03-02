@@ -3,111 +3,57 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250301T064200
-DTEND:20250301T080000
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250301T135400
-DTEND:20250301T171200
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250301T173000
-DTEND:20250301T180000
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250302T064200
 DTEND:20250302T091800
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250302T143600
 DTEND:20250302T180000
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250303T063600
 DTEND:20250303T105400
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250303T151800
 DTEND:20250303T180000
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250304T063600
 DTEND:20250304T125400
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250304T160600
 DTEND:20250304T180000
-DESCRIPTION:Calling for a good shot of primarily WNW swell for 5th-6th\, a
- long with some SSW Southern Hemi by the 6th-7th. Most combined side due on
-  the 6th. Worth keeping an eye on as size looks more moderate scale and ap
- proachable for most skill levels (compared to the recent run of big waves)
- . Winds at this point looking favorable\, especially in the mornings. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250305T063600
 DTEND:20250305T090600
-DESCRIPTION:-1.561ft at 06:36\n-0.001ft at 09:06
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250305T094200
 DTEND:20250305T152400
-DESCRIPTION:-0.004ft at 09:42\n-2.995ft at 15:24
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250305T171200
 DTEND:20250305T180600
-DESCRIPTION:-2.994ft at 17:12\n-2.814ft at 18:06
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -234,5 +180,17 @@ SUMMARY:OST
 DTSTART:20250316T150000
 DTEND:20250316T191200
 DESCRIPTION:-2.973ft at 15:00\n-1.511ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250317T071800
+DTEND:20250317T113600
+DESCRIPTION:-0.660ft at 07:18\n-2.976ft at 11:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250317T153000
+DTEND:20250317T191200
+DESCRIPTION:-2.956ft at 15:30\n-1.858ft at 19:12
 END:VEVENT
 END:VCALENDAR
