@@ -3,69 +3,84 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250303T063600
-DTEND:20250303T105400
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250303T151800
-DTEND:20250303T180000
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250304T063600
 DTEND:20250304T125400
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250304T160600
 DTEND:20250304T180000
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250305T063600
 DTEND:20250305T090600
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250305T094200
 DTEND:20250305T152400
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250305T171200
 DTEND:20250305T180600
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250306T063600
 DTEND:20250306T094800
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250306T114800
 DTEND:20250306T164800
-DESCRIPTION:
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250307T073600
 DTEND:20250307T103600
-DESCRIPTION:-2.947ft at 07:36\n-0.036ft at 10:36
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250307T133000
 DTEND:20250307T173000
-DESCRIPTION:-0.015ft at 13:30\n-2.955ft at 17:30
+DESCRIPTION:Nice new run of WNW swell expected to roll in for Saturday and
+  Sunday\, putting lots of spots in head high waves\, as better breaks are 
+ hitting overhead. Winds looking to mainly stay on the lighter side over th
+ e weekend. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +207,11 @@ SUMMARY:OST
 DTSTART:20250318T154800
 DTEND:20250318T191800
 DESCRIPTION:-2.978ft at 15:48\n-2.233ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250319T071800
+DTEND:20250319T191800
+DESCRIPTION:-1.114ft at 07:18\n-2.568ft at 19:18
 END:VEVENT
 END:VCALENDAR
