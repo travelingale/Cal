@@ -3,96 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250305T063600
-DTEND:20250305T090600
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250305T094200
-DTEND:20250305T152400
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250305T171200
-DTEND:20250305T180600
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250306T063600
 DTEND:20250306T094800
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250306T114800
 DTEND:20250306T164800
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250307T073600
 DTEND:20250307T103600
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250307T133000
 DTEND:20250307T173000
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250308T084200
 DTEND:20250308T112400
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250308T144800
 DTEND:20250308T180600
-DESCRIPTION:Moderate scale WNW peaks for widespread shoulder to head high 
- surf\, while standouts hit 1-2' overhead. Side shore east winds due to add
-  a little bump in the morning\, then rising SSW flow roughs up the water s
- ome more. 
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250309T104200
 DTEND:20250309T131200
-DESCRIPTION:-2.946ft at 10:42\n-0.071ft at 13:12
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250309T164200
 DTEND:20250309T190600
-DESCRIPTION:-0.075ft at 16:42\n-2.462ft at 19:06
+DESCRIPTION:Forecast charts showing increasing potential for a solid new W
+ NW swell to be rolling in with head high+ to well overhead surf\, peaking 
+ in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
+ rly and picking up for the afternoon looking to be an issue. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -207,5 +186,11 @@ SUMMARY:OST
 DTSTART:20250320T071200
 DTEND:20250320T191800
 DESCRIPTION:-1.769ft at 07:12\n-2.837ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250321T071200
+DTEND:20250321T190600
+DESCRIPTION:-2.511ft at 07:12\n-2.997ft at 19:06
 END:VEVENT
 END:VCALENDAR
