@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250306T063600
-DTEND:20250306T094800
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250306T114800
-DTEND:20250306T164800
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250307T073600
 DTEND:20250307T103600
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250307T133000
 DTEND:20250307T173000
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250308T084200
 DTEND:20250308T112400
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250308T144800
 DTEND:20250308T180600
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250309T104200
 DTEND:20250309T131200
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250309T164200
 DTEND:20250309T190600
-DESCRIPTION:Forecast charts showing increasing potential for a solid new W
- NW swell to be rolling in with head high+ to well overhead surf\, peaking 
- in the afternoon.<br>\n<br>\nEasterly morning winds\, shifting more southe
- rly and picking up for the afternoon looking to be an issue. 
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250310T113600
 DTEND:20250310T140000
-DESCRIPTION:-2.886ft at 11:36\n-0.053ft at 14:00
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250310T171800
 DTEND:20250310T190600
-DESCRIPTION:-0.060ft at 17:18\n-1.924ft at 19:06
+DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
+ . Slow fade as the day goes on and the swell tapers off. Morning winds loo
+ king light+ side shore\, then rising southerly onshores due for the aftern
+ oon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +180,11 @@ SUMMARY:OST
 DTSTART:20250321T071200
 DTEND:20250321T190600
 DESCRIPTION:-2.511ft at 07:12\n-2.997ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250322T074200
+DTEND:20250322T184800
+DESCRIPTION:-2.939ft at 07:42\n-2.975ft at 18:48
 END:VEVENT
 END:VCALENDAR
