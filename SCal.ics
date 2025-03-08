@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250307T073600
-DTEND:20250307T103600
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250307T133000
-DTEND:20250307T173000
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250308T084200
 DTEND:20250308T112400
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250308T144800
 DTEND:20250308T180600
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250309T104200
 DTEND:20250309T131200
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250309T164200
 DTEND:20250309T190600
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250310T113600
 DTEND:20250310T140000
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250310T171800
 DTEND:20250310T190600
-DESCRIPTION:Waves hold in the morning\, maintaining head high to 1-2' surf
- . Slow fade as the day goes on and the swell tapers off. Morning winds loo
- king light+ side shore\, then rising southerly onshores due for the aftern
- oon.  
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250311T121800
 DTEND:20250311T144800
-DESCRIPTION:-2.925ft at 12:18\n-0.043ft at 14:48
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250311T174200
 DTEND:20250311T190600
-DESCRIPTION:-0.062ft at 17:42\n-1.451ft at 19:06
+DESCRIPTION:Forecast charts showing potential for a healthy new WNW swell 
+ to fill in on the 12th\, top out on the 13th then ease on the 14th. Southe
+ rly wind issues possible Wednesday\, then the outlook getting more favorab
+ le for the 13th-14th. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -186,5 +174,17 @@ SUMMARY:OST
 DTSTART:20250322T074200
 DTEND:20250322T184800
 DESCRIPTION:-2.939ft at 07:42\n-2.975ft at 18:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250323T084800
+DTEND:20250323T124800
+DESCRIPTION:-2.918ft at 08:48\n-0.001ft at 12:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250323T140600
+DTEND:20250323T190000
+DESCRIPTION:-0.003ft at 14:06\n-2.971ft at 19:00
 END:VEVENT
 END:VCALENDAR
