@@ -3,97 +3,73 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250309T104200
-DTEND:20250309T131200
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250309T164200
-DTEND:20250309T190600
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250310T113600
 DTEND:20250310T140000
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250310T171800
 DTEND:20250310T190600
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250311T121800
 DTEND:20250311T144800
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250311T174200
 DTEND:20250311T190600
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250312T125400
 DTEND:20250312T154200
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250312T174800
 DTEND:20250312T191200
-DESCRIPTION:Increasing confidence in a sizeable shot of WNW swell building
-  through the 13th and peaking into the 14th. Still a little early for spec
- ifics but this one has the potential to be a notch larger than the 8th-11t
- h run. <br>\n<br>\nThe storm generating the swell will likely impact the c
- oast around the time the swell arrives\, but conditions in Santa Cruz look
-  like they'll improve (WNW wind) by the time the surf tops out.
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250313T133000
 DTEND:20250313T191200
-DESCRIPTION:-2.938ft at 13:30\n-1.069ft at 19:12
+DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
+ n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
+ t now we're looking at light+ E to maybe ESE wind - not ideal but could be
+  at least ok. We should have a better idea of overall quality in a couple 
+ more days. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +178,17 @@ SUMMARY:OST
 DTSTART:20250324T153000
 DTEND:20250324T191200
 DESCRIPTION:-0.018ft at 15:30\n-2.963ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250325T104200
+DTEND:20250325T131800
+DESCRIPTION:-2.898ft at 10:42\n-0.067ft at 13:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250325T161800
+DTEND:20250325T192400
+DESCRIPTION:-0.010ft at 16:18\n-2.966ft at 19:24
 END:VEVENT
 END:VCALENDAR
