@@ -3,85 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250310T113600
-DTEND:20250310T140000
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250310T171800
-DTEND:20250310T190600
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250311T121800
 DTEND:20250311T144800
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250311T174200
 DTEND:20250311T190600
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250312T125400
 DTEND:20250312T154200
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250312T174800
 DTEND:20250312T191200
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250313T133000
 DTEND:20250313T191200
-DESCRIPTION:Fading WNW swell and still overhead through the morning. <br>\
- n<br>\nThere is uncertainty on the wind and local conditions/quality. Righ
- t now we're looking at light+ E to maybe ESE wind - not ideal but could be
-  at least ok. We should have a better idea of overall quality in a couple 
- more days. 
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250314T072400
 DTEND:20250314T083000
-DESCRIPTION:-2.016ft at 07:24\n-2.989ft at 08:30
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250314T140000
 DTEND:20250314T191200
-DESCRIPTION:-2.971ft at 14:00\n-1.079ft at 19:12
+DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
+ but still plenty of chest to head high waves rolling in. Morning winds exp
+ ected to stay light for nice conditions. Light+ SW sideshores due in the a
+ fternoon. Mid-day high tide slows most spots some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -190,5 +171,17 @@ SUMMARY:OST
 DTSTART:20250325T161800
 DTEND:20250325T192400
 DESCRIPTION:-0.010ft at 16:18\n-2.966ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250326T113000
+DTEND:20250326T140000
+DESCRIPTION:-2.931ft at 11:30\n-0.024ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250326T165400
+DTEND:20250326T192400
+DESCRIPTION:-0.057ft at 16:54\n-2.766ft at 19:24
 END:VEVENT
 END:VCALENDAR
