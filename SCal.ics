@@ -3,78 +3,73 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250311T121800
-DTEND:20250311T144800
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250311T174200
-DTEND:20250311T190600
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250312T125400
 DTEND:20250312T154200
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250312T174800
 DTEND:20250312T191200
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250313T133000
 DTEND:20250313T191200
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250314T072400
 DTEND:20250314T083000
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250314T140000
 DTEND:20250314T191200
-DESCRIPTION:Off a notch from Friday as WNW swell continues to wind down\, 
- but still plenty of chest to head high waves rolling in. Morning winds exp
- ected to stay light for nice conditions. Light+ SW sideshores due in the a
- fternoon. Mid-day high tide slows most spots some. 
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250315T072400
 DTEND:20250315T092400
-DESCRIPTION:-1.345ft at 07:24\n-2.957ft at 09:24
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250315T143000
 DTEND:20250315T191200
-DESCRIPTION:-2.978ft at 14:30\n-1.238ft at 19:12
+DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
+ ell filling in over the afternoon with widespread head high+ waves\, as to
+ p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
+ ence wind forecast that will need to be worked out in the coming days but 
+ decent odds for at least a fair morning window.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -183,5 +178,17 @@ SUMMARY:OST
 DTSTART:20250326T165400
 DTEND:20250326T192400
 DESCRIPTION:-0.057ft at 16:54\n-2.766ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250327T121800
+DTEND:20250327T144800
+DESCRIPTION:-2.924ft at 12:18\n-0.037ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250327T171200
+DTEND:20250327T192400
+DESCRIPTION:-0.039ft at 17:12\n-2.484ft at 19:24
 END:VEVENT
 END:VCALENDAR
