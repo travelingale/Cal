@@ -3,85 +3,59 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250312T125400
-DTEND:20250312T154200
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250312T174800
-DTEND:20250312T191200
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250313T133000
 DTEND:20250313T191200
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250314T072400
 DTEND:20250314T083000
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250314T140000
 DTEND:20250314T191200
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250315T072400
 DTEND:20250315T092400
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250315T143000
 DTEND:20250315T191200
-DESCRIPTION:Increasing confidence in a sizeable round of mid-period WNW sw
- ell filling in over the afternoon with widespread head high+ waves\, as to
- p breaks go easily overhead\, showing largest late. <br>\n<br>\nLow confid
- ence wind forecast that will need to be worked out in the coming days but 
- decent odds for at least a fair morning window.  
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250316T071800
 DTEND:20250316T102400
-DESCRIPTION:-0.845ft at 07:18\n-2.955ft at 10:24
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250316T150000
 DTEND:20250316T191200
-DESCRIPTION:-2.973ft at 15:00\n-1.511ft at 19:12
+DESCRIPTION:Week expected to start off with a solid WNW swell maxing out\,
+  putting average spots in overhead surf\, while standouts go double overhe
+ ad. Favorable offshore WNW winds due through the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -190,5 +164,17 @@ SUMMARY:OST
 DTSTART:20250327T171200
 DTEND:20250327T192400
 DESCRIPTION:-0.039ft at 17:12\n-2.484ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250328T130600
+DTEND:20250328T160000
+DESCRIPTION:-2.905ft at 13:06\n-0.024ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250328T170600
+DTEND:20250328T192400
+DESCRIPTION:-0.012ft at 17:06\n-2.160ft at 19:24
 END:VEVENT
 END:VCALENDAR
