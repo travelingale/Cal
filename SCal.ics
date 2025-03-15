@@ -3,95 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250314T072400
-DTEND:20250314T083000
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250314T140000
-DTEND:20250314T191200
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250315T072400
 DTEND:20250315T092400
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250315T143000
 DTEND:20250315T191200
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250316T071800
 DTEND:20250316T102400
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250316T150000
 DTEND:20250316T191200
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250317T071800
 DTEND:20250317T113600
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250317T153000
 DTEND:20250317T191200
-DESCRIPTION:Surf still running head high+ for average spots\, as better br
- eaks are overhead in the morning.  Waves will be winding down during the d
- ay along with the dropping swell. Trend towards smaller surf continues thr
- ough mid-week. <br>\n<br>\nAt this point\, winds are looking light/favorab
- le much of the day. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250318T071800
 DTEND:20250318T131200
-DESCRIPTION:-0.753ft at 07:18\n-2.990ft at 13:12
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250318T154800
 DTEND:20250318T191800
-DESCRIPTION:-2.978ft at 15:48\n-2.233ft at 19:18
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -200,5 +156,17 @@ SUMMARY:OST
 DTSTART:20250329T135400
 DTEND:20250329T192400
 DESCRIPTION:-2.897ft at 13:54\n-1.877ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250330T070600
+DTEND:20250330T094200
+DESCRIPTION:-0.025ft at 07:06\n-2.892ft at 09:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250330T144200
+DTEND:20250330T192400
+DESCRIPTION:-2.917ft at 14:42\n-1.737ft at 19:24
 END:VEVENT
 END:VCALENDAR
