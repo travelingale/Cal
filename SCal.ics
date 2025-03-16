@@ -3,57 +3,59 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250315T072400
-DTEND:20250315T092400
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250315T143000
-DTEND:20250315T191200
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250316T071800
 DTEND:20250316T102400
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250316T150000
 DTEND:20250316T191200
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250317T071800
 DTEND:20250317T113600
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250317T153000
 DTEND:20250317T191200
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250318T071800
 DTEND:20250318T131200
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250318T154800
 DTEND:20250318T191800
-DESCRIPTION:
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250319T071800
 DTEND:20250319T191800
-DESCRIPTION:-1.114ft at 07:18\n-2.568ft at 19:18
+DESCRIPTION:Fair size shot of new WNW swell mix filling in\, with potentia
+ l for chest to head high range surf in the afternoon\, Winds looking light
+ : Variable in the morning\, offshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -168,5 +170,17 @@ SUMMARY:OST
 DTSTART:20250330T144200
 DTEND:20250330T192400
 DESCRIPTION:-2.917ft at 14:42\n-1.737ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250331T082400
+DTEND:20250331T110600
+DESCRIPTION:-0.023ft at 08:24\n-2.979ft at 11:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250331T153000
+DTEND:20250331T192400
+DESCRIPTION:-2.968ft at 15:30\n-1.816ft at 19:24
 END:VEVENT
 END:VCALENDAR
