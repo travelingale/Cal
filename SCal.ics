@@ -3,57 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250317T071800
-DTEND:20250317T113600
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250317T153000
-DTEND:20250317T191200
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250318T071800
 DTEND:20250318T131200
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
+DESCRIPTION:SSW swell is moving across the South Pacific and has been show
+ ing more size  in satellite altimeter data than model guidance was suggest
+ ing\, for increasing confidence the weekend will have fun SPAC swell runni
+ ng at exposed breaks of NorCal. There will also be continued\, shorter-per
+ iod WNW swell rolling in. End result is widespread chest to head high wave
+ s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
+  of N/NW flow for Santa Cruz due\, with light winds through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250318T154800
 DTEND:20250318T191800
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
+DESCRIPTION:SSW swell is moving across the South Pacific and has been show
+ ing more size  in satellite altimeter data than model guidance was suggest
+ ing\, for increasing confidence the weekend will have fun SPAC swell runni
+ ng at exposed breaks of NorCal. There will also be continued\, shorter-per
+ iod WNW swell rolling in. End result is widespread chest to head high wave
+ s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
+  of N/NW flow for Santa Cruz due\, with light winds through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250319T071800
 DTEND:20250319T191800
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
+DESCRIPTION:SSW swell is moving across the South Pacific and has been show
+ ing more size  in satellite altimeter data than model guidance was suggest
+ ing\, for increasing confidence the weekend will have fun SPAC swell runni
+ ng at exposed breaks of NorCal. There will also be continued\, shorter-per
+ iod WNW swell rolling in. End result is widespread chest to head high wave
+ s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
+  of N/NW flow for Santa Cruz due\, with light winds through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250320T071200
 DTEND:20250320T191800
-DESCRIPTION:Size looks pretty similar to Thursday and the wind outlook fol
- lows a similar regime. Northerly flow in the morning for a crisp\, clean s
- tart then NW flow ramps up over the afternoon.
+DESCRIPTION:SSW swell is moving across the South Pacific and has been show
+ ing more size  in satellite altimeter data than model guidance was suggest
+ ing\, for increasing confidence the weekend will have fun SPAC swell runni
+ ng at exposed breaks of NorCal. There will also be continued\, shorter-per
+ iod WNW swell rolling in. End result is widespread chest to head high wave
+ s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
+  of N/NW flow for Santa Cruz due\, with light winds through the morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250321T071200
 DTEND:20250321T190600
-DESCRIPTION:-2.511ft at 07:12\n-2.997ft at 19:06
+DESCRIPTION:SSW swell is moving across the South Pacific and has been show
+ ing more size  in satellite altimeter data than model guidance was suggest
+ ing\, for increasing confidence the weekend will have fun SPAC swell runni
+ ng at exposed breaks of NorCal. There will also be continued\, shorter-per
+ iod WNW swell rolling in. End result is widespread chest to head high wave
+ s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
+  of N/NW flow for Santa Cruz due\, with light winds through the morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +186,17 @@ SUMMARY:OST
 DTSTART:20250401T163000
 DTEND:20250401T193000
 DESCRIPTION:-2.952ft at 16:30\n-2.141ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250402T104200
+DTEND:20250402T141800
+DESCRIPTION:-0.022ft at 10:42\n-2.995ft at 14:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250402T174200
+DTEND:20250402T193000
+DESCRIPTION:-2.992ft at 17:42\n-2.580ft at 19:30
 END:VEVENT
 END:VCALENDAR
