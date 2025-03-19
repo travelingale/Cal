@@ -3,69 +3,39 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250318T071800
-DTEND:20250318T131200
-DESCRIPTION:SSW swell is moving across the South Pacific and has been show
- ing more size  in satellite altimeter data than model guidance was suggest
- ing\, for increasing confidence the weekend will have fun SPAC swell runni
- ng at exposed breaks of NorCal. There will also be continued\, shorter-per
- iod WNW swell rolling in. End result is widespread chest to head high wave
- s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
-  of N/NW flow for Santa Cruz due\, with light winds through the morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250318T154800
-DTEND:20250318T191800
-DESCRIPTION:SSW swell is moving across the South Pacific and has been show
- ing more size  in satellite altimeter data than model guidance was suggest
- ing\, for increasing confidence the weekend will have fun SPAC swell runni
- ng at exposed breaks of NorCal. There will also be continued\, shorter-per
- iod WNW swell rolling in. End result is widespread chest to head high wave
- s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
-  of N/NW flow for Santa Cruz due\, with light winds through the morning.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250319T071800
 DTEND:20250319T191800
-DESCRIPTION:SSW swell is moving across the South Pacific and has been show
- ing more size  in satellite altimeter data than model guidance was suggest
- ing\, for increasing confidence the weekend will have fun SPAC swell runni
- ng at exposed breaks of NorCal. There will also be continued\, shorter-per
- iod WNW swell rolling in. End result is widespread chest to head high wave
- s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
-  of N/NW flow for Santa Cruz due\, with light winds through the morning.
+DESCRIPTION:SSW swell looks to top out through the day -- not a big swell 
+ but enough to help the cause as WNW swell mix gets a refresh. Average spot
+ s are in the chest to head high zone\, top breaks get up to 1-2' overhead.
+ <br>\n<br>\nWinds due to stay light all day for nice conditions.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250320T071200
 DTEND:20250320T191800
-DESCRIPTION:SSW swell is moving across the South Pacific and has been show
- ing more size  in satellite altimeter data than model guidance was suggest
- ing\, for increasing confidence the weekend will have fun SPAC swell runni
- ng at exposed breaks of NorCal. There will also be continued\, shorter-per
- iod WNW swell rolling in. End result is widespread chest to head high wave
- s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
-  of N/NW flow for Santa Cruz due\, with light winds through the morning.
+DESCRIPTION:SSW swell looks to top out through the day -- not a big swell 
+ but enough to help the cause as WNW swell mix gets a refresh. Average spot
+ s are in the chest to head high zone\, top breaks get up to 1-2' overhead.
+ <br>\n<br>\nWinds due to stay light all day for nice conditions.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250321T071200
 DTEND:20250321T190600
-DESCRIPTION:SSW swell is moving across the South Pacific and has been show
- ing more size  in satellite altimeter data than model guidance was suggest
- ing\, for increasing confidence the weekend will have fun SPAC swell runni
- ng at exposed breaks of NorCal. There will also be continued\, shorter-per
- iod WNW swell rolling in. End result is widespread chest to head high wave
- s\, while best combo breaks see better sets. <br>\n<br>\nFavorable pattern
-  of N/NW flow for Santa Cruz due\, with light winds through the morning.
+DESCRIPTION:SSW swell looks to top out through the day -- not a big swell 
+ but enough to help the cause as WNW swell mix gets a refresh. Average spot
+ s are in the chest to head high zone\, top breaks get up to 1-2' overhead.
+ <br>\n<br>\nWinds due to stay light all day for nice conditions.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250322T074200
 DTEND:20250322T184800
-DESCRIPTION:-2.939ft at 07:42\n-2.975ft at 18:48
+DESCRIPTION:SSW swell looks to top out through the day -- not a big swell 
+ but enough to help the cause as WNW swell mix gets a refresh. Average spot
+ s are in the chest to head high zone\, top breaks get up to 1-2' overhead.
+ <br>\n<br>\nWinds due to stay light all day for nice conditions.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250402T174200
 DTEND:20250402T193000
 DESCRIPTION:-2.992ft at 17:42\n-2.580ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250403T065400
+DTEND:20250403T081800
+DESCRIPTION:-1.456ft at 06:54\n-0.034ft at 08:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250403T115400
+DTEND:20250403T154800
+DESCRIPTION:-0.057ft at 11:54\n-2.973ft at 15:48
 END:VEVENT
 END:VCALENDAR
