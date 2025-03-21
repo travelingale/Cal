@@ -3,65 +3,57 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250320T071200
-DTEND:20250320T191800
-DESCRIPTION:Combo of SSW and WNW swell winds down but is still good for ch
- est to head high surf for good spots in the morning. Afternoon waves dip d
- own along with the fading swell. <br>\n<br>\nWinds looking to stay on the 
- light side through the day. Dropping tide in the morning looking like the 
- best window of the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250321T071200
 DTEND:20250321T190600
-DESCRIPTION:Combo of SSW and WNW swell winds down but is still good for ch
- est to head high surf for good spots in the morning. Afternoon waves dip d
- own along with the fading swell. <br>\n<br>\nWinds looking to stay on the 
- light side through the day. Dropping tide in the morning looking like the 
- best window of the day. 
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250322T074200
 DTEND:20250322T184800
-DESCRIPTION:Combo of SSW and WNW swell winds down but is still good for ch
- est to head high surf for good spots in the morning. Afternoon waves dip d
- own along with the fading swell. <br>\n<br>\nWinds looking to stay on the 
- light side through the day. Dropping tide in the morning looking like the 
- best window of the day. 
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250323T084800
 DTEND:20250323T124800
-DESCRIPTION:Combo of SSW and WNW swell winds down but is still good for ch
- est to head high surf for good spots in the morning. Afternoon waves dip d
- own along with the fading swell. <br>\n<br>\nWinds looking to stay on the 
- light side through the day. Dropping tide in the morning looking like the 
- best window of the day. 
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250323T140600
 DTEND:20250323T190000
-DESCRIPTION:Combo of SSW and WNW swell winds down but is still good for ch
- est to head high surf for good spots in the morning. Afternoon waves dip d
- own along with the fading swell. <br>\n<br>\nWinds looking to stay on the 
- light side through the day. Dropping tide in the morning looking like the 
- best window of the day. 
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250324T094800
 DTEND:20250324T125400
-DESCRIPTION:-2.907ft at 09:48\n-0.011ft at 12:54
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250324T153000
 DTEND:20250324T191200
-DESCRIPTION:-0.018ft at 15:30\n-2.963ft at 19:12
+DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
+ during the day\, with waves going head high and sets hitting overhead at b
+ etter breaks over the afternoon. Winds looking mostly cooperative\, best i
+ n the mornings.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +186,17 @@ SUMMARY:OST
 DTSTART:20250404T130000
 DTEND:20250404T165400
 DESCRIPTION:-0.017ft at 13:00\n-2.978ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250405T075400
+DTEND:20250405T105400
+DESCRIPTION:-2.942ft at 07:54\n-0.060ft at 10:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250405T140600
+DTEND:20250405T173600
+DESCRIPTION:-0.042ft at 14:06\n-2.933ft at 17:36
 END:VEVENT
 END:VCALENDAR
