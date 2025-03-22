@@ -3,69 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250321T071200
-DTEND:20250321T190600
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250322T074200
 DTEND:20250322T184800
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250323T084800
 DTEND:20250323T124800
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250323T140600
 DTEND:20250323T190000
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250324T094800
 DTEND:20250324T125400
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250324T153000
 DTEND:20250324T191200
-DESCRIPTION:Forecast charts showing potential for a new WNW swell to rise 
- during the day\, with waves going head high and sets hitting overhead at b
- etter breaks over the afternoon. Winds looking mostly cooperative\, best i
- n the mornings.  
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250325T104200
 DTEND:20250325T131800
-DESCRIPTION:-2.898ft at 10:42\n-0.067ft at 13:18
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250325T161800
 DTEND:20250325T192400
-DESCRIPTION:-0.010ft at 16:18\n-2.966ft at 19:24
+DESCRIPTION:WNW swell continues\, as nice SSW swell joins in\, setting up 
+ more head high to 1-2' overhead surf. Winds expected to stay on the lighte
+ r side through the day\, most favorable over the afternoon. Later morning 
+ tide drop likely a good time.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +195,17 @@ SUMMARY:OST
 DTSTART:20250405T140600
 DTEND:20250405T173600
 DESCRIPTION:-0.042ft at 14:06\n-2.933ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250406T090000
+DTEND:20250406T120600
+DESCRIPTION:-2.960ft at 09:00\n-0.022ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250406T145400
+DTEND:20250406T181200
+DESCRIPTION:-0.018ft at 14:54\n-2.935ft at 18:12
 END:VEVENT
 END:VCALENDAR
