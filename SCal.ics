@@ -3,87 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250325T104200
-DTEND:20250325T131800
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250325T161800
-DTEND:20250325T192400
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250326T113000
 DTEND:20250326T140000
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250326T165400
 DTEND:20250326T192400
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250327T121800
 DTEND:20250327T144800
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250327T171200
 DTEND:20250327T192400
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250328T130600
 DTEND:20250328T160000
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250328T170600
 DTEND:20250328T192400
-DESCRIPTION:Fading WNW swell is still good for head high+ waves in the mor
- ning.  Those waves ease during the day as new SSW swell and shorter-period
-  WNW swell moves in. Morning winds look light offshore\, light+ SW onshore
- s expected in the afternoon. 
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250329T070000
 DTEND:20250329T083000
-DESCRIPTION:-1.162ft at 07:00\n-2.915ft at 08:30
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250329T135400
 DTEND:20250329T192400
-DESCRIPTION:-2.897ft at 13:54\n-1.877ft at 19:24
+DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
+  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
+ nds in the morning\, due to turn moderate S for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -210,5 +190,17 @@ SUMMARY:OST
 DTSTART:20250409T113600
 DTEND:20250409T191800
 DESCRIPTION:-2.989ft at 11:36\n-2.938ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250410T064200
+DTEND:20250410T071800
+DESCRIPTION:-2.427ft at 06:42\n-2.937ft at 07:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250410T121800
+DTEND:20250410T193000
+DESCRIPTION:-2.960ft at 12:18\n-2.947ft at 19:30
 END:VEVENT
 END:VCALENDAR
