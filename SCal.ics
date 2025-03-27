@@ -3,79 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250326T113000
-DTEND:20250326T140000
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250326T165400
-DTEND:20250326T192400
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250327T121800
 DTEND:20250327T144800
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250327T171200
 DTEND:20250327T192400
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250328T130600
 DTEND:20250328T160000
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250328T170600
 DTEND:20250328T192400
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250329T070000
 DTEND:20250329T083000
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250329T135400
 DTEND:20250329T192400
-DESCRIPTION:Nice blend of SSW swell and WNW swell with widespread chest to
-  head high surf\, better sets at combo standouts. <br>\n<br>\nLight+ SE wi
- nds in the morning\, due to turn moderate S for the afternoon.
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250330T070600
 DTEND:20250330T094200
-DESCRIPTION:-0.025ft at 07:06\n-2.892ft at 09:42
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250330T144200
 DTEND:20250330T192400
-DESCRIPTION:-2.917ft at 14:42\n-1.737ft at 19:24
+DESCRIPTION:Forecast charts showing a nice looking storm spinning not far 
+ off the coast. Under that scenario a fun shot of WNW swell tops out while 
+ SSW swell continues\, for widespread shoulder to head high waves in the mo
+ rning. Slow fade due in the afternoon.<br>\n<br>\nWinds looking light sout
+ herly much of the morning\, then moderate SSW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +206,17 @@ SUMMARY:OST
 DTSTART:20250410T121800
 DTEND:20250410T193000
 DESCRIPTION:-2.960ft at 12:18\n-2.947ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250411T064200
+DTEND:20250411T081800
+DESCRIPTION:-1.603ft at 06:42\n-2.990ft at 08:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250411T125400
+DTEND:20250411T193600
+DESCRIPTION:-2.980ft at 12:54\n-2.914ft at 19:36
 END:VEVENT
 END:VCALENDAR
