@@ -3,71 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250329T070000
-DTEND:20250329T083000
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250329T135400
-DTEND:20250329T192400
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250330T070600
 DTEND:20250330T094200
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250330T144200
 DTEND:20250330T192400
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250331T082400
 DTEND:20250331T110600
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250331T153000
 DTEND:20250331T192400
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250401T093600
 DTEND:20250401T123600
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250401T163000
 DTEND:20250401T193000
-DESCRIPTION:Potential pick up in a moderate scale WNW/SSW swell combo on W
- ednesday\, but steady onshore southerly winds also possible then. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250402T104200
 DTEND:20250402T141800
-DESCRIPTION:-0.022ft at 10:42\n-2.995ft at 14:18
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250402T174200
 DTEND:20250402T193000
-DESCRIPTION:-2.992ft at 17:42\n-2.580ft at 19:30
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +174,17 @@ SUMMARY:OST
 DTSTART:20250413T140600
 DTEND:20250413T193600
 DESCRIPTION:-2.997ft at 14:06\n-2.781ft at 19:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250414T064800
+DTEND:20250414T110000
+DESCRIPTION:-0.011ft at 06:48\n-2.953ft at 11:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250414T144800
+DTEND:20250414T194200
+DESCRIPTION:-2.966ft at 14:48\n-2.832ft at 19:42
 END:VEVENT
 END:VCALENDAR
