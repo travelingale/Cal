@@ -3,103 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250331T082400
-DTEND:20250331T110600
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250331T153000
-DTEND:20250331T192400
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250401T093600
 DTEND:20250401T123600
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250401T163000
 DTEND:20250401T193000
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250402T104200
 DTEND:20250402T141800
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250402T174200
 DTEND:20250402T193000
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250403T065400
 DTEND:20250403T081800
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250403T115400
 DTEND:20250403T154800
-DESCRIPTION:Forecast charts showing potential for a new shot of WNW swell\
- , but the trend for size has soured over the past day or so. That said\, t
- here's still some SSW swell in the mix and local winds look light\, so thi
- s ones still worth a watch. <br>\n<br>\nMight not be a solid one but could
-  be some fun peaks for the smaller wave gear depending on how the weather 
- pattern in the Gulf of Alaska develops. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250404T065400
 DTEND:20250404T093600
-DESCRIPTION:-2.793ft at 06:54\n-0.068ft at 09:36
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250404T130000
 DTEND:20250404T165400
-DESCRIPTION:-0.017ft at 13:00\n-2.978ft at 16:54
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -226,5 +174,23 @@ SUMMARY:OST
 DTSTART:20250415T152400
 DTEND:20250415T194200
 DESCRIPTION:-2.991ft at 15:24\n-2.843ft at 19:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250416T063600
+DTEND:20250416T070000
+DESCRIPTION:-0.173ft at 06:36\n-0.018ft at 07:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250416T082400
+DTEND:20250416T133000
+DESCRIPTION:-0.010ft at 08:24\n-2.980ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250416T160600
+DTEND:20250416T194200
+DESCRIPTION:-2.992ft at 16:06\n-2.892ft at 19:42
 END:VEVENT
 END:VCALENDAR
