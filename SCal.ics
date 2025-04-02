@@ -3,63 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250401T093600
-DTEND:20250401T123600
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250401T163000
-DTEND:20250401T193000
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250402T104200
 DTEND:20250402T141800
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250402T174200
 DTEND:20250402T193000
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250403T065400
 DTEND:20250403T081800
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250403T115400
 DTEND:20250403T154800
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250404T065400
 DTEND:20250404T093600
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250404T130000
 DTEND:20250404T165400
-DESCRIPTION:
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250405T075400
 DTEND:20250405T105400
-DESCRIPTION:-2.942ft at 07:54\n-0.060ft at 10:54
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250405T140600
 DTEND:20250405T173600
-DESCRIPTION:-0.042ft at 14:06\n-2.933ft at 17:36
+DESCRIPTION:Forecast models are in good agreement and have steadily streng
+ thened on a storm developing near the Aleutians later this week. <br>\n<br
+ >\nPer current guidance it could be a solid round of WNW swell building in
+ \, with head high to overhead potential for the afternoon\, showing larges
+ t late.<br>\n<br>\nConditions look favorable with winds staying light. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +212,23 @@ SUMMARY:OST
 DTSTART:20250416T160600
 DTEND:20250416T194200
 DESCRIPTION:-2.992ft at 16:06\n-2.892ft at 19:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250417T063600
+DTEND:20250417T080000
+DESCRIPTION:-0.665ft at 06:36\n-0.016ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250417T090000
+DTEND:20250417T151800
+DESCRIPTION:-0.004ft at 09:00\n-2.998ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250417T170600
+DTEND:20250417T194200
+DESCRIPTION:-2.996ft at 17:06\n-2.977ft at 19:42
 END:VEVENT
 END:VCALENDAR
