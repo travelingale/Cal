@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250403T065400
-DTEND:20250403T081800
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250403T115400
-DTEND:20250403T154800
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250404T065400
 DTEND:20250404T093600
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250404T130000
 DTEND:20250404T165400
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250405T075400
 DTEND:20250405T105400
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250405T140600
 DTEND:20250405T173600
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250406T090000
 DTEND:20250406T120600
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250406T145400
 DTEND:20250406T181200
-DESCRIPTION:Healthy WNW swell maxes out in the morning\, as some fresh SSW
-  swell joins in\, with waves in the overhead to double overhead range. Gra
- dual fade in size as the day goes on. Winds looking light most of the day\
- , picking up offshore late afternoon. 
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250407T100000
 DTEND:20250407T130600
-DESCRIPTION:-2.970ft at 10:00\n-0.052ft at 13:06
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250407T153000
 DTEND:20250407T184200
-DESCRIPTION:-0.041ft at 15:30\n-2.964ft at 18:42
+DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
+ l looking good for surf running in the head high to a few feet overhead ra
+ nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
+ inds looking to stay on the light side all day at this point. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -216,5 +204,17 @@ SUMMARY:OST
 DTSTART:20250418T063000
 DTEND:20250418T163000
 DESCRIPTION:-1.443ft at 06:30\n-2.994ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250419T063000
+DTEND:20250419T101200
+DESCRIPTION:-2.257ft at 06:30\n-0.008ft at 10:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250419T105400
+DTEND:20250419T170000
+DESCRIPTION:-0.010ft at 10:54\n-2.976ft at 17:00
 END:VEVENT
 END:VCALENDAR
