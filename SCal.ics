@@ -3,87 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250404T065400
-DTEND:20250404T093600
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250404T130000
-DTEND:20250404T165400
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250405T075400
 DTEND:20250405T105400
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250405T140600
 DTEND:20250405T173600
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250406T090000
 DTEND:20250406T120600
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250406T145400
 DTEND:20250406T181200
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250407T100000
 DTEND:20250407T130600
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250407T153000
 DTEND:20250407T184200
-DESCRIPTION:Easing WNW swell\, along with some holding SSW swell\, is stil
- l looking good for surf running in the head high to a few feet overhead ra
- nge in the morning. Waves will taper off as the day goes on. <br>\n<br>\nW
- inds looking to stay on the light side all day at this point. 
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250408T105400
 DTEND:20250408T141800
-DESCRIPTION:-2.940ft at 10:54\n-0.022ft at 14:18
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250408T153600
 DTEND:20250408T190000
-DESCRIPTION:-0.008ft at 15:36\n-2.907ft at 19:00
+DESCRIPTION:Old swell combo with fun surf\, running chest to head high in 
+ the morning\, inching down during the day. Winds looking to stay light all
+  day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -216,5 +196,17 @@ SUMMARY:OST
 DTSTART:20250419T105400
 DTEND:20250419T170000
 DESCRIPTION:-0.010ft at 10:54\n-2.976ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250420T064200
+DTEND:20250420T104800
+DESCRIPTION:-2.920ft at 06:42\n-0.014ft at 10:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250420T122400
+DTEND:20250420T172400
+DESCRIPTION:-0.023ft at 12:24\n-2.988ft at 17:24
 END:VEVENT
 END:VCALENDAR
