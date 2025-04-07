@@ -3,71 +3,59 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250406T090000
-DTEND:20250406T120600
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250406T145400
-DTEND:20250406T181200
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250407T100000
 DTEND:20250407T130600
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250407T153000
 DTEND:20250407T184200
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250408T105400
 DTEND:20250408T141800
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250408T153600
 DTEND:20250408T190000
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250409T113600
 DTEND:20250409T191800
-DESCRIPTION:Waves edging up as a new combo of WNW swell and longer-period 
- SSW swell gradually fills in\, looking good for waist to shoulder high in 
- the afternoon.  Winds looking to stay on the light side all day. 
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250410T064200
 DTEND:20250410T071800
-DESCRIPTION:-2.427ft at 06:42\n-2.937ft at 07:18
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250410T121800
 DTEND:20250410T193000
-DESCRIPTION:-2.960ft at 12:18\n-2.947ft at 19:30
+DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
+ SW swell builds\, looking good for wide spread head high+ waves by the aft
+ ernoon. Winds look favorable\, rising offshores in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -206,5 +194,17 @@ SUMMARY:OST
 DTSTART:20250421T133000
 DTEND:20250421T173600
 DESCRIPTION:-0.023ft at 13:30\n-2.963ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250422T084200
+DTEND:20250422T121200
+DESCRIPTION:-2.996ft at 08:42\n-0.042ft at 12:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250422T141200
+DTEND:20250422T174800
+DESCRIPTION:-0.003ft at 14:12\n-2.968ft at 17:48
 END:VEVENT
 END:VCALENDAR
