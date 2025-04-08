@@ -3,71 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250407T100000
-DTEND:20250407T130600
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250407T153000
-DTEND:20250407T184200
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250408T105400
 DTEND:20250408T141800
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250408T153600
 DTEND:20250408T190000
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250409T113600
 DTEND:20250409T191800
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250410T064200
 DTEND:20250410T071800
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250410T121800
 DTEND:20250410T193000
-DESCRIPTION:Surf up a notch or two as mix of WNW swell and longer-period S
- SW swell builds\, looking good for wide spread head high+ waves by the aft
- ernoon. Winds look favorable\, rising offshores in the afternoon. 
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250411T064200
 DTEND:20250411T081800
-DESCRIPTION:-1.603ft at 06:42\n-2.990ft at 08:18
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250411T125400
 DTEND:20250411T193600
-DESCRIPTION:-2.980ft at 12:54\n-2.914ft at 19:36
+DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
+  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
+ n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
+ ight+ SW wind in the afternoon adds some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -206,5 +201,17 @@ SUMMARY:OST
 DTSTART:20250422T141200
 DTEND:20250422T174800
 DESCRIPTION:-0.003ft at 14:12\n-2.968ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250423T094800
+DTEND:20250423T131200
+DESCRIPTION:-2.921ft at 09:48\n-0.028ft at 13:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250423T143600
+DTEND:20250423T180000
+DESCRIPTION:-0.010ft at 14:36\n-2.995ft at 18:00
 END:VEVENT
 END:VCALENDAR
