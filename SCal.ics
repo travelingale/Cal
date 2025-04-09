@@ -3,78 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250408T105400
-DTEND:20250408T141800
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250408T153600
-DTEND:20250408T190000
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250409T113600
 DTEND:20250409T191800
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250410T064200
 DTEND:20250410T071800
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250410T121800
 DTEND:20250410T193000
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250411T064200
 DTEND:20250411T081800
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250411T125400
 DTEND:20250411T193600
-DESCRIPTION:Peaking blend of WNW swell and longer-period SSW swell sets up
-  widespread head high+ waves\, while better breaks go 1-2' overhead. <br>\
- n<br>\nLight/variable wind and crisp\, clean conditions for the morning. L
- ight+ SW wind in the afternoon adds some texture. 
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250412T064200
 DTEND:20250412T091200
-DESCRIPTION:-0.882ft at 06:42\n-2.992ft at 09:12
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250412T133000
 DTEND:20250412T193600
-DESCRIPTION:-2.987ft at 13:30\n-2.828ft at 19:36
+DESCRIPTION:Surf off a notch from Sunday as SSW and WNW swell blend eases 
+ but still running chest to head high in the morning. Waves taper off durin
+ g the day. Light winds due all day\, offshore in the morning\, side shore 
+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -213,5 +201,11 @@ SUMMARY:OST
 DTSTART:20250423T143600
 DTEND:20250423T180000
 DESCRIPTION:-0.010ft at 14:36\n-2.995ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250424T104200
+DTEND:20250424T180600
+DESCRIPTION:-2.995ft at 10:42\n-2.900ft at 18:06
 END:VEVENT
 END:VCALENDAR
