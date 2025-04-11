@@ -3,79 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250410T064200
-DTEND:20250410T071800
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250410T121800
-DTEND:20250410T193000
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250411T064200
 DTEND:20250411T081800
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250411T125400
 DTEND:20250411T193600
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250412T064200
 DTEND:20250412T091200
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250412T133000
 DTEND:20250412T193600
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250413T063600
 DTEND:20250413T100600
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250413T140600
 DTEND:20250413T193600
-DESCRIPTION:Old combo of SSW and WNW swell continues to ease\, for mainly 
- waist to shoulder high zone waves. Morning winds looking light offshore\, 
- a little bump as SSW onshores puff up in the afternoon. 
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250414T064800
 DTEND:20250414T110000
-DESCRIPTION:-0.011ft at 06:48\n-2.953ft at 11:00
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250414T144800
 DTEND:20250414T194200
-DESCRIPTION:-2.966ft at 14:48\n-2.832ft at 19:42
+DESCRIPTION:New\, fair size blend of WNW and SSW swell picking up in the m
+ orning then peaking over the afternoon for chest to head high+waves. Morni
+ ng looks clean\, possible rising SSW onshores in the afternoon for some cr
+ umble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -208,5 +204,17 @@ SUMMARY:OST
 DTSTART:20250425T114200
 DTEND:20250425T181800
 DESCRIPTION:-2.953ft at 11:42\n-2.877ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250426T062400
+DTEND:20250426T080000
+DESCRIPTION:-1.112ft at 06:24\n-2.911ft at 08:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250426T124200
+DTEND:20250426T183600
+DESCRIPTION:-2.911ft at 12:42\n-2.936ft at 18:36
 END:VEVENT
 END:VCALENDAR
