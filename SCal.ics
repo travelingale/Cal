@@ -3,102 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250413T063600
-DTEND:20250413T100600
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250413T140600
-DTEND:20250413T193600
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250414T064800
 DTEND:20250414T110000
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250414T144800
 DTEND:20250414T194200
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250415T074200
 DTEND:20250415T120600
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250415T152400
 DTEND:20250415T194200
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250416T063600
 DTEND:20250416T070000
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250416T082400
 DTEND:20250416T133000
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250416T160600
 DTEND:20250416T194200
-DESCRIPTION:Fading but still fun mix of SSW and WNW swell with surf mainly
-  running in the chest to head high zone in the morning\, tapering off over
-  the afternoon. At this point looks like moderate side shore WSW winds due
-  much of the day.
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250417T063600
 DTEND:20250417T080000
-DESCRIPTION:-0.665ft at 06:36\n-0.016ft at 08:00
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250417T090000
 DTEND:20250417T151800
-DESCRIPTION:-0.004ft at 09:00\n-2.998ft at 15:18
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250417T170600
 DTEND:20250417T194200
-DESCRIPTION:-2.996ft at 17:06\n-2.977ft at 19:42
+DESCRIPTION:Easing WNW swell and SSW swell for waves running waist to ches
+ t high. Morning winds look light\, then possible pick up in onshore SW win
+ ds for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -219,5 +200,17 @@ SUMMARY:OST
 DTSTART:20250428T143600
 DTEND:20250428T191200
 DESCRIPTION:-2.984ft at 14:36\n-2.910ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250429T090000
+DTEND:20250429T113000
+DESCRIPTION:-0.019ft at 09:00\n-2.916ft at 11:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250429T154200
+DTEND:20250429T193600
+DESCRIPTION:-2.988ft at 15:42\n-2.938ft at 19:36
 END:VEVENT
 END:VCALENDAR
