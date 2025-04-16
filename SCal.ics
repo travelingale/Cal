@@ -3,96 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250415T074200
-DTEND:20250415T120600
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250415T152400
-DTEND:20250415T194200
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250416T063600
 DTEND:20250416T070000
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250416T082400
 DTEND:20250416T133000
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250416T160600
 DTEND:20250416T194200
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250417T063600
 DTEND:20250417T080000
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250417T090000
 DTEND:20250417T151800
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250417T170600
 DTEND:20250417T194200
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250418T063000
 DTEND:20250418T163000
-DESCRIPTION:Potential for building\, modest scale combo of WNW and SW swel
- l\, setting up waist to shoulder high+ surf over the afternoon.  Light/var
- iable winds due most of the morning\, then low-end moderate SSW onshores f
- or the afternoon. 
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250419T063000
 DTEND:20250419T101200
-DESCRIPTION:-2.257ft at 06:30\n-0.008ft at 10:12
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250419T105400
 DTEND:20250419T170000
-DESCRIPTION:-0.010ft at 10:54\n-2.976ft at 17:00
+DESCRIPTION:NW swell could nudge up and SSW swell looks to linger\,for wai
+ st to chest high waves in the morning\, tapering off a little during the a
+ fternoon. Light sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -219,5 +198,17 @@ SUMMARY:OST
 DTSTART:20250430T170000
 DTEND:20250430T195400
 DESCRIPTION:-2.991ft at 17:00\n-2.900ft at 19:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250501T105400
+DTEND:20250501T140000
+DESCRIPTION:-0.007ft at 10:54\n-2.976ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250501T184200
+DTEND:20250501T195400
+DESCRIPTION:-2.996ft at 18:42\n-2.898ft at 19:54
 END:VEVENT
 END:VCALENDAR
