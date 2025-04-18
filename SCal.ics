@@ -3,79 +3,59 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250417T063600
-DTEND:20250417T080000
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250417T090000
-DTEND:20250417T151800
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250417T170600
-DTEND:20250417T194200
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250418T063000
 DTEND:20250418T163000
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250419T063000
 DTEND:20250419T101200
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250419T105400
 DTEND:20250419T170000
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250420T064200
 DTEND:20250420T104800
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250420T122400
 DTEND:20250420T172400
-DESCRIPTION:Decent NW and SSW swell combo maintains waist to chest high ra
- nge surf. Light winds due through the morning\, light+ SSW onshores in the
-  afternoon. 
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250421T074200
 DTEND:20250421T113000
-DESCRIPTION:-2.953ft at 07:42\n-0.008ft at 11:30
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250421T133000
 DTEND:20250421T173600
-DESCRIPTION:-0.023ft at 13:30\n-2.963ft at 17:36
+DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
+ aist to chest high. Light/variable winds due most of the morning\, then li
+ ght+ SW onshores add some textured for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +182,17 @@ SUMMARY:OST
 DTSTART:20250502T114800
 DTEND:20250502T150000
 DESCRIPTION:-0.042ft at 11:48\n-2.936ft at 15:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250503T061200
+DTEND:20250503T085400
+DESCRIPTION:-2.884ft at 06:12\n-0.055ft at 08:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250503T123600
+DTEND:20250503T155400
+DESCRIPTION:-0.067ft at 12:36\n-2.967ft at 15:54
 END:VEVENT
 END:VCALENDAR
