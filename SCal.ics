@@ -3,71 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250418T063000
-DTEND:20250418T163000
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250419T063000
 DTEND:20250419T101200
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250419T105400
 DTEND:20250419T170000
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250420T064200
 DTEND:20250420T104800
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250420T122400
 DTEND:20250420T172400
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250421T074200
 DTEND:20250421T113000
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250421T133000
 DTEND:20250421T173600
-DESCRIPTION:SSW swell and NW swell combo lingers\, keeping waves running w
- aist to chest high. Light/variable winds due most of the morning\, then li
- ght+ SW onshores add some textured for the afternoon. 
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250422T084200
 DTEND:20250422T121200
-DESCRIPTION:-2.996ft at 08:42\n-0.042ft at 12:12
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250422T141200
 DTEND:20250422T174800
-DESCRIPTION:-0.003ft at 14:12\n-2.968ft at 17:48
+DESCRIPTION:Recent storm activity down around New Zealand sets up a nice s
+ hot of new\, long-period SW/SSW swell\, as some shorter-period NW swell st
+ icks around. The swell combo looks good for waist to shoulder high surf. S
+ outh winds expected through the day\, very light in the morning\, light+ f
+ or the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +206,17 @@ SUMMARY:OST
 DTSTART:20250503T123600
 DTEND:20250503T155400
 DESCRIPTION:-0.067ft at 12:36\n-2.967ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250504T070600
+DTEND:20250504T102400
+DESCRIPTION:-2.963ft at 07:06\n-0.021ft at 10:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250504T130600
+DTEND:20250504T163600
+DESCRIPTION:-0.011ft at 13:06\n-2.997ft at 16:36
 END:VEVENT
 END:VCALENDAR
