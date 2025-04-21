@@ -3,73 +3,59 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250420T064200
-DTEND:20250420T104800
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250420T122400
-DTEND:20250420T172400
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250421T074200
 DTEND:20250421T113000
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250421T133000
 DTEND:20250421T173600
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250422T084200
 DTEND:20250422T121200
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250422T141200
 DTEND:20250422T174800
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250423T094800
 DTEND:20250423T131200
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250423T143600
 DTEND:20250423T180000
-DESCRIPTION:Mix of primary long-period SSW swell and secondary shorter-per
- iod NW swell expected to maintain waist to shoulder high waves. Morning wi
- nds looking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250424T104200
 DTEND:20250424T180600
-DESCRIPTION:-2.995ft at 10:42\n-2.900ft at 18:06
+DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
+ swell due to keep waist to shoulder high surf rolling in. Morning winds lo
+ oking light\, then possible moderate+ WNW winds for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +188,11 @@ SUMMARY:OST
 DTSTART:20250505T131800
 DTEND:20250505T170600
 DESCRIPTION:-0.024ft at 13:18\n-2.994ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250506T090000
+DTEND:20250506T172400
+DESCRIPTION:-2.985ft at 09:00\n-2.921ft at 17:24
 END:VEVENT
 END:VCALENDAR
