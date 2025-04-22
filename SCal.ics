@@ -3,71 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250421T074200
-DTEND:20250421T113000
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250421T133000
-DTEND:20250421T173600
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250422T084200
 DTEND:20250422T121200
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250422T141200
 DTEND:20250422T174800
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250423T094800
 DTEND:20250423T131200
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250423T143600
 DTEND:20250423T180000
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250424T104200
 DTEND:20250424T180600
-DESCRIPTION:Primary long-period SSW swell and secondary shorter-period NW 
- swell due to keep waist to shoulder high surf rolling in. Morning winds lo
- oking light\, then possible moderate+ WNW winds for the afternoon.
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250425T062400
 DTEND:20250425T064800
-DESCRIPTION:-2.515ft at 06:24\n-2.909ft at 06:48
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250425T114200
 DTEND:20250425T181800
-DESCRIPTION:-2.953ft at 11:42\n-2.877ft at 18:18
+DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
+ ter-period NW swell looks good for most chest to head high+ surf. Light wi
+ nds and a favorable tide push first part of the morning. Moderate offshore
+  NW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -194,5 +189,11 @@ SUMMARY:OST
 DTSTART:20250506T090000
 DTEND:20250506T172400
 DESCRIPTION:-2.985ft at 09:00\n-2.921ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250507T095400
+DTEND:20250507T174200
+DESCRIPTION:-2.986ft at 09:54\n-2.946ft at 17:42
 END:VEVENT
 END:VCALENDAR
