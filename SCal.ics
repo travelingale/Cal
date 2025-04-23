@@ -3,78 +3,80 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250422T084200
-DTEND:20250422T121200
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250422T141200
-DTEND:20250422T174800
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250423T094800
 DTEND:20250423T131200
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250423T143600
 DTEND:20250423T180000
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250424T104200
 DTEND:20250424T180600
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250425T062400
 DTEND:20250425T064800
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250425T114200
 DTEND:20250425T181800
-DESCRIPTION:Nice combo of primary long-period SSW swell and secondary shor
- ter-period NW swell looks good for most chest to head high+ surf. Light wi
- nds and a favorable tide push first part of the morning. Moderate offshore
-  NW
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250426T062400
 DTEND:20250426T080000
-DESCRIPTION:-1.112ft at 06:24\n-2.911ft at 08:00
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250426T124200
 DTEND:20250426T183600
-DESCRIPTION:-2.911ft at 12:42\n-2.936ft at 18:36
+DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
+ h pressure under Tahiti and a series of strong lows in the Central/Eastern
+  part of the basin. Recent satellite passes have confirmed 40' seas in the
+  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
+ r-period NW swell\, to set up chest to head high+ waves\, showing most siz
+ e in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -195,5 +197,17 @@ SUMMARY:OST
 DTSTART:20250507T095400
 DTEND:20250507T174200
 DESCRIPTION:-2.986ft at 09:54\n-2.946ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250508T060600
+DTEND:20250508T070600
+DESCRIPTION:-2.338ft at 06:06\n-2.995ft at 07:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250508T104800
+DTEND:20250508T175400
+DESCRIPTION:-2.962ft at 10:48\n-2.963ft at 17:54
 END:VEVENT
 END:VCALENDAR
