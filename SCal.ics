@@ -3,92 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250423T094800
-DTEND:20250423T131200
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250423T143600
-DTEND:20250423T180000
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250424T104200
 DTEND:20250424T180600
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250425T062400
 DTEND:20250425T064800
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250425T114200
 DTEND:20250425T181800
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250426T062400
 DTEND:20250426T080000
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250426T124200
 DTEND:20250426T183600
-DESCRIPTION:Good run of waves due off a favorable pattern in the SPAC: hig
- h pressure under Tahiti and a series of strong lows in the Central/Eastern
-  part of the basin. Recent satellite passes have confirmed 40' seas in the
-  first storm. <br>\n<br>\nThe fresh Southern Hemi joins lingering\, shorte
- r-period NW swell\, to set up chest to head high+ waves\, showing most siz
- e in the afternoon. 
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250427T064200
 DTEND:20250427T091200
-DESCRIPTION:-0.012ft at 06:42\n-2.956ft at 09:12
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250427T133600
 DTEND:20250427T185400
-DESCRIPTION:-2.974ft at 13:36\n-2.944ft at 18:54
+DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
+ ts up widespread shoulder to head high+ surf\, while better exposures/comb
+ o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
+ rable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -209,5 +183,17 @@ SUMMARY:OST
 DTSTART:20250508T104800
 DTEND:20250508T175400
 DESCRIPTION:-2.962ft at 10:48\n-2.963ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250509T060600
+DTEND:20250509T080600
+DESCRIPTION:-1.513ft at 06:06\n-2.979ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250509T113600
+DTEND:20250509T180000
+DESCRIPTION:-2.984ft at 11:36\n-2.949ft at 18:00
 END:VEVENT
 END:VCALENDAR
