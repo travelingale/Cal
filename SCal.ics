@@ -3,78 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250424T104200
-DTEND:20250424T180600
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250425T062400
 DTEND:20250425T064800
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250425T114200
 DTEND:20250425T181800
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250426T062400
 DTEND:20250426T080000
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250426T124200
 DTEND:20250426T183600
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250427T064200
 DTEND:20250427T091200
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250427T133600
 DTEND:20250427T185400
-DESCRIPTION:Healthy blend of long-period SSW swell and NW/WNW swell mix se
- ts up widespread shoulder to head high+ surf\, while better exposures/comb
- o breaks are hitting a foot+ overhead. Light winds due all day\, most favo
- rable in the morning. 
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250428T080000
 DTEND:20250428T102400
-DESCRIPTION:-0.105ft at 08:00\n-2.997ft at 10:24
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250428T143600
 DTEND:20250428T191200
-DESCRIPTION:-2.984ft at 14:36\n-2.910ft at 19:12
+DESCRIPTION:Continued run of SSW swell and secondary\, shorter-period NW/W
+ NW swell keeps lots of spots in shoulder to head high+ surf\, as better ex
+ posures/combo breaks go a foot+ overhead. Winds due to stay on the light s
+ ide\, most favorable in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -195,5 +192,17 @@ SUMMARY:OST
 DTSTART:20250509T113600
 DTEND:20250509T180000
 DESCRIPTION:-2.984ft at 11:36\n-2.949ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250510T060600
+DTEND:20250510T090000
+DESCRIPTION:-0.750ft at 06:06\n-2.986ft at 09:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250510T123000
+DTEND:20250510T180600
+DESCRIPTION:-2.957ft at 12:30\n-2.967ft at 18:06
 END:VEVENT
 END:VCALENDAR
