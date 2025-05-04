@@ -3,79 +3,57 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250503T061200
-DTEND:20250503T085400
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250503T123600
-DTEND:20250503T155400
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250504T070600
 DTEND:20250504T102400
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250504T130600
 DTEND:20250504T163600
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250505T080600
 DTEND:20250505T120600
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250505T131800
 DTEND:20250505T170600
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250506T090000
 DTEND:20250506T172400
-DESCRIPTION:Fresh SSW swell mix (210-190) filling in\, along with shorter-
- period WNW swell. Waves picking up during the day\, getting chest to head 
- high for the afternoon\, as standouts see better sets. <br>\n<br>\nThe pat
- tern of light/variable morning winds\, followed by light+ afternoon SW ons
- hores looks to hold\, for clean conditions to a little crumble. 
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250507T095400
 DTEND:20250507T174200
-DESCRIPTION:-2.986ft at 09:54\n-2.946ft at 17:42
+DESCRIPTION:Combo of SSW Southern Hemi swell and shorter-period WNW swell 
+ is expected to maintain chest to head high+ surf for good spots\, as best 
+ breaks see better sets. <br>\n<br>\nAt this point it looks like light sout
+ herly winds through the day for clean to textured+ conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +180,17 @@ SUMMARY:OST
 DTSTART:20250518T112400
 DTEND:20250518T152400
 DESCRIPTION:-0.051ft at 11:24\n-2.961ft at 15:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250519T060000
+DTEND:20250519T092400
+DESCRIPTION:-2.901ft at 06:00\n-0.048ft at 09:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250519T115400
+DTEND:20250519T154800
+DESCRIPTION:-0.019ft at 11:54\n-2.985ft at 15:48
 END:VEVENT
 END:VCALENDAR
