@@ -3,92 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250507T095400
-DTEND:20250507T174200
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250508T060600
 DTEND:20250508T070600
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250508T104800
 DTEND:20250508T175400
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250509T060600
 DTEND:20250509T080600
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250509T113600
 DTEND:20250509T180000
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250510T060600
 DTEND:20250510T090000
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250510T123000
 DTEND:20250510T180600
-DESCRIPTION:Lingering combo of SSW swell and steep\, shorter-period NW swe
- ll which mainly bypasses town spots\, maintains waist to chest high waves 
- in the morning\, dipping a little over the afternoon. <br>\n<br>\nMorning 
- winds looking light/variable\, possible moderate+ WNW offshores for town s
- pots developing over the afternoon. Tide sensitive spots will be slowed by
-  the evening high tide. 
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250511T060600
 DTEND:20250511T094800
-DESCRIPTION:-0.117ft at 06:06\n-2.983ft at 09:48
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250511T131800
 DTEND:20250511T181200
-DESCRIPTION:-2.986ft at 13:18\n-2.987ft at 18:12
+DESCRIPTION:Surf down around waist-chest high off fading SSW and WNW swell
+  blend. <br>\n<br>\nMorning winds look light/variable\, light+ SW onshores
+  over the afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -203,5 +178,17 @@ SUMMARY:OST
 DTSTART:20250522T084800
 DTEND:20250522T162400
 DESCRIPTION:-2.996ft at 08:48\n-2.937ft at 16:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250523T055400
+DTEND:20250523T061800
+DESCRIPTION:-2.665ft at 05:54\n-2.943ft at 06:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250523T100000
+DTEND:20250523T163600
+DESCRIPTION:-2.981ft at 10:00\n-2.910ft at 16:36
 END:VEVENT
 END:VCALENDAR
