@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250509T060600
-DTEND:20250509T080600
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250509T113600
-DTEND:20250509T180000
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250510T060600
 DTEND:20250510T090000
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250510T123000
 DTEND:20250510T180600
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250511T060600
 DTEND:20250511T094800
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250511T131800
 DTEND:20250511T181200
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250512T065400
 DTEND:20250512T103600
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250512T141200
 DTEND:20250512T181800
-DESCRIPTION:Gradual pick up in SSW swell and shorter-period WNW swell mix 
- due\, for more waist to shoulder high zone waves in the afternoon. <br>\n<
- br>\nAt this point it looks like mainly light+ WSW winds through most of t
- he day\, for textured+ conditions. 
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250513T074200
 DTEND:20250513T112400
-DESCRIPTION:-0.026ft at 07:42\n-2.985ft at 11:24
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250513T150600
 DTEND:20250513T181800
-DESCRIPTION:-2.999ft at 15:06\n-2.965ft at 18:18
+DESCRIPTION:Combo of SSW and WNW swell continues\, maintaining waist to sh
+ oulder high range surf at good spots.<br>\n<br>\nMorning looks clean with 
+ light/variable winds\, nice tide push then too. Southerly sea breeze puffs
+  for some afternoon texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -198,5 +186,17 @@ SUMMARY:OST
 DTSTART:20250524T111800
 DTEND:20250524T165400
 DESCRIPTION:-2.939ft at 11:18\n-2.948ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250525T055400
+DTEND:20250525T084200
+DESCRIPTION:-0.036ft at 05:54\n-2.965ft at 08:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250525T123000
+DTEND:20250525T171200
+DESCRIPTION:-2.968ft at 12:30\n-2.928ft at 17:12
 END:VEVENT
 END:VCALENDAR
