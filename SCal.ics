@@ -3,65 +3,45 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250511T060600
-DTEND:20250511T094800
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250511T131800
-DTEND:20250511T181200
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250512T065400
 DTEND:20250512T103600
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250512T141200
 DTEND:20250512T181800
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250513T074200
 DTEND:20250513T112400
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250513T150600
 DTEND:20250513T181800
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250514T083000
 DTEND:20250514T121800
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250514T161200
 DTEND:20250514T182400
-DESCRIPTION:Fading mix of SSW and WNW swell for waves mainly running waist
-  high. Light winds and a nice tide push due in the morning. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250515T091200
 DTEND:20250515T131200
-DESCRIPTION:-0.040ft at 09:12\n-2.972ft at 13:12
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +162,17 @@ SUMMARY:OST
 DTSTART:20250526T134200
 DTEND:20250526T173600
 DESCRIPTION:-2.992ft at 13:42\n-2.941ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250527T081200
+DTEND:20250527T104200
+DESCRIPTION:-0.054ft at 08:12\n-2.996ft at 10:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250527T150000
+DTEND:20250527T180600
+DESCRIPTION:-2.966ft at 15:00\n-2.965ft at 18:06
 END:VEVENT
 END:VCALENDAR
