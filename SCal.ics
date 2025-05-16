@@ -3,85 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250515T091200
-DTEND:20250515T131200
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250516T060000
 DTEND:20250516T063000
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250516T095400
 DTEND:20250516T140600
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250517T060000
 DTEND:20250517T072400
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250517T104200
 DTEND:20250517T145400
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250518T060000
 DTEND:20250518T082400
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250518T112400
 DTEND:20250518T152400
-DESCRIPTION:Easing combo of primary SSW/S swell and secondary\, shorter-pe
- riod NW swell is still good for waist to shoulder+ waves at well exposed s
- pots in the morning\, then surf gradually tapers off during the day. Winds
-  looking to stay on the light side all day\, most favorable in the morning
- . 
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250519T060000
 DTEND:20250519T092400
-DESCRIPTION:-2.901ft at 06:00\n-0.048ft at 09:24
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250519T115400
 DTEND:20250519T154800
-DESCRIPTION:-0.019ft at 11:54\n-2.985ft at 15:48
+DESCRIPTION:Old combo of SSW/S swell and smaller NW swell for surf mainly 
+ running waist to chest high at better breaks in the morning\, then slowly 
+ backing down during the day. Looks like another day of light winds\, with 
+ cleanest conditions in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -202,5 +192,17 @@ SUMMARY:OST
 DTSTART:20250530T185400
 DTEND:20250530T201200
 DESCRIPTION:-2.995ft at 18:54\n-2.984ft at 20:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250531T055400
+DTEND:20250531T070600
+DESCRIPTION:-1.497ft at 05:54\n-0.081ft at 07:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250531T111200
+DTEND:20250531T140600
+DESCRIPTION:-0.036ft at 11:12\n-2.945ft at 14:06
 END:VEVENT
 END:VCALENDAR
