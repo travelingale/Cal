@@ -3,81 +3,66 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250517T060000
-DTEND:20250517T072400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250517T104200
-DTEND:20250517T145400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250518T060000
 DTEND:20250518T082400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250518T112400
 DTEND:20250518T152400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250519T060000
 DTEND:20250519T092400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250519T115400
 DTEND:20250519T154800
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250520T064800
 DTEND:20250520T105400
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250520T120600
 DTEND:20250520T160000
-DESCRIPTION:Fresh combo of SSW and NW swell sets up more waist to shoulder
-  high waves\, while top breaks hit head high. Pattern of light/variable mo
- rning winds\, followed by a light+ SW afternoon sea breeze looks to contin
- ue. 
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250521T074800
 DTEND:20250521T161200
-DESCRIPTION:-2.944ft at 07:48\n-2.939ft at 16:12
+DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
+ morning\, then slowly back down during the day. Calm/clean morning\, follo
+ wed by a light afternoon sea breeze for some texture. Elevated high tide s
+ lows most spots later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -204,5 +189,17 @@ SUMMARY:OST
 DTSTART:20250601T113600
 DTEND:20250601T144800
 DESCRIPTION:-0.049ft at 11:36\n-2.995ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250602T061800
+DTEND:20250602T103000
+DESCRIPTION:-2.974ft at 06:18\n-0.002ft at 10:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250602T111200
+DTEND:20250602T151800
+DESCRIPTION:-0.004ft at 11:12\n-2.984ft at 15:18
 END:VEVENT
 END:VCALENDAR
