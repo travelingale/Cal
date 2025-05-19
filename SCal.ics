@@ -3,72 +3,69 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250518T060000
-DTEND:20250518T082400
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250518T112400
-DTEND:20250518T152400
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250519T060000
 DTEND:20250519T092400
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250519T115400
 DTEND:20250519T154800
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250520T064800
 DTEND:20250520T105400
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250520T120600
 DTEND:20250520T160000
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250521T074800
 DTEND:20250521T161200
-DESCRIPTION:Waves running waist to chest high off easing swell mix in the 
- morning\, then slowly back down during the day. Calm/clean morning\, follo
- wed by a light afternoon sea breeze for some texture. Elevated high tide s
- lows most spots later afternoon/evening. 
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250522T084800
 DTEND:20250522T162400
-DESCRIPTION:-2.996ft at 08:48\n-2.937ft at 16:24
+DESCRIPTION:Good shot of long-period SSW swell builds through the day\, al
+ ong with some secondary\, short-period WNW swell\, for chest to head high 
+ surf at good southerly exposures in the afternoon\, while the best of thos
+ e breaks see better sets\, showing largest late. <br>\n<br>\nLight/variabl
+ e morning winds\, followed by rising WNW-NW winds over the afternoon. Elev
+ ated high tide bogs most spots down later afternoon/evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -201,5 +198,11 @@ SUMMARY:OST
 DTSTART:20250602T111200
 DTEND:20250602T151800
 DESCRIPTION:-0.004ft at 11:12\n-2.984ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250603T070000
+DTEND:20250603T154200
+DESCRIPTION:-2.988ft at 07:00\n-2.988ft at 15:42
 END:VEVENT
 END:VCALENDAR
