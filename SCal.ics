@@ -3,75 +3,69 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250520T064800
-DTEND:20250520T105400
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250520T120600
-DTEND:20250520T160000
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250521T074800
 DTEND:20250521T161200
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250522T084800
 DTEND:20250522T162400
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250523T055400
 DTEND:20250523T061800
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250523T100000
 DTEND:20250523T163600
-DESCRIPTION:More SSW swell moves in\, as secondary\, shorter-period NW swe
- ll lingers\, for chest to head high+ waves\, while standouts are hitting 1
- -2' overhead\, largest in the afternoon. Light/variable winds due early mo
- rning\, puffing up to light+ SW onshores over the afternoon for some textu
- re. 
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250524T055400
 DTEND:20250524T073600
-DESCRIPTION:-1.424ft at 05:54\n-2.961ft at 07:36
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250524T111800
 DTEND:20250524T165400
-DESCRIPTION:-2.939ft at 11:18\n-2.948ft at 16:54
+DESCRIPTION:Nice run of SSW swell and smaller NW swell which mainly misses
+  town spots\, maintains chest to head high+ surf at good southerly exposur
+ es\, as best breaks go 1-2' overhead. <br>\n<br>\nMorning winds looking li
+ ght/variable\, light+ SW-W onshore/side shores and some crumble mid-day in
+ to the afternoon. Elevated high tide bogs most spots down late afternoon/e
+ vening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -192,5 +186,17 @@ SUMMARY:OST
 DTSTART:20250604T074200
 DTEND:20250604T155400
 DESCRIPTION:-2.997ft at 07:42\n-2.915ft at 15:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250605T055400
+DTEND:20250605T064200
+DESCRIPTION:-2.721ft at 05:54\n-2.989ft at 06:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250605T083600
+DTEND:20250605T160600
+DESCRIPTION:-2.983ft at 08:36\n-2.931ft at 16:06
 END:VEVENT
 END:VCALENDAR
