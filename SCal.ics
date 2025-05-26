@@ -3,103 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250525T055400
-DTEND:20250525T084200
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250525T123000
-DTEND:20250525T171200
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250526T071200
 DTEND:20250526T094200
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250526T134200
 DTEND:20250526T173600
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250527T081200
 DTEND:20250527T104200
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250527T150000
 DTEND:20250527T180600
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250528T090600
 DTEND:20250528T113600
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250528T161200
 DTEND:20250528T184200
-DESCRIPTION:Easing blend of SSW and NW swell\, for waves averaging around 
- waist high. <br>\n<br>\nPattern of light/variable morning winds for a clea
- n first half of the day. NW winds picking up in the afternoon could keep c
- onditions in town clean for the back half of the day. That said\, the morn
- ing tide window is much better to hit\, especially given the smaller surf 
- on tap.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250529T095400
 DTEND:20250529T123000
-DESCRIPTION:-0.029ft at 09:54\n-2.955ft at 12:30
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250529T173600
 DTEND:20250529T192400
-DESCRIPTION:-2.975ft at 17:36\n-2.997ft at 19:24
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -220,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250609T135400
 DTEND:20250609T162400
 DESCRIPTION:-2.983ft at 13:54\n-2.973ft at 16:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250610T070000
+DTEND:20250610T103000
+DESCRIPTION:-0.045ft at 07:00\n-2.946ft at 10:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250610T150600
+DTEND:20250610T163000
+DESCRIPTION:-2.996ft at 15:06\n-2.992ft at 16:30
 END:VEVENT
 END:VCALENDAR
