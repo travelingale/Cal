@@ -3,63 +3,83 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250526T071200
-DTEND:20250526T094200
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250526T134200
-DTEND:20250526T173600
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250527T081200
 DTEND:20250527T104200
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250527T150000
 DTEND:20250527T180600
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250528T090600
 DTEND:20250528T113600
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250528T161200
 DTEND:20250528T184200
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250529T095400
 DTEND:20250529T123000
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250529T173600
 DTEND:20250529T192400
-DESCRIPTION:
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250530T103600
 DTEND:20250530T132400
-DESCRIPTION:-0.019ft at 10:36\n-2.993ft at 13:24
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250530T185400
 DTEND:20250530T201200
-DESCRIPTION:-2.995ft at 18:54\n-2.984ft at 20:12
+DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
+ oking good for waist to chest high waves at better southerly exposures dur
+ ing the afternoon. Pattern of light/variable winds in the morning\, then l
+ ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
+ h tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +200,11 @@ SUMMARY:OST
 DTSTART:20250610T150600
 DTEND:20250610T163000
 DESCRIPTION:-2.996ft at 15:06\n-2.992ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250611T074800
+DTEND:20250611T111200
+DESCRIPTION:-0.063ft at 07:48\n-2.980ft at 11:12
 END:VEVENT
 END:VCALENDAR
