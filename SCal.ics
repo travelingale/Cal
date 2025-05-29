@@ -3,107 +3,91 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250527T081200
-DTEND:20250527T104200
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250527T150000
-DTEND:20250527T180600
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250528T090600
-DTEND:20250528T113600
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250528T161200
-DTEND:20250528T184200
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250529T095400
 DTEND:20250529T123000
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250529T173600
 DTEND:20250529T192400
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250530T103600
 DTEND:20250530T132400
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250530T185400
 DTEND:20250530T201200
-DESCRIPTION:Some new long-period SW swell slowly rises during the day\, lo
- oking good for waist to chest high waves at better southerly exposures dur
- ing the afternoon. Pattern of light/variable winds in the morning\, then l
- ight+ SSW afternoon onshores looks to continue. Mind the mid-afternoon hig
- h tide. 
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250531T055400
 DTEND:20250531T070600
-DESCRIPTION:-1.497ft at 05:54\n-0.081ft at 07:06
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250531T111200
 DTEND:20250531T140600
-DESCRIPTION:-0.036ft at 11:12\n-2.945ft at 14:06
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250601T055400
 DTEND:20250601T083000
-DESCRIPTION:-2.599ft at 05:54\n-0.001ft at 08:30
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250601T113600
 DTEND:20250601T144800
-DESCRIPTION:-0.049ft at 11:36\n-2.995ft at 14:48
+DESCRIPTION:Good shot of SSW swell peaks\, as smaller NW pulse nudges up w
+ hile mostly missing town spots. Good southerly exposures have head high+ w
+ aves\, as best breaks get up to a couple feet overhead. <br>\n<br>\nSouthe
+ rly sea breeze expected through the day\, light most of the morning\, puff
+ ing up to low-end moderate levels by mid-afternoon\, then easing late afte
+ rnoon into the evening. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -206,5 +190,17 @@ SUMMARY:OST
 DTSTART:20250611T074800
 DTEND:20250611T111200
 DESCRIPTION:-0.063ft at 07:48\n-2.980ft at 11:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250612T083000
+DTEND:20250612T114800
+DESCRIPTION:-0.045ft at 08:30\n-2.944ft at 11:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250613T091200
+DTEND:20250613T123000
+DESCRIPTION:-0.065ft at 09:12\n-2.975ft at 12:30
 END:VEVENT
 END:VCALENDAR
