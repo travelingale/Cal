@@ -3,79 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250531T055400
-DTEND:20250531T070600
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250531T111200
-DTEND:20250531T140600
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250601T055400
 DTEND:20250601T083000
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250601T113600
 DTEND:20250601T144800
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250602T061800
 DTEND:20250602T103000
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250602T111200
 DTEND:20250602T151800
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250603T070000
 DTEND:20250603T154200
-DESCRIPTION:Fading SSW swell\, easing NW pulse\, for mainly waist to shoul
- der high waves in the morning at well exposed southerly breaks. Surf backs
-  off a bit during the day. <br>\n<br>\nLight S sea breeze in the morning\,
-  puffs up to light+ SSE onshores over the afternoon for some crumble.  Hig
- h tide late afternoon/evening fattens\, softens the surf. 
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250604T074200
 DTEND:20250604T155400
-DESCRIPTION:-2.997ft at 07:42\n-2.915ft at 15:54
+DESCRIPTION:Modest scale mix of old SSW swell and NW pulse\, with surf run
+ ning waist to chest high at the better southerly exposures. <br>\n<br>\nMo
+ rning winds look light S\, then low-end moderate SSW sea breeze due by mid
+ -afternoon for a little bump. Late afternoon/evening high tide slows most 
+ spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -184,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250615T101800
 DTEND:20250615T133000
 DESCRIPTION:-0.046ft at 10:18\n-2.931ft at 13:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250616T055400
+DTEND:20250616T074200
+DESCRIPTION:-1.720ft at 05:54\n-0.034ft at 07:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250616T103600
+DTEND:20250616T135400
+DESCRIPTION:-0.020ft at 10:36\n-2.951ft at 13:54
 END:VEVENT
 END:VCALENDAR
