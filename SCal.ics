@@ -3,81 +3,73 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250602T061800
-DTEND:20250602T103000
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250602T111200
-DTEND:20250602T151800
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250603T070000
-DTEND:20250603T154200
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250604T074200
 DTEND:20250604T155400
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250605T055400
 DTEND:20250605T064200
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250605T083600
 DTEND:20250605T160600
-DESCRIPTION:Old SSW swell fades while first signs of a new SSW swell creep
-  in\, for waves sticking around the waist high mark at southerly exposures
- . <br>\n<br>\nEarly morning winds look light/variable\, light+ SSW onshore
- s due in the afternoon. 
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250606T055400
 DTEND:20250606T080000
-DESCRIPTION:-2.015ft at 05:54\n-2.994ft at 08:00
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250606T094800
 DTEND:20250606T161200
-DESCRIPTION:-2.987ft at 09:48\n-2.930ft at 16:12
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250607T055400
 DTEND:20250607T084200
-DESCRIPTION:-1.260ft at 05:54\n-2.970ft at 08:42
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250607T111200
 DTEND:20250607T161800
-DESCRIPTION:-2.992ft at 11:12\n-2.962ft at 16:18
+DESCRIPTION:More waist high+ waves at spots with good southerly exposure a
+ s new\, long-period SW swell slowly moves in. <br>\n<br>\nLooks like anoth
+ er day of light/variable winds for clean conditions most of the morning\, 
+ followed by light+ SSW afternoon onshores and a little crumble on the wate
+ r. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +166,17 @@ SUMMARY:OST
 DTSTART:20250617T103000
 DTEND:20250617T141200
 DESCRIPTION:-0.018ft at 10:30\n-2.964ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250618T061200
+DTEND:20250618T142400
+DESCRIPTION:-2.947ft at 06:12\n-2.932ft at 14:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250619T070000
+DTEND:20250619T143600
+DESCRIPTION:-2.965ft at 07:00\n-2.914ft at 14:36
 END:VEVENT
 END:VCALENDAR
