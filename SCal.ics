@@ -3,86 +3,39 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250608T055400
-DTEND:20250608T092400
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250608T123600
-DTEND:20250608T162400
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250609T060600
 DTEND:20250609T095400
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250609T135400
 DTEND:20250609T162400
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250610T070000
 DTEND:20250610T103000
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250610T150600
 DTEND:20250610T163000
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250611T074800
 DTEND:20250611T111200
-DESCRIPTION:Fading SSW swell\, trace NW swell\, is still good for waist to
-  shoulder high surf at southerly exposed spots in the morning while better
-  breaks are head high. Waves ease a little as the day goes on.<br>\n<br>\n
- At this point it looks like very light/variable winds in the morning for c
- lean conditions\, then NW offshores due to pick up for town spots over the
-  afternoon. 
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250612T083000
 DTEND:20250612T114800
-DESCRIPTION:-0.045ft at 08:30\n-2.944ft at 11:48
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -185,5 +138,17 @@ SUMMARY:OST
 DTSTART:20250623T130000
 DTEND:20250623T160000
 DESCRIPTION:-2.981ft at 13:00\n-2.995ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250624T071200
+DTEND:20250624T094800
+DESCRIPTION:-0.099ft at 07:12\n-2.991ft at 09:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250624T141800
+DTEND:20250624T163600
+DESCRIPTION:-2.992ft at 14:18\n-2.983ft at 16:36
 END:VEVENT
 END:VCALENDAR
