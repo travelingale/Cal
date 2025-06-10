@@ -3,45 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250609T060600
-DTEND:20250609T095400
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250609T135400
-DTEND:20250609T162400
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250610T070000
 DTEND:20250610T103000
-DESCRIPTION:
+DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
+ er\, lingering SSW swell rolling in. The straight S swell isn't a great di
+ rection for Santa Cruz/Central CA\, but good exposures will get waist to c
+ hest high surf from it over the afternoon\, while focal points hit head hi
+ gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
+ ery light most of the morning\, puffing up to light+ for a little afternoo
+ n crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250610T150600
 DTEND:20250610T163000
-DESCRIPTION:
+DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
+ er\, lingering SSW swell rolling in. The straight S swell isn't a great di
+ rection for Santa Cruz/Central CA\, but good exposures will get waist to c
+ hest high surf from it over the afternoon\, while focal points hit head hi
+ gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
+ ery light most of the morning\, puffing up to light+ for a little afternoo
+ n crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250611T074800
 DTEND:20250611T111200
-DESCRIPTION:
+DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
+ er\, lingering SSW swell rolling in. The straight S swell isn't a great di
+ rection for Santa Cruz/Central CA\, but good exposures will get waist to c
+ hest high surf from it over the afternoon\, while focal points hit head hi
+ gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
+ ery light most of the morning\, puffing up to light+ for a little afternoo
+ n crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250612T083000
 DTEND:20250612T114800
-DESCRIPTION:
+DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
+ er\, lingering SSW swell rolling in. The straight S swell isn't a great di
+ rection for Santa Cruz/Central CA\, but good exposures will get waist to c
+ hest high surf from it over the afternoon\, while focal points hit head hi
+ gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
+ ery light most of the morning\, puffing up to light+ for a little afternoo
+ n crumble. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250613T091200
 DTEND:20250613T123000
-DESCRIPTION:-0.065ft at 09:12\n-2.975ft at 12:30
+DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
+ er\, lingering SSW swell rolling in. The straight S swell isn't a great di
+ rection for Santa Cruz/Central CA\, but good exposures will get waist to c
+ hest high surf from it over the afternoon\, while focal points hit head hi
+ gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
+ ery light most of the morning\, puffing up to light+ for a little afternoo
+ n crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -150,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250624T141800
 DTEND:20250624T163600
 DESCRIPTION:-2.992ft at 14:18\n-2.983ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250625T080000
+DTEND:20250625T103000
+DESCRIPTION:-0.011ft at 08:00\n-2.960ft at 10:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250625T152400
+DTEND:20250625T172400
+DESCRIPTION:-2.985ft at 15:24\n-2.975ft at 17:24
 END:VEVENT
 END:VCALENDAR
