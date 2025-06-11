@@ -3,69 +3,47 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250610T070000
-DTEND:20250610T103000
-DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
- er\, lingering SSW swell rolling in. The straight S swell isn't a great di
- rection for Santa Cruz/Central CA\, but good exposures will get waist to c
- hest high surf from it over the afternoon\, while focal points hit head hi
- gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
- ery light most of the morning\, puffing up to light+ for a little afternoo
- n crumble. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250610T150600
-DTEND:20250610T163000
-DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
- er\, lingering SSW swell rolling in. The straight S swell isn't a great di
- rection for Santa Cruz/Central CA\, but good exposures will get waist to c
- hest high surf from it over the afternoon\, while focal points hit head hi
- gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
- ery light most of the morning\, puffing up to light+ for a little afternoo
- n crumble. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250611T074800
 DTEND:20250611T111200
-DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
- er\, lingering SSW swell rolling in. The straight S swell isn't a great di
- rection for Santa Cruz/Central CA\, but good exposures will get waist to c
- hest high surf from it over the afternoon\, while focal points hit head hi
- gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
- ery light most of the morning\, puffing up to light+ for a little afternoo
- n crumble. 
+DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
+ e isn't great for Santa Cruz/Central CA but will still pick up the surf at
+  well exposed spots. Good breaks will be running chest-head high\, while t
+ op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
+ her day of S/SSW winds\, very light most of the morning\, puffing up to li
+ ght+ in the afternoon for a little crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250612T083000
 DTEND:20250612T114800
-DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
- er\, lingering SSW swell rolling in. The straight S swell isn't a great di
- rection for Santa Cruz/Central CA\, but good exposures will get waist to c
- hest high surf from it over the afternoon\, while focal points hit head hi
- gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
- ery light most of the morning\, puffing up to light+ for a little afternoo
- n crumble. 
+DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
+ e isn't great for Santa Cruz/Central CA but will still pick up the surf at
+  well exposed spots. Good breaks will be running chest-head high\, while t
+ op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
+ her day of S/SSW winds\, very light most of the morning\, puffing up to li
+ ght+ in the afternoon for a little crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250613T091200
 DTEND:20250613T123000
-DESCRIPTION:Slow rising\, steep-angled S(190-180) swell\, along with small
- er\, lingering SSW swell rolling in. The straight S swell isn't a great di
- rection for Santa Cruz/Central CA\, but good exposures will get waist to c
- hest high surf from it over the afternoon\, while focal points hit head hi
- gh\, showing largest late. <br>\n<br>\nS/SSW winds due through the day\, v
- ery light most of the morning\, puffing up to light+ for a little afternoo
- n crumble. 
+DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
+ e isn't great for Santa Cruz/Central CA but will still pick up the surf at
+  well exposed spots. Good breaks will be running chest-head high\, while t
+ op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
+ her day of S/SSW winds\, very light most of the morning\, puffing up to li
+ ght+ in the afternoon for a little crumble. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250614T094800
 DTEND:20250614T130600
-DESCRIPTION:-0.054ft at 09:48\n-2.986ft at 13:06
+DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
+ e isn't great for Santa Cruz/Central CA but will still pick up the surf at
+  well exposed spots. Good breaks will be running chest-head high\, while t
+ op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
+ her day of S/SSW winds\, very light most of the morning\, puffing up to li
+ ght+ in the afternoon for a little crumble. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +158,17 @@ SUMMARY:OST
 DTSTART:20250625T152400
 DTEND:20250625T172400
 DESCRIPTION:-2.985ft at 15:24\n-2.975ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250626T084800
+DTEND:20250626T111200
+DESCRIPTION:-0.086ft at 08:48\n-2.955ft at 11:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250626T161800
+DTEND:20250626T182400
+DESCRIPTION:-2.991ft at 16:18\n-2.984ft at 18:24
 END:VEVENT
 END:VCALENDAR
