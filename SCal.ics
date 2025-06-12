@@ -3,59 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250611T074800
-DTEND:20250611T111200
-DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
- e isn't great for Santa Cruz/Central CA but will still pick up the surf at
-  well exposed spots. Good breaks will be running chest-head high\, while t
- op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
- her day of S/SSW winds\, very light most of the morning\, puffing up to li
- ght+ in the afternoon for a little crumble. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250612T083000
 DTEND:20250612T114800
-DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
- e isn't great for Santa Cruz/Central CA but will still pick up the surf at
-  well exposed spots. Good breaks will be running chest-head high\, while t
- op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
- her day of S/SSW winds\, very light most of the morning\, puffing up to li
- ght+ in the afternoon for a little crumble. 
+DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
+  to shoulder high waves at well exposed spots in the morning\, as standout
+ s hit head high. Surf will slowly taper off during the day as the swell fa
+ des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
+ ffshores for town spots in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250613T091200
 DTEND:20250613T123000
-DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
- e isn't great for Santa Cruz/Central CA but will still pick up the surf at
-  well exposed spots. Good breaks will be running chest-head high\, while t
- op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
- her day of S/SSW winds\, very light most of the morning\, puffing up to li
- ght+ in the afternoon for a little crumble. 
+DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
+  to shoulder high waves at well exposed spots in the morning\, as standout
+ s hit head high. Surf will slowly taper off during the day as the swell fa
+ des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
+ ffshores for town spots in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250614T094800
 DTEND:20250614T130600
-DESCRIPTION:Long-period S swell (190-180) peaks. The straight S swell angl
- e isn't great for Santa Cruz/Central CA but will still pick up the surf at
-  well exposed spots. Good breaks will be running chest-head high\, while t
- op spots get into the slightly overhead range. <br>\n<br>\nLooks like anot
- her day of S/SSW winds\, very light most of the morning\, puffing up to li
- ght+ in the afternoon for a little crumble. 
+DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
+  to shoulder high waves at well exposed spots in the morning\, as standout
+ s hit head high. Surf will slowly taper off during the day as the swell fa
+ des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
+ ffshores for town spots in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250615T055400
 DTEND:20250615T064200
-DESCRIPTION:-0.842ft at 05:54\n-0.059ft at 06:42
+DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
+  to shoulder high waves at well exposed spots in the morning\, as standout
+ s hit head high. Surf will slowly taper off during the day as the swell fa
+ des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
+ ffshores for town spots in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250615T101800
 DTEND:20250615T133000
-DESCRIPTION:-0.046ft at 10:18\n-2.931ft at 13:30
+DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
+  to shoulder high waves at well exposed spots in the morning\, as standout
+ s hit head high. Surf will slowly taper off during the day as the swell fa
+ des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
+ ffshores for town spots in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -170,5 +164,17 @@ SUMMARY:OST
 DTSTART:20250626T161800
 DTEND:20250626T182400
 DESCRIPTION:-2.991ft at 16:18\n-2.984ft at 18:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250627T092400
+DTEND:20250627T115400
+DESCRIPTION:-0.067ft at 09:24\n-2.990ft at 11:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250627T171200
+DTEND:20250627T193000
+DESCRIPTION:-2.983ft at 17:12\n-2.998ft at 19:30
 END:VEVENT
 END:VCALENDAR
