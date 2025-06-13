@@ -3,65 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250612T083000
-DTEND:20250612T114800
-DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
-  to shoulder high waves at well exposed spots in the morning\, as standout
- s hit head high. Surf will slowly taper off during the day as the swell fa
- des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
- ffshores for town spots in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250613T091200
 DTEND:20250613T123000
-DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
-  to shoulder high waves at well exposed spots in the morning\, as standout
- s hit head high. Surf will slowly taper off during the day as the swell fa
- des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
- ffshores for town spots in the afternoon. 
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250614T094800
 DTEND:20250614T130600
-DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
-  to shoulder high waves at well exposed spots in the morning\, as standout
- s hit head high. Surf will slowly taper off during the day as the swell fa
- des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
- ffshores for town spots in the afternoon. 
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250615T055400
 DTEND:20250615T064200
-DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
-  to shoulder high waves at well exposed spots in the morning\, as standout
- s hit head high. Surf will slowly taper off during the day as the swell fa
- des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
- ffshores for town spots in the afternoon. 
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250615T101800
 DTEND:20250615T133000
-DESCRIPTION:Easing\, steep-angled S swell(190-180) is still good for chest
-  to shoulder high waves at well exposed spots in the morning\, as standout
- s hit head high. Surf will slowly taper off during the day as the swell fa
- des. <br>\n<br>\nVery light S morning sea breeze\, followed by light+ NW o
- ffshores for town spots in the afternoon. 
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250616T055400
 DTEND:20250616T074200
-DESCRIPTION:-1.720ft at 05:54\n-0.034ft at 07:42
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250616T103600
 DTEND:20250616T135400
-DESCRIPTION:-0.020ft at 10:36\n-2.951ft at 13:54
+DESCRIPTION:Fading S swell drops waves off another notch\, for mainly wais
+ t high surf at good exposures\, as top breaks hit shoulder high in the mor
+ ning. <br>\n<br>\nLooks like S/SSW winds through the day\, very light most
+  of the morning\, puffing up to light+ in the afternoon for a little crumb
+ le. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -176,5 +174,17 @@ SUMMARY:OST
 DTSTART:20250627T171200
 DTEND:20250627T193000
 DESCRIPTION:-2.983ft at 17:12\n-2.998ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250628T095400
+DTEND:20250628T123000
+DESCRIPTION:-0.093ft at 09:54\n-2.987ft at 12:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250628T180600
+DTEND:20250628T203000
+DESCRIPTION:-2.981ft at 18:06\n-2.931ft at 20:30
 END:VEVENT
 END:VCALENDAR
