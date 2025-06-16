@@ -3,79 +3,69 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250615T055400
-DTEND:20250615T064200
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250615T101800
-DTEND:20250615T133000
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250616T055400
 DTEND:20250616T074200
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250616T103600
 DTEND:20250616T135400
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250617T055400
 DTEND:20250617T091200
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250617T103000
 DTEND:20250617T141200
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250618T061200
 DTEND:20250618T142400
-DESCRIPTION:Fun zone mix of SSW swell and a little new\, shorter-period NW
-  swell\, for waves running in the waist to chest high range at spots with 
- good southerly exposure. <br>\n<br>\nAt this point\, morning winds are loo
- king light/variable\, then NW offshores due to puff up for town spots over
-  the afternoon. Later afternoon high tide bogs down most spots.
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250619T070000
 DTEND:20250619T143600
-DESCRIPTION:-2.965ft at 07:00\n-2.914ft at 14:36
+DESCRIPTION:Slow easing SSW swell and secondary NW swell mix is still good
+  for waist to chest high surf at well exposed spots in the morning\, then 
+ waves taper off a little over the afternoon. <br>\n<br>\nVery light southe
+ rly sea breeze due much of the morning\, followed by possible rise in offs
+ hore NW winds over the afternoon.  Later afternoon high tide swamps the sm
+ aller surf at most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -214,5 +204,11 @@ SUMMARY:OST
 DTSTART:20250630T195400
 DTEND:20250630T203000
 DESCRIPTION:-2.957ft at 19:54\n-2.716ft at 20:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250701T055400
+DTEND:20250701T134800
+DESCRIPTION:-2.758ft at 05:54\n-2.954ft at 13:48
 END:VEVENT
 END:VCALENDAR
