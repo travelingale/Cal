@@ -3,65 +3,57 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250618T061200
-DTEND:20250618T142400
-DESCRIPTION:Modest scale combo of SSW swell and secondary\, shorter-period
-  NW swell lingers\, for mostly thigh to waist high surf at southerly break
- s. <br>\n<br>\nLooking like light/variable winds through the morning\, puf
- fing up to a light+ sea breeze for the afternoon. Possible NW offshores de
- veloping late afternoon. Swampy high tide late afternoon/evening. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250619T070000
 DTEND:20250619T143600
-DESCRIPTION:Modest scale combo of SSW swell and secondary\, shorter-period
-  NW swell lingers\, for mostly thigh to waist high surf at southerly break
- s. <br>\n<br>\nLooking like light/variable winds through the morning\, puf
- fing up to a light+ sea breeze for the afternoon. Possible NW offshores de
- veloping late afternoon. Swampy high tide late afternoon/evening. 
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250620T080000
 DTEND:20250620T145400
-DESCRIPTION:Modest scale combo of SSW swell and secondary\, shorter-period
-  NW swell lingers\, for mostly thigh to waist high surf at southerly break
- s. <br>\n<br>\nLooking like light/variable winds through the morning\, puf
- fing up to a light+ sea breeze for the afternoon. Possible NW offshores de
- veloping late afternoon. Swampy high tide late afternoon/evening. 
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250621T055400
 DTEND:20250621T071200
-DESCRIPTION:Modest scale combo of SSW swell and secondary\, shorter-period
-  NW swell lingers\, for mostly thigh to waist high surf at southerly break
- s. <br>\n<br>\nLooking like light/variable winds through the morning\, puf
- fing up to a light+ sea breeze for the afternoon. Possible NW offshores de
- veloping late afternoon. Swampy high tide late afternoon/evening. 
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250621T093600
 DTEND:20250621T150600
-DESCRIPTION:Modest scale combo of SSW swell and secondary\, shorter-period
-  NW swell lingers\, for mostly thigh to waist high surf at southerly break
- s. <br>\n<br>\nLooking like light/variable winds through the morning\, puf
- fing up to a light+ sea breeze for the afternoon. Possible NW offshores de
- veloping late afternoon. Swampy high tide late afternoon/evening. 
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250622T055400
 DTEND:20250622T081200
-DESCRIPTION:-1.091ft at 05:54\n-2.980ft at 08:12
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250622T112400
 DTEND:20250622T153000
-DESCRIPTION:-2.985ft at 11:24\n-2.969ft at 15:30
+DESCRIPTION:Mix of mainly SSW swell\, smaller NW swell\, keeps better sout
+ herly exposures in waist high+ waves. <br>\n<br>\nLight/variable winds due
+  in the morning\, puffing up to moderate W winds for the afternoon. Late a
+ fternoon/evening high tide swamps out most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -188,5 +180,11 @@ SUMMARY:OST
 DTSTART:20250703T061200
 DTEND:20250703T141200
 DESCRIPTION:-2.993ft at 06:12\n-2.938ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250704T060000
+DTEND:20250704T141800
+DESCRIPTION:-2.693ft at 06:00\n-2.961ft at 14:18
 END:VEVENT
 END:VCALENDAR
