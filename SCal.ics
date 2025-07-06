@@ -3,45 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250705T060000
-DTEND:20250705T082400
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250705T094200
-DTEND:20250705T141800
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250706T060000
 DTEND:20250706T083600
-DESCRIPTION:
+DESCRIPTION:Fresh SW swell comes up through Friday. Expecting fun zone sur
+ f in the waist-chest high range.<br>\n<br>\nA little slow/drained out firs
+ t thing\, coming on as the tide fills in through the AM. PM gets a little 
+ softer with the 3'+ tide but spots that can handle the extra water stand t
+ o have some nice surf on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250706T121800
 DTEND:20250706T141200
-DESCRIPTION:
+DESCRIPTION:Fresh SW swell comes up through Friday. Expecting fun zone sur
+ f in the waist-chest high range.<br>\n<br>\nA little slow/drained out firs
+ t thing\, coming on as the tide fills in through the AM. PM gets a little 
+ softer with the 3'+ tide but spots that can handle the extra water stand t
+ o have some nice surf on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250707T060000
 DTEND:20250707T090000
-DESCRIPTION:
+DESCRIPTION:Fresh SW swell comes up through Friday. Expecting fun zone sur
+ f in the waist-chest high range.<br>\n<br>\nA little slow/drained out firs
+ t thing\, coming on as the tide fills in through the AM. PM gets a little 
+ softer with the 3'+ tide but spots that can handle the extra water stand t
+ o have some nice surf on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250708T060000
 DTEND:20250708T093000
-DESCRIPTION:
+DESCRIPTION:Fresh SW swell comes up through Friday. Expecting fun zone sur
+ f in the waist-chest high range.<br>\n<br>\nA little slow/drained out firs
+ t thing\, coming on as the tide fills in through the AM. PM gets a little 
+ softer with the 3'+ tide but spots that can handle the extra water stand t
+ o have some nice surf on tap.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250709T063600
 DTEND:20250709T100000
-DESCRIPTION:-0.000ft at 06:36\n-2.949ft at 10:00
+DESCRIPTION:Fresh SW swell comes up through Friday. Expecting fun zone sur
+ f in the waist-chest high range.<br>\n<br>\nA little slow/drained out firs
+ t thing\, coming on as the tide fills in through the AM. PM gets a little 
+ softer with the 3'+ tide but spots that can handle the extra water stand t
+ o have some nice surf on tap.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -162,5 +170,17 @@ SUMMARY:OST
 DTSTART:20250720T104200
 DTEND:20250720T133600
 DESCRIPTION:-2.997ft at 10:42\n-2.974ft at 13:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250721T060600
+DTEND:20250721T080600
+DESCRIPTION:-1.296ft at 06:06\n-2.980ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250721T124800
+DTEND:20250721T140600
+DESCRIPTION:-2.996ft at 12:48\n-2.994ft at 14:06
 END:VEVENT
 END:VCALENDAR
