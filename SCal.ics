@@ -3,51 +3,58 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250707T060000
-DTEND:20250707T090000
-DESCRIPTION:New\, long period SW swell slowly fills in - and short period 
- NW swell pulses up but mainly passes by town spots. Look for waist high su
- rf to be widespread\, with occasional chest-shoulder high sets at standout
-  SW spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250708T060000
 DTEND:20250708T093000
-DESCRIPTION:New\, long period SW swell slowly fills in - and short period 
- NW swell pulses up but mainly passes by town spots. Look for waist high su
- rf to be widespread\, with occasional chest-shoulder high sets at standout
-  SW spots. 
+DESCRIPTION:SSW swell sets up most of the surf in town as the short period
+  NW swell generally passes by. Look for more waist high surf at average so
+ utherly exposed spots\, with sets to chest-shoulder high at standouts. <br
+ >\n<br>\nSoutherly winds due through the day\, very light most of the morn
+ ing\, then puffing up to light+ for the afternoon. Negative low tide drain
+ s shape early morning. Incoming tide push helps through mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250709T063600
 DTEND:20250709T100000
-DESCRIPTION:New\, long period SW swell slowly fills in - and short period 
- NW swell pulses up but mainly passes by town spots. Look for waist high su
- rf to be widespread\, with occasional chest-shoulder high sets at standout
-  SW spots. 
+DESCRIPTION:SSW swell sets up most of the surf in town as the short period
+  NW swell generally passes by. Look for more waist high surf at average so
+ utherly exposed spots\, with sets to chest-shoulder high at standouts. <br
+ >\n<br>\nSoutherly winds due through the day\, very light most of the morn
+ ing\, then puffing up to light+ for the afternoon. Negative low tide drain
+ s shape early morning. Incoming tide push helps through mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250710T072400
 DTEND:20250710T103000
-DESCRIPTION:New\, long period SW swell slowly fills in - and short period 
- NW swell pulses up but mainly passes by town spots. Look for waist high su
- rf to be widespread\, with occasional chest-shoulder high sets at standout
-  SW spots. 
+DESCRIPTION:SSW swell sets up most of the surf in town as the short period
+  NW swell generally passes by. Look for more waist high surf at average so
+ utherly exposed spots\, with sets to chest-shoulder high at standouts. <br
+ >\n<br>\nSoutherly winds due through the day\, very light most of the morn
+ ing\, then puffing up to light+ for the afternoon. Negative low tide drain
+ s shape early morning. Incoming tide push helps through mid-morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250711T080600
 DTEND:20250711T110000
-DESCRIPTION:-0.060ft at 08:06\n-2.944ft at 11:00
+DESCRIPTION:SSW swell sets up most of the surf in town as the short period
+  NW swell generally passes by. Look for more waist high surf at average so
+ utherly exposed spots\, with sets to chest-shoulder high at standouts. <br
+ >\n<br>\nSoutherly winds due through the day\, very light most of the morn
+ ing\, then puffing up to light+ for the afternoon. Negative low tide drain
+ s shape early morning. Incoming tide push helps through mid-morning.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250711T162400
 DTEND:20250711T173600
-DESCRIPTION:-2.991ft at 16:24\n-2.987ft at 17:36
+DESCRIPTION:SSW swell sets up most of the surf in town as the short period
+  NW swell generally passes by. Look for more waist high surf at average so
+ utherly exposed spots\, with sets to chest-shoulder high at standouts. <br
+ >\n<br>\nSoutherly winds due through the day\, very light most of the morn
+ ing\, then puffing up to light+ for the afternoon. Negative low tide drain
+ s shape early morning. Incoming tide push helps through mid-morning.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -174,5 +181,17 @@ SUMMARY:OST
 DTSTART:20250722T140000
 DTEND:20250722T150600
 DESCRIPTION:-2.985ft at 14:00\n-2.989ft at 15:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250723T064800
+DTEND:20250723T091800
+DESCRIPTION:-0.081ft at 06:48\n-2.911ft at 09:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250723T143000
+DTEND:20250723T162400
+DESCRIPTION:-2.997ft at 14:30\n-2.967ft at 16:24
 END:VEVENT
 END:VCALENDAR
