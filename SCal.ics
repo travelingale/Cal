@@ -3,86 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250715T060600
-DTEND:20250715T080600
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250715T084800
-DTEND:20250715T122400
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250715T184800
-DTEND:20250715T202400
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250716T060600
 DTEND:20250716T123600
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
+DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
+ xposures running waist to chest high in the morning\, before easing back h
+ alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
+ ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
+ e\, then deepening high tide bogs down the smaller surf later afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250716T193600
 DTEND:20250716T202400
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
+DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
+ xposures running waist to chest high in the morning\, before easing back h
+ alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
+ ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
+ e\, then deepening high tide bogs down the smaller surf later afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250717T060600
 DTEND:20250717T125400
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
+DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
+ xposures running waist to chest high in the morning\, before easing back h
+ alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
+ ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
+ e\, then deepening high tide bogs down the smaller surf later afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250718T063600
 DTEND:20250718T130600
-DESCRIPTION:Slow fading but still fun SSW/S swell for waist to shoulder hi
- gh waves at good southerly exposures in the morning while standouts go hea
- d high. Surf gradually tapers off during the day. <br>\n<br>\nLight southe
- rly winds most of the morning\, light+ SSW onshores due in the afternoon. 
- Nice tide push mid-day\, then deepening mid/later afternoon high tide slow
- s tide sensitive breaks. 
+DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
+ xposures running waist to chest high in the morning\, before easing back h
+ alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
+ ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
+ e\, then deepening high tide bogs down the smaller surf later afternoon.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250719T081200
 DTEND:20250719T131800
-DESCRIPTION:-2.989ft at 08:12\n-2.957ft at 13:18
+DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
+ xposures running waist to chest high in the morning\, before easing back h
+ alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
+ ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
+ e\, then deepening high tide bogs down the smaller surf later afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -215,5 +182,11 @@ SUMMARY:OST
 DTSTART:20250730T192400
 DTEND:20250730T201200
 DESCRIPTION:-2.970ft at 19:24\n-2.490ft at 20:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250731T061800
+DTEND:20250731T121200
+DESCRIPTION:-2.734ft at 06:18\n-2.951ft at 12:12
 END:VEVENT
 END:VCALENDAR
