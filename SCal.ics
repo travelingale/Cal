@@ -3,65 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250716T060600
-DTEND:20250716T123600
-DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
- xposures running waist to chest high in the morning\, before easing back h
- alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
- ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
- e\, then deepening high tide bogs down the smaller surf later afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250716T193600
-DTEND:20250716T202400
-DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
- xposures running waist to chest high in the morning\, before easing back h
- alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
- ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
- e\, then deepening high tide bogs down the smaller surf later afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250717T060600
 DTEND:20250717T125400
-DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
- xposures running waist to chest high in the morning\, before easing back h
- alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
- ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
- e\, then deepening high tide bogs down the smaller surf later afternoon.
+DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
+ pers off and NW swell remains minimal\, for waves running thigh to waist h
+ igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
+ shores due in the afternoon. Deepening later afternoon/evening high tide s
+ lows the smaller surf.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250718T063600
 DTEND:20250718T130600
-DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
- xposures running waist to chest high in the morning\, before easing back h
- alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
- ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
- e\, then deepening high tide bogs down the smaller surf later afternoon.
+DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
+ pers off and NW swell remains minimal\, for waves running thigh to waist h
+ igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
+ shores due in the afternoon. Deepening later afternoon/evening high tide s
+ lows the smaller surf.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250719T081200
 DTEND:20250719T131800
-DESCRIPTION:Surf continues to wind down as old SSW/S swell fades. Better e
- xposures running waist to chest high in the morning\, before easing back h
- alf of the day. <br>\n<br>\nLight southerly winds most of the morning\, li
- ght+ SSW onshores due in the afternoon. Mid-day tide looking most favorabl
- e\, then deepening high tide bogs down the smaller surf later afternoon.
+DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
+ pers off and NW swell remains minimal\, for waves running thigh to waist h
+ igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
+ shores due in the afternoon. Deepening later afternoon/evening high tide s
+ lows the smaller surf.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250720T060600
 DTEND:20250720T072400
-DESCRIPTION:-2.254ft at 06:06\n-2.989ft at 07:24
+DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
+ pers off and NW swell remains minimal\, for waves running thigh to waist h
+ igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
+ shores due in the afternoon. Deepening later afternoon/evening high tide s
+ lows the smaller surf.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250720T104200
 DTEND:20250720T133600
-DESCRIPTION:-2.997ft at 10:42\n-2.974ft at 13:36
+DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
+ pers off and NW swell remains minimal\, for waves running thigh to waist h
+ igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
+ shores due in the afternoon. Deepening later afternoon/evening high tide s
+ lows the smaller surf.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -188,5 +176,11 @@ SUMMARY:OST
 DTSTART:20250731T061800
 DTEND:20250731T121200
 DESCRIPTION:-2.734ft at 06:18\n-2.951ft at 12:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250801T061800
+DTEND:20250801T121200
+DESCRIPTION:-2.957ft at 06:18\n-2.982ft at 12:12
 END:VEVENT
 END:VCALENDAR
