@@ -3,65 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250717T060600
-DTEND:20250717T125400
-DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
- pers off and NW swell remains minimal\, for waves running thigh to waist h
- igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
- shores due in the afternoon. Deepening later afternoon/evening high tide s
- lows the smaller surf.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250718T063600
 DTEND:20250718T130600
-DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
- pers off and NW swell remains minimal\, for waves running thigh to waist h
- igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
- shores due in the afternoon. Deepening later afternoon/evening high tide s
- lows the smaller surf.
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250719T081200
 DTEND:20250719T131800
-DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
- pers off and NW swell remains minimal\, for waves running thigh to waist h
- igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
- shores due in the afternoon. Deepening later afternoon/evening high tide s
- lows the smaller surf.
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250720T060600
 DTEND:20250720T072400
-DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
- pers off and NW swell remains minimal\, for waves running thigh to waist h
- igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
- shores due in the afternoon. Deepening later afternoon/evening high tide s
- lows the smaller surf.
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250720T104200
 DTEND:20250720T133600
-DESCRIPTION:Trend towards slowly easing surf continues as old SSW swell ta
- pers off and NW swell remains minimal\, for waves running thigh to waist h
- igh. <br>\n<br>\nLight southerly winds most of the morning\, light+ SSW on
- shores due in the afternoon. Deepening later afternoon/evening high tide s
- lows the smaller surf.
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250721T060600
 DTEND:20250721T080600
-DESCRIPTION:-1.296ft at 06:06\n-2.980ft at 08:06
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250721T124800
 DTEND:20250721T140600
-DESCRIPTION:-2.996ft at 12:48\n-2.994ft at 14:06
+DESCRIPTION:Slow rise in long-period SSW swell\, along with some shorter-p
+ eriod NW swell\, sets up more thigh to stomach high waves.<br>\n<br>\nLigh
+ t southerly winds most of the morning\, light+ SW onshores due in the afte
+ rnoon. Mid-day tide looking most favorable\, then deepening high tide bogs
+  down the smaller surf late afternoon/evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -182,5 +180,17 @@ SUMMARY:OST
 DTSTART:20250801T061800
 DTEND:20250801T121200
 DESCRIPTION:-2.957ft at 06:18\n-2.982ft at 12:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250802T061800
+DTEND:20250802T070000
+DESCRIPTION:-2.907ft at 06:18\n-2.996ft at 07:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250802T082400
+DTEND:20250802T114800
+DESCRIPTION:-2.995ft at 08:24\n-2.986ft at 11:48
 END:VEVENT
 END:VCALENDAR
