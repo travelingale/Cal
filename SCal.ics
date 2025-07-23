@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250722T061200
-DTEND:20250722T084200
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250722T140000
-DTEND:20250722T150600
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250723T064800
 DTEND:20250723T091800
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250723T143000
 DTEND:20250723T162400
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250724T073000
 DTEND:20250724T095400
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250724T150600
 DTEND:20250724T174200
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250725T080000
 DTEND:20250725T102400
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250725T154200
 DTEND:20250725T184800
-DESCRIPTION:Old S swell continues to fade\, as a little NW swell lingers\,
-  for mainly thigh to stomach high waves at good southerly exposures. <br>\
- n<br>\nLight/variable winds due most of the morning\, rise to low-end mode
- rate WSW in the afternoon.
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250726T082400
 DTEND:20250726T105400
-DESCRIPTION:-0.062ft at 08:24\n-2.936ft at 10:54
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250726T162400
 DTEND:20250726T195400
-DESCRIPTION:-2.950ft at 16:24\n-2.962ft at 19:54
+DESCRIPTION:Surf mainly running thigh to waist high off a meager mix of S/
+ SW swell\, touch of NW swell. <br>\n<br>\nMorning winds looking light S\, 
+ afternoon SW sea breeze puffs up to light+. Early afternoon high tide slow
+ s most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250806T062400
 DTEND:20250806T084200
 DESCRIPTION:-1.003ft at 06:24\n-2.945ft at 08:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250807T062400
+DTEND:20250807T091200
+DESCRIPTION:-0.371ft at 06:24\n-2.989ft at 09:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250807T143000
+DTEND:20250807T161200
+DESCRIPTION:-2.991ft at 14:30\n-2.973ft at 16:12
 END:VEVENT
 END:VCALENDAR
