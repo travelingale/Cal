@@ -3,87 +3,75 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250725T080000
-DTEND:20250725T102400
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250725T154200
-DTEND:20250725T184800
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250726T082400
 DTEND:20250726T105400
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250726T162400
 DTEND:20250726T195400
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250727T083000
 DTEND:20250727T111800
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250727T170600
 DTEND:20250727T201800
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250728T061200
 DTEND:20250728T114200
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250728T174800
 DTEND:20250728T201800
-DESCRIPTION:Lingering SSW swell and minor NW swell keeps waves down in the
-  knee-thigh-waist high range. <br>\n<br>\nMorning winds looking light S\, 
- afternoon SSW sea breeze puffs up to light+. Early/mid afternoon high tide
-  slows most spots. 
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250729T061200
 DTEND:20250729T115400
-DESCRIPTION:-1.584ft at 06:12\n-2.920ft at 11:54
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250729T183600
 DTEND:20250729T201200
-DESCRIPTION:-2.973ft at 18:36\n-2.205ft at 20:12
+DESCRIPTION:Little SSW swell\, touch of NW swell\, for small surf mainly s
+ taying under waist high for most spots. <br>\n<br>\nMorning winds looking 
+ light S\, afternoon SSW sea breeze puffs up to light+. Afternoon high tide
+  swamps the small waves at most breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250809T150600
 DTEND:20250809T183600
 DESCRIPTION:-2.970ft at 15:06\n-2.964ft at 18:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250810T073600
+DTEND:20250810T101200
+DESCRIPTION:-0.068ft at 07:36\n-2.959ft at 10:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250810T153600
+DTEND:20250810T194200
+DESCRIPTION:-2.989ft at 15:36\n-2.937ft at 19:42
 END:VEVENT
 END:VCALENDAR
