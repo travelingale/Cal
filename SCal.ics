@@ -3,86 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250728T061200
-DTEND:20250728T114200
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250728T174800
-DTEND:20250728T201800
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250729T061200
 DTEND:20250729T115400
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250729T183600
 DTEND:20250729T201200
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250730T061800
 DTEND:20250730T120600
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250730T192400
 DTEND:20250730T201200
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250731T061800
 DTEND:20250731T121200
-DESCRIPTION:Shorter-period NW energy continues to mostly miss spots in tow
- n\, but size does improve some as new SW swell nudges up. Look for knee-wa
- ist+ high waves at better spots in town throughout the day -- bogging on t
- he high tide mid-afternoon.<br>\n<br>\nConditions look clean for at least 
- the morning window at this point. Breaks with some headlnad/kelp protectio
- n should be fine in the afternoon too.
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250801T061800
 DTEND:20250801T121200
-DESCRIPTION:-2.957ft at 06:18\n-2.982ft at 12:12
+DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
+ l exposed spots in waist high waves\, while focal points hit chest high. S
+ low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
+ t/variable winds early morning\, light+ SSW sea breeze most of the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -191,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250812T170000
 DTEND:20250812T200000
 DESCRIPTION:-2.961ft at 17:00\n-1.633ft at 20:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250813T062400
+DTEND:20250813T105400
+DESCRIPTION:-1.253ft at 06:24\n-2.935ft at 10:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250813T174800
+DTEND:20250813T200000
+DESCRIPTION:-2.975ft at 17:48\n-1.446ft at 20:00
 END:VEVENT
 END:VCALENDAR
