@@ -3,75 +3,63 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250729T061200
-DTEND:20250729T115400
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250729T183600
-DTEND:20250729T201200
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250730T061800
 DTEND:20250730T120600
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250730T192400
 DTEND:20250730T201200
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250731T061800
 DTEND:20250731T121200
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250801T061800
 DTEND:20250801T121200
-DESCRIPTION:Small to fun zone SW/SSW swell mix tops out\, putting more wel
- l exposed spots in waist high waves\, while focal points hit chest high. S
- low rising morning tide is most favorable for most spots. <br>\n<br>\nLigh
- t/variable winds early morning\, light+ SSW sea breeze most of the afterno
- on. 
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250802T061800
 DTEND:20250802T070000
-DESCRIPTION:-2.907ft at 06:18\n-2.996ft at 07:00
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250802T082400
 DTEND:20250802T114800
-DESCRIPTION:-2.995ft at 08:24\n-2.986ft at 11:48
+DESCRIPTION:Looking a lot like Saturday\, with a continued\, decent size S
+ W/SSW swell mix\, and trace NW swell\, keeping good southerly exposures in
+  waist high surf\, while standouts go chest high. Slow rising morning tide
+  is most favorable for most spots. <br>\n<br>\nLight southerly winds due m
+ ost of the morning\, turning light+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -180,5 +168,17 @@ SUMMARY:OST
 DTSTART:20250813T174800
 DTEND:20250813T200000
 DESCRIPTION:-2.975ft at 17:48\n-1.446ft at 20:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250814T063000
+DTEND:20250814T110600
+DESCRIPTION:-2.081ft at 06:30\n-2.945ft at 11:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250814T184200
+DTEND:20250814T200000
+DESCRIPTION:-2.981ft at 18:42\n-1.805ft at 20:00
 END:VEVENT
 END:VCALENDAR
