@@ -3,54 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250801T061800
-DTEND:20250801T121200
-DESCRIPTION:SSW swell combo continues\, along with a touch of NW swell\, f
- or mainly thigh to waist high surf. Early morning tide push most favorable
-  of the day. <br>\n<br>\nLight/variable winds due early morning\, light+ S
- SW sea breeze most of the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250802T061800
 DTEND:20250802T070000
-DESCRIPTION:SSW swell combo continues\, along with a touch of NW swell\, f
- or mainly thigh to waist high surf. Early morning tide push most favorable
-  of the day. <br>\n<br>\nLight/variable winds due early morning\, light+ S
- SW sea breeze most of the afternoon. 
+DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
+ size in the afternoon\, with waist to chest high waves at good exposures\,
+  while standouts see head high sets\, largest late. Touch of NW swell also
+  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
+ rn to a light+ SSW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250802T082400
 DTEND:20250802T114800
-DESCRIPTION:SSW swell combo continues\, along with a touch of NW swell\, f
- or mainly thigh to waist high surf. Early morning tide push most favorable
-  of the day. <br>\n<br>\nLight/variable winds due early morning\, light+ S
- SW sea breeze most of the afternoon. 
+DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
+ size in the afternoon\, with waist to chest high waves at good exposures\,
+  while standouts see head high sets\, largest late. Touch of NW swell also
+  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
+ rn to a light+ SSW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250803T061800
 DTEND:20250803T071800
-DESCRIPTION:SSW swell combo continues\, along with a touch of NW swell\, f
- or mainly thigh to waist high surf. Early morning tide push most favorable
-  of the day. <br>\n<br>\nLight/variable winds due early morning\, light+ S
- SW sea breeze most of the afternoon. 
+DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
+ size in the afternoon\, with waist to chest high waves at good exposures\,
+  while standouts see head high sets\, largest late. Touch of NW swell also
+  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
+ rn to a light+ SSW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250804T061800
 DTEND:20250804T074800
-DESCRIPTION:SSW swell combo continues\, along with a touch of NW swell\, f
- or mainly thigh to waist high surf. Early morning tide push most favorable
-  of the day. <br>\n<br>\nLight/variable winds due early morning\, light+ S
- SW sea breeze most of the afternoon. 
+DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
+ size in the afternoon\, with waist to chest high waves at good exposures\,
+  while standouts see head high sets\, largest late. Touch of NW swell also
+  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
+ rn to a light+ SSW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250805T061800
 DTEND:20250805T081800
-DESCRIPTION:-1.563ft at 06:18\n-2.991ft at 08:18
+DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
+ size in the afternoon\, with waist to chest high waves at good exposures\,
+  while standouts see head high sets\, largest late. Touch of NW swell also
+  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
+ rn to a light+ SSW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
