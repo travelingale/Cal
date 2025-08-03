@@ -3,59 +3,43 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250802T061800
-DTEND:20250802T070000
-DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
- size in the afternoon\, with waist to chest high waves at good exposures\,
-  while standouts see head high sets\, largest late. Touch of NW swell also
-  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
- rn to a light+ SSW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
-DTSTART:20250802T082400
-DTEND:20250802T114800
-DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
- size in the afternoon\, with waist to chest high waves at good exposures\,
-  while standouts see head high sets\, largest late. Touch of NW swell also
-  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
- rn to a light+ SSW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250803T061800
 DTEND:20250803T071800
-DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
- size in the afternoon\, with waist to chest high waves at good exposures\,
-  while standouts see head high sets\, largest late. Touch of NW swell also
-  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
- rn to a light+ SSW sea breeze for the afternoon. 
+DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
+ osed breaks in chest to head high zone surf\, while focal points hit a lit
+ tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
+ ight/variable winds due much of the morning. Light+ SSW sea breeze follows
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250804T061800
 DTEND:20250804T074800
-DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
- size in the afternoon\, with waist to chest high waves at good exposures\,
-  while standouts see head high sets\, largest late. Touch of NW swell also
-  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
- rn to a light+ SSW sea breeze for the afternoon. 
+DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
+ osed breaks in chest to head high zone surf\, while focal points hit a lit
+ tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
+ ight/variable winds due much of the morning. Light+ SSW sea breeze follows
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250805T061800
 DTEND:20250805T081800
-DESCRIPTION:New round of long-period SSW swell on the rise\, showing most 
- size in the afternoon\, with waist to chest high waves at good exposures\,
-  while standouts see head high sets\, largest late. Touch of NW swell also
-  in the mix. <br>\n<br>\nLight/variable winds due much of the morning\, tu
- rn to a light+ SSW sea breeze for the afternoon. 
+DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
+ osed breaks in chest to head high zone surf\, while focal points hit a lit
+ tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
+ ight/variable winds due much of the morning. Light+ SSW sea breeze follows
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250806T062400
 DTEND:20250806T084200
-DESCRIPTION:-1.003ft at 06:24\n-2.945ft at 08:42
+DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
+ osed breaks in chest to head high zone surf\, while focal points hit a lit
+ tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
+ ight/variable winds due much of the morning. Light+ SSW sea breeze follows
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
