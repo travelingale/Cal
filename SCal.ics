@@ -3,55 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250803T061800
-DTEND:20250803T071800
-DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
- osed breaks in chest to head high zone surf\, while focal points hit a lit
- tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
- ight/variable winds due much of the morning. Light+ SSW sea breeze follows
-  for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250804T061800
 DTEND:20250804T074800
-DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
- osed breaks in chest to head high zone surf\, while focal points hit a lit
- tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
- ight/variable winds due much of the morning. Light+ SSW sea breeze follows
-  for the afternoon. 
+DESCRIPTION:Fading but still fun SSW swell in the morning with waist to ch
+ est high surf at good exposures and better sets for top breaks. Waves grad
+ ually ease during the day. <br>\n<br>\nFavorable early morning tide push. 
+ Looks like another day of light southerly winds much of the morning\, foll
+ owed by a light+ SSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250805T061800
 DTEND:20250805T081800
-DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
- osed breaks in chest to head high zone surf\, while focal points hit a lit
- tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
- ight/variable winds due much of the morning. Light+ SSW sea breeze follows
-  for the afternoon. 
+DESCRIPTION:Fading but still fun SSW swell in the morning with waist to ch
+ est high surf at good exposures and better sets for top breaks. Waves grad
+ ually ease during the day. <br>\n<br>\nFavorable early morning tide push. 
+ Looks like another day of light southerly winds much of the morning\, foll
+ owed by a light+ SSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250806T062400
 DTEND:20250806T084200
-DESCRIPTION:Nice shot of long-period SSW swell tops out\, putting well exp
- osed breaks in chest to head high zone surf\, while focal points hit a lit
- tle overhead. <br>\n<br>\nFavorable incoming early morning tide push and l
- ight/variable winds due much of the morning. Light+ SSW sea breeze follows
-  for the afternoon. 
+DESCRIPTION:Fading but still fun SSW swell in the morning with waist to ch
+ est high surf at good exposures and better sets for top breaks. Waves grad
+ ually ease during the day. <br>\n<br>\nFavorable early morning tide push. 
+ Looks like another day of light southerly winds much of the morning\, foll
+ owed by a light+ SSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250807T062400
 DTEND:20250807T091200
-DESCRIPTION:-0.371ft at 06:24\n-2.989ft at 09:12
+DESCRIPTION:Fading but still fun SSW swell in the morning with waist to ch
+ est high surf at good exposures and better sets for top breaks. Waves grad
+ ually ease during the day. <br>\n<br>\nFavorable early morning tide push. 
+ Looks like another day of light southerly winds much of the morning\, foll
+ owed by a light+ SSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250807T143000
 DTEND:20250807T161200
-DESCRIPTION:-2.991ft at 14:30\n-2.973ft at 16:12
+DESCRIPTION:Fading but still fun SSW swell in the morning with waist to ch
+ est high surf at good exposures and better sets for top breaks. Waves grad
+ ually ease during the day. <br>\n<br>\nFavorable early morning tide push. 
+ Looks like another day of light southerly winds much of the morning\, foll
+ owed by a light+ SSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -148,5 +146,11 @@ SUMMARY:OST
 DTSTART:20250816T074200
 DTEND:20250816T112400
 DESCRIPTION:-2.997ft at 07:42\n-2.99ft at 11:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250819T063000
+DTEND:20250819T073000
+DESCRIPTION:-2.074ft at 06:30\n-2.968ft at 07:30
 END:VEVENT
 END:VCALENDAR
