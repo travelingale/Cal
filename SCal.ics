@@ -3,75 +3,80 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250805T061800
-DTEND:20250805T081800
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
 DTSTART:20250806T062400
 DTEND:20250806T084200
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250807T062400
 DTEND:20250807T091200
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250807T143000
 DTEND:20250807T161200
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250808T064200
 DTEND:20250808T093600
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250808T144200
 DTEND:20250808T173000
-DESCRIPTION:Mix of SW/SSW swell edging up\, for waist to chest high waves 
- at good exposures\, as standouts hit head high. <br>\n<br>\nFavorable earl
- y morning tide push. Mid-day high tide slows tide sensitive breaks. Light 
- S winds due much of the morning\, followed by light+ SSW sea breeze in the
-  afternoon. 
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250809T071200
 DTEND:20250809T095400
-DESCRIPTION:-0.036ft at 07:12\n-2.961ft at 09:54
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250809T150600
 DTEND:20250809T183600
-DESCRIPTION:-2.97ft at 15:06\n-2.964ft at 18:36
+DESCRIPTION:New round of long-period SW Southern Hemi fills in\, showing m
+ ost size over the afternoon\, with waist to head high surf at good exposur
+ es and overhead sets for focal points\, showing largest late. <br>\n<br>\n
+ Incoming tide push lends a hand first half of the morning. Ebbing tide lat
+ er afternoon also helpful. SSW winds due through the day\, light much of t
+ he morning\, light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -162,5 +167,17 @@ SUMMARY:OST
 DTSTART:20250820T133600
 DTEND:20250820T154800
 DESCRIPTION:-2.996ft at 13:36\n-2.974ft at 15:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250821T063600
+DTEND:20250821T083600
+DESCRIPTION:-0.682ft at 06:36\n-2.966ft at 08:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250821T140000
+DTEND:20250821T171200
+DESCRIPTION:-2.952ft at 14:00\n-2.968ft at 17:12
 END:VEVENT
 END:VCALENDAR
