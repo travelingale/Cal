@@ -3,25 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
-DTSTART:20250913T073600
-DTEND:20250913T091800
-DESCRIPTION:SSW/S swell peaks\, setting up more waist to shoulder high+ su
- rf at exposed spots\, as best breaks get sets hitting 1-2' overhead on mos
- t favorable tides. <br>\n<br>\nLight/variable winds in the morning\, shift
-  to light+ SW for the afternoon. Mid-day lower tide most favorable for tid
- e sensitive spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
 DTSTART:20250917T124200
 DTEND:20250917T151800
-DESCRIPTION:-2.989ft at 12:42\n-2.986ft at 15:18
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250918T125400
 DTEND:20250918T164800
-DESCRIPTION:-2.993ft at 12:54\n-2.963ft at 16:48
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
