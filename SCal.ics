@@ -13,8 +13,30 @@ DESCRIPTION:Nice shot of SSW/S swell peaks\, as shorter-period NW swell jo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's up
+DTSTART:20250917T151800
+DTEND:20250918T125400
+DESCRIPTION:Nice shot of SSW/S swell peaks\, as shorter-period NW swell jo
+ ins in\, setting up more chest to shoulder high+ surf at southerly exposed
+  spots\, as focal points hit head high to 1-2' overhead on  favorable mid 
+ afternoon lower tide. <br>\n<br>\nWinds shift to light+ SW for the afterno
+ on and generally clean in town. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
 DTSTART:20250918T125400
 DTEND:20250918T164800
+DESCRIPTION:SSW swell holds while shorter-period NW swell peaks\, setting 
+ up more chest to shoulder high+ waves\, while standouts are running head h
+ igh to 1-2' overhead on favorable early AM and mid-day/early afternoon tid
+ es. <br>\n<br>\nLight/variable wind through the day for glassy to clean co
+ nditions for town spots. <br>\n<br>\nThe early morning (dawn) wind/tide wi
+ ndow should be best for most\, but the mid to later afternoon window is a 
+ close second. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
+DTSTART:20250918T164800
+DTEND:20250919T070000
 DESCRIPTION:SSW swell holds while shorter-period NW swell peaks\, setting 
  up more chest to shoulder high+ waves\, while standouts are running head h
  igh to 1-2' overhead on favorable early AM and mid-day/early afternoon tid
@@ -37,8 +59,32 @@ DESCRIPTION:Fading SSW swell and secondary NW swell is still good for wais
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's up
+DTSTART:20250919T073600
+DTEND:20250919T131800
+DESCRIPTION:Fading SSW swell and secondary NW swell is still good for wais
+ t to shoulder high surf at good spots in the morning\, as top breaks hit h
+ ead high. Slow fade during the day. <br>\n<br>\nAt this point it looks lik
+ e just a light sea breeze in the morning\, then light+ SW winds for the af
+ ternoon.<br>\n<br>\nThe early morning (dawn) wind/tide window should be be
+ st for most spots\, but the later afternoon window is a close second. Mid-
+ day and evening high tides bog down most spots. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
 DTSTART:20250919T131800
 DTEND:20250919T180000
+DESCRIPTION:Fading SSW swell and secondary NW swell is still good for wais
+ t to shoulder high surf at good spots in the morning\, as top breaks hit h
+ ead high. Slow fade during the day. <br>\n<br>\nAt this point it looks lik
+ e just a light sea breeze in the morning\, then light+ SW winds for the af
+ ternoon.<br>\n<br>\nThe early morning (dawn) wind/tide window should be be
+ st for most spots\, but the later afternoon window is a close second. Mid-
+ day and evening high tides bog down most spots. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
+DTSTART:20250919T180000
+DTEND:20250920T070000
 DESCRIPTION:Fading SSW swell and secondary NW swell is still good for wais
  t to shoulder high surf at good spots in the morning\, as top breaks hit h
  ead high. Slow fade during the day. <br>\n<br>\nAt this point it looks lik
@@ -61,8 +107,32 @@ DESCRIPTION:SSW swell and secondary NW swell tapers off some more\, with w
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's up
+DTSTART:20250920T075400
+DTEND:20250920T134200
+DESCRIPTION:SSW swell and secondary NW swell tapers off some more\, with w
+ aves mostly thigh to waist high at southerly exposures\, up to chest high 
+ on sets for best breaks when the tides are favorable. <br>\n<br>\nLight/va
+ riable winds most of the morning\, puff up to a light+ SW sea breeze in th
+ e afternoon. <br>\n<br>\nBest wind/tide window for most spots will be the 
+ dawn patrol. Later afternoon is second best. Mid-day high tide slows tide 
+ sensitive breaks. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
 DTSTART:20250920T134200
 DTEND:20250920T190000
+DESCRIPTION:SSW swell and secondary NW swell tapers off some more\, with w
+ aves mostly thigh to waist high at southerly exposures\, up to chest high 
+ on sets for best breaks when the tides are favorable. <br>\n<br>\nLight/va
+ riable winds most of the morning\, puff up to a light+ SW sea breeze in th
+ e afternoon. <br>\n<br>\nBest wind/tide window for most spots will be the 
+ dawn patrol. Later afternoon is second best. Mid-day high tide slows tide 
+ sensitive breaks. 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's up
+DTSTART:20250920T190000
+DTEND:20250921T070000
 DESCRIPTION:SSW swell and secondary NW swell tapers off some more\, with w
  aves mostly thigh to waist high at southerly exposures\, up to chest high 
  on sets for best breaks when the tides are favorable. <br>\n<br>\nLight/va
@@ -79,9 +149,21 @@ DESCRIPTION:-1.751ft at 07:00\n-2.925ft at 08:06
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
+DTSTART:20250921T080600
+DTEND:20250921T141200
+DESCRIPTION:-2.925ft at 08:06\n-2.937ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
 DTSTART:20250921T141200
 DTEND:20250921T190600
 DESCRIPTION:-2.937ft at 14:12\n-2.122ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20250921T190600
+DTEND:20250922T070000
+DESCRIPTION:-2.122ft at 19:06\n-1.733ft at 07:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -91,68 +173,20 @@ DESCRIPTION:-1.733ft at 07:00\n-2.955ft at 08:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
+DTSTART:20250922T081800
+DTEND:20250922T144200
+DESCRIPTION:-2.955ft at 08:18\n-2.907ft at 14:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
 DTSTART:20250922T144200
 DTEND:20250922T190000
 DESCRIPTION:-2.907ft at 14:42\n-1.354ft at 19:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
-DTSTART:20250923T070000
-DTEND:20250923T082400
-DESCRIPTION:-1.874ft at 07:00\n-2.95ft at 08:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250923T151200
-DTEND:20250923T190000
-DESCRIPTION:-2.901ft at 15:12\n-0.926ft at 19:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250924T070000
-DTEND:20250924T082400
-DESCRIPTION:-2.133ft at 07:00\n-2.929ft at 08:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250924T154200
-DTEND:20250924T190000
-DESCRIPTION:-2.935ft at 15:42\n-0.787ft at 19:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250925T070000
-DTEND:20250925T082400
-DESCRIPTION:-2.464ft at 07:00\n-2.985ft at 08:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250925T161800
-DTEND:20250925T190000
-DESCRIPTION:-2.927ft at 16:18\n-0.941ft at 19:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250926T070000
-DTEND:20250926T080000
-DESCRIPTION:-2.814ft at 07:00\n-2.972ft at 08:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250926T165400
-DTEND:20250926T185400
-DESCRIPTION:-2.999ft at 16:54\n-1.421ft at 18:54
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20250927T174800
-DTEND:20250927T185400
-DESCRIPTION:-2.92ft at 17:48\n-2.062ft at 18:54
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OST
-DTSTART:20251002T123000
-DTEND:20251002T143600
-DESCRIPTION:-2.983ft at 12:30\n-2.978ft at 14:36
+DTSTART:20250922T190000
+DTEND:20250923T070000
+DESCRIPTION:-1.354ft at 19:00\n-1.874ft at 07:00
 END:VEVENT
 END:VCALENDAR
