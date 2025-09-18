@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250917T124200
 DTEND:20250917T151800
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
@@ -12,7 +12,7 @@ DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
  tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250918T125400
 DTEND:20250918T164800
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
@@ -22,7 +22,7 @@ DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
  tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250919T070000
 DTEND:20250919T073600
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
@@ -32,7 +32,7 @@ DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
  tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250919T131800
 DTEND:20250919T180000
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
@@ -42,7 +42,7 @@ DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
  tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250920T070000
 DTEND:20250920T075400
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
@@ -52,7 +52,7 @@ DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
  tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:0 - 0ft: None
+SUMMARY:OOS
 DTSTART:20250920T134200
 DTEND:20250920T190000
 DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
