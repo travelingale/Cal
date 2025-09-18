@@ -5,37 +5,61 @@ BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250917T124200
 DTEND:20250917T151800
-DESCRIPTION:
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0 - 0ft: None
 DTSTART:20250918T125400
 DTEND:20250918T164800
-DESCRIPTION:
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250919T070000
 DTEND:20250919T073600
-DESCRIPTION:-2.31ft at 07:00\n-2.987ft at 07:36
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250919T131800
 DTEND:20250919T180000
-DESCRIPTION:-2.966ft at 13:18\n-2.962ft at 18:00
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250920T070000
 DTEND:20250920T075400
-DESCRIPTION:-1.948ft at 07:00\n-2.97ft at 07:54
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OST
+SUMMARY:0 - 0ft: None
 DTSTART:20250920T134200
 DTEND:20250920T190000
-DESCRIPTION:-2.984ft at 13:42\n-2.92ft at 19:00
+DESCRIPTION:Modest scale SSW swell and lingering NW swell for mainly thigh
+  to waist high surf\, some better sets at best breaks on favorable early m
+ orning and afternoon tides. <br>\n<br>\nLight/variable winds most of the m
+ orning\, puff up to a light+ SW sea breeze in the afternoon. Mid-day high 
+ tide slows most spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OST
@@ -114,5 +138,11 @@ SUMMARY:OST
 DTSTART:20250927T174800
 DTEND:20250927T185400
 DESCRIPTION:-2.92ft at 17:48\n-2.062ft at 18:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OST
+DTSTART:20251002T123000
+DTEND:20251002T143600
+DESCRIPTION:-2.983ft at 12:30\n-2.978ft at 14:36
 END:VEVENT
 END:VCALENDAR
