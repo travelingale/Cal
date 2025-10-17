@@ -3,51 +3,49 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251015T114800
-DTEND:20251015T142400
-DESCRIPTION:TIDES:\n-2.981ft at 11:48\n-2.976ft at 14:24\n\nOBSERVATION:\n
- Longer period WNW and SSW swells top out through the day. Surf nudges up a
-  peg in response and will start the morning crisp and clean under light of
- fshore flow. NW flow builds in the afternoon\, keeping conditions decent i
- n town.\n\nThe AM high tide will slow some zones\, but there should be opt
- ions to find a decent wave. Average breaks are in the waist-shoulder high 
- range and standouts push head high to slightly larger.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251016T120000
-DTEND:20251016T161800
-DESCRIPTION:TIDES:\n-2.944ft at 12:00\n-2.991ft at 16:18\n\nOBSERVATION:\n
- WNW longer period swell gets a little refresh as SSW swell eases a touch t
- hrough the day. Similar to maybe a touch more size than Wednesday. The AM 
- high tide will again slow many spots but there are some options around.\n\
- nThe morning gets off to a crisp\, clean start then wind trends W/WNW for 
- the afternoon. That'll keep most town spots reasonably clean in the aftern
- oon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251017T121800
 DTEND:20251017T173600
-DESCRIPTION:-2.969ft at 12:18\n-2.944ft at 17:36
+DESCRIPTION:TIDES:\n-2.969ft at 12:18\n-2.944ft at 17:36\n\nOBSERVATION:\n
+ Easing blend of mid-period WNW swell and SSW swell today has waves running
+  waist to chest high mid-day\, with head high+ sets at top breaks. Surf gr
+ adually eases during the afternoon. \n\nLight+ WSW-W sea breeze in the aft
+ ernoon\, keeping the water textured. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251018T124200
 DTEND:20251018T182400
-DESCRIPTION:-2.961ft at 12:42\n-2.654ft at 18:24
+DESCRIPTION:TIDES:\n-2.961ft at 12:42\n-2.654ft at 18:24\n\nOBSERVATION:\n
+ Long-period WNW/NW swell builds in through the day\, showing low on the sp
+ ot forecasts\, especially in the morning\, when lots of spots are head hig
+ h to a few feet overhead. Swell peaks in the afternoon with easily overhea
+ d waves\, as winter focal points are double overhead+. Some SW/SSW swell i
+ n the mix\, helping to set up peaks at combo breaks. \n\nLight/variable wi
+ nd in the morning\, turning light+ SW onshore in the afternoon. Mid-mornin
+ g high tide slows tide sensitive breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251019T130600
 DTEND:20251019T182400
-DESCRIPTION:-2.97ft at 13:06\n-1.754ft at 18:24
+DESCRIPTION:TIDES:\n-2.97ft at 13:06\n-1.754ft at 18:24\n\nOBSERVATION:\nN
+ W swell mix to continues into the morning\, then slowly ease during the af
+ ternoon. Holding SSW swell also in the mix. Good spots are running head hi
+ gh to 1-2' overhead in the morning while winter and combo focal points are
+  easily overhead. Waves dip during the back half of the day.\n\nWind outlo
+ ok is light/variable for the morning\, followed by light+ WSW afternoon on
+ shores. Mid-morning high tide bogs down tide sensitive spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251020T133000
 DTEND:20251020T182400
-DESCRIPTION:-2.993ft at 13:30\n-1.003ft at 18:24
+DESCRIPTION:TIDES:\n-2.993ft at 13:30\n-1.003ft at 18:24\n\nOBSERVATION:\n
+ Old NW swell tapers off as SSW swell continues and a fresh long-period WNW
+ /NW swell fills in. Surf peaks in the afternoon\, with widespread head hig
+ h to several feet overhead surf\, while best exposures are double overhead
+ +. \n\nAt this point\, light/variable winds are due in the morning\, veeri
+ ng light+ SSW for the afternoon\, keeping town spots offshore. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -90,5 +88,17 @@ SUMMARY:Surf's Up
 DTSTART:20251027T174200
 DTEND:20251027T181200
 DESCRIPTION:-2.98ft at 17:42\n-2.558ft at 18:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251031T112400
+DTEND:20251031T151800
+DESCRIPTION:-2.964ft at 11:24\n-2.96ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251101T113000
+DTEND:20251101T170000
+DESCRIPTION:-2.956ft at 11:30\n-2.996ft at 17:00
 END:VEVENT
 END:VCALENDAR
