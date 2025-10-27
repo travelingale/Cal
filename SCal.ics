@@ -3,91 +3,26 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251017T121800
-DTEND:20251017T173600
-DESCRIPTION:TIDES:\n-2.969ft at 12:18\n-2.944ft at 17:36\n\nOBSERVATION:\n
- Easing blend of mid-period WNW swell and SSW swell today has waves running
-  waist to chest high mid-day\, with head high+ sets at top breaks. Surf gr
- adually eases during the afternoon. \n\nLight+ WSW-W sea breeze in the aft
- ernoon\, keeping the water textured. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251018T124200
-DTEND:20251018T182400
-DESCRIPTION:TIDES:\n-2.961ft at 12:42\n-2.654ft at 18:24\n\nOBSERVATION:\n
- Long-period WNW/NW swell builds in through the day\, showing low on the sp
- ot forecasts\, especially in the morning\, when lots of spots are head hig
- h to a few feet overhead. Swell peaks in the afternoon with easily overhea
- d waves\, as winter focal points are double overhead+. Some SW/SSW swell i
- n the mix\, helping to set up peaks at combo breaks. \n\nLight/variable wi
- nd in the morning\, turning light+ SW onshore in the afternoon. Mid-mornin
- g high tide slows tide sensitive breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251019T130600
-DTEND:20251019T182400
-DESCRIPTION:TIDES:\n-2.97ft at 13:06\n-1.754ft at 18:24\n\nOBSERVATION:\nN
- W swell mix to continues into the morning\, then slowly ease during the af
- ternoon. Holding SSW swell also in the mix. Good spots are running head hi
- gh to 1-2' overhead in the morning while winter and combo focal points are
-  easily overhead. Waves dip during the back half of the day.\n\nWind outlo
- ok is light/variable for the morning\, followed by light+ WSW afternoon on
- shores. Mid-morning high tide bogs down tide sensitive spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251020T133000
-DTEND:20251020T182400
-DESCRIPTION:TIDES:\n-2.993ft at 13:30\n-1.003ft at 18:24\n\nOBSERVATION:\n
- Old NW swell tapers off as SSW swell continues and a fresh long-period WNW
- /NW swell fills in. Surf peaks in the afternoon\, with widespread head hig
- h to several feet overhead surf\, while best exposures are double overhead
- +. \n\nAt this point\, light/variable winds are due in the morning\, veeri
- ng light+ SSW for the afternoon\, keeping town spots offshore. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251021T140000
-DTEND:20251021T181800
-DESCRIPTION:-2.92ft at 14:00\n-0.422ft at 18:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251022T142400
-DTEND:20251022T181800
-DESCRIPTION:-2.999ft at 14:24\n-0.161ft at 18:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251023T150000
-DTEND:20251023T181800
-DESCRIPTION:-2.896ft at 15:00\n-0.176ft at 18:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251024T153000
-DTEND:20251024T181800
-DESCRIPTION:-2.974ft at 15:30\n-0.465ft at 18:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251025T161200
-DTEND:20251025T181800
-DESCRIPTION:-2.916ft at 16:12\n-0.994ft at 18:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251026T165400
 DTEND:20251026T181200
-DESCRIPTION:-2.95ft at 16:54\n-1.778ft at 18:12
+DESCRIPTION:TIDES:\n-2.95ft at 16:54\n-1.778ft at 18:12\n\nOBSERVATION:\nY
+ et another pulse of mid-period and more westerly WNW swell moves in. The s
+ urf will  come up a notch from Fri/Sat with widespread well overhead waves
+ \, while good spots are comfortably 2x overhead. Standouts see some even l
+ arger sets. Pumping all day but showing the most size through the morning 
+ tide push. \n\nLight/variable winds much of the morning\, going weak S-SW 
+ in the afternoon for clean conditions all day\, glassy at times. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251027T174200
 DTEND:20251027T181200
-DESCRIPTION:-2.98ft at 17:42\n-2.558ft at 18:12
+DESCRIPTION:TIDES:\n-2.98ft at 17:42\n-2.558ft at 18:12\n\nOBSERVATION:\nF
+ ading WNW swell mix - as well as a little pulse of SW swell - is still goo
+ d for head high to overhead surf in the morning at the better breaks\, wit
+ h top spots a couple feet+ overhead. Some peaks/bowls at times when the SW
+  crosses up the NW swell. \n\nLight/variable winds expected through the da
+ y - some fog possible in the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -100,5 +35,53 @@ SUMMARY:Surf's Up
 DTSTART:20251101T113000
 DTEND:20251101T170000
 DESCRIPTION:-2.956ft at 11:30\n-2.996ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251102T105400
+DTEND:20251102T170600
+DESCRIPTION:-2.912ft at 10:54\n-2.802ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251103T112400
+DTEND:20251103T170600
+DESCRIPTION:-2.905ft at 11:24\n-1.508ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251104T120000
+DTEND:20251104T141200
+DESCRIPTION:-2.897ft at 12:00\n-0.003ft at 14:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251105T124200
+DTEND:20251105T143000
+DESCRIPTION:-2.852ft at 12:42\n-0.099ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251106T132400
+DTEND:20251106T151200
+DESCRIPTION:-2.922ft at 13:24\n-0.045ft at 15:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251107T141200
+DTEND:20251107T160000
+DESCRIPTION:-2.927ft at 14:12\n-0.096ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251108T150600
+DTEND:20251108T170000
+DESCRIPTION:-2.866ft at 15:06\n-0.101ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251109T160000
+DTEND:20251109T170000
+DESCRIPTION:-2.898ft at 16:00\n-1.5ft at 17:00
 END:VEVENT
 END:VCALENDAR
