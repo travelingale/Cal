@@ -3,50 +3,50 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251026T165400
-DTEND:20251026T181200
-DESCRIPTION:TIDES:\n-2.95ft at 16:54\n-1.778ft at 18:12\n\nOBSERVATION:\nY
- et another pulse of mid-period and more westerly WNW swell moves in. The s
- urf will  come up a notch from Fri/Sat with widespread well overhead waves
- \, while good spots are comfortably 2x overhead. Standouts see some even l
- arger sets. Pumping all day but showing the most size through the morning 
- tide push. \n\nLight/variable winds much of the morning\, going weak S-SW 
- in the afternoon for clean conditions all day\, glassy at times. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251027T174200
-DTEND:20251027T181200
-DESCRIPTION:TIDES:\n-2.98ft at 17:42\n-2.558ft at 18:12\n\nOBSERVATION:\nF
- ading WNW swell mix - as well as a little pulse of SW swell - is still goo
- d for head high to overhead surf in the morning at the better breaks\, wit
- h top spots a couple feet+ overhead. Some peaks/bowls at times when the SW
-  crosses up the NW swell. \n\nLight/variable winds expected through the da
- y - some fog possible in the morning. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251031T112400
 DTEND:20251031T151800
-DESCRIPTION:-2.964ft at 11:24\n-2.96ft at 15:18
+DESCRIPTION:TIDES:\n-2.964ft at 11:24\n-2.96ft at 15:18\n\nOBSERVATION:\nL
+ ong period forerunners out of the SW slowly build through the day today an
+ d there's a decent amount of NW swell mixing in\, gradually building in to
+ o. \n\nLook for chest-head high surf to fill in over the afternoon hours. 
+ Standout SW/combo spots see occasional overhead sets late. \n\nNice/warm w
+ eather\, light winds all day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251101T113000
 DTEND:20251101T170000
-DESCRIPTION:-2.956ft at 11:30\n-2.996ft at 17:00
+DESCRIPTION:TIDES:\n-2.956ft at 11:30\n-2.996ft at 17:00\n\nOBSERVATION:\n
+ Conditions will be favorable to open November and both the WNW and SW swel
+ l will have a good deal of west in them\, so nice directions for the Santa
+  Cruz region.\n\nLook for widespread head high surf off the swell mix\, wi
+ th top breaks a couple to a few feet overhead\, showing most size back hal
+ f of the day. Good shape and conditions with some bowled up corners off th
+ e swell mix.\n\nHigh pressure maintains pleasant/warm weather and light wi
+ nd. Early AM high tide slows many spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251102T105400
 DTEND:20251102T170600
-DESCRIPTION:-2.912ft at 10:54\n-2.802ft at 17:06
+DESCRIPTION:TIDES:\n-2.912ft at 10:54\n-2.802ft at 17:06\n\nOBSERVATION:\n
+ Healthy blend of mid-period WNW swell and longer-period Southern Hemi\, ea
+ ch with a nice share of favorable west in them\, will have lots of spots r
+ unning in the head high to 1-2' overhead zone\, as better exposures are se
+ veral feet+ overhead and top breaks are double overhead+. Good shape and c
+ onditions with some bowled up corners off the swell combo.\n\nLight/variab
+ le winds keep conditions clean through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251103T112400
 DTEND:20251103T170600
-DESCRIPTION:-2.905ft at 11:24\n-1.508ft at 17:06
+DESCRIPTION:TIDES:\n-2.905ft at 11:24\n-1.508ft at 17:06\n\nOBSERVATION:\n
+ Off a notch from Sunday\, but an easing blend of WNW and SW swell is still
+  good for widespread head high to 1-2' overhead waves at many spots in the
+  morning\, while better breaks are easily overhead. Surf gradually tapers 
+ off during the afternoon. \n\nMorning starts off clean with light/variable
+  winds. SW onshores puff up to light+ for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -83,5 +83,29 @@ SUMMARY:Surf's Up
 DTSTART:20251109T160000
 DTEND:20251109T170000
 DESCRIPTION:-2.898ft at 16:00\n-1.5ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251112T094800
+DTEND:20251112T114200
+DESCRIPTION:-2.983ft at 09:48\n-2.989ft at 11:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251113T095400
+DTEND:20251113T141800
+DESCRIPTION:-2.974ft at 09:54\n-2.998ft at 14:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251114T101800
+DTEND:20251114T160000
+DESCRIPTION:-2.952ft at 10:18\n-2.942ft at 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251115T104200
+DTEND:20251115T165400
+DESCRIPTION:-2.964ft at 10:42\n-2.61ft at 16:54
 END:VEVENT
 END:VCALENDAR
