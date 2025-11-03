@@ -3,68 +3,50 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251031T112400
-DTEND:20251031T151800
-DESCRIPTION:TIDES:\n-2.964ft at 11:24\n-2.96ft at 15:18\n\nOBSERVATION:\nL
- ong period forerunners out of the SW slowly build through the day today an
- d there's a decent amount of NW swell mixing in\, gradually building in to
- o. \n\nLook for chest-head high surf to fill in over the afternoon hours. 
- Standout SW/combo spots see occasional overhead sets late. \n\nNice/warm w
- eather\, light winds all day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251101T113000
-DTEND:20251101T170000
-DESCRIPTION:TIDES:\n-2.956ft at 11:30\n-2.996ft at 17:00\n\nOBSERVATION:\n
- Conditions will be favorable to open November and both the WNW and SW swel
- l will have a good deal of west in them\, so nice directions for the Santa
-  Cruz region.\n\nLook for widespread head high surf off the swell mix\, wi
- th top breaks a couple to a few feet overhead\, showing most size back hal
- f of the day. Good shape and conditions with some bowled up corners off th
- e swell mix.\n\nHigh pressure maintains pleasant/warm weather and light wi
- nd. Early AM high tide slows many spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251102T105400
-DTEND:20251102T170600
-DESCRIPTION:TIDES:\n-2.912ft at 10:54\n-2.802ft at 17:06\n\nOBSERVATION:\n
- Healthy blend of mid-period WNW swell and longer-period Southern Hemi\, ea
- ch with a nice share of favorable west in them\, will have lots of spots r
- unning in the head high to 1-2' overhead zone\, as better exposures are se
- veral feet+ overhead and top breaks are double overhead+. Good shape and c
- onditions with some bowled up corners off the swell combo.\n\nLight/variab
- le winds keep conditions clean through the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251103T112400
 DTEND:20251103T170600
 DESCRIPTION:TIDES:\n-2.905ft at 11:24\n-1.508ft at 17:06\n\nOBSERVATION:\n
- Off a notch from Sunday\, but an easing blend of WNW and SW swell is still
-  good for widespread head high to 1-2' overhead waves at many spots in the
-  morning\, while better breaks are easily overhead. Surf gradually tapers 
- off during the afternoon. \n\nMorning starts off clean with light/variable
-  winds. SW onshores puff up to light+ for the afternoon. 
+ Off a notch from yesterday\, but an easing blend of WNW and SW swell is st
+ ill good for widespread head high to 1-2' overhead waves at many spots in 
+ the morning\, while better breaks are easily overhead. Surf gradually tape
+ rs off during the afternoon. \n\nMorning starts off foggy and clean with l
+ ight/variable winds. SW onshores puff up to light+ for the afternoon. Earl
+ y morning deep high tide slows tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251104T120000
 DTEND:20251104T141200
-DESCRIPTION:-2.897ft at 12:00\n-0.003ft at 14:12
+DESCRIPTION:TIDES:\n-2.897ft at 12:00\n-0.003ft at 14:12\n\nOBSERVATION:\n
+ Slowly fading combo of WNW and SW swell shows most size in the morning\, w
+ ith shoulder to head high surf for many spots\, as better breaks are going
+  overhead. Gradual fade as the day goes on. \n\nLight/variable winds in th
+ e morning\, shift light+ SW for the afternoon.  Early morning deep high ti
+ de slows tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251105T124200
 DTEND:20251105T143000
-DESCRIPTION:-2.852ft at 12:42\n-0.099ft at 14:30
+DESCRIPTION:TIDES:\n-2.852ft at 12:42\n-0.099ft at 14:30\n\nOBSERVATION:\n
+ Trend towards smaller waves continues early as old WNW and SW swell blend 
+ dips\, for mainly waist to shoulder high+ waves. Fresh\, mid to longer-per
+ iod W swell builds in the afternoon\, setting up head high to overhead sur
+ f\, showing largest late. \n\nLooking like breezy S onshores winds through
+  the day for sloppy conditions. Stay tuned. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251106T132400
 DTEND:20251106T151200
-DESCRIPTION:-2.922ft at 13:24\n-0.045ft at 15:12
+DESCRIPTION:TIDES:\n-2.922ft at 13:24\n-0.045ft at 15:12\n\nOBSERVATION:\n
+ A deepening low currently tracking eastward under the Aleutians is expecte
+ d to push in a peaking round of mid to longer-period WNW swell with a bit 
+ more west than we've seen so far.  \n\nThat little extra west and favorabl
+ e period could mean the strongest NPAC surf of the young season at many sp
+ ots\, with potentially double to triple overhead range surf as the swell p
+ eaks in the afternoon.\n\nAM winds look light\, but there's a deep mid-AM 
+ high tide to be aware of.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -107,5 +89,29 @@ SUMMARY:Surf's Up
 DTSTART:20251115T104200
 DTEND:20251115T165400
 DESCRIPTION:-2.964ft at 10:42\n-2.61ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251116T110600
+DTEND:20251116T165400
+DESCRIPTION:-2.989ft at 11:06\n-1.715ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251117T113600
+DTEND:20251117T165400
+DESCRIPTION:-2.901ft at 11:36\n-0.915ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251118T120000
+DTEND:20251118T151800
+DESCRIPTION:-2.943ft at 12:00\n-0.005ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251118T161200
+DTEND:20251118T165400
+DESCRIPTION:-0.01ft at 16:12\n-0.281ft at 16:54
 END:VEVENT
 END:VCALENDAR
