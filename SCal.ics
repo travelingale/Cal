@@ -3,37 +3,25 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251105T124200
-DTEND:20251105T143000
-DESCRIPTION:TIDES:\n-2.852ft at 12:42\n-0.099ft at 14:30\n\nOBSERVATION:\n
- Trend towards smaller waves continues early as old WNW and SW swell blend 
- dips\, for mainly waist to shoulder high+ waves. Fresh\, lower-period WSW 
- swell builds in through the day\, setting up head high to overhead surf\, 
- showing largest late. \n\nLight+ SSE winds in the early morning for some l
- ump\, then the onshores shift SSW and rise to moderate+ mid-day into the a
- fternoon for bumpier conditions.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251106T132400
 DTEND:20251106T151200
 DESCRIPTION:TIDES:\n-2.922ft at 13:24\n-0.045ft at 15:12\n\nOBSERVATION:\n
- A deepening low currently tracking eastward under the Aleutians is expecte
- d to push in a peaking round of mid to longer-period WNW swell with a bit 
- more west than we've seen so far.  \n\nThat little extra west and favorabl
- e period could mean the strongest NPAC surf of the young season at many sp
- ots\, with potentially double to triple overhead range surf as the swell p
- eaks in the afternoon.\n\nAM winds look light\, but there's a deep mid-AM 
- high tide to be aware of. Light sea breeze in the PM.
+ A good looking low that's been tracking eastward well under the Alaskan Gu
+ lf recently pushed down a healthy mid to longer-period W/WNW swell with a 
+ bit more west than we've seen so far.  \n\nThe swell's extra west and favo
+ rable period makes it the strongest NPAC surf of the young season at many 
+ spots\, with double to triple overhead range surf for good breaks as the s
+ well peaks in the PM.\n\nLight winds all day\, some leftover lump due earl
+ y AM. Deep high tide mid-morning slows some spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251107T141200
 DTEND:20251107T160000
 DESCRIPTION:TIDES:\n-2.927ft at 14:12\n-0.096ft at 16:00\n\nOBSERVATION:\n
- Easing WNW swell is still good for overhead to double overhead surf in the
-  early morning\, then waves taper off during the day. \n\nLight winds due 
- all day. Deep mid-AM high tide slows most spots.
+ Easing WNW swell is still good for overhead to double overhead range surf 
+ in the early morning\, then waves taper off during the day. \n\nLight wind
+ s due all day. Deep mid-AM high tide slows most spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -49,7 +37,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251109T160000
 DTEND:20251109T170000
-DESCRIPTION:-2.898ft at 16:00\n-1.5ft at 17:00
+DESCRIPTION:TIDES:\n-2.898ft at 16:00\n-1.5ft at 17:00\n\nOBSERVATION:\nFa
+ ding WNW swell is still good for waist to shoulder high surf in the mornin
+ g\, then waves taper off during the day. \n\nLight winds/nice conditions e
+ xpected all day. Mid-day high tide bogs down the smaller surf. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -110,5 +101,11 @@ SUMMARY:Surf's Up
 DTSTART:20251120T130000
 DTEND:20251120T154200
 DESCRIPTION:-2.888ft at 13:00\n-0.031ft at 15:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251121T133000
+DTEND:20251121T161800
+DESCRIPTION:-2.934ft at 13:30\n-0.007ft at 16:18
 END:VEVENT
 END:VCALENDAR
