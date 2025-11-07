@@ -3,25 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251106T132400
-DTEND:20251106T151200
-DESCRIPTION:TIDES:\n-2.922ft at 13:24\n-0.045ft at 15:12\n\nOBSERVATION:\n
- A good looking low that's been tracking eastward well under the Alaskan Gu
- lf recently pushed down a healthy mid to longer-period W/WNW swell with a 
- bit more west than we've seen so far.  \n\nThe swell's extra west and favo
- rable period makes it the strongest NPAC surf of the young season at many 
- spots\, with double to triple overhead range surf for good breaks as the s
- well peaks in the PM.\n\nLight winds all day\, some leftover lump due earl
- y AM. Deep high tide mid-morning slows some spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251107T141200
 DTEND:20251107T160000
 DESCRIPTION:TIDES:\n-2.927ft at 14:12\n-0.096ft at 16:00\n\nOBSERVATION:\n
- Easing WNW swell is still good for overhead to double overhead range surf 
- in the early morning\, then waves taper off during the day. \n\nLight wind
- s due all day. Deep mid-AM high tide slows most spots.
+ Easing WNW swell is still good for very solid overhead to double overhead 
+ range surf in the early morning at better exposures. Decent window first t
+ hing in the morning\, softening up a bit late morning on the high tide\, g
+ etting punchy again as the tide falls through the afternoon.\n\nLight wind
+ s all day in town\, the early window won't have the morning sickness it di
+ d on Thu but there is a good chance for visibility issues from fog first t
+ hing.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -107,5 +98,11 @@ SUMMARY:Surf's Up
 DTSTART:20251121T133000
 DTEND:20251121T161800
 DESCRIPTION:-2.934ft at 13:30\n-0.007ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251122T140600
+DTEND:20251122T165400
+DESCRIPTION:-2.906ft at 14:06\n-0.058ft at 16:54
 END:VEVENT
 END:VCALENDAR
