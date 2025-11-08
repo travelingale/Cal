@@ -3,26 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251107T141200
-DTEND:20251107T160000
-DESCRIPTION:TIDES:\n-2.927ft at 14:12\n-0.096ft at 16:00\n\nOBSERVATION:\n
- Easing WNW swell is still good for very solid overhead to double overhead 
- range surf in the early morning at better exposures. Decent window first t
- hing in the morning\, softening up a bit late morning on the high tide\, g
- etting punchy again as the tide falls through the afternoon.\n\nLight wind
- s all day in town\, the early window won't have the morning sickness it di
- d on Thu but there is a good chance for visibility issues from fog first t
- hing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251108T150600
 DTEND:20251108T170000
 DESCRIPTION:TIDES:\n-2.866ft at 15:06\n-0.101ft at 17:00\n\nOBSERVATION:\n
  Mix of old and new WNW swell has waves running chest to head high at good 
- spots\, while top breaks see overhead sets. \n\nLight/variable to light of
- fshores due through the day\, for nice conditions. Mind the deep mid-day h
- igh tide. 
+ spots\, while top breaks see overhead sets. Early window the one to target
+  if you want the most size -- standouts should even have some well overhea
+ d sets first thing. \n\nLight/variable to light offshores due through the 
+ day\, for nice conditions. Mind the deep mid-day high tide. A little less 
+ size as the tide drops in the afternoon but shape gets better.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -104,5 +93,11 @@ SUMMARY:Surf's Up
 DTSTART:20251122T140600
 DTEND:20251122T165400
 DESCRIPTION:-2.906ft at 14:06\n-0.058ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251123T144200
+DTEND:20251123T164800
+DESCRIPTION:-2.924ft at 14:42\n-0.689ft at 16:48
 END:VEVENT
 END:VCALENDAR
