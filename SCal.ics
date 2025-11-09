@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251108T150600
-DTEND:20251108T170000
-DESCRIPTION:TIDES:\n-2.866ft at 15:06\n-0.101ft at 17:00\n\nOBSERVATION:\n
- Mix of old and new WNW swell has waves running chest to head high at good 
- spots\, while top breaks see overhead sets. Early window the one to target
-  if you want the most size -- standouts should even have some well overhea
- d sets first thing. \n\nLight/variable to light offshores due through the 
- day\, for nice conditions. Mind the deep mid-day high tide. A little less 
- size as the tide drops in the afternoon but shape gets better.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251109T160000
 DTEND:20251109T170000
 DESCRIPTION:TIDES:\n-2.898ft at 16:00\n-1.5ft at 17:00\n\nOBSERVATION:\nFa
@@ -26,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251112T094800
 DTEND:20251112T114200
-DESCRIPTION:-2.983ft at 09:48\n-2.989ft at 11:42
+DESCRIPTION:TIDES:\n-2.983ft at 09:48\n-2.989ft at 11:42\n\nOBSERVATION:\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -99,5 +87,11 @@ SUMMARY:Surf's Up
 DTSTART:20251123T144200
 DTEND:20251123T164800
 DESCRIPTION:-2.924ft at 14:42\n-0.689ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251124T151800
+DTEND:20251124T164800
+DESCRIPTION:-2.98ft at 15:18\n-1.408ft at 16:48
 END:VEVENT
 END:VCALENDAR
