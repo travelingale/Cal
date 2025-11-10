@@ -3,24 +3,23 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251109T160000
-DTEND:20251109T170000
-DESCRIPTION:TIDES:\n-2.898ft at 16:00\n-1.5ft at 17:00\n\nOBSERVATION:\nFa
- ding WNW swell is still good for waist to shoulder high surf in the mornin
- g\, then waves taper off during the day. \n\nLight winds/nice conditions e
- xpected all day. Mid-day high tide bogs down the smaller surf. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251112T094800
 DTEND:20251112T114200
 DESCRIPTION:TIDES:\n-2.983ft at 09:48\n-2.989ft at 11:42\n\nOBSERVATION:\n
+ Smaller WNW swell leftovers as SSW swell hangs in there. Fun-zone surf for
+  the Southern Hemi standouts\, more modest offerings elsewhere. \n\nSouthe
+ rly wind builds through the day and could already make for junky condition
+ s first thing in the morning. Even more widespread lump due by the afterno
+ on\, sticking around through the end of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251113T095400
 DTEND:20251113T141800
-DESCRIPTION:-2.974ft at 09:54\n-2.998ft at 14:18
+DESCRIPTION:TIDES:\n-2.974ft at 09:54\n-2.998ft at 14:18\n\nOBSERVATION:\n
+ Forecast charts showing potential for a good combo of WNW and SSW swell pe
+ aking back half of the work week\, then easing going into the weekend. We'
+ ll keep you posted on those storm/swell systems.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -93,5 +92,11 @@ SUMMARY:Surf's Up
 DTSTART:20251124T151800
 DTEND:20251124T164800
 DESCRIPTION:-2.98ft at 15:18\n-1.408ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251125T160000
+DTEND:20251125T164800
+DESCRIPTION:-2.969ft at 16:00\n-2.187ft at 16:48
 END:VEVENT
 END:VCALENDAR
