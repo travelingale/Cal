@@ -3,25 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251112T094800
-DTEND:20251112T114200
-DESCRIPTION:TIDES:\n-2.983ft at 09:48\n-2.989ft at 11:42\n\nOBSERVATION:\n
- Smaller WNW swell leftovers as SSW swell hangs in there. Fun-zone surf run
- ning waist to shoulder high+ for the better Southern Hemi exposures\, more
-  modest scale offerings elsewhere. \n\nSoutherly wind through the day\, li
- ght for the morning\, then rising to low-end moderate over the afternoon. 
- Back half of the morning with the ebbing tide likely the best window for m
- ost spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251113T095400
 DTEND:20251113T141800
 DESCRIPTION:TIDES:\n-2.974ft at 09:54\n-2.998ft at 14:18\n\nOBSERVATION:\n
- A good combo of WNW and SSW swell filling in\, with widespread chest to he
- ad high+ waves\, better sets at top breaks. \n\nWinds looking sketchy at t
- his time\, primarily SSW onshore through the day\, so conditions an issue.
-  
+ A good blend of WNW and SSW swell filling in\, with widespread chest to he
+ ad high waves\, better sets at top exposures/combo breaks. Nearby storm fo
+ r low quality conditions. \n\nModerate to periodically more onshores throu
+ gh the day\, SSE in the morning\, shifting SSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -29,10 +17,10 @@ DTSTART:20251114T101800
 DTEND:20251114T160000
 DESCRIPTION:TIDES:\n-2.952ft at 10:18\n-2.942ft at 16:00\n\nOBSERVATION:\n
  Healthy blend of mid-period WNW swell and secondary\, longer-period SSW sw
- ell topping out\, putting lots of spots in head high+ to easily overhead w
- aves\, while standouts hit double overhead. \n\nWinds expected to cooperat
- e: Light/variable most of the morning\, light+ WSW onshore in the afternoo
- n. 
+ ell topping out\, putting lots of spots in easily overhead waves\, while b
+ etter breaks hit double overhead and focal points see more size.\n\nWinds 
+ expected to cooperate: Light/variable most of the morning\, light+ WSW ons
+ hore in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -40,15 +28,20 @@ DTSTART:20251115T104200
 DTEND:20251115T165400
 DESCRIPTION:TIDES:\n-2.964ft at 10:42\n-2.61ft at 16:54\n\nOBSERVATION:\nE
  asing combo of mid-period WNW swell and secondary\, longer-period SSW swel
- l is still good for widespread chest to head high+ surf\, as top breaks go
-  a foot+ overhead. \n\nLight/variable winds due all day. Early morning hig
- h tide slows the dawn patrol. 
+ l is still good for widespread chest to head high+ surf in the morning\, a
+ s top breaks go a foot+ overhead. Waves taper off during the day. \n\nLigh
+ t/variable winds due all day. Early morning high tide slows the dawn patro
+ l. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251116T110600
 DTEND:20251116T165400
-DESCRIPTION:-2.989ft at 11:06\n-1.715ft at 16:54
+DESCRIPTION:TIDES:\n-2.989ft at 11:06\n-1.715ft at 16:54\n\nOBSERVATION:\n
+ Blend of mid-period WNW swell and secondary\, longer-period SSW swell hold
+ s\, maintaining waist to chest high surf at many spots\, while top breaks 
+ see better sets. \n\nLight+ southerly winds due all day. Early morning hig
+ h tide bogs down the dawn patrol. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -109,5 +102,11 @@ SUMMARY:Surf's Up
 DTSTART:20251125T160000
 DTEND:20251125T164800
 DESCRIPTION:-2.969ft at 16:00\n-2.187ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251128T092400
+DTEND:20251128T124200
+DESCRIPTION:-2.972ft at 09:24\n-2.998ft at 12:42
 END:VEVENT
 END:VCALENDAR
