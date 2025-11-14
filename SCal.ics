@@ -3,24 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251113T095400
-DTEND:20251113T141800
-DESCRIPTION:TIDES:\n-2.974ft at 09:54\n-2.998ft at 14:18\n\nOBSERVATION:\n
- A good blend of WNW and SSW swell filling in\, with widespread chest to he
- ad high waves\, better sets at top exposures/combo breaks. Nearby storm fo
- r low quality conditions. \n\nModerate to periodically more onshores throu
- gh the day\, SSE in the morning\, shifting SSW for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251114T101800
 DTEND:20251114T160000
 DESCRIPTION:TIDES:\n-2.952ft at 10:18\n-2.942ft at 16:00\n\nOBSERVATION:\n
  Healthy blend of mid-period WNW swell and secondary\, longer-period SSW sw
- ell topping out\, putting lots of spots in easily overhead waves\, while b
- etter breaks hit double overhead and focal points see more size.\n\nWinds 
- expected to cooperate: Light/variable most of the morning\, light+ WSW ons
- hore in the afternoon. 
+ ell topping out in the morning\, putting lots of spots in overhead to doub
+ le overhead zone waves\, while focal points hit triple overhead. Size grad
+ ually tapers off during the afternoon\, still pumping.\n\nWinds are light 
+ WSW in the morning\, then puff up to light+ SW onshore in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -47,7 +37,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251117T113600
 DTEND:20251117T165400
-DESCRIPTION:-2.901ft at 11:36\n-0.915ft at 16:54
+DESCRIPTION:TIDES:\n-2.901ft at 11:36\n-0.915ft at 16:54\n\nOBSERVATION:\n
+ Forecast charts calling for a solid new round of building mid-period WNW s
+ well\, as secondary SSW swell lingers\, with potential for widespread easi
+ ly overhead waves\, while better breaks are double overhead+. \n\nAt this 
+ point\, moderate+ WSW-W winds due for side shore conditions in town. Early
+  morning high tide slows the dawn patrol. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -108,5 +103,11 @@ SUMMARY:Surf's Up
 DTSTART:20251128T092400
 DTEND:20251128T124200
 DESCRIPTION:-2.972ft at 09:24\n-2.998ft at 12:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251129T092400
+DTEND:20251129T150600
+DESCRIPTION:-2.968ft at 09:24\n-2.986ft at 15:06
 END:VEVENT
 END:VCALENDAR
