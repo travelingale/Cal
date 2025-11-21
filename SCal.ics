@@ -3,26 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251120T130000
-DTEND:20251120T154200
-DESCRIPTION:TIDES:\n-2.888ft at 13:00\n-0.031ft at 15:42\n\nOBSERVATION:\n
- Old blend of WNW swell and SSW swell with mainly thigh to waist high surf 
- in the morning. New\, mid-period WNW swell starts to move in during the af
- ternoon\, for waves rising into the chest to head high range\, showing lar
- gest late. \n\nLight/variable winds early morning\, then mainly light+ NNW
-  winds the rest of the day for offshore conditions in town. Mid-morning hi
- gh tide bogs down the smaller surf. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251121T133000
 DTEND:20251121T161800
 DESCRIPTION:TIDES:\n-2.934ft at 13:30\n-0.007ft at 16:18\n\nOBSERVATION:\n
  Strong blend of WNW swell\, along with some longer-period SSW swell\, maxe
  s out in the morning\, setting up overhead to double overhead range waves 
- at good spots. Surf dips a bit in the afternoon. \n\nLight/variable winds 
- due all day for nice conditions. Mid-morning high tide slows tide sensitiv
- e spots a bit. 
+ at good spots\, while focal points see larger sets. Surf dips a bit in the
+  afternoon. \n\nLight/variable winds all day for nice conditions. Mid-morn
+ ing high tide slows tide sensitive spots a bit. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -31,11 +19,11 @@ DTEND:20251122T165400
 DESCRIPTION:TIDES:\n-2.906ft at 14:06\n-0.058ft at 16:54\n\nOBSERVATION:\n
  WNW leftovers from the Friday swell start the morning off in head high+ wa
  ves\, then fresh\, long-period WNW swell builds in through the second half
-  of the day for surf running in the overhead to double overhead range at b
- etter breaks\, showing largest late.\n\nTide isn't great but manageable ea
- rly\, then drains out through the afternoon. Wind is favorable all day -- 
- crisp and clean early with light offshore northerly wind\, then a shift to
-  a light WSW sea breeze texture in town for the PM low tide.
+  of the day for widespread surf running well overhead as standouts push do
+ uble overhead\, showing largest late.\n\nTide isn't great but manageable e
+ arly\, then drains out through the afternoon. Wind is favorable all day --
+  crisp and clean early with light offshore northerly wind\, then a shift t
+ o a light WSW sea breeze texture in town for the PM low tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -53,7 +41,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251124T151800
 DTEND:20251124T164800
-DESCRIPTION:-2.98ft at 15:18\n-1.408ft at 16:48
+DESCRIPTION:TIDES:\n-2.98ft at 15:18\n-1.408ft at 16:48\n\nOBSERVATION:\nS
+ low fading WNW swell\, along with some lingering SSW swell\, is still good
+  for head high+ to easily overhead range waves in the morning\, then a gra
+ dual fade follows through the afternoon. \n\nLight/variable winds due thro
+ ugh the day\, keeping conditions mostly clean. Mid-day high tide slows dow
+ n tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -114,5 +107,11 @@ SUMMARY:Surf's Up
 DTSTART:20251205T130600
 DTEND:20251205T144800
 DESCRIPTION:-2.975ft at 13:06\n-0.034ft at 14:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251206T135400
+DTEND:20251206T153600
+DESCRIPTION:-2.984ft at 13:54\n-0.129ft at 15:36
 END:VEVENT
 END:VCALENDAR
