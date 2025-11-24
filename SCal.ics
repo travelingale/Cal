@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251123T144200
-DTEND:20251123T164800
-DESCRIPTION:TIDES:\n-2.924ft at 14:42\n-0.689ft at 16:48\n\nOBSERVATION:\n
- Wind stays favorable and there's plenty of surf on tap. WNW swell peaks in
-  the morning\, as secondary SSW swell holds\, setting up punchy surf in th
- e overhead to near double overhead range. \n\nLight/variable morning winds
- \, shift to a light SW sea breeze for the afternoon but likely clean all d
- ay. Mid-day high tide slows down tide sensitive spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251124T151800
 DTEND:20251124T164800
 DESCRIPTION:TIDES:\n-2.98ft at 15:18\n-1.408ft at 16:48\n\nOBSERVATION:\nS
@@ -21,7 +10,7 @@ DESCRIPTION:TIDES:\n-2.98ft at 15:18\n-1.408ft at 16:48\n\nOBSERVATION:\nS
   for head high+ to easily overhead waves in the morning\, then a gradual f
  ade follows through the afternoon. \n\nLight/variable winds due through th
  e day\, keeping conditions mostly clean. Mid-day high tide slows down tide
-  sensitive spots. 
+  sensitive spots. Afernoon gets good on the tide drop. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -104,5 +93,11 @@ SUMMARY:Surf's Up
 DTSTART:20251208T153600
 DTEND:20251208T164800
 DESCRIPTION:-2.883ft at 15:36\n-1.174ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251209T162400
+DTEND:20251209T164800
+DESCRIPTION:-2.902ft at 16:24\n-2.416ft at 16:48
 END:VEVENT
 END:VCALENDAR
