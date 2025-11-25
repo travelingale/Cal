@@ -3,30 +3,24 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251124T151800
-DTEND:20251124T164800
-DESCRIPTION:TIDES:\n-2.98ft at 15:18\n-1.408ft at 16:48\n\nOBSERVATION:\nS
- low fading WNW swell\, along with some lingering SSW swell\, is still good
-  for head high+ to easily overhead waves in the morning\, then a gradual f
- ade follows through the afternoon. \n\nLight/variable winds due through th
- e day\, keeping conditions mostly clean. Mid-day high tide slows down tide
-  sensitive spots. Afernoon gets good on the tide drop. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251125T160000
 DTEND:20251125T164800
 DESCRIPTION:TIDES:\n-2.969ft at 16:00\n-2.187ft at 16:48\n\nOBSERVATION:\n
  Primary WNW swell continues to taper off\, along with some secondary SSW s
  well\, for mainly chest high to a foot overhead zone surf in the morning. 
- Waves ease during the day. \n\nLight/variable winds due all day for clean 
- to semi-clean conditions. Mid-day high tide slows down the smaller surf. 
+ Waves ease during the day. \n\nLight/variable winds through the day for cl
+ ean to semi-clean conditions. Mid-day high tide slows down the smaller sur
+ f. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251128T092400
 DTEND:20251128T124200
-DESCRIPTION:-2.972ft at 09:24\n-2.998ft at 12:42
+DESCRIPTION:TIDES:\n-2.972ft at 09:24\n-2.998ft at 12:42\n\nOBSERVATION:\n
+ New shot of WNW swell tops out\, secondary SSW swell in the mix\, for wave
+ s running chest to head high+\, while focal points see better sets. \n\nLi
+ ght/variable winds due in the morning\, turning light+ SW onshore in the a
+ fternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -99,5 +93,11 @@ SUMMARY:Surf's Up
 DTSTART:20251209T162400
 DTEND:20251209T164800
 DESCRIPTION:-2.902ft at 16:24\n-2.416ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251210T075400
+DTEND:20251210T094200
+DESCRIPTION:-2.983ft at 07:54\n-2.978ft at 09:42
 END:VEVENT
 END:VCALENDAR
