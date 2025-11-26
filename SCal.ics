@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251125T160000
-DTEND:20251125T164800
-DESCRIPTION:TIDES:\n-2.969ft at 16:00\n-2.187ft at 16:48\n\nOBSERVATION:\n
- Primary WNW swell continues to taper off\, along with some secondary SSW s
- well\, for mainly chest high to a foot overhead zone surf in the morning. 
- Waves ease during the day. \n\nLight/variable winds through the day for cl
- ean to semi-clean conditions. Mid-day high tide slows down the smaller sur
- f. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251128T092400
 DTEND:20251128T124200
 DESCRIPTION:TIDES:\n-2.972ft at 09:24\n-2.998ft at 12:42\n\nOBSERVATION:\n
@@ -26,7 +15,13 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251129T092400
 DTEND:20251129T150600
-DESCRIPTION:-2.968ft at 09:24\n-2.986ft at 15:06
+DESCRIPTION:TIDES:\n-2.968ft at 09:24\n-2.986ft at 15:06\n\nOBSERVATION:\n
+ Nice combo of WNW swell and secondary SSW swell keeps surf in the chest to
+  head high+ range for many spots in the morning\, as top breaks hit a foot
+  overhead. Waves will wind down during the day. \n\nAt this point it looks
+  like light offshore NW winds for town spots through the morning\, then li
+ ght sea breeze in the afternoon. Early morning high tide slows the dawn pa
+ trol at tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -99,5 +94,11 @@ SUMMARY:Surf's Up
 DTSTART:20251210T075400
 DTEND:20251210T094200
 DESCRIPTION:-2.983ft at 07:54\n-2.978ft at 09:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251211T082400
+DTEND:20251211T122400
+DESCRIPTION:-2.993ft at 08:24\n-2.983ft at 12:24
 END:VEVENT
 END:VCALENDAR
