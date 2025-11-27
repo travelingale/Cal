@@ -8,8 +8,8 @@ DTEND:20251128T124200
 DESCRIPTION:TIDES:\n-2.972ft at 09:24\n-2.998ft at 12:42\n\nOBSERVATION:\n
  New shot of WNW swell tops out\, secondary SSW swell in the mix\, for wave
  s running chest to head high+\, while focal points see better sets. \n\nLi
- ght/variable winds due in the morning\, turning light+ SW onshore in the a
- fternoon. 
+ ght/variable winds due in the morning\, turning to a light S sea breeze in
+  the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -17,17 +17,20 @@ DTSTART:20251129T092400
 DTEND:20251129T150600
 DESCRIPTION:TIDES:\n-2.968ft at 09:24\n-2.986ft at 15:06\n\nOBSERVATION:\n
  Nice combo of WNW swell and secondary SSW swell keeps surf in the chest to
-  head high+ range for many spots in the morning\, as top breaks hit a foot
-  overhead. Waves will wind down during the day. \n\nAt this point it looks
-  like light offshore NW winds for town spots through the morning\, then li
- ght sea breeze in the afternoon. Early morning high tide slows the dawn pa
- trol at tide sensitive spots. 
+  head high+ range for many spots in the early morning\, as top breaks see 
+ better sets. Waves will wind down during the day. \n\nWinds stay light thr
+ ough the day for clean to semi-clean conditions. Early morning high tide s
+ lows the dawn patrol at tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251130T094800
 DTEND:20251130T164800
-DESCRIPTION:-2.93ft at 09:48\n-2.997ft at 16:48
+DESCRIPTION:TIDES:\n-2.93ft at 09:48\n-2.997ft at 16:48\n\nOBSERVATION:\nO
+ ld blend of easing WNW and SSW swell is joined by a new WNW pulse\, bumpin
+ g waves up into the  shoulder high to a 1 foot overhead range. \n\nLight/v
+ ariable winds due much of the day. Early morning high tide slows the dawn 
+ patrol at tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -100,5 +103,11 @@ SUMMARY:Surf's Up
 DTSTART:20251211T082400
 DTEND:20251211T122400
 DESCRIPTION:-2.993ft at 08:24\n-2.983ft at 12:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251212T090000
+DTEND:20251212T145400
+DESCRIPTION:-2.968ft at 09:00\n-2.972ft at 14:54
 END:VEVENT
 END:VCALENDAR
