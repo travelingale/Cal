@@ -9,7 +9,8 @@ DESCRIPTION:TIDES:\n-2.972ft at 09:24\n-2.998ft at 12:42\n\nOBSERVATION:\n
  New shot of WNW swell tops out\, secondary SSW swell in the mix\, for wave
  s running chest to head high+\, while focal points see better sets. \n\nLi
  ght/variable winds due in the morning\, turning to a light S sea breeze in
-  the afternoon. 
+  the afternoon. Later morning window looks best when the tide is lowest --
+  most spots still a little soft as it stays above 2.5'.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -36,7 +37,13 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251201T101800
 DTEND:20251201T164800
-DESCRIPTION:-2.941ft at 10:18\n-1.93ft at 16:48
+DESCRIPTION:TIDES:\n-2.941ft at 10:18\n-1.93ft at 16:48\n\nOBSERVATION:\nL
+ ingering WNW and SSW swell combo in the morning is mainly running waist-he
+ ad high+\, then look for a rise in size during the day as a good shot of f
+ resh\, long-period WNW swell fills in\, setting up head high+ to several f
+ eet+ overhead surf  during the afternoon. Largest late. \n\nRight now the 
+ call is for light offshores in town most of the day. The dawn patrol is bo
+ gged down by the early morning high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -109,5 +116,11 @@ SUMMARY:Surf's Up
 DTSTART:20251212T090000
 DTEND:20251212T145400
 DESCRIPTION:-2.968ft at 09:00\n-2.972ft at 14:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251213T093000
+DTEND:20251213T164800
+DESCRIPTION:-2.994ft at 09:30\n-2.925ft at 16:48
 END:VEVENT
 END:VCALENDAR
