@@ -3,27 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251130T094800
-DTEND:20251130T164800
-DESCRIPTION:TIDES:\n-2.93ft at 09:48\n-2.997ft at 16:48\n\nOBSERVATION:\nO
- ld blend of easing WNW and SSW swell is joined by a new WNW pulse\, bumpin
- g waves up into the  shoulder high to a 1 foot overhead range. High tide m
- akes for a fat start and fog is likely too. Fog clears and shape improves 
- as the tide drops through the morning.\n\nLight/variable winds due much of
-  the day. A little bit of westerly wind possibly wrapping into town for th
- e afternoon\, but most breaks stay semi-clean\, if not glassy.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251201T101800
 DTEND:20251201T164800
 DESCRIPTION:TIDES:\n-2.941ft at 10:18\n-1.93ft at 16:48\n\nOBSERVATION:\nL
  ingering WNW and SSW swell combo in the morning is mainly running waist-he
  ad high+\, then look for a rise in size during the day as a good shot of f
  resh\, long-period WNW swell fills in\, setting up head high+ to several f
- eet+ overhead surf  during the afternoon. Largest late. \n\nRight now the 
- call is for light offshores in town most of the day. The dawn patrol is bo
- gged down by the early morning high tide. 
+ eet+ overhead surf with some punch during the afternoon. Largest late. \n\
+ nLight offshore flow in the morning\, trending light/variable for clean co
+ nditions in the afternoon. The dawn patrol is bogged down by the early mor
+ ning high tide. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -60,7 +49,14 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251204T122400
 DTEND:20251204T140000
-DESCRIPTION:-2.828ft at 12:24\n-0.109ft at 14:00
+DESCRIPTION:TIDES:\n-2.828ft at 12:24\n-0.109ft at 14:00\n\nOBSERVATION:\n
+ Smaller WNW swell leftovers are still good for waves in the chest-head hig
+ h range in the morning\, squashed by the tide. Even with the swell easing\
+ , the dropping tide should have many spots looking better/bigger than they
+  do first thing -- still topping out around chest-high with standouts head
+ -high. \n\nThe late AM to early PM window looks like the one to target\, b
+ ut PM onshores look pretty mellow if you can't get in the water until late
+ r in the day -- it'll just be draining out quickly.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -127,5 +123,17 @@ SUMMARY:Surf's Up
 DTSTART:20251215T103600
 DTEND:20251215T164800
 DESCRIPTION:-2.892ft at 10:36\n-1.406ft at 16:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251216T110000
+DTEND:20251216T143000
+DESCRIPTION:-2.998ft at 11:00\n-0.003ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251216T152400
+DTEND:20251216T164800
+DESCRIPTION:-0.01ft at 15:24\n-0.677ft at 16:48
 END:VEVENT
 END:VCALENDAR
