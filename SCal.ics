@@ -3,33 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251202T105400
-DTEND:20251202T130600
-DESCRIPTION:TIDES:\n-2.96ft at 10:54\n-0.068ft at 13:06\n\nOBSERVATION:\nH
- ealthy\, long-period WNW swell maxes out\, putting lots of spots in head h
- igh+ to well overhead waves\, while focal points go double overhead+. The 
- dawn patrol will be slowed by a 6' high tide. \n\nWinds are light all day\
- , offshore in the morning\, SW-WSW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251202T161200
-DTEND:20251202T164800
-DESCRIPTION:TIDES:\n-0.061ft at 16:12\n-0.609ft at 16:48\n\nOBSERVATION:\n
- Healthy\, long-period WNW swell maxes out\, putting lots of spots in head 
- high+ to well overhead waves\, while focal points go double overhead+. The
-  dawn patrol will be slowed by a 6' high tide. \n\nWinds are light all day
- \, offshore in the morning\, SW-WSW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251203T113600
 DTEND:20251203T132400
 DESCRIPTION:TIDES:\n-2.938ft at 11:36\n-0.111ft at 13:24\n\nOBSERVATION:\n
- Easing long-period WNW swell is still good for head high+ to several feet+
-  overhead surf in the morning. The dawn patrol will be slowed by a near 6.
- 5' high tide. Wave size gradually tapers off during the day. \n\nWinds loo
- k light and mainly offshore all day for nice conditions. 
+ Easing long-period WNW swell is still good for head high+ to several feet 
+ overhead surf in the morning. The dawn patrol will be slowed by a near 6.5
+ ' high tide. Wave size gradually tapers off during the day. \n\nWinds are 
+ light and mainly offshore all day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -59,7 +39,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251206T135400
 DTEND:20251206T153600
-DESCRIPTION:-2.984ft at 13:54\n-0.129ft at 15:36
+DESCRIPTION:TIDES:\n-2.984ft at 13:54\n-0.129ft at 15:36\n\nOBSERVATION:\n
+ New round of mid-period WNW fills in through the day\, showing most size o
+ ver the afternoon with widespread waist to head high surf and better sets 
+ at standouts. \n\nLight winds due all day. Mid-morning bogged down by a 6.
+ 5' high tide. Negative low tide makes for a drained and dumpy end to the d
+ ay.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -132,5 +117,11 @@ SUMMARY:Surf's Up
 DTSTART:20251217T113600
 DTEND:20251217T142400
 DESCRIPTION:-2.881ft at 11:36\n-0.0ft at 14:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251218T120600
+DTEND:20251218T144200
+DESCRIPTION:-2.913ft at 12:06\n-0.001ft at 14:42
 END:VEVENT
 END:VCALENDAR
