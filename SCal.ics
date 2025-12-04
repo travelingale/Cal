@@ -3,26 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251203T113600
-DTEND:20251203T132400
-DESCRIPTION:TIDES:\n-2.938ft at 11:36\n-0.111ft at 13:24\n\nOBSERVATION:\n
- Easing long-period WNW swell is still good for head high+ to several feet 
- overhead surf in the morning. The dawn patrol will be slowed by a near 6.5
- ' high tide. Wave size gradually tapers off during the day. \n\nWinds are 
- light and mainly offshore all day for nice conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251204T122400
 DTEND:20251204T140000
 DESCRIPTION:TIDES:\n-2.828ft at 12:24\n-0.109ft at 14:00\n\nOBSERVATION:\n
- Smaller WNW swell leftovers are still good for waves in the waist-shoulder
- -head high range in the morning\, squashed by the tide. Even with the swel
- l easing\, the dropping tide should have many spots looking better/bigger 
- than they do first thing -- still topping out around chest-high with stand
- outs head-high. \n\nThe late AM to early PM window looks like the one to t
- arget\, but PM onshores look mellow if you can't get in the water until la
- ter in the day -- it'll just be draining out quickly.
+ Smaller WNW swell is still good for waves in the waist-shoulder-head high 
+ range in the morning\, squashed by the deep tide. Even with the swell easi
+ ng\, the dropping tide will have many spots looking better/bigger than the
+ y do first thing -- still topping out around chest-high with standouts hea
+ d-high. Waves ease as the day goes on\n\nThe late AM to early PM window is
+  the one to target\, but PM onshores are light if you can't get in the wat
+ er until later in the day\, it'll just be draining out quickly
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -41,16 +31,21 @@ DTSTART:20251206T135400
 DTEND:20251206T153600
 DESCRIPTION:TIDES:\n-2.984ft at 13:54\n-0.129ft at 15:36\n\nOBSERVATION:\n
  New round of mid-period WNW fills in through the day\, showing most size o
- ver the afternoon with widespread waist to head high surf and better sets 
- at standouts. \n\nLight winds due all day. Mid-morning bogged down by a 6.
- 5' high tide. Negative low tide makes for a drained and dumpy end to the d
- ay.
+ ver the afternoon with widespread waist to shoulder high surf and better s
+ ets at standouts\, most size late. \n\nLight winds due all day. Mid-mornin
+ g bogged down by a 6.5' high tide. Negative low tide makes for a drained a
+ nd dumpy end to the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251207T144800
 DTEND:20251207T163600
-DESCRIPTION:-2.847ft at 14:48\n-0.085ft at 16:36
+DESCRIPTION:TIDES:\n-2.847ft at 14:48\n-0.085ft at 16:36\n\nOBSERVATION:\n
+ Mid-period WNW swell tops out early morning\, for waves running chest to h
+ ead high at good breaks\, then surf tapers off during the day. Mid-day slo
+ wed by a 6'+ high tide. Negative low tide makes for a drained and dumpy en
+ d to the day.\n\nWinds are light all day\, offshore in the morning\, S sea
+  breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -123,5 +118,11 @@ SUMMARY:Surf's Up
 DTSTART:20251218T120600
 DTEND:20251218T144200
 DESCRIPTION:-2.913ft at 12:06\n-0.001ft at 14:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251219T123600
+DTEND:20251219T150600
+DESCRIPTION:-2.974ft at 12:36\n-0.028ft at 15:06
 END:VEVENT
 END:VCALENDAR
