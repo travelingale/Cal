@@ -3,36 +3,26 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251205T130600
-DTEND:20251205T144800
-DESCRIPTION:TIDES:\n-2.975ft at 13:06\n-0.034ft at 14:48\n\nOBSERVATION:\n
- WNW swell leftovers are down into the knee-waist high range\, but most bre
- aks are likely smaller through the morning due to the 6.5'+ high tide.\n\n
- Wind will stay light for the tide drop through midday. Will probably want 
- to hit it before the evening window though -- negative low tide makes for 
- a drained and dumpy end to the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251206T135400
 DTEND:20251206T153600
 DESCRIPTION:TIDES:\n-2.984ft at 13:54\n-0.129ft at 15:36\n\nOBSERVATION:\n
- Slow in the morning\, then a new round of mid-period WNW fills in through 
- the day\, showing most size over the afternoon with widespread waist to sh
- oulder high zone surf and better sets at standouts\, most size late. \n\nL
- ight winds due all day. Mid-morning bogged down by a 6.5' high tide. Negat
- ive low tide makes for a drained and dumpy end to the day.
+ Slow in the morning\, averaging under waist high\, then a new round of mid
+ -period WNW swell gradually inches up through the day\, showing most size 
+ over the afternoon with widespread waist to shoulder high zone surf and be
+ tter sets at standouts\, most size late. \n\nLight winds all day. Mid-morn
+ ing bogged down by a 6.5' high tide. Negative low tide makes for a drained
+  and dumpy end to the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251207T144800
 DTEND:20251207T163600
 DESCRIPTION:TIDES:\n-2.847ft at 14:48\n-0.085ft at 16:36\n\nOBSERVATION:\n
- Mid-period WNW swell tops out early morning\, for waves running chest to h
- ead high at good breaks\, then surf tapers off during the day. Mid-day slo
- wed by a 6'+ high tide. Negative low tide makes for a drained and dumpy en
- d to the day.\n\nWinds are light all day\, offshore in the morning\, S sea
-  breeze for the afternoon. 
+ Mid-period WNW swell tops out early morning\, for waves running chest to s
+ houlder high+ at good breaks\, then surf tapers off during the day. Mid-da
+ y slowed by a 6'+ high tide. Negative low tide makes for a drained and dum
+ py end to the day.\n\nWinds are light all day\, offshore in the morning\, 
+ S sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -47,7 +37,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251209T162400
 DTEND:20251209T164800
-DESCRIPTION:-2.902ft at 16:24\n-2.416ft at 16:48
+DESCRIPTION:TIDES:\n-2.902ft at 16:24\n-2.416ft at 16:48\n\nOBSERVATION:\n
+ Modest scale WNW swell mix continues for mostly thigh to waist high waves 
+ through the morning. New\, long-period WNW swell starts to show over the a
+ fternoon for a little more size. Early afternoon high tide bogs down the s
+ mall surf. \n\nAt this point it looks like light offshore winds for town s
+ pots through most of the day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -120,5 +115,11 @@ SUMMARY:Surf's Up
 DTSTART:20251220T131200
 DTEND:20251220T153600
 DESCRIPTION:-2.921ft at 13:12\n-0.044ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251221T134800
+DTEND:20251221T161200
+DESCRIPTION:-2.879ft at 13:48\n-0.032ft at 16:12
 END:VEVENT
 END:VCALENDAR
