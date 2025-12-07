@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251206T135400
-DTEND:20251206T153600
-DESCRIPTION:TIDES:\n-2.984ft at 13:54\n-0.129ft at 15:36\n\nOBSERVATION:\n
- Slow in the morning\, averaging under waist high\, then a new round of mid
- -period WNW swell gradually inches up through the day\, showing most size 
- over the afternoon with widespread waist to shoulder high zone surf and be
- tter sets at standouts\, most size late. \n\nLight winds all day. Mid-morn
- ing bogged down by a 6.5' high tide. Negative low tide makes for a drained
-  and dumpy end to the day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251207T144800
 DTEND:20251207T163600
 DESCRIPTION:TIDES:\n-2.847ft at 14:48\n-0.085ft at 16:36\n\nOBSERVATION:\n
@@ -48,7 +36,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251210T075400
 DTEND:20251210T094200
-DESCRIPTION:-2.983ft at 07:54\n-2.978ft at 09:42
+DESCRIPTION:TIDES:\n-2.983ft at 07:54\n-2.978ft at 09:42\n\nOBSERVATION:\n
+ Building\, mid-period WNW swell\, along with some new SSW swell\,  sets up
+  widespread waist to shoulder high+ surf\, while better breaks are hitting
+  head high\, showing strongest by the afternoon. \n\nLooks like another da
+ y of light and primarily offshore winds for clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -121,5 +113,11 @@ SUMMARY:Surf's Up
 DTSTART:20251221T134800
 DTEND:20251221T161200
 DESCRIPTION:-2.879ft at 13:48\n-0.032ft at 16:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251222T141800
+DTEND:20251222T165400
+DESCRIPTION:-2.97ft at 14:18\n-0.003ft at 16:54
 END:VEVENT
 END:VCALENDAR
