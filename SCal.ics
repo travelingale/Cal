@@ -3,23 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251207T144800
-DTEND:20251207T163600
-DESCRIPTION:TIDES:\n-2.847ft at 14:48\n-0.085ft at 16:36\n\nOBSERVATION:\n
- Mid-period WNW swell tops out early morning\, for waves running chest to s
- houlder high+ at good breaks\, then surf tapers off during the day. Mid-da
- y slowed by a 6'+ high tide. Negative low tide makes for a drained and dum
- py end to the day.\n\nWinds are light all day\, offshore in the morning\, 
- S sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251208T153600
 DTEND:20251208T164800
 DESCRIPTION:TIDES:\n-2.883ft at 15:36\n-1.174ft at 16:48\n\nOBSERVATION:\n
  Old\, easing WNW swell is down to mainly thigh-waist high leftovers. Mid-d
- ay high tide swamps the small surf. \n\nLight offshores due in the morning
- \, light sea breeze follows for the afternoon. 
+ ay high tide swamps the small surf. \n\nLight offshores in the morning\, l
+ ight sea breeze follows for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -27,10 +16,10 @@ DTSTART:20251209T162400
 DTEND:20251209T164800
 DESCRIPTION:TIDES:\n-2.902ft at 16:24\n-2.416ft at 16:48\n\nOBSERVATION:\n
  Modest scale WNW swell mix continues for mostly thigh to waist high waves 
- through the morning. New\, long-period WNW swell starts to show over the a
- fternoon for a little more size. Early afternoon high tide bogs down the s
- mall surf. \n\nAt this point it looks like light offshore winds for town s
- pots through most of the day for nice conditions. 
+ early morning. New\, long-period WNW swell joins in\, setting up waist-che
+ st high surf for the afternoon. Early afternoon high tide bogs down the sm
+ all surf. \n\nAt this point it looks like light offshore winds for town sp
+ ots through most of the day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -46,7 +35,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251211T082400
 DTEND:20251211T122400
-DESCRIPTION:-2.993ft at 08:24\n-2.983ft at 12:24
+DESCRIPTION:TIDES:\n-2.993ft at 08:24\n-2.983ft at 12:24\n\nOBSERVATION:\n
+ Peaking combo of mid-period WNW swell and secondary SSW swell is good for 
+ shoulder to head high+ waves for many spots\, as top breaks hit overhead.\
+ n\nWinds look light and mainly offshore for town spots through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -119,5 +111,11 @@ SUMMARY:Surf's Up
 DTSTART:20251222T141800
 DTEND:20251222T165400
 DESCRIPTION:-2.97ft at 14:18\n-0.003ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251223T145400
+DTEND:20251223T165400
+DESCRIPTION:-2.939ft at 14:54\n-0.654ft at 16:54
 END:VEVENT
 END:VCALENDAR
