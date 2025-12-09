@@ -3,23 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251208T153600
-DTEND:20251208T164800
-DESCRIPTION:TIDES:\n-2.883ft at 15:36\n-1.174ft at 16:48\n\nOBSERVATION:\n
- Old\, easing WNW swell is down to mainly thigh-waist high leftovers. Mid-d
- ay high tide swamps the small surf. \n\nLight offshores in the morning\, l
- ight sea breeze follows for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251209T162400
 DTEND:20251209T164800
 DESCRIPTION:TIDES:\n-2.902ft at 16:24\n-2.416ft at 16:48\n\nOBSERVATION:\n
  Modest scale WNW swell mix continues for mostly thigh to waist high waves 
  early morning. New\, long-period WNW swell joins in\, setting up waist-che
  st high surf for the afternoon. Early afternoon high tide bogs down the sm
- all surf. \n\nAt this point it looks like light offshore winds for town sp
- ots through most of the day for nice conditions. 
+ all surf. \n\nLight offshore winds early morning\, shift to a light southe
+ rly sea breeze by the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -27,9 +18,9 @@ DTSTART:20251210T075400
 DTEND:20251210T094200
 DESCRIPTION:TIDES:\n-2.983ft at 07:54\n-2.978ft at 09:42\n\nOBSERVATION:\n
  Building\, mid-period WNW swell\, along with some new SSW swell\,  sets up
-  widespread waist to shoulder high+ surf\, while better breaks are hitting
-  head high\, showing strongest by the afternoon. \n\nLooks like another da
- y of light and primarily offshore winds for clean conditions. 
+  widespread waist to shoulder high zone surf\, while best breaks are see b
+ etter sets\, showing strongest over the afternoon. \n\nLooks like another 
+ day of light winds for mostly clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -44,7 +35,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251212T090000
 DTEND:20251212T145400
-DESCRIPTION:-2.968ft at 09:00\n-2.972ft at 14:54
+DESCRIPTION:TIDES:\n-2.968ft at 09:00\n-2.972ft at 14:54\n\nOBSERVATION:\n
+ Slow easing blend of mid-period WNW swell and secondary SSW swell has surf
+  running shoulder to head high+ at many spots in the morning\, while bette
+ r breaks are going overhead. Waves will  taper off during the day. \n\nLig
+ ht offshores due in the morning\, shifting to a light SW sea breeze for th
+ e afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -117,5 +113,11 @@ SUMMARY:Surf's Up
 DTSTART:20251223T145400
 DTEND:20251223T165400
 DESCRIPTION:-2.939ft at 14:54\n-0.654ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251224T153000
+DTEND:20251224T165400
+DESCRIPTION:-2.924ft at 15:30\n-1.425ft at 16:54
 END:VEVENT
 END:VCALENDAR
