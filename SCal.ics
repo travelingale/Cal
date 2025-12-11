@@ -3,22 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251210T075400
-DTEND:20251210T094200
-DESCRIPTION:TIDES:\n-2.983ft at 07:54\n-2.978ft at 09:42\n\nOBSERVATION:\n
- Slow building\, mid-period WNW swell\, along with some new SSW swell\,  se
- ts up widespread waist to shoulder high zone surf\, while best breaks  see
-  better sets\, showing strongest over the afternoon. \n\nAnother day of li
- ght winds for clean to semi-clean conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251211T082400
 DTEND:20251211T122400
 DESCRIPTION:TIDES:\n-2.993ft at 08:24\n-2.983ft at 12:24\n\nOBSERVATION:\n
  Peaking combo of mid-period WNW swell and secondary SSW swell is good for 
- shoulder to head high+ waves for many spots\, as top breaks hit overhead.\
- n\nWinds look light and mainly offshore for town spots through the day. 
+ shoulder to head high+ waves for many spots\, as top breaks hit overhead\,
+  afternoon sees most size.\n\nWinds are light and mainly offshore for town
+  spots through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -45,7 +36,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251214T100600
 DTEND:20251214T164800
-DESCRIPTION:-2.906ft at 10:06\n-2.19ft at 16:48
+DESCRIPTION:TIDES:\n-2.906ft at 10:06\n-2.19ft at 16:48\n\nOBSERVATION:\nR
+ emnant WNW swell and trace SSW swell for small surf averaging under waist 
+ high. Dawn patrol is swamped out by an early morning high tide. \n\nPersis
+ tent light/variable winds for clean to semi-clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -118,5 +112,11 @@ SUMMARY:Surf's Up
 DTSTART:20251225T160600
 DTEND:20251225T165400
 DESCRIPTION:-2.934ft at 16:06\n-2.201ft at 16:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251226T073000
+DTEND:20251226T104800
+DESCRIPTION:-2.97ft at 07:30\n-2.997ft at 10:48
 END:VEVENT
 END:VCALENDAR
