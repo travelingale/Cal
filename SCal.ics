@@ -3,25 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251212T090000
-DTEND:20251212T145400
-DESCRIPTION:TIDES:\n-2.968ft at 09:00\n-2.972ft at 14:54\n\nOBSERVATION:\n
- Slow easing blend of mid-period WNW swell and secondary SSW swell has surf
-  running shoulder to head high+ at many spots in the morning\, while bette
- r breaks are going overhead. A little soft on the high tide first thing\, 
- improving through mid-morning. Waves taper off further in the afternoon bu
- t should still be pretty fun.\n\nLight offshores due in the morning\, shif
- ting to a light SW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251213T093000
 DTEND:20251213T164800
 DESCRIPTION:TIDES:\n-2.994ft at 09:30\n-2.925ft at 16:48\n\nOBSERVATION:\n
  Fading mix of mainly WNW swell\, smaller SSW swell\, for waist to shoulder
   high waves at good spots in the morning after the early AM high tide back
- s out for a while. Surf winds down as the day goes on. \n\nLight/variable 
- winds expected through the day. 
+ s out for a while -- soft and sluggish for the early window. Surf winds do
+ wn as the day goes on. \n\nLight/variable wind in town for glassy morning 
+ conditions. A little bit of SW wind wrapping in for the afternoon window -
+ - most spots stay pretty clean all afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -45,13 +35,19 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251216T110000
 DTEND:20251216T143000
-DESCRIPTION:-2.998ft at 11:00\n-0.003ft at 14:30
+DESCRIPTION:TIDES:\n-2.998ft at 11:00\n-0.003ft at 14:30\n\nOBSERVATION:\n
+ Mid to shorter-period WNW swell fills in\, topping out in the afternoon wi
+ th waist to head high surf. \n\nEarly morning high tide bogs down the dawn
+  patrol. Light/variable winds maintain nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251216T152400
 DTEND:20251216T164800
-DESCRIPTION:-0.01ft at 15:24\n-0.677ft at 16:48
+DESCRIPTION:TIDES:\n-0.01ft at 15:24\n-0.677ft at 16:48\n\nOBSERVATION:\nM
+ id to shorter-period WNW swell fills in\, topping out in the afternoon wit
+ h waist to head high surf. \n\nEarly morning high tide bogs down the dawn 
+ patrol. Light/variable winds maintain nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -118,5 +114,11 @@ SUMMARY:Surf's Up
 DTSTART:20251227T075400
 DTEND:20251227T134200
 DESCRIPTION:-2.965ft at 07:54\n-2.996ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251228T083000
+DTEND:20251228T161800
+DESCRIPTION:-2.921ft at 08:30\n-2.99ft at 16:18
 END:VEVENT
 END:VCALENDAR
