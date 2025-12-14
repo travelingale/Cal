@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251213T093000
-DTEND:20251213T164800
-DESCRIPTION:TIDES:\n-2.994ft at 09:30\n-2.925ft at 16:48\n\nOBSERVATION:\n
- Fading mix of mainly WNW swell\, smaller SSW swell\, for waist to shoulder
-  high waves at good spots in the morning after the early AM high tide back
- s out for a while -- soft and sluggish for the early window. Surf winds do
- wn as the day goes on. \n\nLight/variable wind in town for glassy morning 
- conditions. A little bit of SW wind wrapping in for the afternoon window -
- - most spots stay pretty clean all afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251214T100600
 DTEND:20251214T164800
 DESCRIPTION:TIDES:\n-2.906ft at 10:06\n-2.19ft at 16:48\n\nOBSERVATION:\nR
@@ -53,7 +41,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251217T113600
 DTEND:20251217T142400
-DESCRIPTION:-2.881ft at 11:36\n-0.0ft at 14:24
+DESCRIPTION:TIDES:\n-2.881ft at 11:36\n-0.0ft at 14:24\n\nOBSERVATION:\nCo
+ ntinued mid-period WNW swell maintains chest to head high+ surf in the mor
+ ning\, after the early AM high tide backs down some. Waves will taper off 
+ during the afternoon\, still staying fun. \n\nLight/variable winds keep co
+ nditions clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -120,5 +112,11 @@ SUMMARY:Surf's Up
 DTSTART:20251228T083000
 DTEND:20251228T161800
 DESCRIPTION:-2.921ft at 08:30\n-2.99ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251229T090600
+DTEND:20251229T170000
+DESCRIPTION:-2.955ft at 09:06\n-2.607ft at 17:00
 END:VEVENT
 END:VCALENDAR
