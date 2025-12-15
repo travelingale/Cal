@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251214T100600
-DTEND:20251214T164800
-DESCRIPTION:TIDES:\n-2.906ft at 10:06\n-2.19ft at 16:48\n\nOBSERVATION:\nR
- emnant WNW swell and trace SSW swell for small surf averaging under waist 
- high. Dawn patrol is swamped out by an early morning high tide. \n\nPersis
- tent light/variable winds for clean to semi-clean conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251215T103600
 DTEND:20251215T164800
 DESCRIPTION:TIDES:\n-2.892ft at 10:36\n-1.406ft at 16:48\n\nOBSERVATION:\n
@@ -25,8 +16,8 @@ DTSTART:20251216T110000
 DTEND:20251216T143000
 DESCRIPTION:TIDES:\n-2.998ft at 11:00\n-0.003ft at 14:30\n\nOBSERVATION:\n
  Mid to shorter-period WNW swell fills in\, topping out in the afternoon wi
- th waist to head high surf. \n\nEarly morning high tide bogs down the dawn
-  patrol. Light/variable winds maintain nice conditions. 
+ th widespread chest to head high+ surf. \n\nEarly morning high tide bogs d
+ own the dawn patrol. Light/variable winds maintain nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -34,8 +25,8 @@ DTSTART:20251216T152400
 DTEND:20251216T164800
 DESCRIPTION:TIDES:\n-0.01ft at 15:24\n-0.677ft at 16:48\n\nOBSERVATION:\nM
  id to shorter-period WNW swell fills in\, topping out in the afternoon wit
- h waist to head high surf. \n\nEarly morning high tide bogs down the dawn 
- patrol. Light/variable winds maintain nice conditions. 
+ h widespread chest to head high+ surf. \n\nEarly morning high tide bogs do
+ wn the dawn patrol. Light/variable winds maintain nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -51,7 +42,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251218T120600
 DTEND:20251218T144200
-DESCRIPTION:-2.913ft at 12:06\n-0.001ft at 14:42
+DESCRIPTION:TIDES:\n-2.913ft at 12:06\n-0.001ft at 14:42\n\nOBSERVATION:\n
+ Easing WNW swell keeps widespread surf running waist to head high in the m
+ orning. Best shape after the early morning high tide backs out for a while
+ . Waves dip as the day goes on and the swell eases. \n\nWinds looking ligh
+ t all day\, offshore in the morning\, SW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -118,5 +113,17 @@ SUMMARY:Surf's Up
 DTSTART:20251229T090600
 DTEND:20251229T170000
 DESCRIPTION:-2.955ft at 09:06\n-2.607ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251230T094800
+DTEND:20251230T122400
+DESCRIPTION:-2.96ft at 09:48\n-0.051ft at 12:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251230T150000
+DTEND:20251230T170000
+DESCRIPTION:-0.052ft at 15:00\n-1.672ft at 17:00
 END:VEVENT
 END:VCALENDAR
