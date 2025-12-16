@@ -3,21 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251215T103600
-DTEND:20251215T164800
-DESCRIPTION:TIDES:\n-2.892ft at 10:36\n-1.406ft at 16:48\n\nOBSERVATION:\n
- Lingering little WNW swell and trace SSW swell for small surf under waist 
- high. Dawn patrol is swamped out by an early morning high tide. \n\nPersis
- tent light/variable winds for clean to semi-clean conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251216T110000
 DTEND:20251216T143000
 DESCRIPTION:TIDES:\n-2.998ft at 11:00\n-0.003ft at 14:30\n\nOBSERVATION:\n
  Mid to shorter-period WNW swell fills in\, topping out in the afternoon wi
  th widespread chest to head high+ surf. \n\nEarly morning high tide bogs d
- own the dawn patrol. Light/variable winds maintain nice conditions. 
+ own the dawn patrol. Light/variable winds maintain nice conditions through
+  the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -26,7 +18,8 @@ DTEND:20251216T164800
 DESCRIPTION:TIDES:\n-0.01ft at 15:24\n-0.677ft at 16:48\n\nOBSERVATION:\nM
  id to shorter-period WNW swell fills in\, topping out in the afternoon wit
  h widespread chest to head high+ surf. \n\nEarly morning high tide bogs do
- wn the dawn patrol. Light/variable winds maintain nice conditions. 
+ wn the dawn patrol. Light/variable winds maintain nice conditions through 
+ the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -52,7 +45,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251219T123600
 DTEND:20251219T150600
-DESCRIPTION:-2.974ft at 12:36\n-0.028ft at 15:06
+DESCRIPTION:TIDES:\n-2.974ft at 12:36\n-0.028ft at 15:06\n\nOBSERVATION:\n
+ WNW swell mix holds\, maintaining waist to shoulder high+ waves. Best shap
+ e after the mid-morning high tide backs out for a while. \n\nWinds looking
+  light all day\, offshore in the morning\, SW sea breeze for the afternoon
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -125,5 +122,17 @@ SUMMARY:Surf's Up
 DTSTART:20251230T150000
 DTEND:20251230T170000
 DESCRIPTION:-0.052ft at 15:00\n-1.672ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251231T103600
+DTEND:20251231T123600
+DESCRIPTION:-2.883ft at 10:36\n-0.05ft at 12:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20251231T163000
+DTEND:20251231T170000
+DESCRIPTION:-0.001ft at 16:30\n-0.496ft at 17:00
 END:VEVENT
 END:VCALENDAR
