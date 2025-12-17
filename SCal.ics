@@ -3,43 +3,24 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251216T110000
-DTEND:20251216T143000
-DESCRIPTION:TIDES:\n-2.998ft at 11:00\n-0.003ft at 14:30\n\nOBSERVATION:\n
- Mid to shorter-period WNW swell fills in\, topping out in the afternoon wi
- th widespread chest to head high+ surf. \n\nEarly morning high tide bogs d
- own the dawn patrol. Light/variable winds maintain nice conditions through
-  the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251216T152400
-DTEND:20251216T164800
-DESCRIPTION:TIDES:\n-0.01ft at 15:24\n-0.677ft at 16:48\n\nOBSERVATION:\nM
- id to shorter-period WNW swell fills in\, topping out in the afternoon wit
- h widespread chest to head high+ surf. \n\nEarly morning high tide bogs do
- wn the dawn patrol. Light/variable winds maintain nice conditions through 
- the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251217T113600
 DTEND:20251217T142400
 DESCRIPTION:TIDES:\n-2.881ft at 11:36\n-0.0ft at 14:24\n\nOBSERVATION:\nCo
  ntinued mid-period WNW swell maintains chest to head high+ surf in the mor
- ning\, after the early AM high tide backs down some. Waves will taper off 
- during the afternoon\, still staying fun. \n\nLight/variable winds keep co
- nditions clean. 
+ ning\, after the early AM high tide backs down some. Waves will gradually 
+ taper off during the afternoon\, still staying fun. \n\nLight/variable win
+ ds keep conditions clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251218T120600
 DTEND:20251218T144200
 DESCRIPTION:TIDES:\n-2.913ft at 12:06\n-0.001ft at 14:42\n\nOBSERVATION:\n
- Easing WNW swell keeps widespread surf running waist to head high in the m
- orning. Best shape after the early morning high tide backs out for a while
- . Waves dip as the day goes on and the swell eases. \n\nWinds looking ligh
- t all day\, offshore in the morning\, SW sea breeze for the afternoon. 
+ Continued WNW swell mix keeps widespread surf running waist to head high i
+ n the morning. Best shape after the early morning high tide backs out for 
+ a while. Waves dip as the day goes on and the swell eases. \n\nWinds looki
+ ng light all day\, offshore in the morning\, SW sea breeze for the afterno
+ on. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -55,7 +36,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251220T131200
 DTEND:20251220T153600
-DESCRIPTION:-2.921ft at 13:12\n-0.044ft at 15:36
+DESCRIPTION:TIDES:\n-2.921ft at 13:12\n-0.044ft at 15:36\n\nOBSERVATION:\n
+ Continued mid-period WNW swell keeps widespread surf running waist to shou
+ lder high+. Mid-morning high tide bogs down tide sensitive breaks. \n\nWin
+ ds looking light all day\, offshore in the morning\, SW sea breeze for the
+  afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -134,5 +119,11 @@ SUMMARY:Surf's Up
 DTSTART:20251231T163000
 DTEND:20251231T170000
 DESCRIPTION:-0.001ft at 16:30\n-0.496ft at 17:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260101T111800
+DTEND:20260101T130600
+DESCRIPTION:-2.976ft at 11:18\n-0.084ft at 13:06
 END:VEVENT
 END:VCALENDAR
