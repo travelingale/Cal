@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251220T131200
-DTEND:20251220T153600
-DESCRIPTION:TIDES:\n-2.921ft at 13:12\n-0.044ft at 15:36\n\nOBSERVATION:\n
- Continued mid-period WNW swell keeps widespread surf running waist to shou
- lder high+. Mid-morning high tide bogs down tide sensitive breaks. \n\nWin
- ds looking light all day\, offshore in the morning\, SW sea breeze for the
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251221T134800
 DTEND:20251221T161200
 DESCRIPTION:TIDES:\n-2.879ft at 13:48\n-0.032ft at 16:12\n\nOBSERVATION:\n
@@ -47,7 +37,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251224T153000
 DTEND:20251224T165400
-DESCRIPTION:-2.924ft at 15:30\n-1.425ft at 16:54
+DESCRIPTION:TIDES:\n-2.924ft at 15:30\n-1.425ft at 16:54\n\nOBSERVATION:\n
+ Watching the frontal pattern again for exact details but unlikely we see c
+ lean/groomed conditions. WNW swell down a notch from Tuesday but still nic
+ e size. Also watching the next couple days for surf during the holiday tim
+ eframe.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -126,5 +120,11 @@ SUMMARY:Surf's Up
 DTSTART:20260104T134200
 DTEND:20260104T152400
 DESCRIPTION:-2.877ft at 13:42\n-0.087ft at 15:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260105T142400
+DTEND:20260105T161800
+DESCRIPTION:-2.927ft at 14:24\n-0.107ft at 16:18
 END:VEVENT
 END:VCALENDAR
