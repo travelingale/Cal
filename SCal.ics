@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251221T134800
-DTEND:20251221T161200
-DESCRIPTION:TIDES:\n-2.879ft at 13:48\n-0.032ft at 16:12\n\nOBSERVATION:\n
- Slow fading WNW swell is still good for waist to chest high waves in the m
- orning\, then surf dips during the afternoon. \n\nLater morning high tide 
- slows the smaller surf. Possible low-end moderate SW onshores through the 
- day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251222T141800
 DTEND:20251222T165400
 DESCRIPTION:TIDES:\n-2.97ft at 14:18\n-0.003ft at 16:54\n\nOBSERVATION:\nL
@@ -47,7 +37,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251225T160600
 DTEND:20251225T165400
-DESCRIPTION:-2.934ft at 16:06\n-2.201ft at 16:54
+DESCRIPTION:TIDES:\n-2.934ft at 16:06\n-2.201ft at 16:54\n\nOBSERVATION:\n
+ Strong surf\, chewed up by strong S/SSW wind all day long. Junky\, unsurfa
+ ble conditions expected.\n\nSize picks up rapidly towards the end of the d
+ ya as new W swell moves in. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -126,5 +119,11 @@ SUMMARY:Surf's Up
 DTSTART:20260105T142400
 DTEND:20260105T161800
 DESCRIPTION:-2.927ft at 14:24\n-0.107ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260106T150600
+DTEND:20260106T170600
+DESCRIPTION:-2.912ft at 15:06\n-0.356ft at 17:06
 END:VEVENT
 END:VCALENDAR
