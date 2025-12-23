@@ -3,25 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251222T141800
-DTEND:20251222T165400
-DESCRIPTION:TIDES:\n-2.97ft at 14:18\n-0.003ft at 16:54\n\nOBSERVATION:\nL
- ingering mix of mid to shorter-period WNW swell rolling in with thigh to s
- tomach high surf. Tide sensitive breaks will be bogged down by the mid-day
-  high tide. \n\nAt this point\, it looks like light+ SSW winds most of the
-  day for decent conditions. Not great surf overall.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251223T145400
 DTEND:20251223T165400
 DESCRIPTION:TIDES:\n-2.939ft at 14:54\n-0.654ft at 16:54\n\nOBSERVATION:\n
- High confidence for new round of surf as mid-period WNW swell fills in and
-  mixes with a touch of SSW swell\, setting up chest-shoulder waves with a 
- chance for larger sets. \n\nHowever\, watching a potential nearby frontal 
- boundary for details of local winds and conditions. Latest trends would su
- ggest unfavorable southerly winds but we'll be watching the AM hours for a
-  possible window of lighter winds and OK conditions. 
+ A new round of surf as mid-period WNW swell fills in and mixes with a touc
+ h of SSW swell\, setting up chest-shoulder waves with a chance for larger 
+ sets\, showing most size over the afternoon. \n\nA nearby frontal boundary
+  will set up SSW onshore winds through the the day\, low-end moderate in t
+ he morning\, then easing during the afternoon for improving conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -29,9 +18,9 @@ DTSTART:20251224T153000
 DTEND:20251224T165400
 DESCRIPTION:TIDES:\n-2.924ft at 15:30\n-1.425ft at 16:54\n\nOBSERVATION:\n
  Watching the frontal pattern again for exact details but unlikely we see c
- lean/groomed conditions. WNW swell down a notch from Tuesday but still nic
- e size. Also watching the next couple days for surf during the holiday tim
- eframe.
+ lean/groomed conditions. WNW swell continues from Tuesday and some fresh s
+ outherly windswell also in the mix. The combo looks good for chest to head
+  high+ waves on the jumbled side. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -46,7 +35,13 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251226T073000
 DTEND:20251226T104800
-DESCRIPTION:-2.97ft at 07:30\n-2.997ft at 10:48
+DESCRIPTION:TIDES:\n-2.97ft at 07:30\n-2.997ft at 10:48\n\nOBSERVATION:\nL
+ arge surf due from topped out W swell\, starting to taper down in the afte
+ rnoon.\n\nConfidence in the conditions forecast is very low at this point\
+ , but some of the models indicate a possible flip to NW flow\, which would
+  be great news for spots in town. We'll refine the details over the next s
+ everal days\, but this has potential to be a surfable day for the chargers
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -125,5 +120,17 @@ SUMMARY:Surf's Up
 DTSTART:20260106T150600
 DTEND:20260106T170600
 DESCRIPTION:-2.912ft at 15:06\n-0.356ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260107T072400
+DTEND:20260107T090000
+DESCRIPTION:-2.384ft at 07:24\n-2.977ft at 09:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260107T154200
+DTEND:20260107T170600
+DESCRIPTION:-2.963ft at 15:42\n-1.44ft at 17:06
 END:VEVENT
 END:VCALENDAR
