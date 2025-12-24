@@ -3,51 +3,44 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251223T145400
-DTEND:20251223T165400
-DESCRIPTION:TIDES:\n-2.939ft at 14:54\n-0.654ft at 16:54\n\nOBSERVATION:\n
- A new round of surf as mid-period WNW swell fills in and mixes with a touc
- h of SSW swell\, setting up chest-shoulder waves with a chance for larger 
- sets\, showing most size over the afternoon. \n\nA nearby frontal boundary
-  will set up SSW onshore winds through the the day\, low-end moderate in t
- he morning\, then easing during the afternoon for improving conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251224T153000
 DTEND:20251224T165400
 DESCRIPTION:TIDES:\n-2.924ft at 15:30\n-1.425ft at 16:54\n\nOBSERVATION:\n
- Watching the frontal pattern again for exact details but unlikely we see c
- lean/groomed conditions. WNW swell continues from Tuesday and some fresh s
- outherly windswell also in the mix. The combo looks good for chest to head
-  high+ waves on the jumbled side. 
+ A frontal pattern sets up S-SW winds all day\, but the onshores will mainl
+ y be on the lighter side\, keeping conditions decent. \n\nA mix of mid to 
+ shorter-period WNW and SSW swell peaks in the morning\, with widespread sh
+ oulder to head high+ surf on the jumbled side\, while better breaks are go
+ ing 1-2' overhead. Waves will gradually taper during the day as the swell 
+ combo tapers off. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251225T160600
 DTEND:20251225T165400
 DESCRIPTION:TIDES:\n-2.934ft at 16:06\n-2.201ft at 16:54\n\nOBSERVATION:\n
- Strong surf\, chewed up by strong S/SSW wind all day long. Junky\, unsurfa
- ble conditions expected.\n\nSize picks up rapidly towards the end of the d
- ya as new W swell moves in. 
+ Surf size rebounds as more southerly windswell kicks in and WNW swell ling
+ ers\, but there will be breezy onshore S/SSW wind all day too. End result 
+ is blown out sloppy storm surf in the overhead to double overhead range. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251226T073000
 DTEND:20251226T104800
-DESCRIPTION:TIDES:\n-2.97ft at 07:30\n-2.997ft at 10:48\n\nOBSERVATION:\nL
- arge surf due from topped out W swell\, starting to taper down in the afte
- rnoon.\n\nConfidence in the conditions forecast is very low at this point\
- , but some of the models indicate a possible flip to NW flow\, which would
-  be great news for spots in town. We'll refine the details over the next s
- everal days\, but this has potential to be a surfable day for the chargers
- . 
+DESCRIPTION:TIDES:\n-2.97ft at 07:30\n-2.997ft at 10:48\n\nOBSERVATION:\nA
+  nearby storm maintains breezy SSW onshore winds\, while a strong combo of
+  peaking mid-period WNW swell and holding southerly windswell tops out. Vi
+ ctory-at-sea\, slopped out waves are running overhead to double overhead+.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251227T075400
 DTEND:20251227T134200
-DESCRIPTION:-2.965ft at 07:54\n-2.996ft at 13:42
+DESCRIPTION:TIDES:\n-2.965ft at 07:54\n-2.996ft at 13:42\n\nOBSERVATION:\n
+ Looking like a day that's worth the wait. A fading but still punchy mid-pe
+ riod WNW swell is good for overhead to double overhead surf in the morning
+ \, followed by a steady drop in size as the day goes on. \n\nAt this point
+  the call is for southerly onshores early morning\, then shifting to light
+ er offshores and cleaner conditions for the rest of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -132,5 +125,17 @@ SUMMARY:Surf's Up
 DTSTART:20260107T154200
 DTEND:20260107T170600
 DESCRIPTION:-2.963ft at 15:42\n-1.44ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260108T072400
+DTEND:20260108T104200
+DESCRIPTION:-2.364ft at 07:24\n-2.965ft at 10:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260108T161800
+DTEND:20260108T170600
+DESCRIPTION:-2.952ft at 16:18\n-2.309ft at 17:06
 END:VEVENT
 END:VCALENDAR
