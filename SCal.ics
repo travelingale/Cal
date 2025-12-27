@@ -3,32 +3,22 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251226T073000
-DTEND:20251226T104800
-DESCRIPTION:TIDES:\n-2.97ft at 07:30\n-2.997ft at 10:48\n\nOBSERVATION:\nA
-  nearby storm maintains breezy SSW onshore winds in the morning\, while a 
- strong combo of peaking mid-period WNW swell and holding southerly windswe
- ll tops out. Victory-at-sea\, slopped out waves are running overhead to do
- uble overhead+ in the morning then standouts go triple overhead+ when the 
- swell tops out. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251227T075400
 DTEND:20251227T134200
 DESCRIPTION:TIDES:\n-2.965ft at 07:54\n-2.996ft at 13:42\n\nOBSERVATION:\n
- A day that's worth the wait. A fading but still punchy mid-period WNW swel
- l is good for widespread overhead surf in the morning\, with standouts sev
- eral feet overhead as the tide drops. \n\nLight northerly wind for most of
-  the day for clean conditions. 
+ A fading but still punchy mid-period WNW swell is good for widespread over
+ head surf in the morning\, with standouts several feet overhead as the tid
+ e drops. \n\nLight northerly wind for most of the day for clean conditions
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251228T083000
 DTEND:20251228T161800
 DESCRIPTION:TIDES:\n-2.921ft at 08:30\n-2.99ft at 16:18\n\nOBSERVATION:\nO
- ld WNW swell is down to little remnants\, at or under the waist high mark.
-  \n\nNice conditions expected with light offshores through the day. 
+ ld WNW swell is down to little remnants\, generally at or under the waist 
+ high mark (especially around the high tides). \n\nNice conditions with lig
+ ht offshores through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -36,19 +26,28 @@ DTSTART:20251229T090600
 DTEND:20251229T170000
 DESCRIPTION:TIDES:\n-2.955ft at 09:06\n-2.607ft at 17:00\n\nOBSERVATION:\n
  Lingering little WNW swell lapping in for small surf down around knee-thig
- h high. \n\nLight offshore breeze\, clean conditions due all day. 
+ h high on the lower tides\n\nLight offshore/NE wind\, clean conditions due
+  all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251230T094800
 DTEND:20251230T122400
-DESCRIPTION:-2.96ft at 09:48\n-0.051ft at 12:24
+DESCRIPTION:TIDES:\n-2.96ft at 09:48\n-0.051ft at 12:24\n\nOBSERVATION:\nM
+ orning waves stay minimal\, then a little new WNW swell inches up in the a
+ fternoon for waist high surf. Top spots to chest high on the low/incoming 
+ tide in the afternoon. \n\nLight offshores due most of the day for town sp
+ ots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251230T150000
 DTEND:20251230T170000
-DESCRIPTION:-0.052ft at 15:00\n-1.672ft at 17:00
+DESCRIPTION:TIDES:\n-0.052ft at 15:00\n-1.672ft at 17:00\n\nOBSERVATION:\n
+ Morning waves stay minimal\, then a little new WNW swell inches up in the 
+ afternoon for waist high surf. Top spots to chest high on the low/incoming
+  tide in the afternoon. \n\nLight offshores due most of the day for town s
+ pots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -133,5 +132,11 @@ SUMMARY:Surf's Up
 DTSTART:20260110T074800
 DTEND:20260110T170600
 DESCRIPTION:-2.957ft at 07:48\n-2.938ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260111T083000
+DTEND:20260111T170600
+DESCRIPTION:-2.987ft at 08:30\n-2.714ft at 17:06
 END:VEVENT
 END:VCALENDAR
