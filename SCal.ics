@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251227T075400
-DTEND:20251227T134200
-DESCRIPTION:TIDES:\n-2.965ft at 07:54\n-2.996ft at 13:42\n\nOBSERVATION:\n
- A fading but still punchy mid-period WNW swell is good for widespread over
- head surf in the morning\, with standouts several feet overhead as the tid
- e drops. \n\nLight northerly wind for most of the day for clean conditions
- . 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251228T083000
 DTEND:20251228T161800
 DESCRIPTION:TIDES:\n-2.921ft at 08:30\n-2.99ft at 16:18\n\nOBSERVATION:\nO
@@ -25,41 +15,49 @@ SUMMARY:Surf's Up
 DTSTART:20251229T090600
 DTEND:20251229T170000
 DESCRIPTION:TIDES:\n-2.955ft at 09:06\n-2.607ft at 17:00\n\nOBSERVATION:\n
- Lingering little WNW swell lapping in for small surf down around knee-thig
- h high on the lower tides\n\nLight offshore/NE wind\, clean conditions due
-  all day. 
+ Lingering little WNW swell lapping in for small surf down around knee high
+  on the lower tides\n\nLight offshore/NE wind\, clean conditions due all d
+ ay. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251230T094800
 DTEND:20251230T122400
 DESCRIPTION:TIDES:\n-2.96ft at 09:48\n-0.051ft at 12:24\n\nOBSERVATION:\nM
- orning waves stay minimal\, then a little new WNW swell inches up in the a
- fternoon for waist high surf. Top spots to chest high on the low/incoming 
- tide in the afternoon. \n\nLight offshores due most of the day for town sp
- ots.
+ orning waves stay minimal on the deep high tide\, then a little new WNW sw
+ ell inches up in the afternoon for waist high surf. Top spots to chest hig
+ h on the low/incoming tide in the afternoon. \n\nLight offshores due most 
+ of the day for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251230T150000
 DTEND:20251230T170000
 DESCRIPTION:TIDES:\n-0.052ft at 15:00\n-1.672ft at 17:00\n\nOBSERVATION:\n
- Morning waves stay minimal\, then a little new WNW swell inches up in the 
- afternoon for waist high surf. Top spots to chest high on the low/incoming
-  tide in the afternoon. \n\nLight offshores due most of the day for town s
- pots.
+ Morning waves stay minimal on the deep high tide\, then a little new WNW s
+ well inches up in the afternoon for waist high surf. Top spots to chest hi
+ gh on the low/incoming tide in the afternoon. \n\nLight offshores due most
+  of the day for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251231T103600
 DTEND:20251231T123600
-DESCRIPTION:-2.883ft at 10:36\n-0.05ft at 12:36
+DESCRIPTION:TIDES:\n-2.883ft at 10:36\n-0.05ft at 12:36\n\nOBSERVATION:\nP
+ ick up in mid-period WNW swell sets up fun zone waist to chest high surf a
+ fter the dawn patrol deep high tide backs out for a while. Standouts see s
+ ome larger sets to shoulder high+. \n\nLight offshores due most of the day
+  for town spots for clean and likely even glassy conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251231T163000
 DTEND:20251231T170000
-DESCRIPTION:-0.001ft at 16:30\n-0.496ft at 17:00
+DESCRIPTION:TIDES:\n-0.001ft at 16:30\n-0.496ft at 17:00\n\nOBSERVATION:\n
+ Pick up in mid-period WNW swell sets up fun zone waist to chest high surf 
+ after the dawn patrol deep high tide backs out for a while. Standouts see 
+ some larger sets to shoulder high+. \n\nLight offshores due most of the da
+ y for town spots for clean and likely even glassy conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -138,5 +136,11 @@ SUMMARY:Surf's Up
 DTSTART:20260111T083000
 DTEND:20260111T170600
 DESCRIPTION:-2.987ft at 08:30\n-2.714ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260112T091200
+DTEND:20260112T171200
+DESCRIPTION:-2.977ft at 09:12\n-2.3ft at 17:12
 END:VEVENT
 END:VCALENDAR
