@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251228T083000
-DTEND:20251228T161800
-DESCRIPTION:TIDES:\n-2.921ft at 08:30\n-2.99ft at 16:18\n\nOBSERVATION:\nO
- ld WNW swell is down to little remnants\, generally at or under the waist 
- high mark (especially around the high tides). \n\nNice conditions with lig
- ht offshores through the day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251229T090600
 DTEND:20251229T170000
 DESCRIPTION:TIDES:\n-2.955ft at 09:06\n-2.607ft at 17:00\n\nOBSERVATION:\n
@@ -27,7 +18,7 @@ DESCRIPTION:TIDES:\n-2.96ft at 09:48\n-0.051ft at 12:24\n\nOBSERVATION:\nM
  orning waves stay minimal on the deep high tide\, then a little new WNW sw
  ell inches up in the afternoon for waist high surf. Top spots to chest hig
  h on the low/incoming tide in the afternoon. \n\nLight offshores due most 
- of the day for town spots.
+ of the day for town spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -37,7 +28,7 @@ DESCRIPTION:TIDES:\n-0.052ft at 15:00\n-1.672ft at 17:00\n\nOBSERVATION:\n
  Morning waves stay minimal on the deep high tide\, then a little new WNW s
  well inches up in the afternoon for waist high surf. Top spots to chest hi
  gh on the low/incoming tide in the afternoon. \n\nLight offshores due most
-  of the day for town spots.
+  of the day for town spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -63,7 +54,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260101T111800
 DTEND:20260101T130600
-DESCRIPTION:-2.976ft at 11:18\n-0.084ft at 13:06
+DESCRIPTION:TIDES:\n-2.976ft at 11:18\n-0.084ft at 13:06\n\nOBSERVATION:\n
+ Reinforcing mid period WNW swell fills in and surf looks close to slightly
+  larger than Wednesday this point. \n\nLight ENE wind expected all day for
+  clean to even glassy conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -142,5 +136,11 @@ SUMMARY:Surf's Up
 DTSTART:20260112T091200
 DTEND:20260112T171200
 DESCRIPTION:-2.977ft at 09:12\n-2.3ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260113T095400
+DTEND:20260113T171200
+DESCRIPTION:-2.93ft at 09:54\n-1.714ft at 17:12
 END:VEVENT
 END:VCALENDAR
