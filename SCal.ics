@@ -3,67 +3,54 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20251230T094800
-DTEND:20251230T122400
-DESCRIPTION:TIDES:\n-2.96ft at 09:48\n-0.051ft at 12:24\n\nOBSERVATION:\nM
- orning waves stay minimal on the deep high tide\, then a little new WNW sw
- ell inches up in the afternoon for waist high surf. Top spots to chest hig
- h on the low/incoming tide in the afternoon. \n\nLight offshores most of t
- he day for town spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20251230T150000
-DTEND:20251230T170000
-DESCRIPTION:TIDES:\n-0.052ft at 15:00\n-1.672ft at 17:00\n\nOBSERVATION:\n
- Morning waves stay minimal on the deep high tide\, then a little new WNW s
- well inches up in the afternoon for waist high surf. Top spots to chest hi
- gh on the low/incoming tide in the afternoon. \n\nLight offshores most of 
- the day for town spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20251231T103600
 DTEND:20251231T123600
 DESCRIPTION:TIDES:\n-2.883ft at 10:36\n-0.05ft at 12:36\n\nOBSERVATION:\nP
- ick up in mid-period WNW swell sets up fun zone waist to chest high surf a
- fter the dawn patrol deep high tide backs out for a while. Standouts see s
- ome larger sets to shoulder high+. \n\nLight offshores due most of the day
-  for town spots for clean and likely even glassy conditions. 
+ ick up in mid-period WNW swell sets up fun zone waist to stomach high surf
+  after the dawn patrol deep high tide backs out for a while. \n\nLight off
+ shores most of the morning for town spots for clean and conditions. E side
+  shores puff up in the afternoon for a little lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20251231T163000
 DTEND:20251231T170000
 DESCRIPTION:TIDES:\n-0.001ft at 16:30\n-0.496ft at 17:00\n\nOBSERVATION:\n
- Pick up in mid-period WNW swell sets up fun zone waist to chest high surf 
- after the dawn patrol deep high tide backs out for a while. Standouts see 
- some larger sets to shoulder high+. \n\nLight offshores due most of the da
- y for town spots for clean and likely even glassy conditions. 
+ Pick up in mid-period WNW swell sets up fun zone waist to stomach high sur
+ f after the dawn patrol deep high tide backs out for a while. \n\nLight of
+ fshores most of the morning for town spots for clean and conditions. E sid
+ e shores puff up in the afternoon for a little lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260101T111800
 DTEND:20260101T130600
 DESCRIPTION:TIDES:\n-2.976ft at 11:18\n-0.084ft at 13:06\n\nOBSERVATION:\n
- Reinforcing mid period WNW swell fills in and surf looks close to slightly
-  larger than Wednesday this point. \n\nLight ENE wind expected all day for
-  clean to even glassy conditions. 
+ Reinforcing mid period WNW swell fills in and surf is is up a notch from W
+ ednesday\, with waist to shoulder high waves after the dawn patrol deep hi
+ gh tide ebbs out for a while. \n\n. \n\nLight ENE wind expected all day fo
+ r clean to even glassy conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260102T120600
 DTEND:20260102T134800
 DESCRIPTION:TIDES:\n-2.969ft at 12:06\n-0.07ft at 13:48\n\nOBSERVATION:\nM
- id period WNW swell mix maintains waist to shoulder high+ waves\, but at t
- his point it looks like a nearby storm will set up breezy S winds for slop
- py conditions in town through the day. 
+ id period WNW swell mix sets up chest to head high+ waves in the afternoon
+ \, but at this point it looks like a nearby storm will set up breezy S win
+ ds for sloppy conditions in town through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260103T125400
 DTEND:20260103T143600
-DESCRIPTION:-2.942ft at 12:54\n-0.03ft at 14:36
+DESCRIPTION:TIDES:\n-2.942ft at 12:54\n-0.03ft at 14:36\n\nOBSERVATION:\nA
+  fresh mix of WNW swell and some secondary shorter-period SSW swell fills 
+ in\, showing most size  in the afternoon for widespread head high surf\, w
+ hile better breaks hit 1-2' overhead. \n\nS-SSW winds expected to ease fro
+ m Friday\, but the onshores still rough up the water in the morning. Possi
+ ble improvement over the afternoon as the sea breeze is due to lighten. De
+ ep early morning high tide bogs down the dawn patrol. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -148,5 +135,17 @@ SUMMARY:Surf's Up
 DTSTART:20260114T153000
 DTEND:20260114T171200
 DESCRIPTION:-0.028ft at 15:30\n-1.071ft at 17:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260115T110600
+DTEND:20260115T135400
+DESCRIPTION:-2.977ft at 11:06\n-0.011ft at 13:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260115T163600
+DTEND:20260115T171200
+DESCRIPTION:-0.029ft at 16:36\n-0.44ft at 17:12
 END:VEVENT
 END:VCALENDAR
