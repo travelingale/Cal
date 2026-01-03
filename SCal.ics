@@ -3,22 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260102T120600
-DTEND:20260102T134800
-DESCRIPTION:TIDES:\n-2.969ft at 12:06\n-0.07ft at 13:48\n\nOBSERVATION:\nM
- id period WNW swell mix sets up waist to chest high+ waves\, after the ear
- ly morning high tide ebbs out for a while. \n\nLight+ ESE winds in the mor
- ning for some lump\, cleaner conditions over the afternoon as winds turn l
- ight/variable. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260103T125400
 DTEND:20260103T143600
 DESCRIPTION:TIDES:\n-2.942ft at 12:54\n-0.03ft at 14:36\n\nOBSERVATION:\nA
   fresh mix of WNW swell and some secondary shorter-period SSW swell fills 
  in\, showing most size  in the afternoon for widespread head high surf\, w
- hile better breaks hit 1-2' overhead. \n\nModerate+ SSW winds expected muc
+ hile better breaks are 1-2' overhead. \n\nModerate+ SSW winds expected muc
  h of the day for rough conditions. Deep early morning high tide bogs down 
  the dawn patrol. 
 END:VEVENT
@@ -28,10 +18,10 @@ DTSTART:20260104T134200
 DTEND:20260104T152400
 DESCRIPTION:TIDES:\n-2.877ft at 13:42\n-0.087ft at 15:24\n\nOBSERVATION:\n
  Combo of WNW swell and secondary shorter-period SSW swell peaks in the mor
- ning with waves running head high to several feet overhead at good spots\,
-  as focal points approach double overhead. Surf tapers off in the afternoo
- n when the swell mix eases.\n\nModerate S-SSW winds looking to keep condit
- ions bumpy at this point. 
+ ning with widespread waves running several feet+ overhead\, as better brea
+ ks are double overhead+. Surf tapers off in the afternoon when the swell m
+ ix eases.\n\nModerate+ S-SSW winds looking to keep conditions sloppy in th
+ e morning\, slight improvement due over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -46,7 +36,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260106T150600
 DTEND:20260106T170600
-DESCRIPTION:-2.912ft at 15:06\n-0.356ft at 17:06
+DESCRIPTION:TIDES:\n-2.912ft at 15:06\n-0.356ft at 17:06\n\nOBSERVATION:\n
+ New blend of WNW and SSW swell moves in\, maintaining chest to head high s
+ urf at good spots. \n\nAt this point winds are looking light offshore much
+  of the day for clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -137,5 +130,11 @@ SUMMARY:Surf's Up
 DTSTART:20260117T121800
 DTEND:20260117T143600
 DESCRIPTION:-2.933ft at 12:18\n-0.051ft at 14:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260118T125400
+DTEND:20260118T150600
+DESCRIPTION:-2.87ft at 12:54\n-0.037ft at 15:06
 END:VEVENT
 END:VCALENDAR
