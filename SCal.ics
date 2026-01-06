@@ -3,22 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260105T142400
-DTEND:20260105T161800
-DESCRIPTION:TIDES:\n-2.927ft at 14:24\n-0.107ft at 16:18\n\nOBSERVATION:\n
- Easing blend of WNW swell\, shorter-period SSW swell is joined by some fre
- sh WNW swell\, for widespread waist-shoulder-head high waves.\n\nLow-end m
- oderate SSE shifting SSW onshore winds through the day for bumpy condition
- s. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260106T150600
 DTEND:20260106T170600
 DESCRIPTION:TIDES:\n-2.912ft at 15:06\n-0.356ft at 17:06\n\nOBSERVATION:\n
  Blend of WNW and SSW swell maintaining chest to head high zone surf at goo
- d spots. \n\nAt this point winds are looking light offshore much of the da
- y for clean conditions. 
+ d spots. \n\nSE wind mellows out for the morning\, still enough to keep co
+ nditions on the junky side. Those winds lighten up through the morning\, e
+ ventually trending to lighter/variable wind in town for the afternoon. Exp
+ ect some leftover jumble\, but the evening window is worth watching as the
+  lump works its way out and the tide drops.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -60,7 +53,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260109T072400
 DTEND:20260109T130600
-DESCRIPTION:-2.704ft at 07:24\n-2.998ft at 13:06
+DESCRIPTION:TIDES:\n-2.704ft at 07:24\n-2.998ft at 13:06\n\nOBSERVATION:\n
+ Punchy WNW swell continues in the morning for head high to several feet ov
+ erhead surf at good spots\, then slow fade follows during the day as the s
+ well eases. \n\nLight offshore NNW winds due all day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -139,5 +135,11 @@ SUMMARY:Surf's Up
 DTSTART:20260120T135400
 DTEND:20260120T161800
 DESCRIPTION:-2.981ft at 13:54\n-0.063ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260121T143000
+DTEND:20260121T171200
+DESCRIPTION:-2.903ft at 14:30\n-0.045ft at 17:12
 END:VEVENT
 END:VCALENDAR
