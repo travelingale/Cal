@@ -3,45 +3,29 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260107T072400
-DTEND:20260107T090000
-DESCRIPTION:TIDES:\n-2.384ft at 07:24\n-2.977ft at 09:00\n\nOBSERVATION:\n
- Down a little bit to start\, still fun with waist-chest high surf on avera
- ge\, in the head-high+ range for standouts. Some rippable corners early be
- fore the tide gets deeper and slows things down for the lunchtime window. 
- \n\nLighter/variable wind and clean conditions in the morning. Offshore fl
- ow expected for the back half of the day -- tide drop through the end of t
- he day will be another good window to target.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260107T154200
-DTEND:20260107T170600
-DESCRIPTION:TIDES:\n-2.963ft at 15:42\n-1.44ft at 17:06\n\nOBSERVATION:\nD
- own a little bit to start\, still fun with waist-chest high surf on averag
- e\, in the head-high+ range for standouts. Some rippable corners early bef
- ore the tide gets deeper and slows things down for the lunchtime window. \
- n\nLighter/variable wind and clean conditions in the morning. Offshore flo
- w expected for the back half of the day -- tide drop through the end of th
- e day will be another good window to target.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260108T072400
 DTEND:20260108T104200
 DESCRIPTION:TIDES:\n-2.364ft at 07:24\n-2.965ft at 10:42\n\nOBSERVATION:\n
- Good blend of WNW swell maxes out\, setting up head high+ to overhead surf
- \, as top spots approach double overhead. \n\nOffshore NNW winds due all d
- ay for nice conditions. 
+ Long period WNW swell on the rise all day\, starting off in waist-chest hi
+ gh territory as standouts push overhead. Size climbs all day\, more widesp
+ read overhead waves in the afternoon as standouts go well overhead -- like
+  some larger peaks upwards of double overhead in the mix for top breaks.\n
+ \nNortherly wind setting up offshore/clean conditions in town all day. Pic
+ k your window based on what size you're comfortable with and work around t
+ he early PM high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260108T161800
 DTEND:20260108T170600
 DESCRIPTION:TIDES:\n-2.952ft at 16:18\n-2.309ft at 17:06\n\nOBSERVATION:\n
- Good blend of WNW swell maxes out\, setting up head high+ to overhead surf
- \, as top spots approach double overhead. \n\nOffshore NNW winds due all d
- ay for nice conditions. 
+ Long period WNW swell on the rise all day\, starting off in waist-chest hi
+ gh territory as standouts push overhead. Size climbs all day\, more widesp
+ read overhead waves in the afternoon as standouts go well overhead -- like
+  some larger peaks upwards of double overhead in the mix for top breaks.\n
+ \nNortherly wind setting up offshore/clean conditions in town all day. Pic
+ k your window based on what size you're comfortable with and work around t
+ he early PM high tide.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -50,7 +34,11 @@ DTEND:20260109T130600
 DESCRIPTION:TIDES:\n-2.704ft at 07:24\n-2.998ft at 13:06\n\nOBSERVATION:\n
  Punchy WNW swell continues in the morning for head high to several feet ov
  erhead surf at good spots\, then slow fade follows during the day as the s
- well eases. \n\nLight offshore NNW winds due all day for nice conditions. 
+ well eases -- top spots still in overhead+ surf through the end of the day
+ \, average breaks get more approachable. \n\nPotential for some easterly w
+ ind coming out of the bay in the morning\, which would add some unwanted l
+ ump in town. Those should mellow out by the afternoon\, so don't panic if 
+ the morning window doesn't work out.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -65,7 +53,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260111T083000
 DTEND:20260111T170600
-DESCRIPTION:-2.987ft at 08:30\n-2.714ft at 17:06
+DESCRIPTION:TIDES:\n-2.987ft at 08:30\n-2.714ft at 17:06\n\nOBSERVATION:\n
+ Combo of old and fresh WNW swell\, lingering SW pulse\, has waves running 
+ waist to shoulder high in the afternoon. \n\nOffshore NNW winds due all da
+ y for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -150,5 +141,17 @@ SUMMARY:Surf's Up
 DTSTART:20260122T150000
 DTEND:20260122T171800
 DESCRIPTION:-2.954ft at 15:00\n-0.72ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260123T071800
+DTEND:20260123T100000
+DESCRIPTION:-2.032ft at 07:18\n-2.999ft at 10:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260123T153000
+DTEND:20260123T171800
+DESCRIPTION:-2.99ft at 15:30\n-1.535ft at 17:18
 END:VEVENT
 END:VCALENDAR
