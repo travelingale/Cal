@@ -3,42 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260108T072400
-DTEND:20260108T104200
-DESCRIPTION:TIDES:\n-2.364ft at 07:24\n-2.965ft at 10:42\n\nOBSERVATION:\n
- Long period WNW swell on the rise all day\, starting off in waist-chest hi
- gh territory as standouts push overhead. Size climbs all day\, more widesp
- read overhead waves in the afternoon as standouts go well overhead -- like
-  some larger peaks upwards of double overhead in the mix for top breaks.\n
- \nNortherly wind setting up offshore/clean conditions in town all day. Pic
- k your window based on what size you're comfortable with and work around t
- he early PM high tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260108T161800
-DTEND:20260108T170600
-DESCRIPTION:TIDES:\n-2.952ft at 16:18\n-2.309ft at 17:06\n\nOBSERVATION:\n
- Long period WNW swell on the rise all day\, starting off in waist-chest hi
- gh territory as standouts push overhead. Size climbs all day\, more widesp
- read overhead waves in the afternoon as standouts go well overhead -- like
-  some larger peaks upwards of double overhead in the mix for top breaks.\n
- \nNortherly wind setting up offshore/clean conditions in town all day. Pic
- k your window based on what size you're comfortable with and work around t
- he early PM high tide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260109T072400
 DTEND:20260109T130600
 DESCRIPTION:TIDES:\n-2.704ft at 07:24\n-2.998ft at 13:06\n\nOBSERVATION:\n
  Punchy WNW swell continues in the morning for head high to several feet ov
  erhead surf at good spots\, then slow fade follows during the day as the s
  well eases -- top spots still in overhead+ surf through the end of the day
- \, average breaks get more approachable. \n\nPotential for some easterly w
- ind coming out of the bay in the morning\, which would add some unwanted l
- ump in town. Those should mellow out by the afternoon\, so don't panic if 
- the morning window doesn't work out.
+ \, average breaks get more approachable. \n\nEasterly wind coming out of t
+ he bay in the morning\, adding some unwanted lump in town. Those should me
+ llow out by the afternoon\, so don't panic if the morning window doesn't w
+ ork out\; most of the afternoon is clean.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -62,7 +36,9 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260112T091200
 DTEND:20260112T171200
-DESCRIPTION:-2.977ft at 09:12\n-2.3ft at 17:12
+DESCRIPTION:TIDES:\n-2.977ft at 09:12\n-2.3ft at 17:12\n\nOBSERVATION:\nPu
+ nchy long-period WNW swell maxes out\, setting up overhead to double overh
+ ead range surf. \n\nWinds looking offshore for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -153,5 +129,17 @@ SUMMARY:Surf's Up
 DTSTART:20260123T153000
 DTEND:20260123T171800
 DESCRIPTION:-2.99ft at 15:30\n-1.535ft at 17:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260124T071800
+DTEND:20260124T120600
+DESCRIPTION:-1.98ft at 07:18\n-2.986ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260124T160000
+DTEND:20260124T172400
+DESCRIPTION:-2.989ft at 16:00\n-2.207ft at 17:24
 END:VEVENT
 END:VCALENDAR
