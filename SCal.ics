@@ -3,48 +3,51 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260109T072400
-DTEND:20260109T130600
-DESCRIPTION:TIDES:\n-2.704ft at 07:24\n-2.998ft at 13:06\n\nOBSERVATION:\n
- Punchy WNW swell continues in the morning for head high to several feet ov
- erhead surf at good spots\, then slow fade follows during the day as the s
- well eases -- top spots still in overhead+ surf through the end of the day
- \, average breaks get more approachable. \n\nEasterly wind coming out of t
- he bay in the morning\, adding some unwanted lump in town. Those should me
- llow out by the afternoon\, so don't panic if the morning window doesn't w
- ork out\; most of the afternoon is clean.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260110T074800
 DTEND:20260110T170600
 DESCRIPTION:TIDES:\n-2.957ft at 07:48\n-2.938ft at 17:06\n\nOBSERVATION:\n
- Fading WNW swell\, along with a SW pulse\, for waist to shoulder+ surf in 
- the morning\, easing in the afternoon. \n\nMainly offshore conditions due 
- through the day. 
+ Fading WNW swell\, along with a secondary SW pulse\, for waist to shoulder
+ + surf in the morning\, easing in the afternoon. Morning window looks best
+ . The higher tide and weakening swell in the afternoon will slow down the 
+ surf quite a bit.\n\nAM conditions similar to Fri with light/variable to l
+ ight offshore wind. Afternoon seabreeze crumble creeps back in.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260111T083000
 DTEND:20260111T170600
 DESCRIPTION:TIDES:\n-2.987ft at 08:30\n-2.714ft at 17:06\n\nOBSERVATION:\n
- Combo of old and fresh WNW swell\, lingering SW pulse\, has waves running 
- waist to shoulder high in the afternoon. \n\nOffshore NNW winds due all da
- y for nice conditions. 
+ Old WNW leftovers offer up some cruisy lines for the bigger boards in the 
+ morning. New long period WNW swell picks up in the afternoon\, trending fu
+ n-zone and punchy by the end of the day.\n\nWind looks light all day\, cle
+ an in the morning with some onshore crumble likely in the afternon at spot
+ s without any headland or kelp protection.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260112T091200
 DTEND:20260112T171200
-DESCRIPTION:TIDES:\n-2.977ft at 09:12\n-2.3ft at 17:12\n\nOBSERVATION:\nPu
- nchy long-period WNW swell maxes out\, setting up overhead to double overh
- ead range surf. \n\nWinds looking offshore for nice conditions. 
+DESCRIPTION:TIDES:\n-2.977ft at 09:12\n-2.3ft at 17:12\n\nOBSERVATION:\nLa
+ rge W/WNW swell tops out after an overnight build. Raw swell not as big as
+  the more recent NW pulse\, but the more westerly direction means iust as 
+ much size gets into Santa Cruz -- if not a little more\, especially at the
+  tucked-away zones further in town. Sets at top zones likely still going d
+ ouble overhead+.\n\nSimilar situation for winds. Light/variable to light o
+ ffshore in the morning with a light seabreeze adding some texture in the a
+ fternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260113T095400
 DTEND:20260113T171200
-DESCRIPTION:-2.93ft at 09:54\n-1.714ft at 17:12
+DESCRIPTION:TIDES:\n-2.93ft at 09:54\n-1.714ft at 17:12\n\nOBSERVATION:\nS
+ till solid for the best exposed breaks as WNW swell slowly winds down. Rel
+ atively soft on the high tide first thing\, standing up as it drops with h
+ ead-high to overhead waves on offer -- in the well-overhead to double over
+ head zone for top spots. Afternoon tide push is a good alternative\, and a
+  little smaller if the morning window is too big for you.\n\nConditions in
+  town look clean all day with light/variable to light northerly wind -- li
+ ght onshore seabreeze possible in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -141,5 +144,11 @@ SUMMARY:Surf's Up
 DTSTART:20260124T160000
 DTEND:20260124T172400
 DESCRIPTION:-2.989ft at 16:00\n-2.207ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260125T071800
+DTEND:20260125T172400
+DESCRIPTION:-2.356ft at 07:18\n-2.716ft at 17:24
 END:VEVENT
 END:VCALENDAR
