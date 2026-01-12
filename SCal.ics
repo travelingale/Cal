@@ -3,27 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260111T083000
-DTEND:20260111T170600
-DESCRIPTION:TIDES:\n-2.987ft at 08:30\n-2.714ft at 17:06\n\nOBSERVATION:\n
- Old WNW leftovers offer up some cruisy lines for the bigger boards in the 
- morning. New long period WNW swell picks up in the afternoon\, trending fu
- n-zone and punchy by the end of the day.\n\nWind looks light all day\, cle
- an in the morning with some onshore crumble likely in the afternon at spot
- s without any headland or kelp protection.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260112T091200
 DTEND:20260112T171200
 DESCRIPTION:TIDES:\n-2.977ft at 09:12\n-2.3ft at 17:12\n\nOBSERVATION:\nLa
  rge W/WNW swell tops out after an overnight build. Raw swell not as big as
   the more recent NW pulse\, but the more westerly direction means iust as 
  much size gets into Santa Cruz -- if not a little more\, especially at the
-  tucked-away zones further in town. Sets at top zones likely still going d
- ouble overhead+.\n\nSimilar situation for winds. Light/variable to light o
- ffshore in the morning with a light seabreeze adding some texture in the a
- fternoon.
+  tucked-away zones further in town. Sets at top zones going double overhea
+ d+.\n\nSimilar situation for winds. Light/variable to light offshore in th
+ e morning with a light seabreeze adding some texture in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -66,13 +54,25 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260115T110600
 DTEND:20260115T135400
-DESCRIPTION:-2.977ft at 11:06\n-0.011ft at 13:54
+DESCRIPTION:TIDES:\n-2.977ft at 11:06\n-0.011ft at 13:54\n\nOBSERVATION:\n
+ Another nice day of waves on paper as fresh WNW swell peaks. The size on t
+ his swell will have a wide range of spots working through the days big tid
+ e swings -- AM high\, drained afternoon low.\n\nWind looks light+ offshore
+  for a crisp\, clean start across the region. Then wind looks to trend lig
+ ht/variable setting the stage for a possible glassy\, or at least clean\, 
+ afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260115T163600
 DTEND:20260115T171200
-DESCRIPTION:-0.029ft at 16:36\n-0.44ft at 17:12
+DESCRIPTION:TIDES:\n-0.029ft at 16:36\n-0.44ft at 17:12\n\nOBSERVATION:\nA
+ nother nice day of waves on paper as fresh WNW swell peaks. The size on th
+ is swell will have a wide range of spots working through the days big tide
+  swings -- AM high\, drained afternoon low.\n\nWind looks light+ offshore 
+ for a crisp\, clean start across the region. Then wind looks to trend ligh
+ t/variable setting the stage for a possible glassy\, or at least clean\, a
+ fternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -157,5 +157,17 @@ SUMMARY:Surf's Up
 DTSTART:20260126T073000
 DTEND:20260126T172400
 DESCRIPTION:-2.942ft at 07:30\n-2.856ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260127T082400
+DTEND:20260127T115400
+DESCRIPTION:-2.979ft at 08:24\n-0.023ft at 11:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260127T130600
+DTEND:20260127T172400
+DESCRIPTION:-0.011ft at 13:06\n-2.57ft at 17:24
 END:VEVENT
 END:VCALENDAR
