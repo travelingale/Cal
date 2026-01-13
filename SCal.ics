@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260112T091200
-DTEND:20260112T171200
-DESCRIPTION:TIDES:\n-2.977ft at 09:12\n-2.3ft at 17:12\n\nOBSERVATION:\nLa
- rge W/WNW swell tops out after an overnight build. Raw swell not as big as
-  the more recent NW pulse\, but the more westerly direction means iust as 
- much size gets into Santa Cruz -- if not a little more\, especially at the
-  tucked-away zones further in town. Sets at top zones going double overhea
- d+.\n\nSimilar situation for winds. Light/variable to light offshore in th
- e morning with a light seabreeze adding some texture in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260113T095400
 DTEND:20260113T171200
 DESCRIPTION:TIDES:\n-2.93ft at 09:54\n-1.714ft at 17:12\n\nOBSERVATION:\nS
@@ -24,7 +12,7 @@ DESCRIPTION:TIDES:\n-2.93ft at 09:54\n-1.714ft at 17:12\n\nOBSERVATION:\nS
  head zone for top spots. Afternoon tide push is a good alternative\, and a
   little smaller if the morning window is too big for you.\n\nConditions in
   town look clean all day with light/variable to light northerly wind -- li
- ght onshore seabreeze possible in the afternoon.
+ ght onshore seabreeze for the afternoon\, similar to Monday.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -78,7 +66,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260116T114200
 DTEND:20260116T141200
-DESCRIPTION:-2.969ft at 11:42\n-0.033ft at 14:12
+DESCRIPTION:TIDES:\n-2.969ft at 11:42\n-0.033ft at 14:12\n\nOBSERVATION:\n
+ WNW swell holds the most size early then gradually backs off through the d
+ ay. The size and period on this swell will have a wide range of spots work
+ ing through the days big tide swings -- AM high\, drained afternoon low.\n
+ \nWind looks light+ offshore for a crisp\, clean start across the region. 
+ Wind may trends N/NW for the afternoon and will favor town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -169,5 +162,17 @@ SUMMARY:Surf's Up
 DTSTART:20260127T130600
 DTEND:20260127T172400
 DESCRIPTION:-0.011ft at 13:06\n-2.57ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260128T092400
+DTEND:20260128T114800
+DESCRIPTION:-2.885ft at 09:24\n-0.059ft at 11:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260128T151800
+DTEND:20260128T172400
+DESCRIPTION:-0.061ft at 15:18\n-1.898ft at 17:24
 END:VEVENT
 END:VCALENDAR
