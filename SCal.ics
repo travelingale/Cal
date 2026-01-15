@@ -3,43 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260113T095400
-DTEND:20260113T171200
-DESCRIPTION:TIDES:\n-2.93ft at 09:54\n-1.714ft at 17:12\n\nOBSERVATION:\nS
- till solid for the best exposed breaks as WNW swell slowly winds down. Rel
- atively soft on the high tide first thing\, standing up as it drops with h
- ead-high to overhead waves on offer -- in the well-overhead to double over
- head zone for top spots. Afternoon tide push is a good alternative\, and a
-  little smaller if the morning window is too big for you.\n\nConditions in
-  town look clean all day with light/variable to light northerly wind -- li
- ght onshore seabreeze for the afternoon\, similar to Monday.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260114T103000
-DTEND:20260114T134800
-DESCRIPTION:TIDES:\n-2.962ft at 10:30\n-0.006ft at 13:48\n\nOBSERVATION:\n
- You'll probably want to hit the morning window if you need a breather\, as
-  new long period W swell is due to fill in. This one looks a little smalle
- r than the 12th-13th swell\, closer to well overhead to double overhead wi
- thout the pluses in there -- but that could trend up. This one tops out in
- to Thu\, and holds pretty steady.\n\nSimilar wind situation. Clean in the 
- morning with some crumble for open exposures in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260114T153000
-DTEND:20260114T171200
-DESCRIPTION:TIDES:\n-0.028ft at 15:30\n-1.071ft at 17:12\n\nOBSERVATION:\n
- You'll probably want to hit the morning window if you need a breather\, as
-  new long period W swell is due to fill in. This one looks a little smalle
- r than the 12th-13th swell\, closer to well overhead to double overhead wi
- thout the pluses in there -- but that could trend up. This one tops out in
- to Thu\, and holds pretty steady.\n\nSimilar wind situation. Clean in the 
- morning with some crumble for open exposures in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260115T110600
 DTEND:20260115T135400
 DESCRIPTION:TIDES:\n-2.977ft at 11:06\n-0.011ft at 13:54\n\nOBSERVATION:\n
@@ -77,13 +40,25 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260117T121800
 DTEND:20260117T143600
-DESCRIPTION:-2.933ft at 12:18\n-0.051ft at 14:36
+DESCRIPTION:TIDES:\n-2.933ft at 12:18\n-0.051ft at 14:36\n\nOBSERVATION:\n
+ New W swell is likely on the rise throughout the day\, but it doesn't look
+  like too much energy will show before dark. Smaller wave gear should get 
+ the job done in the morning\, trending fun zone with some oomph in the aft
+ ernoon as more long-period energy trickles in.\n\nLight winds slated to co
+ ntinue\, but that could change this many days out. Decent confidence\, tho
+ ugh\, given the pattern we're getting into. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260118T125400
 DTEND:20260118T150600
-DESCRIPTION:-2.87ft at 12:54\n-0.037ft at 15:06
+DESCRIPTION:TIDES:\n-2.87ft at 12:54\n-0.037ft at 15:06\n\nOBSERVATION:\nA
+ fter a quick breather\, a fresh WNW swell peaks. Again\, this storm system
+  looks strongest near Hawaii in the central NPAC so the surf arrives compo
+ sed and lined up for the regions points and reefs. \n\nSimilar to the curr
+ ent setup\, model guidance is in pretty good agreement the region remains 
+ draped in high pressure.\n\nThat means good potential for offshore flow an
+ d favorable conditions all day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -174,5 +149,23 @@ SUMMARY:Surf's Up
 DTSTART:20260128T151800
 DTEND:20260128T172400
 DESCRIPTION:-0.061ft at 15:18\n-1.898ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260129T101800
+DTEND:20260129T121800
+DESCRIPTION:-2.871ft at 10:18\n-0.083ft at 12:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260129T163000
+DTEND:20260129T172400
+DESCRIPTION:-0.035ft at 16:30\n-0.979ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260130T110600
+DTEND:20260130T130000
+DESCRIPTION:-2.948ft at 11:06\n-0.032ft at 13:00
 END:VEVENT
 END:VCALENDAR
