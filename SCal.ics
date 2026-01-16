@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260115T110600
-DTEND:20260115T135400
-DESCRIPTION:TIDES:\n-2.977ft at 11:06\n-0.011ft at 13:54\n\nOBSERVATION:\n
- Another nice day of waves on paper as fresh WNW swell peaks. The size on t
- his swell will have a wide range of spots working through the days big tid
- e swings -- AM high\, drained afternoon low.\n\nWind looks light+ offshore
-  for a crisp\, clean start across the region. Then wind looks to trend lig
- ht/variable setting the stage for a possible glassy\, or at least clean\, 
- afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260115T163600
-DTEND:20260115T171200
-DESCRIPTION:TIDES:\n-0.029ft at 16:36\n-0.44ft at 17:12\n\nOBSERVATION:\nA
- nother nice day of waves on paper as fresh WNW swell peaks. The size on th
- is swell will have a wide range of spots working through the days big tide
-  swings -- AM high\, drained afternoon low.\n\nWind looks light+ offshore 
- for a crisp\, clean start across the region. Then wind looks to trend ligh
- t/variable setting the stage for a possible glassy\, or at least clean\, a
- fternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260116T114200
 DTEND:20260116T141200
 DESCRIPTION:TIDES:\n-2.969ft at 11:42\n-0.033ft at 14:12\n\nOBSERVATION:\n
@@ -34,7 +10,8 @@ DESCRIPTION:TIDES:\n-2.969ft at 11:42\n-0.033ft at 14:12\n\nOBSERVATION:\n
  ay. The size and period on this swell will have a wide range of spots work
  ing through the days big tide swings -- AM high\, drained afternoon low.\n
  \nWind looks light+ offshore for a crisp\, clean start across the region. 
- Wind may trends N/NW for the afternoon and will favor town spots.
+ Variable wind in town for the afternoon\, maybe a little bit of crumble fo
+ r openly exposed spots\, but overall pretty clean in town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -64,7 +41,13 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260119T132400
 DTEND:20260119T153600
-DESCRIPTION:-2.931ft at 13:24\n-0.095ft at 15:36
+DESCRIPTION:TIDES:\n-2.931ft at 13:24\n-0.095ft at 15:36\n\nOBSERVATION:\n
+ Swell period backs off from Sunday\, so size/push probably backs off a lit
+ tle bit -- especially around the high tide mid-morning. Chest-head high su
+ rf on tap\, maybe a touch overhead for focal points once the tide backs ou
+ t midday/early afternoon.\n\nClean conditions with light northerly wind fo
+ r the morning window. Afternoon seabreeze likely adds a little texture to 
+ open exposures -- headland/kelp protected breaks clean all day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -167,5 +150,11 @@ SUMMARY:Surf's Up
 DTSTART:20260130T110600
 DTEND:20260130T130000
 DESCRIPTION:-2.948ft at 11:06\n-0.032ft at 13:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260131T115400
+DTEND:20260131T134200
+DESCRIPTION:-2.948ft at 11:54\n-0.061ft at 13:42
 END:VEVENT
 END:VCALENDAR
