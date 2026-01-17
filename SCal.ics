@@ -3,39 +3,28 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260116T114200
-DTEND:20260116T141200
-DESCRIPTION:TIDES:\n-2.969ft at 11:42\n-0.033ft at 14:12\n\nOBSERVATION:\n
- WNW swell holds the most size early then gradually backs off through the d
- ay. The size and period on this swell will have a wide range of spots work
- ing through the days big tide swings -- AM high\, drained afternoon low.\n
- \nWind looks light+ offshore for a crisp\, clean start across the region. 
- Variable wind in town for the afternoon\, maybe a little bit of crumble fo
- r openly exposed spots\, but overall pretty clean in town.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260117T121800
 DTEND:20260117T143600
 DESCRIPTION:TIDES:\n-2.933ft at 12:18\n-0.051ft at 14:36\n\nOBSERVATION:\n
- New W swell is likely on the rise throughout the day\, but it doesn't look
-  like too much energy will show before dark. Smaller wave gear should get 
- the job done in the morning\, trending fun zone with some oomph in the aft
- ernoon as more long-period energy trickles in.\n\nLight winds slated to co
- ntinue\, but that could change this many days out. Decent confidence\, tho
- ugh\, given the pattern we're getting into. 
+ New W swell is on the rise throughout the day\, but it doesn't look like t
+ oo much energy will show before dark. Smaller wave gear should get the job
+  done in the morning -- it'll be sluggish through the high tide -- trendin
+ g fun zone with some oomph in the afternoon as more long-period energy tri
+ ckles in.\n\nLight winds slated to continue for clean conditions all morni
+ ng. headland/kelp protected breaks stay pretty glassy in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260118T125400
 DTEND:20260118T150600
 DESCRIPTION:TIDES:\n-2.87ft at 12:54\n-0.037ft at 15:06\n\nOBSERVATION:\nA
- fter a quick breather\, a fresh WNW swell peaks. Again\, this storm system
-  looks strongest near Hawaii in the central NPAC so the surf arrives compo
- sed and lined up for the regions points and reefs. \n\nSimilar to the curr
- ent setup\, model guidance is in pretty good agreement the region remains 
- draped in high pressure.\n\nThat means good potential for offshore flow an
- d favorable conditions all day.
+ fter a quick breather\, a fresh WNW swell peaks for fun surf knee-waist hi
+ gh on average\, chest-head high for better spots. This storm system was st
+ rongest near Hawaii in the central NPAC\, so the surf arrives composed and
+  lined up.\n\nThe region remains draped in high pressure\, keeping local w
+ inds light and conditions clean throughout the day. AM window is likely gl
+ assiest\, but conditions get better for most breaks as the tide backs out 
+ midday into the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -53,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260120T135400
 DTEND:20260120T161800
-DESCRIPTION:-2.981ft at 13:54\n-0.063ft at 16:18
+DESCRIPTION:TIDES:\n-2.981ft at 13:54\n-0.063ft at 16:18\n\nOBSERVATION:\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -156,5 +145,11 @@ SUMMARY:Surf's Up
 DTSTART:20260131T115400
 DTEND:20260131T134200
 DESCRIPTION:-2.948ft at 11:54\n-0.061ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260201T124200
+DTEND:20260201T143000
+DESCRIPTION:-2.859ft at 12:42\n-0.023ft at 14:30
 END:VEVENT
 END:VCALENDAR
