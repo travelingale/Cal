@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260117T121800
-DTEND:20260117T143600
-DESCRIPTION:TIDES:\n-2.933ft at 12:18\n-0.051ft at 14:36\n\nOBSERVATION:\n
- New W swell is on the rise throughout the day\, but it doesn't look like t
- oo much energy will show before dark. Smaller wave gear should get the job
-  done in the morning -- it'll be sluggish through the high tide -- trendin
- g fun zone with some oomph in the afternoon as more long-period energy tri
- ckles in.\n\nLight winds slated to continue for clean conditions all morni
- ng. headland/kelp protected breaks stay pretty glassy in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260118T125400
 DTEND:20260118T150600
 DESCRIPTION:TIDES:\n-2.87ft at 12:54\n-0.037ft at 15:06\n\nOBSERVATION:\nA
@@ -43,12 +31,24 @@ SUMMARY:Surf's Up
 DTSTART:20260120T135400
 DTEND:20260120T161800
 DESCRIPTION:TIDES:\n-2.981ft at 13:54\n-0.063ft at 16:18\n\nOBSERVATION:\n
+ New W swell builds through the day\, fun in the morning\, trending mid-siz
+ ed through the back half of the day. With the draining tide through the af
+ ternoon\, there should be some properly squared-up sets coming through.\n\
+ nHigh pressure is likely weakening through the middle of the week\, but we
+ 're still expecting offshores at this point\, at least for the morning win
+ dow.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260121T143000
 DTEND:20260121T171200
-DESCRIPTION:-2.903ft at 14:30\n-0.045ft at 17:12
+DESCRIPTION:TIDES:\n-2.903ft at 14:30\n-0.045ft at 17:12\n\nOBSERVATION:\n
+ W/WNW swell sticks around with chest-head surf likely in the water as bett
+ er spots go overhead+. Shape should be decent on the moderate tide in the 
+ morning\, getting sluggish into midday as it peaks.\n\nLight/variable wind
+  and glassy conditions for the morning window. The afternoon looks pretty 
+ clean too\, but spots without headland/kelp protection can expect a little
+  bit of onshore seabreeze crumble.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -151,5 +151,11 @@ SUMMARY:Surf's Up
 DTSTART:20260201T124200
 DTEND:20260201T143000
 DESCRIPTION:-2.859ft at 12:42\n-0.023ft at 14:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260202T132400
+DTEND:20260202T151800
+DESCRIPTION:-2.856ft at 13:24\n-0.065ft at 15:18
 END:VEVENT
 END:VCALENDAR
