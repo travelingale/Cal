@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260118T125400
-DTEND:20260118T150600
-DESCRIPTION:TIDES:\n-2.87ft at 12:54\n-0.037ft at 15:06\n\nOBSERVATION:\nA
- fter a quick breather\, a fresh WNW swell peaks for fun surf knee-waist hi
- gh on average\, chest-head high for better spots. This storm system was st
- rongest near Hawaii in the central NPAC\, so the surf arrives composed and
-  lined up.\n\nThe region remains draped in high pressure\, keeping local w
- inds light and conditions clean throughout the day. AM window is likely gl
- assiest\, but conditions get better for most breaks as the tide backs out 
- midday into the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260119T132400
 DTEND:20260119T153600
 DESCRIPTION:TIDES:\n-2.931ft at 13:24\n-0.095ft at 15:36\n\nOBSERVATION:\n
@@ -54,13 +41,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260122T071800
 DTEND:20260122T082400
-DESCRIPTION:-2.433ft at 07:18\n-2.972ft at 08:24
+DESCRIPTION:TIDES:\n-2.433ft at 07:18\n-2.972ft at 08:24\n\nOBSERVATION:\n
+ W/WNW swell is down to fun/mid-sized leftovers. Waist-chest high surf expe
+ cted for better spots\, standouts head-high before the tide gets too deep 
+ in the morning. \n\nLighter/variable wind due for the AM window at this po
+ int for clean conditions in town. The afternoon looks decent\, but openly 
+ exposed zones can expect some texture as SW wind wraps into town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260122T150000
 DTEND:20260122T171800
-DESCRIPTION:-2.954ft at 15:00\n-0.72ft at 17:18
+DESCRIPTION:TIDES:\n-2.954ft at 15:00\n-0.72ft at 17:18\n\nOBSERVATION:\nW
+ /WNW swell is down to fun/mid-sized leftovers. Waist-chest high surf expec
+ ted for better spots\, standouts head-high before the tide gets too deep i
+ n the morning. \n\nLighter/variable wind due for the AM window at this poi
+ nt for clean conditions in town. The afternoon looks decent\, but openly e
+ xposed zones can expect some texture as SW wind wraps into town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -157,5 +154,11 @@ SUMMARY:Surf's Up
 DTSTART:20260202T132400
 DTEND:20260202T151800
 DESCRIPTION:-2.856ft at 13:24\n-0.065ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260203T140000
+DTEND:20260203T161800
+DESCRIPTION:-2.93ft at 14:00\n-0.026ft at 16:18
 END:VEVENT
 END:VCALENDAR
