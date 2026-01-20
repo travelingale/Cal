@@ -3,39 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260119T132400
-DTEND:20260119T153600
-DESCRIPTION:TIDES:\n-2.931ft at 13:24\n-0.095ft at 15:36\n\nOBSERVATION:\n
- Swell period backs off from Sunday\, so size/push probably backs off a lit
- tle bit -- especially around the high tide mid-morning. Chest-head high su
- rf on tap\, maybe a touch overhead for focal points once the tide backs ou
- t midday/early afternoon.\n\nClean conditions with light northerly wind fo
- r the morning window. Afternoon seabreeze likely adds a little texture to 
- open exposures -- headland/kelp protected breaks clean all day.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260120T135400
 DTEND:20260120T161800
 DESCRIPTION:TIDES:\n-2.981ft at 13:54\n-0.063ft at 16:18\n\nOBSERVATION:\n
  New W swell builds through the day\, fun in the morning\, trending mid-siz
- ed through the back half of the day. With the draining tide through the af
- ternoon\, there should be some properly squared-up sets coming through.\n\
- nHigh pressure is likely weakening through the middle of the week\, but we
- 're still expecting offshores at this point\, at least for the morning win
- dow.
+ ed\, shoulder to a foot+ overhead through the back half of the day at good
+  spots. With the draining tide through the afternoon\, there will be some 
+ properly squared-up sets coming through.\n\nHigh pressure is weakening thr
+ ough the middle of the week\, but morning light offshores persist. Light s
+ ea breeze develops in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260121T143000
 DTEND:20260121T171200
 DESCRIPTION:TIDES:\n-2.903ft at 14:30\n-0.045ft at 17:12\n\nOBSERVATION:\n
- W/WNW swell sticks around with chest-head surf likely in the water as bett
- er spots go overhead+. Shape should be decent on the moderate tide in the 
- morning\, getting sluggish into midday as it peaks.\n\nLight/variable wind
-  and glassy conditions for the morning window. The afternoon looks pretty 
- clean too\, but spots without headland/kelp protection can expect a little
-  bit of onshore seabreeze crumble.
+ W/WNW swell tops out early morning\, with widespread chest-head+ surf in t
+ he water as better spots go overhead+. Shape should be decent on the moder
+ ate tide in the morning\, getting sluggish into midday as it peaks.\n\nLig
+ ht/variable wind and glassy conditions for the morning window. The afterno
+ on looks pretty clean too\, but spots without headland/kelp protection can
+  expect a little bit of onshore seabreeze crumble.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -63,13 +51,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260123T071800
 DTEND:20260123T100000
-DESCRIPTION:-2.032ft at 07:18\n-2.999ft at 10:00
+DESCRIPTION:TIDES:\n-2.032ft at 07:18\n-2.999ft at 10:00\n\nOBSERVATION:\n
+ Decent size combo of old and new WNW swell keeps waves running waist to ch
+ est high in the morning\, then the surf edges up in the afternoon as more 
+ swell gradually moves in. \n\nLight/variable morning winds shift to a ligh
+ t sea breeze in the afternoon for a clean to textured conditions. Moderate
+  high tide mid day bogs down tide sensitive spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260123T153000
 DTEND:20260123T171800
-DESCRIPTION:-2.99ft at 15:30\n-1.535ft at 17:18
+DESCRIPTION:TIDES:\n-2.99ft at 15:30\n-1.535ft at 17:18\n\nOBSERVATION:\nD
+ ecent size combo of old and new WNW swell keeps waves running waist to che
+ st high in the morning\, then the surf edges up in the afternoon as more s
+ well gradually moves in. \n\nLight/variable morning winds shift to a light
+  sea breeze in the afternoon for a clean to textured conditions. Moderate 
+ high tide mid day bogs down tide sensitive spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -160,5 +158,17 @@ SUMMARY:Surf's Up
 DTSTART:20260203T140000
 DTEND:20260203T161800
 DESCRIPTION:-2.93ft at 14:00\n-0.026ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260204T071200
+DTEND:20260204T081800
+DESCRIPTION:-2.129ft at 07:12\n-2.967ft at 08:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260204T143600
+DTEND:20260204T173600
+DESCRIPTION:-2.93ft at 14:36\n-0.082ft at 17:36
 END:VEVENT
 END:VCALENDAR
