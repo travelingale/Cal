@@ -3,59 +3,47 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260120T135400
-DTEND:20260120T161800
-DESCRIPTION:TIDES:\n-2.981ft at 13:54\n-0.063ft at 16:18\n\nOBSERVATION:\n
- New W swell builds through the day\, fun in the morning\, trending mid-siz
- ed\, shoulder to a foot+ overhead through the back half of the day at good
-  spots. With the draining tide through the afternoon\, there will be some 
- properly squared-up sets coming through.\n\nHigh pressure is weakening thr
- ough the middle of the week\, but morning light offshores persist. Light s
- ea breeze develops in the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260121T143000
 DTEND:20260121T171200
 DESCRIPTION:TIDES:\n-2.903ft at 14:30\n-0.045ft at 17:12\n\nOBSERVATION:\n
  W/WNW swell tops out early morning\, with widespread chest-head+ surf in t
- he water as better spots go overhead+. Shape should be decent on the moder
- ate tide in the morning\, getting sluggish into midday as it peaks.\n\nLig
- ht/variable wind and glassy conditions for the morning window. The afterno
- on looks pretty clean too\, but spots without headland/kelp protection can
-  expect a little bit of onshore seabreeze crumble.
+ he water as better spots go a foot+ overhead. Shape will be decent on the 
+ moderate tide in the morning\, getting more sluggish into midday as the ti
+ de peaks.\n\nLight/variable wind and glassy conditions for the morning win
+ dow. The afternoon stays pretty clean too\, but spots without headland/kel
+ p protection can expect a little bit of onshore seabreeze crumble.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260122T071800
 DTEND:20260122T082400
 DESCRIPTION:TIDES:\n-2.433ft at 07:18\n-2.972ft at 08:24\n\nOBSERVATION:\n
- W/WNW swell is down to fun/mid-sized leftovers. Waist-chest high surf expe
- cted for better spots\, standouts head-high before the tide gets too deep 
- in the morning. \n\nLighter/variable wind due for the AM window at this po
- int for clean conditions in town. The afternoon looks decent\, but openly 
- exposed zones can expect some texture as SW wind wraps into town.
+ W/WNW swell is down to fun/mid-sized levels. Waist-chest high surf for bet
+ ter spots\, standouts head-high before the tide gets too deep in the later
+  morning. \n\nLighter/variable wind due for the AM window at this point fo
+ r clean conditions in town. The afternoon looks decent\, but openly expose
+ d zones can expect some texture as light+ SW wind wraps into town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260122T150000
 DTEND:20260122T171800
 DESCRIPTION:TIDES:\n-2.954ft at 15:00\n-0.72ft at 17:18\n\nOBSERVATION:\nW
- /WNW swell is down to fun/mid-sized leftovers. Waist-chest high surf expec
- ted for better spots\, standouts head-high before the tide gets too deep i
- n the morning. \n\nLighter/variable wind due for the AM window at this poi
- nt for clean conditions in town. The afternoon looks decent\, but openly e
- xposed zones can expect some texture as SW wind wraps into town.
+ /WNW swell is down to fun/mid-sized levels. Waist-chest high surf for bett
+ er spots\, standouts head-high before the tide gets too deep in the later 
+ morning. \n\nLighter/variable wind due for the AM window at this point for
+  clean conditions in town. The afternoon looks decent\, but openly exposed
+  zones can expect some texture as light+ SW wind wraps into town.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260123T071800
 DTEND:20260123T100000
 DESCRIPTION:TIDES:\n-2.032ft at 07:18\n-2.999ft at 10:00\n\nOBSERVATION:\n
- Decent size combo of old and new WNW swell keeps waves running waist to ch
- est high in the morning\, then the surf edges up in the afternoon as more 
- swell gradually moves in. \n\nLight/variable morning winds shift to a ligh
- t sea breeze in the afternoon for a clean to textured conditions. Moderate
+ Decent size combo of old and new WNW swell keeps waves running thigh to st
+ omach high in the morning\, then the surf edges up in the afternoon as mor
+ e swell gradually moves in. \n\nLight/variable morning winds shift to a li
+ ght sea breeze in the afternoon for clean to textured conditions. Moderate
   high tide mid day bogs down tide sensitive spots.
 END:VEVENT
 BEGIN:VEVENT
@@ -63,23 +51,29 @@ SUMMARY:Surf's Up
 DTSTART:20260123T153000
 DTEND:20260123T171800
 DESCRIPTION:TIDES:\n-2.99ft at 15:30\n-1.535ft at 17:18\n\nOBSERVATION:\nD
- ecent size combo of old and new WNW swell keeps waves running waist to che
- st high in the morning\, then the surf edges up in the afternoon as more s
- well gradually moves in. \n\nLight/variable morning winds shift to a light
-  sea breeze in the afternoon for a clean to textured conditions. Moderate 
+ ecent size combo of old and new WNW swell keeps waves running thigh to sto
+ mach high in the morning\, then the surf edges up in the afternoon as more
+  swell gradually moves in. \n\nLight/variable morning winds shift to a lig
+ ht sea breeze in the afternoon for clean to textured conditions. Moderate 
  high tide mid day bogs down tide sensitive spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260124T071800
 DTEND:20260124T120600
-DESCRIPTION:-1.98ft at 07:18\n-2.986ft at 12:06
+DESCRIPTION:TIDES:\n-1.98ft at 07:18\n-2.986ft at 12:06\n\nOBSERVATION:\nW
+ idespread surf in the waist-shoulder-head high zone as a nice shot of mid-
+ period WNW swell peaks. \n\nRight now the call is for light offshores in t
+ he morning\, turning to a light SW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260124T160000
 DTEND:20260124T172400
-DESCRIPTION:-2.989ft at 16:00\n-2.207ft at 17:24
+DESCRIPTION:TIDES:\n-2.989ft at 16:00\n-2.207ft at 17:24\n\nOBSERVATION:\n
+ Widespread surf in the waist-shoulder-head high zone as a nice shot of mid
+ -period WNW swell peaks. \n\nRight now the call is for light offshores in 
+ the morning\, turning to a light SW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -170,5 +164,17 @@ SUMMARY:Surf's Up
 DTSTART:20260204T143600
 DTEND:20260204T173600
 DESCRIPTION:-2.93ft at 14:36\n-0.082ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260205T071200
+DTEND:20260205T093600
+DESCRIPTION:-1.63ft at 07:12\n-2.986ft at 09:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260205T150600
+DTEND:20260205T173600
+DESCRIPTION:-2.977ft at 15:06\n-0.928ft at 17:36
 END:VEVENT
 END:VCALENDAR
