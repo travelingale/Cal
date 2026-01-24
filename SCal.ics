@@ -3,37 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260123T071800
-DTEND:20260123T100000
-DESCRIPTION:TIDES:\n-2.032ft at 07:18\n-2.999ft at 10:00\n\nOBSERVATION:\n
- Decent size combo of old and new WNW swell keeps widespread waves running 
- thigh to stomach high in the morning as best breaks see head high sets. Su
- rf edges up in the afternoon as more swell gradually moves in. \n\nLight/v
- ariable morning winds shift to a light sea breeze in the afternoon for cle
- an to textured conditions. Moderate high tide mid day bogs down tide sensi
- tive spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260123T153000
-DTEND:20260123T171800
-DESCRIPTION:TIDES:\n-2.99ft at 15:30\n-1.535ft at 17:18\n\nOBSERVATION:\nD
- ecent size combo of old and new WNW swell keeps widespread waves running t
- high to stomach high in the morning as best breaks see head high sets. Sur
- f edges up in the afternoon as more swell gradually moves in. \n\nLight/va
- riable morning winds shift to a light sea breeze in the afternoon for clea
- n to textured conditions. Moderate high tide mid day bogs down tide sensit
- ive spots.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260124T071800
 DTEND:20260124T120600
 DESCRIPTION:TIDES:\n-1.98ft at 07:18\n-2.986ft at 12:06\n\nOBSERVATION:\nW
  idespread surf in the waist-shoulder-head high zone as a nice shot of mid-
- period WNW swell peaks\, showing most size in the afternoon. \n\nLight/var
- iable winds due in the morning\, turning to a light SW sea breeze for the 
- afternoon. 
+ period WNW swell peaks\, showing most size in the afternoon. \n\nLight off
+ shore winds much of the morning\, turning to a light SW sea breeze in the 
+ afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -41,9 +17,9 @@ DTSTART:20260124T160000
 DTEND:20260124T172400
 DESCRIPTION:TIDES:\n-2.989ft at 16:00\n-2.207ft at 17:24\n\nOBSERVATION:\n
  Widespread surf in the waist-shoulder-head high zone as a nice shot of mid
- -period WNW swell peaks\, showing most size in the afternoon. \n\nLight/va
- riable winds due in the morning\, turning to a light SW sea breeze for the
-  afternoon. 
+ -period WNW swell peaks\, showing most size in the afternoon. \n\nLight of
+ fshore winds much of the morning\, turning to a light SW sea breeze in the
+  afternoon for some texture. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -52,8 +28,8 @@ DTEND:20260125T172400
 DESCRIPTION:TIDES:\n-2.356ft at 07:18\n-2.716ft at 17:24\n\nOBSERVATION:\n
  Gradually easing WNW swell is still good for plenty of waist to chest high
   waves in the morning\, then size tapers off as the day goes on. \n\nWinds
-  looking light all day\, side shore ENE in the morning\, turning to an aft
- ernoon S sea breeze.
+  looking light all day\, offshore early morning\, turning to an afternoon 
+ SW sea breeze.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -61,21 +37,31 @@ DTSTART:20260126T073000
 DTEND:20260126T172400
 DESCRIPTION:TIDES:\n-2.942ft at 07:30\n-2.856ft at 17:24\n\nOBSERVATION:\n
  Morning waves are mainly running thigh to waist high\, then gradually risi
- ng new longer-period WNW swell nudges surf up over the afternoon. \n\nWind
- s looking light through the day\, side shore ENE in the morning\, turning 
- to an afternoon SSW sea breeze.
+ ng new longer-period WNW swell nudges surf up over the afternoon for more 
+ fun waves.\n\nWinds looking light through the day\, side shore ENE in the 
+ morning\, turning to an afternoon SSW sea breeze.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260127T082400
 DTEND:20260127T115400
-DESCRIPTION:-2.979ft at 08:24\n-0.023ft at 11:54
+DESCRIPTION:TIDES:\n-2.979ft at 08:24\n-0.023ft at 11:54\n\nOBSERVATION:\n
+ Combo of WNW swell\, secondary SSW swell\, is good for widespread waist to
+  chest high waves in the morning\, while top breaks see head high sets. Su
+ rf slowly tapers off as swell eases during the afternoon. \n\nLight/variab
+ le winds much of the morning\, followed by a light+ SSW afternoon sea bree
+ ze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260127T130600
 DTEND:20260127T172400
-DESCRIPTION:-0.011ft at 13:06\n-2.57ft at 17:24
+DESCRIPTION:TIDES:\n-0.011ft at 13:06\n-2.57ft at 17:24\n\nOBSERVATION:\nC
+ ombo of WNW swell\, secondary SSW swell\, is good for widespread waist to 
+ chest high waves in the morning\, while top breaks see head high sets. Sur
+ f slowly tapers off as swell eases during the afternoon. \n\nLight/variabl
+ e winds much of the morning\, followed by a light+ SSW afternoon sea breez
+ e. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -178,5 +164,11 @@ SUMMARY:Surf's Up
 DTSTART:20260207T154200
 DTEND:20260207T173600
 DESCRIPTION:-2.999ft at 15:42\n-2.357ft at 17:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260208T070600
+DTEND:20260208T173600
+DESCRIPTION:-2.442ft at 07:06\n-2.716ft at 17:36
 END:VEVENT
 END:VCALENDAR
