@@ -3,26 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260127T082400
-DTEND:20260127T115400
-DESCRIPTION:TIDES:\n-2.979ft at 08:24\n-0.023ft at 11:54\n\nOBSERVATION:\n
- Combo of WNW swell and well secondary SSW swell is good for widespread wai
- st to chest high waves in the morning. Top breaks hit head high. Surf slow
- ly tapers off as swell eases during the afternoon. \n\nLight/variable wind
- s much of the morning\, followed by a light+ SW afternoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260127T130600
-DTEND:20260127T172400
-DESCRIPTION:TIDES:\n-0.011ft at 13:06\n-2.57ft at 17:24\n\nOBSERVATION:\nC
- ombo of WNW swell and well secondary SSW swell is good for widespread wais
- t to chest high waves in the morning. Top breaks hit head high. Surf slowl
- y tapers off as swell eases during the afternoon. \n\nLight/variable winds
-  much of the morning\, followed by a light+ SW afternoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260128T092400
 DTEND:20260128T114800
 DESCRIPTION:TIDES:\n-2.885ft at 09:24\n-0.059ft at 11:48\n\nOBSERVATION:\n
@@ -82,7 +62,12 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260131T115400
 DTEND:20260131T134200
-DESCRIPTION:-2.948ft at 11:54\n-0.061ft at 13:42
+DESCRIPTION:TIDES:\n-2.948ft at 11:54\n-0.061ft at 13:42\n\nOBSERVATION:\n
+ Old swell mix continues to wind down while a new\, healthy round of long-p
+ eriod WNW swell builds in the afternoon. After a slightly slower morning w
+ ith the full tide and surf down some\, the afternoon turns on and pumps ag
+ ain as the new\, longer period energy fills in. \n\nLikely clean again all
+  day with light wind.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -173,5 +158,17 @@ SUMMARY:Surf's Up
 DTSTART:20260211T090600
 DTEND:20260211T174200
 DESCRIPTION:-2.933ft at 09:06\n-2.315ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260212T095400
+DTEND:20260212T132400
+DESCRIPTION:-2.913ft at 09:54\n-0.023ft at 13:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260212T144800
+DTEND:20260212T174200
+DESCRIPTION:-0.004ft at 14:48\n-1.845ft at 17:42
 END:VEVENT
 END:VCALENDAR
