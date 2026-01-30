@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260129T101800
-DTEND:20260129T121800
-DESCRIPTION:TIDES:\n-2.871ft at 10:18\n-0.083ft at 12:18\n\nOBSERVATION:\n
- Healthy shot of mid-period WNW swell tops out\, along with well secondary 
- (but decent/fun) \, longer-period SW Southern Hemi. Dawn patrol will be sl
- owed somewhat by 6' high tide. Ebbing tide sees widespread overhead to wel
- l overhead surf. Top spots up to 2-2.5x overhead and occasionally bigger o
- n sets. \n\nWinds stay light through the day\, offshore in the morning\, t
- urning variable for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260129T163000
-DTEND:20260129T172400
-DESCRIPTION:TIDES:\n-0.035ft at 16:30\n-0.979ft at 17:24\n\nOBSERVATION:\n
- Healthy shot of mid-period WNW swell tops out\, along with well secondary 
- (but decent/fun) \, longer-period SW Southern Hemi. Dawn patrol will be sl
- owed somewhat by 6' high tide. Ebbing tide sees widespread overhead to wel
- l overhead surf. Top spots up to 2-2.5x overhead and occasionally bigger o
- n sets. \n\nWinds stay light through the day\, offshore in the morning\, t
- urning variable for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260130T110600
 DTEND:20260130T130000
 DESCRIPTION:TIDES:\n-2.948ft at 11:06\n-0.032ft at 13:00\n\nOBSERVATION:\n
@@ -55,16 +31,21 @@ DTSTART:20260201T124200
 DTEND:20260201T143000
 DESCRIPTION:TIDES:\n-2.859ft at 12:42\n-0.023ft at 14:30\n\nOBSERVATION:\n
  Strong surf as healthy W-WNW swell fills in through the day. Afternoon/eve
- ning sees the most size with widespread waves running overhead to double o
- verhead\, while focal points pull in larger sets. Shape mainly best after 
- the mid morning high tide ebbs out for a bit.  \n\nWinds looking light and
-  mainly offshore through the day for fine conditions. 
+ ning sees the most size with widespread waves running in the overhead to n
+ ear double overhead range\, while focal points pull in larger sets. Shape 
+ mainly best after the mid morning high tide ebbs out for a bit.  \n\nWinds
+  looking light and mainly offshore through the day for fine conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260202T132400
 DTEND:20260202T151800
-DESCRIPTION:-2.856ft at 13:24\n-0.065ft at 15:18
+DESCRIPTION:TIDES:\n-2.856ft at 13:24\n-0.065ft at 15:18\n\nOBSERVATION:\n
+ Powerful W-WNW swell tops out in the morning\, with lots of spots going ea
+ sily overhead to double overhead\, while best breaks hit triple overhead+.
+  Slow fade in the afternoon as the swell starts to ease\, but still solid 
+ surf all day. Keep the mid morning 6' high tide in mind. \n\nLight winds e
+ xpected throughout the day\, primarily offshore. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -167,5 +148,17 @@ SUMMARY:Surf's Up
 DTSTART:20260213T160000
 DTEND:20260213T174200
 DESCRIPTION:-0.003ft at 16:00\n-1.308ft at 17:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260214T111200
+DTEND:20260214T134800
+DESCRIPTION:-2.963ft at 11:12\n-0.001ft at 13:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260214T164800
+DTEND:20260214T174200
+DESCRIPTION:-0.009ft at 16:48\n-0.765ft at 17:42
 END:VEVENT
 END:VCALENDAR
