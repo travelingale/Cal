@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260131T115400
-DTEND:20260131T134200
-DESCRIPTION:TIDES:\n-2.948ft at 11:54\n-0.061ft at 13:42\n\nOBSERVATION:\n
- Old swell mix continues to wind down while a new\, healthy round of long-p
- eriod WNW swell begins to build in the afternoon. After a slightly slower 
- morning with the full tide and surf down some\, the afternoon will get wid
- espread chest to head high waves as the fresh\, longer period swell fills 
- in. \n\nMainly clean again all day with light wind.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260201T124200
 DTEND:20260201T143000
 DESCRIPTION:TIDES:\n-2.859ft at 12:42\n-0.023ft at 14:30\n\nOBSERVATION:\n
@@ -21,7 +10,7 @@ DESCRIPTION:TIDES:\n-2.859ft at 12:42\n-0.023ft at 14:30\n\nOBSERVATION:\n
  ning sees the most size with widespread waves running in the overhead to n
  ear double overhead range\, while focal points pull in larger sets. Shape 
  mainly best after the mid morning high tide ebbs out for a bit.  \n\nWinds
-  looking light/variable through the day for fine conditions. 
+  are light/variable through the day for fine conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -48,13 +37,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260204T071200
 DTEND:20260204T081800
-DESCRIPTION:-2.129ft at 07:12\n-2.967ft at 08:18
+DESCRIPTION:TIDES:\n-2.129ft at 07:12\n-2.967ft at 08:18\n\nOBSERVATION:\n
+ Old WNW swell continues to wind down while a new round of longer-period WN
+ W swell fills in. Surf shows most size in the afternoon\, with lots of spo
+ ts going head high to several feet overhead. \n\nLight winds expected thro
+ ughout the day\, offshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260204T143600
 DTEND:20260204T173600
-DESCRIPTION:-2.93ft at 14:36\n-0.082ft at 17:36
+DESCRIPTION:TIDES:\n-2.93ft at 14:36\n-0.082ft at 17:36\n\nOBSERVATION:\nO
+ ld WNW swell continues to wind down while a new round of longer-period WNW
+  swell fills in. Surf shows most size in the afternoon\, with lots of spot
+ s going head high to several feet overhead. \n\nLight winds expected throu
+ ghout the day\, offshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -163,5 +160,11 @@ SUMMARY:Surf's Up
 DTSTART:20260215T172400
 DTEND:20260215T174800
 DESCRIPTION:-0.017ft at 17:24\n-0.366ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260216T122400
+DTEND:20260216T144200
+DESCRIPTION:-2.92ft at 12:24\n-0.038ft at 14:42
 END:VEVENT
 END:VCALENDAR
