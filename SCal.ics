@@ -3,25 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260201T124200
-DTEND:20260201T143000
-DESCRIPTION:TIDES:\n-2.859ft at 12:42\n-0.023ft at 14:30\n\nOBSERVATION:\n
- Strong surf as healthy W-WNW swell fills in through the day. Afternoon/eve
- ning sees the most size with widespread waves running in the overhead to n
- ear double overhead range\, while focal points pull in larger sets. Shape 
- mainly best after the mid morning high tide ebbs out for a bit.  \n\nWinds
-  are light/variable through the day for fine conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260202T132400
 DTEND:20260202T151800
 DESCRIPTION:TIDES:\n-2.856ft at 13:24\n-0.065ft at 15:18\n\nOBSERVATION:\n
  Powerful W-WNW swell tops out in the morning\, with lots of spots in the  
  overhead to double overhead zone\, while best breaks hit triple overhead. 
  Slow fade in the afternoon as the swell starts to ease\, but still solid s
- urf all day. Keep the mid morning 6' high tide in mind. \n\nLight winds ex
- pected throughout the day\, primarily offshore. 
+ urf all day. Keep the mid morning 6' high tide in mind. \n\nLight winds th
+ roughout the day\, primarily offshore. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -57,13 +46,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T071200
 DTEND:20260205T093600
-DESCRIPTION:-1.63ft at 07:12\n-2.986ft at 09:36
+DESCRIPTION:TIDES:\n-1.63ft at 07:12\n-2.986ft at 09:36\n\nOBSERVATION:\nS
+ olid shot of long-period W-WNW swell builds\, with widespread waves runnin
+ g in the easily overhead as standouts hit double overhead. \n\nLight winds
+  due all day\, offshore for the morning\, switching to a sea breeze in the
+  afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T150600
 DTEND:20260205T173600
-DESCRIPTION:-2.977ft at 15:06\n-0.928ft at 17:36
+DESCRIPTION:TIDES:\n-2.977ft at 15:06\n-0.928ft at 17:36\n\nOBSERVATION:\n
+ Solid shot of long-period W-WNW swell builds\, with widespread waves runni
+ ng in the easily overhead as standouts hit double overhead. \n\nLight wind
+ s due all day\, offshore for the morning\, switching to a sea breeze in th
+ e afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -166,5 +163,11 @@ SUMMARY:Surf's Up
 DTSTART:20260216T122400
 DTEND:20260216T144200
 DESCRIPTION:-2.92ft at 12:24\n-0.038ft at 14:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260217T130000
+DTEND:20260217T151800
+DESCRIPTION:-2.872ft at 13:00\n-0.08ft at 15:18
 END:VEVENT
 END:VCALENDAR
