@@ -3,24 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260202T132400
-DTEND:20260202T151800
-DESCRIPTION:TIDES:\n-2.856ft at 13:24\n-0.065ft at 15:18\n\nOBSERVATION:\n
- Powerful W-WNW swell tops out in the morning\, with lots of spots in the  
- overhead to double overhead zone\, while best breaks hit triple overhead. 
- Slow fade in the afternoon as the swell starts to ease\, but still solid s
- urf all day. Keep the mid morning 6' high tide in mind. \n\nLight winds th
- roughout the day\, primarily offshore. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260203T140000
 DTEND:20260203T161800
 DESCRIPTION:TIDES:\n-2.93ft at 14:00\n-0.026ft at 16:18\n\nOBSERVATION:\nF
  ading WNW swell is still good for widespread head high+ waves in the morni
- ng\, as better breaks are hitting overhead. Surf will taper off as the day
-  goes on and the swell eases. \n\nWinds looking light/variable to light of
- fshore through the day\, maintaining nice conditions. 
+ ng\, as better breaks are hitting overhead. Later morning high tide will b
+ e slowing down tide sensitive spots. Surf will taper off as the day goes o
+ n and the swell eases. \n\nWinds are light/variable to light offshore thro
+ ugh the day\, maintaining nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -28,9 +18,9 @@ DTSTART:20260204T071200
 DTEND:20260204T081800
 DESCRIPTION:TIDES:\n-2.129ft at 07:12\n-2.967ft at 08:18\n\nOBSERVATION:\n
  Old WNW swell continues to wind down while a new round of longer-period WN
- W swell fills in. Surf shows most size in the afternoon\, with lots of spo
- ts going head high to several feet overhead. \n\nLight winds expected thro
- ughout the day\, offshore for the morning. 
+ W swell fills in. Surf shows most size in the afternoon\, with good spots 
+ going head high to a foot+ overhead. \n\nLight winds expected throughout t
+ he day\, offshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -38,41 +28,49 @@ DTSTART:20260204T143600
 DTEND:20260204T173600
 DESCRIPTION:TIDES:\n-2.93ft at 14:36\n-0.082ft at 17:36\n\nOBSERVATION:\nO
  ld WNW swell continues to wind down while a new round of longer-period WNW
-  swell fills in. Surf shows most size in the afternoon\, with lots of spot
- s going head high to several feet overhead. \n\nLight winds expected throu
- ghout the day\, offshore for the morning. 
+  swell fills in. Surf shows most size in the afternoon\, with good spots g
+ oing head high to a foot+ overhead. \n\nLight winds expected throughout th
+ e day\, offshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T071200
 DTEND:20260205T093600
 DESCRIPTION:TIDES:\n-1.63ft at 07:12\n-2.986ft at 09:36\n\nOBSERVATION:\nS
- olid shot of long-period W-WNW swell builds\, with widespread waves runnin
- g in the easily overhead as standouts hit double overhead. \n\nLight winds
-  due all day\, offshore for the morning\, switching to a sea breeze in the
-  afternoon. 
+ olid shot of mid-period W-WNW swell builds\, with widespread waves running
+  in the easily overhead range as standouts hit double overhead. \n\nLight 
+ winds due all day\, offshore for the morning\, switching to a sea breeze i
+ n the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T150600
 DTEND:20260205T173600
 DESCRIPTION:TIDES:\n-2.977ft at 15:06\n-0.928ft at 17:36\n\nOBSERVATION:\n
- Solid shot of long-period W-WNW swell builds\, with widespread waves runni
- ng in the easily overhead as standouts hit double overhead. \n\nLight wind
- s due all day\, offshore for the morning\, switching to a sea breeze in th
- e afternoon. 
+ Solid shot of mid-period W-WNW swell builds\, with widespread waves runnin
+ g in the easily overhead range as standouts hit double overhead. \n\nLight
+  winds due all day\, offshore for the morning\, switching to a sea breeze 
+ in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260206T070600
 DTEND:20260206T110600
-DESCRIPTION:-1.574ft at 07:06\n-2.945ft at 11:06
+DESCRIPTION:TIDES:\n-1.574ft at 07:06\n-2.945ft at 11:06\n\nOBSERVATION:\n
+ Peaking\, healthy round of longer period W-WNW swell has surf pumping at w
+ ell overhead to double overhead at many spots\, while top breaks are hitti
+ ng triple overhead. \n\nLight/variable winds expected in the morning\, fol
+ lowed by light SSW afternoon onshores.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260206T153600
 DTEND:20260206T173600
-DESCRIPTION:-2.956ft at 15:36\n-1.734ft at 17:36
+DESCRIPTION:TIDES:\n-2.956ft at 15:36\n-1.734ft at 17:36\n\nOBSERVATION:\n
+ Peaking\, healthy round of longer period W-WNW swell has surf pumping at w
+ ell overhead to double overhead at many spots\, while top breaks are hitti
+ ng triple overhead. \n\nLight/variable winds expected in the morning\, fol
+ lowed by light SSW afternoon onshores.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -169,5 +167,11 @@ SUMMARY:Surf's Up
 DTSTART:20260217T130000
 DTEND:20260217T151800
 DESCRIPTION:-2.872ft at 13:00\n-0.08ft at 15:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260218T133000
+DTEND:20260218T161800
+DESCRIPTION:-2.964ft at 13:30\n-0.003ft at 16:18
 END:VEVENT
 END:VCALENDAR
