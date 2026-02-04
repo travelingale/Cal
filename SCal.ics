@@ -3,24 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260203T140000
-DTEND:20260203T161800
-DESCRIPTION:TIDES:\n-2.93ft at 14:00\n-0.026ft at 16:18\n\nOBSERVATION:\nF
- ading WNW swell is still good for widespread head high+ waves in the morni
- ng\, as better breaks are hitting overhead. Later morning high tide will b
- e slowing down tide sensitive spots. Surf will taper off as the day goes o
- n and the swell eases. \n\nWinds are light/variable to light offshore thro
- ugh the day\, maintaining nice conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260204T071200
 DTEND:20260204T081800
 DESCRIPTION:TIDES:\n-2.129ft at 07:12\n-2.967ft at 08:18\n\nOBSERVATION:\n
  Old WNW swell continues to wind down while a new round of longer-period WN
  W swell fills in. Surf shows most size in the afternoon\, with good spots 
- going head high to a foot+ overhead. \n\nLight winds expected throughout t
- he day\, offshore for the morning. 
+ going head high to a foot+ overhead. \n\nLight winds throughout the day\, 
+ offshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -29,28 +18,28 @@ DTEND:20260204T173600
 DESCRIPTION:TIDES:\n-2.93ft at 14:36\n-0.082ft at 17:36\n\nOBSERVATION:\nO
  ld WNW swell continues to wind down while a new round of longer-period WNW
   swell fills in. Surf shows most size in the afternoon\, with good spots g
- oing head high to a foot+ overhead. \n\nLight winds expected throughout th
- e day\, offshore for the morning. 
+ oing head high to a foot+ overhead. \n\nLight winds throughout the day\, o
+ ffshore for the morning. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T071200
 DTEND:20260205T093600
-DESCRIPTION:TIDES:\n-1.63ft at 07:12\n-2.986ft at 09:36\n\nOBSERVATION:\nS
- olid shot of mid-period W-WNW swell builds\, with widespread waves running
-  in the easily overhead range as standouts hit double overhead. \n\nLight 
- winds due all day\, offshore for the morning\, switching to a sea breeze i
- n the afternoon. 
+DESCRIPTION:TIDES:\n-1.63ft at 07:12\n-2.986ft at 09:36\n\nOBSERVATION:\n 
+ Solid shot of mid-period W-WNW swell builds\, with widespread waves runnin
+ g in the easily overhead range as standouts hit double overhead. \n\nLight
+  winds due all day\, side shore easterly for the morning\, switching to a 
+ SW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260205T150600
 DTEND:20260205T173600
 DESCRIPTION:TIDES:\n-2.977ft at 15:06\n-0.928ft at 17:36\n\nOBSERVATION:\n
- Solid shot of mid-period W-WNW swell builds\, with widespread waves runnin
- g in the easily overhead range as standouts hit double overhead. \n\nLight
-  winds due all day\, offshore for the morning\, switching to a sea breeze 
- in the afternoon. 
+  Solid shot of mid-period W-WNW swell builds\, with widespread waves runni
+ ng in the easily overhead range as standouts hit double overhead. \n\nLigh
+ t winds due all day\, side shore easterly for the morning\, switching to a
+  SW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -76,13 +65,19 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260207T070600
 DTEND:20260207T133000
-DESCRIPTION:-1.887ft at 07:06\n-2.993ft at 13:30
+DESCRIPTION:TIDES:\n-1.887ft at 07:06\n-2.993ft at 13:30\n\nOBSERVATION:\n
+ Easing W-WNW swell is still rolling in overhead to near double overhead wa
+ ves in the morning\, before gradually tapering off during the day. \n\nLig
+ ht\, primarily offshore winds due through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260207T154200
 DTEND:20260207T173600
-DESCRIPTION:-2.999ft at 15:42\n-2.357ft at 17:36
+DESCRIPTION:TIDES:\n-2.999ft at 15:42\n-2.357ft at 17:36\n\nOBSERVATION:\n
+ Easing W-WNW swell is still rolling in overhead to near double overhead wa
+ ves in the morning\, before gradually tapering off during the day. \n\nLig
+ ht\, primarily offshore winds due through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -173,5 +168,17 @@ SUMMARY:Surf's Up
 DTSTART:20260218T133000
 DTEND:20260218T161800
 DESCRIPTION:-2.964ft at 13:30\n-0.003ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260219T065400
+DTEND:20260219T080600
+DESCRIPTION:-1.956ft at 06:54\n-2.95ft at 08:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260219T140600
+DTEND:20260219T174800
+DESCRIPTION:-2.94ft at 14:06\n-0.202ft at 17:48
 END:VEVENT
 END:VCALENDAR
