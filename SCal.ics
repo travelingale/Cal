@@ -3,43 +3,25 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260205T071200
-DTEND:20260205T093600
-DESCRIPTION:TIDES:\n-1.63ft at 07:12\n-2.986ft at 09:36\n\nOBSERVATION:\n 
- Solid shot of mid-period W-WNW swell builds\, with widespread waves runnin
- g in the easily overhead range as standouts hit double overhead+. \n\nLigh
- t winds all day\, side shore easterly for the morning\, switching to a SW 
- sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260205T150600
-DTEND:20260205T173600
-DESCRIPTION:TIDES:\n-2.977ft at 15:06\n-0.928ft at 17:36\n\nOBSERVATION:\n
-  Solid shot of mid-period W-WNW swell builds\, with widespread waves runni
- ng in the easily overhead range as standouts hit double overhead+. \n\nLig
- ht winds all day\, side shore easterly for the morning\, switching to a SW
-  sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260206T070600
 DTEND:20260206T110600
 DESCRIPTION:TIDES:\n-1.574ft at 07:06\n-2.945ft at 11:06\n\nOBSERVATION:\n
- Peaking\, heavyweight round of longer period W-WNW swell has surf pumping 
- at well overhead to double overhead at many spots\, while top breaks are h
- itting triple overhead+. \n\nLight/variable winds expected in the morning\
- , followed by light SSW afternoon onshores.
+ Know your limits kind of day. Peaking\, heavyweight round of longer period
+  W-WNW swell has surf pumping at well overhead to double overhead at many 
+ spots\, while top breaks are hitting triple overhead+.\n\nWinds in town ag
+ ain look pretty good all day\, the only thing to try and work around is th
+ e early afternoon high tide\, but even that isn't too deep.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260206T153600
 DTEND:20260206T173600
 DESCRIPTION:TIDES:\n-2.956ft at 15:36\n-1.734ft at 17:36\n\nOBSERVATION:\n
- Peaking\, heavyweight round of longer period W-WNW swell has surf pumping 
- at well overhead to double overhead at many spots\, while top breaks are h
- itting triple overhead+. \n\nLight/variable winds expected in the morning\
- , followed by light SSW afternoon onshores.
+ Know your limits kind of day. Peaking\, heavyweight round of longer period
+  W-WNW swell has surf pumping at well overhead to double overhead at many 
+ spots\, while top breaks are hitting triple overhead+.\n\nWinds in town ag
+ ain look pretty good all day\, the only thing to try and work around is th
+ e early afternoon high tide\, but even that isn't too deep.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -72,7 +54,11 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260209T071800
 DTEND:20260209T173600
-DESCRIPTION:-2.966ft at 07:18\n-2.793ft at 17:36
+DESCRIPTION:TIDES:\n-2.966ft at 07:18\n-2.793ft at 17:36\n\nOBSERVATION:\n
+ Solid blend of mid to longer-period W-WNW swell peaks\, setting up widespr
+ ead head high to easily overhead waves\, as better breaks go double overhe
+ ad. \n\nLight/variable morning winds\, shift to a southerly sea breeze for
+  the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -175,5 +161,17 @@ SUMMARY:Surf's Up
 DTSTART:20260220T144200
 DTEND:20260220T174800
 DESCRIPTION:-2.933ft at 14:42\n-0.783ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260221T065400
+DTEND:20260221T110000
+DESCRIPTION:-0.874ft at 06:54\n-2.992ft at 11:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260221T151200
+DTEND:20260221T175400
+DESCRIPTION:-2.994ft at 15:12\n-1.469ft at 17:54
 END:VEVENT
 END:VCALENDAR
