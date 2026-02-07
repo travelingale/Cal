@@ -3,34 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260206T070600
-DTEND:20260206T110600
-DESCRIPTION:TIDES:\n-1.574ft at 07:06\n-2.945ft at 11:06\n\nOBSERVATION:\n
- Know your limits kind of day. Peaking\, heavyweight round of longer period
-  W-WNW swell has surf pumping at well overhead to double overhead at many 
- spots\, while top breaks are hitting triple overhead+.\n\nWinds in town ag
- ain look pretty good all day\, the only thing to try and work around is th
- e early afternoon high tide\, but even that isn't too deep.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260206T153600
-DTEND:20260206T173600
-DESCRIPTION:TIDES:\n-2.956ft at 15:36\n-1.734ft at 17:36\n\nOBSERVATION:\n
- Know your limits kind of day. Peaking\, heavyweight round of longer period
-  W-WNW swell has surf pumping at well overhead to double overhead at many 
- spots\, while top breaks are hitting triple overhead+.\n\nWinds in town ag
- ain look pretty good all day\, the only thing to try and work around is th
- e early afternoon high tide\, but even that isn't too deep.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260207T070600
 DTEND:20260207T133000
 DESCRIPTION:TIDES:\n-1.887ft at 07:06\n-2.993ft at 13:30\n\nOBSERVATION:\n
  Easing W-WNW swell is still rolling in overhead to double overhead zone wa
- ves in the morning\, before gradually tapering off during the day. \n\nLig
- ht\, primarily offshore winds due through the day. 
+ ves in the morning\, gradually tapering off during the day. More manageabl
+ e than Friday\, but still a know your limits kind of day -- especially at 
+ the bigger breaks. Mellow tide swings\, so no red flags there.\n\nVariable
+  wind\, clean conditions for the morning. SW/WSW wind likely wrapping arou
+ nd the corner and into town for the afternoon. Minor texture\, spots with 
+ headland/kelp protection cleanest.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -38,8 +20,12 @@ DTSTART:20260207T154200
 DTEND:20260207T173600
 DESCRIPTION:TIDES:\n-2.999ft at 15:42\n-2.357ft at 17:36\n\nOBSERVATION:\n
  Easing W-WNW swell is still rolling in overhead to double overhead zone wa
- ves in the morning\, before gradually tapering off during the day. \n\nLig
- ht\, primarily offshore winds due through the day. 
+ ves in the morning\, gradually tapering off during the day. More manageabl
+ e than Friday\, but still a know your limits kind of day -- especially at 
+ the bigger breaks. Mellow tide swings\, so no red flags there.\n\nVariable
+  wind\, clean conditions for the morning. SW/WSW wind likely wrapping arou
+ nd the corner and into town for the afternoon. Minor texture\, spots with 
+ headland/kelp protection cleanest.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -64,7 +50,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260210T081200
 DTEND:20260210T174200
-DESCRIPTION:-2.968ft at 08:12\n-2.658ft at 17:42
+DESCRIPTION:TIDES:\n-2.968ft at 08:12\n-2.658ft at 17:42\n\nOBSERVATION:\n
+ Fading W-WNW swell is still good for widespread easily overhead waves in t
+ he morning\, before gradually tapering off during the day. \n\nAt this poi
+ nt\, it looks like offshore winds through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -173,5 +162,17 @@ SUMMARY:Surf's Up
 DTSTART:20260221T151200
 DTEND:20260221T175400
 DESCRIPTION:-2.994ft at 15:12\n-1.469ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260222T064800
+DTEND:20260222T131200
+DESCRIPTION:-1.083ft at 06:48\n-2.989ft at 13:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260222T154200
+DTEND:20260222T175400
+DESCRIPTION:-2.988ft at 15:42\n-2.171ft at 17:54
 END:VEVENT
 END:VCALENDAR
