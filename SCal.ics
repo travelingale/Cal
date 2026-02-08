@@ -3,38 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260207T070600
-DTEND:20260207T133000
-DESCRIPTION:TIDES:\n-1.887ft at 07:06\n-2.993ft at 13:30\n\nOBSERVATION:\n
- Easing W-WNW swell is still rolling in overhead to double overhead zone wa
- ves in the morning\, gradually tapering off during the day. More manageabl
- e than Friday\, but still a know your limits kind of day -- especially at 
- the bigger breaks. Mellow tide swings\, so no red flags there.\n\nVariable
-  wind\, clean conditions for the morning. SW/WSW wind likely wrapping arou
- nd the corner and into town for the afternoon. Minor texture\, spots with 
- headland/kelp protection cleanest.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260207T154200
-DTEND:20260207T173600
-DESCRIPTION:TIDES:\n-2.999ft at 15:42\n-2.357ft at 17:36\n\nOBSERVATION:\n
- Easing W-WNW swell is still rolling in overhead to double overhead zone wa
- ves in the morning\, gradually tapering off during the day. More manageabl
- e than Friday\, but still a know your limits kind of day -- especially at 
- the bigger breaks. Mellow tide swings\, so no red flags there.\n\nVariable
-  wind\, clean conditions for the morning. SW/WSW wind likely wrapping arou
- nd the corner and into town for the afternoon. Minor texture\, spots with 
- headland/kelp protection cleanest.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260208T070600
 DTEND:20260208T173600
 DESCRIPTION:TIDES:\n-2.442ft at 07:06\n-2.716ft at 17:36\n\nOBSERVATION:\n
  Old WNW swell continues to wind down as a new run of longer-period W-WNW s
  well starts to show. Lots of spots have head high+ waves\, better breaks h
- it 1-2' overhead.\n\nLight winds due through the day for nice conditions. 
+ it 1-2' overhead.\n\nClean morning in town\, and afternoon conditions look
+  similar to Saturday. Some WSW wind wrapping around into town adding a bit
+  of texture -- spots with kelp/headland protection stay clean.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -59,7 +35,10 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260211T090600
 DTEND:20260211T174200
-DESCRIPTION:-2.933ft at 09:06\n-2.315ft at 17:42
+DESCRIPTION:TIDES:\n-2.933ft at 09:06\n-2.315ft at 17:42\n\nOBSERVATION:\n
+ Blend of primary WNW swell\, touch of SSW swell\, keeps many spots in ches
+ t to head high surf. \n\nMorning winds look light/variable\, afternoon SSW
+  onshores puff up a few knots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -174,5 +153,11 @@ SUMMARY:Surf's Up
 DTSTART:20260222T154200
 DTEND:20260222T175400
 DESCRIPTION:-2.988ft at 15:42\n-2.171ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260223T064800
+DTEND:20260223T175400
+DESCRIPTION:-1.789ft at 06:48\n-2.722ft at 17:54
 END:VEVENT
 END:VCALENDAR
