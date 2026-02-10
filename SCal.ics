@@ -3,22 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260209T071800
-DTEND:20260209T173600
-DESCRIPTION:TIDES:\n-2.966ft at 07:18\n-2.793ft at 17:36\n\nOBSERVATION:\n
- Solid blend of mid to longer-period W-WNW swell peaks\, setting up widespr
- ead head high to easily overhead waves\, as better breaks go double overhe
- ad. \n\nLight/variable morning winds\, shift to a southerly sea breeze for
-  the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260210T081200
 DTEND:20260210T174200
 DESCRIPTION:TIDES:\n-2.968ft at 08:12\n-2.658ft at 17:42\n\nOBSERVATION:\n
- Fading W-WNW swell is still good for widespread easily overhead waves in t
- he morning\, before gradually tapering off during the day. \n\nAt this poi
- nt\, it looks like offshore winds through the day. 
+ Fading W-WNW swell is still good for widespread head high to overhead rang
+ e waves in the morning\, as standouts are well overhead. Surf gradually ta
+ pers off during the day. \n\nLight/variable winds early morning\, then ris
+ ing SSW winds later morning into the early afternoon set up some bump. Gra
+ dual improvement during the back half of the day as the onshores wind down
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -26,42 +19,48 @@ DTSTART:20260211T090600
 DTEND:20260211T174200
 DESCRIPTION:TIDES:\n-2.933ft at 09:06\n-2.315ft at 17:42\n\nOBSERVATION:\n
  Blend of primary WNW swell\, touch of SSW swell\, keeps many spots in ches
- t to head high surf. \n\nMorning winds look light/variable\, afternoon SSW
-  onshores puff up a few knots. 
+ t to head high surf. \n\nConditions looking bumpy with moderate onshore SW
+  winds expected through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260212T095400
 DTEND:20260212T132400
 DESCRIPTION:TIDES:\n-2.913ft at 09:54\n-0.023ft at 13:24\n\nOBSERVATION:\n
- Extended forecast charts are showing potential for a healthy shot of long-
- period WNW swell to be filling in on the 12th then topping out for the 13t
- h. We'll keep you posted on the progress of that one. There will also be a
-  nice shot of SSW Southern Hemi rolling in then\, so combo breaks are look
- ing extra fun. 
+ Old WNW swell winds down while a fresh\, longer-period WNW swell starts to
+  join in\, along with a nice pulse of SSW Southern Hemi. End result is wav
+ es mainly running waist to shoulder high. Combo breaks are peaky. \n\nCond
+ itions looking clean with light\, primarily offshore winds due all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260212T144800
 DTEND:20260212T174200
 DESCRIPTION:TIDES:\n-0.004ft at 14:48\n-1.845ft at 17:42\n\nOBSERVATION:\n
- Extended forecast charts are showing potential for a healthy shot of long-
- period WNW swell to be filling in on the 12th then topping out for the 13t
- h. We'll keep you posted on the progress of that one. There will also be a
-  nice shot of SSW Southern Hemi rolling in then\, so combo breaks are look
- ing extra fun. 
+ Old WNW swell winds down while a fresh\, longer-period WNW swell starts to
+  join in\, along with a nice pulse of SSW Southern Hemi. End result is wav
+ es mainly running waist to shoulder high. Combo breaks are peaky. \n\nCond
+ itions looking clean with light\, primarily offshore winds due all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260213T103600
 DTEND:20260213T132400
-DESCRIPTION:-2.914ft at 10:36\n-0.059ft at 13:24
+DESCRIPTION:TIDES:\n-2.914ft at 10:36\n-0.059ft at 13:24\n\nOBSERVATION:\n
+ Healthy blend of mid to longer-period WNW swell peaks\, while secondary SS
+ W swell holds. Widespread surf is running head high+ with better sets\, as
+  best combo breaks approach double overhead on peaks.\n\nLight/variable wi
+ nds due through the day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260213T160000
 DTEND:20260213T174200
-DESCRIPTION:-0.003ft at 16:00\n-1.308ft at 17:42
+DESCRIPTION:TIDES:\n-0.003ft at 16:00\n-1.308ft at 17:42\n\nOBSERVATION:\n
+ Healthy blend of mid to longer-period WNW swell peaks\, while secondary SS
+ W swell holds. Widespread surf is running head high+ with better sets\, as
+  best combo breaks approach double overhead on peaks.\n\nLight/variable wi
+ nds due through the day for nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -164,5 +163,17 @@ SUMMARY:Surf's Up
 DTSTART:20260224T064800
 DTEND:20260224T175400
 DESCRIPTION:-2.873ft at 06:48\n-2.999ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260225T075400
+DTEND:20260225T104800
+DESCRIPTION:-2.89ft at 07:54\n-0.039ft at 10:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260225T134200
+DTEND:20260225T175400
+DESCRIPTION:-0.03ft at 13:42\n-2.947ft at 17:54
 END:VEVENT
 END:VCALENDAR
