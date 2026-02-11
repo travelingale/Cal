@@ -3,24 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260210T081200
-DTEND:20260210T174200
-DESCRIPTION:TIDES:\n-2.968ft at 08:12\n-2.658ft at 17:42\n\nOBSERVATION:\n
- Fading W-WNW swell is still good for widespread head high to overhead rang
- e waves in the morning\, as standouts are well overhead. Surf gradually ta
- pers off during the day. \n\nLight/variable winds early morning\, then ris
- ing SSW winds later morning into the early afternoon set up some bump. Gra
- dual improvement during the back half of the day as the onshores wind down
- . 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260211T090600
 DTEND:20260211T174200
 DESCRIPTION:TIDES:\n-2.933ft at 09:06\n-2.315ft at 17:42\n\nOBSERVATION:\n
- Blend of primary WNW swell\, touch of SSW swell\, keeps many spots in ches
- t to head high surf. \n\nConditions looking bumpy with moderate onshore SW
-  winds expected through the day. 
+ Slow easing blend of primary WNW swell\, touch of SSW swell\, keeps many s
+ pots in chest to head high zone surf. \n\nConditions are bumpy with onshor
+ e winds through the day. Lightest SE in the early morning\, then moderate+
+  SSW mid day and afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -47,32 +36,44 @@ SUMMARY:Surf's Up
 DTSTART:20260213T103600
 DTEND:20260213T132400
 DESCRIPTION:TIDES:\n-2.914ft at 10:36\n-0.059ft at 13:24\n\nOBSERVATION:\n
- Healthy blend of mid to longer-period WNW swell peaks\, while secondary SS
- W swell holds. Widespread surf is running head high+ with better sets\, as
-  best combo breaks approach double overhead on peaks.\n\nLight/variable wi
- nds due through the day for nice conditions. 
+ Healthy blend of mid to longer-period WNW swell peaks in the afternoon\, w
+ hile secondary SSW swell holds. Widespread surf is running head high+ with
+  better sets\, as best combo breaks approach double overhead on peaks\, la
+ rgest late.\n\nLight/variable winds due through the day for nice condition
+ s. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260213T160000
 DTEND:20260213T174200
 DESCRIPTION:TIDES:\n-0.003ft at 16:00\n-1.308ft at 17:42\n\nOBSERVATION:\n
- Healthy blend of mid to longer-period WNW swell peaks\, while secondary SS
- W swell holds. Widespread surf is running head high+ with better sets\, as
-  best combo breaks approach double overhead on peaks.\n\nLight/variable wi
- nds due through the day for nice conditions. 
+ Healthy blend of mid to longer-period WNW swell peaks in the afternoon\, w
+ hile secondary SSW swell holds. Widespread surf is running head high+ with
+  better sets\, as best combo breaks approach double overhead on peaks\, la
+ rgest late.\n\nLight/variable winds due through the day for nice condition
+ s. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260214T111200
 DTEND:20260214T134800
-DESCRIPTION:-2.963ft at 11:12\n-0.001ft at 13:48
+DESCRIPTION:TIDES:\n-2.963ft at 11:12\n-0.001ft at 13:48\n\nOBSERVATION:\n
+ Lots of spots still running head high with overhead sets in the morning\, 
+ as better combo breaks push double overhead on peaks. Waves will taper off
+  during the day as the blend of WNW swell and secondary SSW pulse winds do
+ wn. \n\nLight winds/clean conditions expected most of the morning\, follow
+ ed by some SW onshore bump in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260214T164800
 DTEND:20260214T174200
-DESCRIPTION:-0.009ft at 16:48\n-0.765ft at 17:42
+DESCRIPTION:TIDES:\n-0.009ft at 16:48\n-0.765ft at 17:42\n\nOBSERVATION:\n
+ Lots of spots still running head high with overhead sets in the morning\, 
+ as better combo breaks push double overhead on peaks. Waves will taper off
+  during the day as the blend of WNW swell and secondary SSW pulse winds do
+ wn. \n\nLight winds/clean conditions expected most of the morning\, follow
+ ed by some SW onshore bump in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -175,5 +176,17 @@ SUMMARY:Surf's Up
 DTSTART:20260225T134200
 DTEND:20260225T175400
 DESCRIPTION:-0.03ft at 13:42\n-2.947ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260226T085400
+DTEND:20260226T112400
+DESCRIPTION:-2.985ft at 08:54\n-0.072ft at 11:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260226T150600
+DTEND:20260226T175400
+DESCRIPTION:-0.035ft at 15:06\n-2.586ft at 17:54
 END:VEVENT
 END:VCALENDAR
