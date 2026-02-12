@@ -3,23 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260211T090600
-DTEND:20260211T174200
-DESCRIPTION:TIDES:\n-2.933ft at 09:06\n-2.315ft at 17:42\n\nOBSERVATION:\n
- Slow easing blend of primary WNW swell\, touch of SSW swell\, keeps many s
- pots in chest to head high zone surf. \n\nConditions are bumpy with onshor
- e winds through the day. Lightest SE in the early morning\, then moderate+
-  SSW mid day and afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260212T095400
 DTEND:20260212T132400
 DESCRIPTION:TIDES:\n-2.913ft at 09:54\n-0.023ft at 13:24\n\nOBSERVATION:\n
  Old WNW swell winds down while a fresh\, longer-period WNW swell starts to
   join in\, along with a nice pulse of SSW Southern Hemi. End result is wav
- es mainly running waist to shoulder high. Combo breaks are peaky. \n\nCond
- itions looking clean with light\, primarily offshore winds due all day. 
+ es mainly running waist to shoulder high. Combo breaks see head high+ peak
+ s during the afternoon. \n\nConditions are fairly clean with light/variabl
+ e to light offshores all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -28,8 +19,9 @@ DTEND:20260212T174200
 DESCRIPTION:TIDES:\n-0.004ft at 14:48\n-1.845ft at 17:42\n\nOBSERVATION:\n
  Old WNW swell winds down while a fresh\, longer-period WNW swell starts to
   join in\, along with a nice pulse of SSW Southern Hemi. End result is wav
- es mainly running waist to shoulder high. Combo breaks are peaky. \n\nCond
- itions looking clean with light\, primarily offshore winds due all day. 
+ es mainly running waist to shoulder high. Combo breaks see head high+ peak
+ s during the afternoon. \n\nConditions are fairly clean with light/variabl
+ e to light offshores all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -79,13 +71,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260215T114800
 DTEND:20260215T141200
-DESCRIPTION:-2.958ft at 11:48\n-0.018ft at 14:12
+DESCRIPTION:TIDES:\n-2.958ft at 11:48\n-0.018ft at 14:12\n\nOBSERVATION:\n
+ Old swell combo winds down while a fresh. longer-period WNW swell fills in
+  and takes over. Afternoon sees most size on the day\, with widespread sur
+ f in the head high to a few feet overhead range. Focal points hit double o
+ verhead\, largest late. \n\nOnshore southerly winds due all day for some b
+ ump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260215T172400
 DTEND:20260215T174800
-DESCRIPTION:-0.017ft at 17:24\n-0.366ft at 17:48
+DESCRIPTION:TIDES:\n-0.017ft at 17:24\n-0.366ft at 17:48\n\nOBSERVATION:\n
+ Old swell combo winds down while a fresh. longer-period WNW swell fills in
+  and takes over. Afternoon sees most size on the day\, with widespread sur
+ f in the head high to a few feet overhead range. Focal points hit double o
+ verhead\, largest late. \n\nOnshore southerly winds due all day for some b
+ ump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -188,5 +190,17 @@ SUMMARY:Surf's Up
 DTSTART:20260226T150600
 DTEND:20260226T175400
 DESCRIPTION:-0.035ft at 15:06\n-2.586ft at 17:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260227T095400
+DTEND:20260227T120600
+DESCRIPTION:-2.965ft at 09:54\n-0.093ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260227T160600
+DTEND:20260227T180000
+DESCRIPTION:-0.068ft at 16:06\n-2.111ft at 18:00
 END:VEVENT
 END:VCALENDAR
