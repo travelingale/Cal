@@ -3,49 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260213T103600
-DTEND:20260213T132400
-DESCRIPTION:TIDES:\n-2.914ft at 10:36\n-0.059ft at 13:24\n\nOBSERVATION:\n
- Healthy blend of mid to longer-period WNW swell peaks in the afternoon\, a
- s secondary SSW swell holds. Widespread surf is running head high+ with be
- tter sets\, while peaks hit several feet+ overhead at best combo breaks\, 
- going largest late.\n\nLight/variable winds through the day for nice condi
- tions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260213T160000
-DTEND:20260213T174200
-DESCRIPTION:TIDES:\n-0.003ft at 16:00\n-1.308ft at 17:42\n\nOBSERVATION:\n
- Healthy blend of mid to longer-period WNW swell peaks in the afternoon\, a
- s secondary SSW swell holds. Widespread surf is running head high+ with be
- tter sets\, while peaks hit several feet+ overhead at best combo breaks\, 
- going largest late.\n\nLight/variable winds through the day for nice condi
- tions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260214T111200
 DTEND:20260214T134800
 DESCRIPTION:TIDES:\n-2.963ft at 11:12\n-0.001ft at 13:48\n\nOBSERVATION:\n
- Lots of spots still running head high with overhead sets in the morning\, 
- after the dawn patrol high tide backs out a bit\, as better combo breaks a
- re consistently well overhead. Waves will taper off during the day as the 
- blend of WNW swell and secondary SSW pulse winds down. \n\nLight winds/cle
- an conditions expected most of the morning\, followed by a little SW onsho
- re lump in the afternoon. 
+ Lots of spots still running head high+ and overhead on sets in the morning
+ \, after the dawn patrol high tide backs out a bit\, as better breaks are 
+ consistently well overhead. Waves will taper off during the day as the ble
+ nd of WNW swell and secondary SSW pulse winds down. \n\nLight winds/clean 
+ conditions most of the morning\, followed by a little SW onshore texture i
+ n the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260214T164800
 DTEND:20260214T174200
 DESCRIPTION:TIDES:\n-0.009ft at 16:48\n-0.765ft at 17:42\n\nOBSERVATION:\n
- Lots of spots still running head high with overhead sets in the morning\, 
- after the dawn patrol high tide backs out a bit\, as better combo breaks a
- re consistently well overhead. Waves will taper off during the day as the 
- blend of WNW swell and secondary SSW pulse winds down. \n\nLight winds/cle
- an conditions expected most of the morning\, followed by a little SW onsho
- re lump in the afternoon. 
+ Lots of spots still running head high+ and overhead on sets in the morning
+ \, after the dawn patrol high tide backs out a bit\, as better breaks are 
+ consistently well overhead. Waves will taper off during the day as the ble
+ nd of WNW swell and secondary SSW pulse winds down. \n\nLight winds/clean 
+ conditions most of the morning\, followed by a little SW onshore texture i
+ n the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -53,10 +31,10 @@ DTSTART:20260215T114800
 DTEND:20260215T141200
 DESCRIPTION:TIDES:\n-2.958ft at 11:48\n-0.018ft at 14:12\n\nOBSERVATION:\n
  Old swell combo winds down while a fresh. longer-period WNW swell fills in
-  and takes over. Afternoon sees most size on the day\, with widespread sur
+  and takes over. Afternoon sees most size of the day\, with widespread sur
  f in the head high to 1-2' overhead range. Focal points are consistently o
  verhead\, largest late. \n\nOnshore southerly winds due all day\, light in
-  the morning\, light+ for the afternoon.
+  the morning\, getting moderate SSW for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -64,10 +42,10 @@ DTSTART:20260215T172400
 DTEND:20260215T174800
 DESCRIPTION:TIDES:\n-0.017ft at 17:24\n-0.366ft at 17:48\n\nOBSERVATION:\n
  Old swell combo winds down while a fresh. longer-period WNW swell fills in
-  and takes over. Afternoon sees most size on the day\, with widespread sur
+  and takes over. Afternoon sees most size of the day\, with widespread sur
  f in the head high to 1-2' overhead range. Focal points are consistently o
  verhead\, largest late. \n\nOnshore southerly winds due all day\, light in
-  the morning\, light+ for the afternoon.
+  the morning\, getting moderate SSW for the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -76,15 +54,18 @@ DTEND:20260216T144200
 DESCRIPTION:TIDES:\n-2.92ft at 12:24\n-0.038ft at 14:42\n\nOBSERVATION:\nS
  olid mix of WNW swell\, along with secondary SSW windswell\, sets up jumbl
  ed waves running head high to several feet+ overhead\, while standouts app
- roach double overhead\, showing largest over the afternoon\, but at this p
- oint it looks like an advancing storm sets up breezy onshore southerly win
- ds for blown out conditions through the day. 
+ roach double overhead\, showing largest late afternoon.\n\nEarly morning l
+ ooks decent with light southerly winds\, then steadily rising SW onshores 
+ expected for blown out conditions in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260217T130000
 DTEND:20260217T151800
-DESCRIPTION:-2.872ft at 13:00\n-0.08ft at 15:18
+DESCRIPTION:TIDES:\n-2.872ft at 13:00\n-0.08ft at 15:18\n\nOBSERVATION:\nP
+ eaking\, mid-period WNW swell looks good for widespread easily overhead to
+  double overhead surf\, as top spots see more size\, but that surf will be
+  slopped out by steady\, breezy SW winds. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -199,5 +180,17 @@ SUMMARY:Surf's Up
 DTSTART:20260228T164800
 DTEND:20260228T180000
 DESCRIPTION:-0.073ft at 16:48\n-1.465ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260301T113600
+DTEND:20260301T134200
+DESCRIPTION:-2.906ft at 11:36\n-0.021ft at 13:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260301T171800
+DTEND:20260301T180000
+DESCRIPTION:-0.077ft at 17:18\n-0.875ft at 18:00
 END:VEVENT
 END:VCALENDAR
