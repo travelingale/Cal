@@ -3,36 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260215T114800
-DTEND:20260215T141200
-DESCRIPTION:TIDES:\n-2.958ft at 11:48\n-0.018ft at 14:12\n\nOBSERVATION:\n
- Old swell combo winds down while a fresh. longer-period WNW swell fills in
-  and takes over. Afternoon sees most size of the day\, with widespread sur
- f in the head high to 1-2' overhead range. Focal points are consistently o
- verhead\, largest late. \n\nOnshore southerly winds due all day\, light in
-  the morning\, getting moderate SSW for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260215T172400
-DTEND:20260215T174800
-DESCRIPTION:TIDES:\n-0.017ft at 17:24\n-0.366ft at 17:48\n\nOBSERVATION:\n
- Old swell combo winds down while a fresh. longer-period WNW swell fills in
-  and takes over. Afternoon sees most size of the day\, with widespread sur
- f in the head high to 1-2' overhead range. Focal points are consistently o
- verhead\, largest late. \n\nOnshore southerly winds due all day\, light in
-  the morning\, getting moderate SSW for the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260216T122400
 DTEND:20260216T144200
 DESCRIPTION:TIDES:\n-2.92ft at 12:24\n-0.038ft at 14:42\n\nOBSERVATION:\nS
  olid mix of WNW swell\, along with secondary SSW windswell\, sets up jumbl
- ed waves running head high to several feet+ overhead\, while standouts app
- roach double overhead\, showing largest late afternoon.\n\nEarly morning l
- ooks decent with light southerly winds\, then steadily rising SW onshores 
- expected for blown out conditions in the afternoon. 
+ ed waves running head high to several feet+ overhead\, while standouts pus
+ h well overhead at times.\n\nConditions are all over the place. Overnight 
+ onshore wind goes light offshore in the predawn hours but surf is still ra
+ w. Wind swirls around through the day then builds from the W/NW late so th
+ e tucked away spots in town improve some. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -56,13 +35,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260219T065400
 DTEND:20260219T080600
-DESCRIPTION:-1.956ft at 06:54\n-2.95ft at 08:06
+DESCRIPTION:TIDES:\n-1.956ft at 06:54\n-2.95ft at 08:06\n\nOBSERVATION:\nO
+ ld WNW swell is still good for waist-shoulder-head high surf in the early 
+ morning\, then size winds down as the day goes on.\n\nModels are at odds o
+ n specifics\, but the wind outlook shows potential for favorable condition
+ s. Worth keeping an eye on but keep expectations tempered.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260219T140600
 DTEND:20260219T174800
-DESCRIPTION:-2.94ft at 14:06\n-0.202ft at 17:48
+DESCRIPTION:TIDES:\n-2.94ft at 14:06\n-0.202ft at 17:48\n\nOBSERVATION:\nO
+ ld WNW swell is still good for waist-shoulder-head high surf in the early 
+ morning\, then size winds down as the day goes on.\n\nModels are at odds o
+ n specifics\, but the wind outlook shows potential for favorable condition
+ s. Worth keeping an eye on but keep expectations tempered.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -183,5 +170,17 @@ SUMMARY:Surf's Up
 DTSTART:20260302T173600
 DTEND:20260302T180000
 DESCRIPTION:-0.069ft at 17:36\n-0.469ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260303T125400
+DTEND:20260303T153600
+DESCRIPTION:-2.986ft at 12:54\n-0.019ft at 15:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260303T173600
+DTEND:20260303T180000
+DESCRIPTION:-0.042ft at 17:36\n-0.329ft at 18:00
 END:VEVENT
 END:VCALENDAR
