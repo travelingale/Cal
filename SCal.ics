@@ -3,33 +3,23 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260216T122400
-DTEND:20260216T144200
-DESCRIPTION:TIDES:\n-2.92ft at 12:24\n-0.038ft at 14:42\n\nOBSERVATION:\nS
- olid mix of WNW swell\, along with secondary SSW windswell\, sets up jumbl
- ed waves running head high to several feet+ overhead\, while standouts pus
- h well overhead at times.\n\nConditions are all over the place. Overnight 
- onshore wind goes light offshore in the predawn hours but surf is still ra
- w. Wind swirls around through the day then builds from the W/NW late so th
- e tucked away spots in town improve some. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260217T130000
 DTEND:20260217T151800
-DESCRIPTION:TIDES:\n-2.872ft at 13:00\n-0.08ft at 15:18\n\nOBSERVATION:\nP
- eaking\, mid-period WNW swell looks good for widespread easily overhead to
-  double overhead surf\, as top spots see more size\, but that surf will be
-  slopped out by steady\, breezy SW winds. 
+DESCRIPTION:TIDES:\n-2.872ft at 13:00\n-0.08ft at 15:18\n\nOBSERVATION:\nH
+ ealthy mix of mid-period WNW swell sets up widespread head high+ to 1-2' o
+ verhead surf\, as top spots see more size\, but that surf will be slopped 
+ out by steady\, breezy SW winds through most of the day\, 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260218T133000
 DTEND:20260218T161800
 DESCRIPTION:TIDES:\n-2.964ft at 13:30\n-0.003ft at 16:18\n\nOBSERVATION:\n
- Solid WNW swell keeps waves running overhead to double overhead+ in the mo
- rning\, then size tapers off during the day as the swell eases. \n\nAt thi
- s point it looks like offshore NW winds for town spots through the day. 
+ Solid WNW swell combo has waves running in the overhead to double overhead
+  range in the morning\, then size tapers off a touch during the day as the
+  swell starts to ease. \n\nAt this point it looks like light/variable wind
+ s in the morning\, shift to WNW offshores for town spots during the aftern
+ oon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -37,9 +27,9 @@ DTSTART:20260219T065400
 DTEND:20260219T080600
 DESCRIPTION:TIDES:\n-1.956ft at 06:54\n-2.95ft at 08:06\n\nOBSERVATION:\nO
  ld WNW swell is still good for waist-shoulder-head high surf in the early 
- morning\, then size winds down as the day goes on.\n\nModels are at odds o
- n specifics\, but the wind outlook shows potential for favorable condition
- s. Worth keeping an eye on but keep expectations tempered.
+ morning\, then size winds down as the day goes on.\n\nRight now the call i
+ s for offshore northerly winds through the day. Worth keeping an eye on bu
+ t keep expectations tempered.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -47,21 +37,29 @@ DTSTART:20260219T140600
 DTEND:20260219T174800
 DESCRIPTION:TIDES:\n-2.94ft at 14:06\n-0.202ft at 17:48\n\nOBSERVATION:\nO
  ld WNW swell is still good for waist-shoulder-head high surf in the early 
- morning\, then size winds down as the day goes on.\n\nModels are at odds o
- n specifics\, but the wind outlook shows potential for favorable condition
- s. Worth keeping an eye on but keep expectations tempered.
+ morning\, then size winds down as the day goes on.\n\nRight now the call i
+ s for offshore northerly winds through the day. Worth keeping an eye on bu
+ t keep expectations tempered.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260220T065400
 DTEND:20260220T092400
-DESCRIPTION:-1.229ft at 06:54\n-2.977ft at 09:24
+DESCRIPTION:TIDES:\n-1.229ft at 06:54\n-2.977ft at 09:24\n\nOBSERVATION:\n
+ Fading WNW swell shows most size in the morning\, with waist to chest high
+  waves\, then size tapers off during the day. Mid day high tide bogs down 
+ the smaller surf. \n\nLooks like light/variable winds in the morning\, shi
+ fting to a light SW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260220T144200
 DTEND:20260220T174800
-DESCRIPTION:-2.933ft at 14:42\n-0.783ft at 17:48
+DESCRIPTION:TIDES:\n-2.933ft at 14:42\n-0.783ft at 17:48\n\nOBSERVATION:\n
+ Fading WNW swell shows most size in the morning\, with waist to chest high
+  waves\, then size tapers off during the day. Mid day high tide bogs down 
+ the smaller surf. \n\nLooks like light/variable winds in the morning\, shi
+ fting to a light SW sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -182,5 +180,17 @@ SUMMARY:Surf's Up
 DTSTART:20260303T173600
 DTEND:20260303T180000
 DESCRIPTION:-0.042ft at 17:36\n-0.329ft at 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260304T063600
+DTEND:20260304T074800
+DESCRIPTION:-1.796ft at 06:36\n-2.948ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260304T133000
+DTEND:20260304T180000
+DESCRIPTION:-2.988ft at 13:30\n-0.47ft at 18:00
 END:VEVENT
 END:VCALENDAR
