@@ -3,24 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260218T133000
-DTEND:20260218T161800
-DESCRIPTION:TIDES:\n-2.964ft at 13:30\n-0.003ft at 16:18\n\nOBSERVATION:\n
- Solid WNW swell combo has waves running in the overhead to double overhead
-  range in the morning\, then size tapers off a touch during the day as the
-  swell starts to ease. \n\nWNW-NW through the day for offshores at town sp
- ots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260219T065400
 DTEND:20260219T080600
 DESCRIPTION:TIDES:\n-1.956ft at 06:54\n-2.95ft at 08:06\n\nOBSERVATION:\nO
  ld WNW swell drops while a new round of shorter-period WNW swell kicks in 
  and takes over. Surf peaks mid day\, with widespread head high+ to several
-  feet+ overhead waves\, as top breaks hit double overhead.\n\nLight/variab
- le winds due early morning\, then NW flow follows the rest of the day for 
- offshore conditions in town. 
+  feet+ overhead waves\, as top breaks see larger sets.\n\nSome side shore 
+ W wind lump early morning\, then it's NW for offshore conditions at town s
+ pots through the rest of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -29,9 +19,9 @@ DTEND:20260219T174800
 DESCRIPTION:TIDES:\n-2.94ft at 14:06\n-0.202ft at 17:48\n\nOBSERVATION:\nO
  ld WNW swell drops while a new round of shorter-period WNW swell kicks in 
  and takes over. Surf peaks mid day\, with widespread head high+ to several
-  feet+ overhead waves\, as top breaks hit double overhead.\n\nLight/variab
- le winds due early morning\, then NW flow follows the rest of the day for 
- offshore conditions in town. 
+  feet+ overhead waves\, as top breaks see larger sets.\n\nSome side shore 
+ W wind lump early morning\, then it's NW for offshore conditions at town s
+ pots through the rest of the day.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -39,7 +29,7 @@ DTSTART:20260220T065400
 DTEND:20260220T092400
 DESCRIPTION:TIDES:\n-1.229ft at 06:54\n-2.977ft at 09:24\n\nOBSERVATION:\n
  Fading WNW swell shows most size in the morning\, with chest to head high 
- waves at many spots\, then size tapers off during the day. Mid day high ti
+ waves at good spots\, then size tapers off during the day. Mid day high ti
  de bogs down tide sensitive breaks. \n\nLooks like light/variable winds in
   the morning\, shifting to a light SW sea breeze for the afternoon. 
 END:VEVENT
@@ -49,7 +39,7 @@ DTSTART:20260220T144200
 DTEND:20260220T174800
 DESCRIPTION:TIDES:\n-2.933ft at 14:42\n-0.783ft at 17:48\n\nOBSERVATION:\n
  Fading WNW swell shows most size in the morning\, with chest to head high 
- waves at many spots\, then size tapers off during the day. Mid day high ti
+ waves at good spots\, then size tapers off during the day. Mid day high ti
  de bogs down tide sensitive breaks. \n\nLooks like light/variable winds in
   the morning\, shifting to a light SW sea breeze for the afternoon. 
 END:VEVENT
@@ -60,8 +50,8 @@ DTEND:20260221T110000
 DESCRIPTION:TIDES:\n-0.874ft at 06:54\n-2.992ft at 11:00\n\nOBSERVATION:\n
  Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
  day high tide slows the small surf. \n\nLooks like another day of light/va
- riable morning winds\, followed by a light+ S sea breeze in the afternoon.
-  
+ riable morning winds\, followed by a light+ SSW sea breeze in the afternoo
+ n. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -70,20 +60,30 @@ DTEND:20260221T175400
 DESCRIPTION:TIDES:\n-2.994ft at 15:12\n-1.469ft at 17:54\n\nOBSERVATION:\n
  Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
  day high tide slows the small surf. \n\nLooks like another day of light/va
- riable morning winds\, followed by a light+ S sea breeze in the afternoon.
-  
+ riable morning winds\, followed by a light+ SSW sea breeze in the afternoo
+ n. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260222T064800
 DTEND:20260222T131200
-DESCRIPTION:-1.083ft at 06:48\n-2.989ft at 13:12
+DESCRIPTION:TIDES:\n-1.083ft at 06:48\n-2.989ft at 13:12\n\nOBSERVATION:\n
+ Progs show a nearby storm with the potential to send in rising short-perio
+ d WSW swell\, as a little secondary WNW swell joins in. Under that scenari
+ o\, widespread jumbled waves will be running chest to head high+ much of t
+ he day. \n\nLight+ SSE shifting SSW winds expected through the day for som
+ e lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260222T154200
 DTEND:20260222T175400
-DESCRIPTION:-2.988ft at 15:42\n-2.171ft at 17:54
+DESCRIPTION:TIDES:\n-2.988ft at 15:42\n-2.171ft at 17:54\n\nOBSERVATION:\n
+ Progs show a nearby storm with the potential to send in rising short-perio
+ d WSW swell\, as a little secondary WNW swell joins in. Under that scenari
+ o\, widespread jumbled waves will be running chest to head high+ much of t
+ he day. \n\nLight+ SSE shifting SSW winds expected through the day for som
+ e lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -204,5 +204,17 @@ SUMMARY:Surf's Up
 DTSTART:20260305T140600
 DTEND:20260305T180600
 DESCRIPTION:-2.957ft at 14:06\n-0.87ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260306T063600
+DTEND:20260306T100600
+DESCRIPTION:-0.733ft at 06:36\n-2.959ft at 10:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260306T143600
+DTEND:20260306T180600
+DESCRIPTION:-2.985ft at 14:36\n-1.369ft at 18:06
 END:VEVENT
 END:VCALENDAR
