@@ -3,32 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260220T065400
-DTEND:20260220T092400
-DESCRIPTION:TIDES:\n-1.229ft at 06:54\n-2.977ft at 09:24\n\nOBSERVATION:\n
- Fading WNW swell shows most size in the morning\, with chest to head high+
-  waves at good spots\, then size tapers off during the day. Mid day high t
- ide bogs down tide sensitive breaks. \n\nLight/variable winds in the morni
- ng\, shifting to a light SW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260220T144200
-DTEND:20260220T174800
-DESCRIPTION:TIDES:\n-2.933ft at 14:42\n-0.783ft at 17:48\n\nOBSERVATION:\n
- Fading WNW swell shows most size in the morning\, with chest to head high+
-  waves at good spots\, then size tapers off during the day. Mid day high t
- ide bogs down tide sensitive breaks. \n\nLight/variable winds in the morni
- ng\, shifting to a light SW sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260221T065400
 DTEND:20260221T110000
 DESCRIPTION:TIDES:\n-0.874ft at 06:54\n-2.992ft at 11:00\n\nOBSERVATION:\n
  Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
- day high tide slows the small surf. \n\nLooks like light/variable morning 
- winds\, followed by a moderate SSW sea breeze in the afternoon. 
+ day high tide slows the small surf. \n\nLight/variable early morning winds
+ \, followed by a moderate SSW-SW sea breeze for some afternoon bump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -36,46 +16,48 @@ DTSTART:20260221T151200
 DTEND:20260221T175400
 DESCRIPTION:TIDES:\n-2.994ft at 15:12\n-1.469ft at 17:54\n\nOBSERVATION:\n
  Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
- day high tide slows the small surf. \n\nLooks like light/variable morning 
- winds\, followed by a moderate SSW sea breeze in the afternoon. 
+ day high tide slows the small surf. \n\nLight/variable early morning winds
+ \, followed by a moderate SSW-SW sea breeze for some afternoon bump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260222T064800
 DTEND:20260222T131200
 DESCRIPTION:TIDES:\n-1.083ft at 06:48\n-2.989ft at 13:12\n\nOBSERVATION:\n
- Progs show a nearby storm with the potential to send in rising short-perio
- d WSW swell\, as a little secondary WNW swell joins in. Under that scenari
- o\, widespread jumbled waves will be running chest to head high+\, showing
-  most size in the afternoon.  \n\nLight+ SSE shifting SSW winds expected t
- hrough the day for a little lump.
+ A nearby storm will send in a decent shot of short-period WSW swell that p
+ eaks in the afternoon\, with widespread jumbled waves will be running ches
+ t to head high at good breaks\, largest late. \n\nLight+ SSE shifting SSW 
+ winds expected through the day for a little lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260222T154200
 DTEND:20260222T175400
 DESCRIPTION:TIDES:\n-2.988ft at 15:42\n-2.171ft at 17:54\n\nOBSERVATION:\n
- Progs show a nearby storm with the potential to send in rising short-perio
- d WSW swell\, as a little secondary WNW swell joins in. Under that scenari
- o\, widespread jumbled waves will be running chest to head high+\, showing
-  most size in the afternoon.  \n\nLight+ SSE shifting SSW winds expected t
- hrough the day for a little lump.
+ A nearby storm will send in a decent shot of short-period WSW swell that p
+ eaks in the afternoon\, with widespread jumbled waves will be running ches
+ t to head high at good breaks\, largest late. \n\nLight+ SSE shifting SSW 
+ winds expected through the day for a little lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260223T064800
 DTEND:20260223T175400
 DESCRIPTION:TIDES:\n-1.789ft at 06:48\n-2.722ft at 17:54\n\nOBSERVATION:\n
- Forecast charts showing potential for a new round of mid-period WNW swell 
- rolling in\, as shorter-period WSW swell lingers\, for more chest to head 
- high waves on the jumbled side.\n\nAt this point\, winds are looking to st
- ay light/variable most of the day. 
+ Fair size blend of mid to shorter-period WNW and WSW swell rolling in\, fo
+ r more chest to head high waves on the jumbled side. Some fun peaks at goo
+ d combo breaks.\n\nAt this point\, winds are looking to stay light/variabl
+ e most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260224T064800
 DTEND:20260224T175400
-DESCRIPTION:-2.873ft at 06:48\n-2.999ft at 17:54
+DESCRIPTION:TIDES:\n-2.873ft at 06:48\n-2.999ft at 17:54\n\nOBSERVATION:\n
+ An easing blend of mid to shorter-period WNW and WSW swell still looks goo
+ d for widespread waist to shoulder high zone waves in the morning. Surf th
+ en tapers off a bit during the day. \n\nRight now the call is for a light 
+ southerly sea breeze most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -208,5 +190,17 @@ SUMMARY:Surf's Up
 DTSTART:20260307T150600
 DTEND:20260307T180600
 DESCRIPTION:-2.972ft at 15:06\n-1.913ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260308T073000
+DTEND:20260308T145400
+DESCRIPTION:-1.177ft at 07:30\n-2.991ft at 14:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260308T160600
+DTEND:20260308T190600
+DESCRIPTION:-2.998ft at 16:06\n-2.404ft at 19:06
 END:VEVENT
 END:VCALENDAR
