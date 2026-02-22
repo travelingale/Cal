@@ -3,31 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260221T065400
-DTEND:20260221T110000
-DESCRIPTION:TIDES:\n-0.874ft at 06:54\n-2.992ft at 11:00\n\nOBSERVATION:\n
- Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
- day high tide slows the small surf. \n\nLight/variable early morning winds
- \, followed by a moderate SSW-SW sea breeze for some afternoon bump. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260221T151200
-DTEND:20260221T175400
-DESCRIPTION:TIDES:\n-2.994ft at 15:12\n-1.469ft at 17:54\n\nOBSERVATION:\n
- Leftover WNW swell has waves mainly down in the knee-waist high zone. Mid 
- day high tide slows the small surf. \n\nLight/variable early morning winds
- \, followed by a moderate SSW-SW sea breeze for some afternoon bump. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260222T064800
 DTEND:20260222T131200
 DESCRIPTION:TIDES:\n-1.083ft at 06:48\n-2.989ft at 13:12\n\nOBSERVATION:\n
  A nearby storm will send in a decent shot of short-period WSW swell that p
- eaks in the afternoon\, with widespread jumbled waves will be running ches
- t to head high at good breaks\, largest late. \n\nLight+ SSE shifting SSW 
- winds expected through the day for a little lump.
+ eaks in the afternoon\, with widespread jumbled waves will be running wais
+ t to shoulder high at good breaks\, largest late. \n\nLight+ SSE shifting 
+ SSW winds through the day for textured to a little lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -35,9 +17,9 @@ DTSTART:20260222T154200
 DTEND:20260222T175400
 DESCRIPTION:TIDES:\n-2.988ft at 15:42\n-2.171ft at 17:54\n\nOBSERVATION:\n
  A nearby storm will send in a decent shot of short-period WSW swell that p
- eaks in the afternoon\, with widespread jumbled waves will be running ches
- t to head high at good breaks\, largest late. \n\nLight+ SSE shifting SSW 
- winds expected through the day for a little lump.
+ eaks in the afternoon\, with widespread jumbled waves will be running wais
+ t to shoulder high at good breaks\, largest late. \n\nLight+ SSE shifting 
+ SSW winds through the day for textured to a little lump.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -45,9 +27,9 @@ DTSTART:20260223T064800
 DTEND:20260223T175400
 DESCRIPTION:TIDES:\n-1.789ft at 06:48\n-2.722ft at 17:54\n\nOBSERVATION:\n
  Fair size blend of mid to shorter-period WNW and WSW swell rolling in\, fo
- r more chest to head high waves on the jumbled side. Some fun peaks at goo
- d combo breaks.\n\nAt this point\, winds are looking to stay light/variabl
- e most of the day. 
+ r chest to head high waves on the jumbled side. Some fun peaks at good com
+ bo breaks.\n\nAt this point\, winds are looking to stay light/variable mos
+ t of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -63,13 +45,19 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260225T075400
 DTEND:20260225T104800
-DESCRIPTION:-2.89ft at 07:54\n-0.039ft at 10:48
+DESCRIPTION:TIDES:\n-2.89ft at 07:54\n-0.039ft at 10:48\n\nOBSERVATION:\nB
+ lend of old and new WNW and SSW swell rolling in for mainly thigh to stoma
+ ch high waves. Some peaks at combo breaks. \n\nLooking like another day of
+  light/variable winds\, with at least semi-clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260225T134200
 DTEND:20260225T175400
-DESCRIPTION:-0.03ft at 13:42\n-2.947ft at 17:54
+DESCRIPTION:TIDES:\n-0.03ft at 13:42\n-2.947ft at 17:54\n\nOBSERVATION:\nB
+ lend of old and new WNW and SSW swell rolling in for mainly thigh to stoma
+ ch high waves. Some peaks at combo breaks. \n\nLooking like another day of
+  light/variable winds\, with at least semi-clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -202,5 +190,11 @@ SUMMARY:Surf's Up
 DTSTART:20260308T160600
 DTEND:20260308T190600
 DESCRIPTION:-2.998ft at 16:06\n-2.404ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260309T073000
+DTEND:20260309T190600
+DESCRIPTION:-1.792ft at 07:30\n-2.769ft at 19:06
 END:VEVENT
 END:VCALENDAR
