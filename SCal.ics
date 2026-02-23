@@ -3,33 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260222T064800
-DTEND:20260222T131200
-DESCRIPTION:TIDES:\n-1.083ft at 06:48\n-2.989ft at 13:12\n\nOBSERVATION:\n
- A nearby storm will send in a decent shot of short-period WSW swell that p
- eaks in the afternoon\, with widespread jumbled waves will be running wais
- t to shoulder high at good breaks\, largest late. \n\nLight+ SSE shifting 
- SSW winds through the day for textured to a little lump.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260222T154200
-DTEND:20260222T175400
-DESCRIPTION:TIDES:\n-2.988ft at 15:42\n-2.171ft at 17:54\n\nOBSERVATION:\n
- A nearby storm will send in a decent shot of short-period WSW swell that p
- eaks in the afternoon\, with widespread jumbled waves will be running wais
- t to shoulder high at good breaks\, largest late. \n\nLight+ SSE shifting 
- SSW winds through the day for textured to a little lump.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260223T064800
 DTEND:20260223T175400
 DESCRIPTION:TIDES:\n-1.789ft at 06:48\n-2.722ft at 17:54\n\nOBSERVATION:\n
  Fair size blend of mid to shorter-period WNW and WSW swell rolling in\, fo
- r chest to head high waves on the jumbled side. Some fun peaks at good com
- bo breaks.\n\nAt this point\, winds are looking to stay light/variable mos
- t of the day. 
+ r chest to head high waves on the jumbled side in the morning. Some fun pe
+ aks at good combo breaks. Slow fade in the afternoon as the swell starts t
+ o ease. \n\nWinds are light/variable in the morning\, shifting light WSW o
+ ver the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -63,13 +44,19 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260226T085400
 DTEND:20260226T112400
-DESCRIPTION:-2.985ft at 08:54\n-0.072ft at 11:24
+DESCRIPTION:TIDES:\n-2.985ft at 08:54\n-0.072ft at 11:24\n\nOBSERVATION:\n
+ Lingering blend of WNW swell\, trace WSW swell\, rolls in with mainly thig
+ h to waist high surf. Dawn patrol will be slowed by high tide.\n\nWinds ex
+ pected to stay light\, conditions at least semi-clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260226T150600
 DTEND:20260226T175400
-DESCRIPTION:-0.035ft at 15:06\n-2.586ft at 17:54
+DESCRIPTION:TIDES:\n-0.035ft at 15:06\n-2.586ft at 17:54\n\nOBSERVATION:\n
+ Lingering blend of WNW swell\, trace WSW swell\, rolls in with mainly thig
+ h to waist high surf. Dawn patrol will be slowed by high tide.\n\nWinds ex
+ pected to stay light\, conditions at least semi-clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -196,5 +183,11 @@ SUMMARY:Surf's Up
 DTSTART:20260309T073000
 DTEND:20260309T190600
 DESCRIPTION:-1.792ft at 07:30\n-2.769ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260310T073000
+DTEND:20260310T190600
+DESCRIPTION:-2.532ft at 07:30\n-2.969ft at 19:06
 END:VEVENT
 END:VCALENDAR
