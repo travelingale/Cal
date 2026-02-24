@@ -3,72 +3,67 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260223T064800
-DTEND:20260223T175400
-DESCRIPTION:TIDES:\n-1.789ft at 06:48\n-2.722ft at 17:54\n\nOBSERVATION:\n
- Fair size blend of mid to shorter-period WNW and WSW swell rolling in\, fo
- r chest to head high waves on the jumbled side in the morning. Some fun pe
- aks at good combo breaks. Slow fade in the afternoon as the swell starts t
- o ease. \n\nWinds are light/variable in the morning\, shifting light WSW o
- ver the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260224T064800
 DTEND:20260224T175400
 DESCRIPTION:TIDES:\n-2.873ft at 06:48\n-2.999ft at 17:54\n\nOBSERVATION:\n
- An easing blend of mid to shorter-period WNW and WSW swell still looks goo
- d for widespread waist to shoulder high zone waves in the morning. Surf th
- en tapers off a bit during the day. \n\nRight now the call is for a light 
- southerly sea breeze most of the day. 
+ An easing blend of mid to shorter-period WNW and WSW swell is still good f
+ or widespread waist to shoulder high zone waves in the morning. Surf then 
+ tapers off a bit during the day. \n\nLight wind through the day\, SE in th
+ e morning\, shifting SW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260225T075400
 DTEND:20260225T104800
 DESCRIPTION:TIDES:\n-2.89ft at 07:54\n-0.039ft at 10:48\n\nOBSERVATION:\nB
- lend of old and new WNW and SSW swell rolling in for mainly thigh to stoma
- ch high waves. Some peaks at combo breaks. \n\nLooking like another day of
-  light/variable winds\, with at least semi-clean conditions. 
+ lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
+ h high waves\, while top breaks see better sets. \n\nLooking like light/va
+ riable morning winds\, followed by a light S sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260225T134200
 DTEND:20260225T175400
 DESCRIPTION:TIDES:\n-0.03ft at 13:42\n-2.947ft at 17:54\n\nOBSERVATION:\nB
- lend of old and new WNW and SSW swell rolling in for mainly thigh to stoma
- ch high waves. Some peaks at combo breaks. \n\nLooking like another day of
-  light/variable winds\, with at least semi-clean conditions. 
+ lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
+ h high waves\, while top breaks see better sets. \n\nLooking like light/va
+ riable morning winds\, followed by a light S sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260226T085400
 DTEND:20260226T112400
 DESCRIPTION:TIDES:\n-2.985ft at 08:54\n-0.072ft at 11:24\n\nOBSERVATION:\n
- Lingering blend of WNW swell\, trace WSW swell\, rolls in with mainly thig
- h to waist high surf. Dawn patrol will be slowed by high tide.\n\nWinds ex
- pected to stay light\, conditions at least semi-clean. 
+ Easing blend of WNW-NW swell rolls in with mainly thigh to waist high surf
+ . Dawn patrol will be slowed by high tide.\n\nWinds expected to stay light
+ \, conditions at least semi-clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260226T150600
 DTEND:20260226T175400
 DESCRIPTION:TIDES:\n-0.035ft at 15:06\n-2.586ft at 17:54\n\nOBSERVATION:\n
- Lingering blend of WNW swell\, trace WSW swell\, rolls in with mainly thig
- h to waist high surf. Dawn patrol will be slowed by high tide.\n\nWinds ex
- pected to stay light\, conditions at least semi-clean. 
+ Easing blend of WNW-NW swell rolls in with mainly thigh to waist high surf
+ . Dawn patrol will be slowed by high tide.\n\nWinds expected to stay light
+ \, conditions at least semi-clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260227T095400
 DTEND:20260227T120600
-DESCRIPTION:-2.965ft at 09:54\n-0.093ft at 12:06
+DESCRIPTION:TIDES:\n-2.965ft at 09:54\n-0.093ft at 12:06\n\nOBSERVATION:\n
+ Old swell WNW swell mix remnants for weak waves mainly under waist high. E
+ arly morning swamped out by a high tide. \n\nWinds looking light\, conditi
+ ons mostly clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260227T160600
 DTEND:20260227T180000
-DESCRIPTION:-0.068ft at 16:06\n-2.111ft at 18:00
+DESCRIPTION:TIDES:\n-0.068ft at 16:06\n-2.111ft at 18:00\n\nOBSERVATION:\n
+ Old swell WNW swell mix remnants for weak waves mainly under waist high. E
+ arly morning swamped out by a high tide. \n\nWinds looking light\, conditi
+ ons mostly clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -189,5 +184,11 @@ SUMMARY:Surf's Up
 DTSTART:20260310T073000
 DTEND:20260310T190600
 DESCRIPTION:-2.532ft at 07:30\n-2.969ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260311T080000
+DTEND:20260311T190000
+DESCRIPTION:-2.934ft at 08:00\n-2.981ft at 19:00
 END:VEVENT
 END:VCALENDAR
