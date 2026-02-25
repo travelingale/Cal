@@ -3,22 +3,12 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260224T064800
-DTEND:20260224T175400
-DESCRIPTION:TIDES:\n-2.873ft at 06:48\n-2.999ft at 17:54\n\nOBSERVATION:\n
- An easing blend of mid to shorter-period WNW and WSW swell is still good f
- or widespread waist to shoulder high zone waves in the morning. Surf then 
- tapers off a bit during the day. \n\nLight wind through the day\, SE in th
- e morning\, shifting SW for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260225T075400
 DTEND:20260225T104800
 DESCRIPTION:TIDES:\n-2.89ft at 07:54\n-0.039ft at 10:48\n\nOBSERVATION:\nB
  lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
- h high waves\, while top breaks see better sets. \n\nLooking like light/va
- riable morning winds\, followed by a light S sea breeze in the afternoon. 
+ h high waves\, while top breaks hit chest high. \n\nLight/variable morning
+  winds\, followed by a light+ WSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -26,8 +16,8 @@ DTSTART:20260225T134200
 DTEND:20260225T175400
 DESCRIPTION:TIDES:\n-0.03ft at 13:42\n-2.947ft at 17:54\n\nOBSERVATION:\nB
  lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
- h high waves\, while top breaks see better sets. \n\nLooking like light/va
- riable morning winds\, followed by a light S sea breeze in the afternoon. 
+ h high waves\, while top breaks hit chest high. \n\nLight/variable morning
+  winds\, followed by a light+ WSW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -69,13 +59,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260228T104800
 DTEND:20260228T125400
-DESCRIPTION:-2.932ft at 10:48\n-0.04ft at 12:54
+DESCRIPTION:TIDES:\n-2.932ft at 10:48\n-0.04ft at 12:54\n\nOBSERVATION:\n 
+ Early morning high tide for a swampy dawn patrol. Old swell limps in as a 
+ modest scale new longer-period NW and SSW swell combo creeps up. Most size
+  shows in the afternoon\, for thigh to stomach high surf\, while top combo
+  breaks hit shoulder high.\n\nLight/variable winds due for the morning\, t
+ urn light+ SW over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260228T164800
 DTEND:20260228T180000
-DESCRIPTION:-0.073ft at 16:48\n-1.465ft at 18:00
+DESCRIPTION:TIDES:\n-0.073ft at 16:48\n-1.465ft at 18:00\n\nOBSERVATION:\n
+  Early morning high tide for a swampy dawn patrol. Old swell limps in as a
+  modest scale new longer-period NW and SSW swell combo creeps up. Most siz
+ e shows in the afternoon\, for thigh to stomach high surf\, while top comb
+ o breaks hit shoulder high.\n\nLight/variable winds due for the morning\, 
+ turn light+ SW over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -190,5 +190,11 @@ SUMMARY:Surf's Up
 DTSTART:20260311T080000
 DTEND:20260311T190000
 DESCRIPTION:-2.934ft at 08:00\n-2.981ft at 19:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260312T090000
+DTEND:20260312T191200
+DESCRIPTION:-2.964ft at 09:00\n-2.942ft at 19:12
 END:VEVENT
 END:VCALENDAR
