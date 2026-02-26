@@ -3,39 +3,23 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260225T075400
-DTEND:20260225T104800
-DESCRIPTION:TIDES:\n-2.89ft at 07:54\n-0.039ft at 10:48\n\nOBSERVATION:\nB
- lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
- h high waves\, while top breaks hit chest high. \n\nLight/variable morning
-  winds\, followed by a light+ WSW sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260225T134200
-DTEND:20260225T175400
-DESCRIPTION:TIDES:\n-0.03ft at 13:42\n-2.947ft at 17:54\n\nOBSERVATION:\nB
- lend of old and new WNW and NW swell rolling in for mainly thigh to stomac
- h high waves\, while top breaks hit chest high. \n\nLight/variable morning
-  winds\, followed by a light+ WSW sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260226T085400
 DTEND:20260226T112400
 DESCRIPTION:TIDES:\n-2.985ft at 08:54\n-0.072ft at 11:24\n\nOBSERVATION:\n
- Easing blend of WNW-NW swell rolls in with mainly thigh to waist high surf
- . Dawn patrol will be slowed by high tide.\n\nWinds expected to stay light
- \, conditions at least semi-clean all day. 
+ Easing blend of WNW-NW swell rolls in with mainly thigh to stomach high su
+ rf. Dawn patrol will be slowed by high tide\, then mid day gets drained by
+  negative low tide.\n\nWinds stay light\, conditions at least semi-clean a
+ ll day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260226T150600
 DTEND:20260226T175400
 DESCRIPTION:TIDES:\n-0.035ft at 15:06\n-2.586ft at 17:54\n\nOBSERVATION:\n
- Easing blend of WNW-NW swell rolls in with mainly thigh to waist high surf
- . Dawn patrol will be slowed by high tide.\n\nWinds expected to stay light
- \, conditions at least semi-clean all day. 
+ Easing blend of WNW-NW swell rolls in with mainly thigh to stomach high su
+ rf. Dawn patrol will be slowed by high tide\, then mid day gets drained by
+  negative low tide.\n\nWinds stay light\, conditions at least semi-clean a
+ ll day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -43,8 +27,8 @@ DTSTART:20260227T095400
 DTEND:20260227T120600
 DESCRIPTION:TIDES:\n-2.965ft at 09:54\n-0.093ft at 12:06\n\nOBSERVATION:\n
  Old swell WNW swell mix remnants for weak waves mainly under waist high. E
- arly morning swamped out by a high tide. \n\nWinds looking light\, conditi
- ons mostly clean. 
+ arly morning swamped out by a high tide\, early afternoon drained by negat
+ ive low tide. \n\nWinds looking light\, conditions mostly clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -52,42 +36,52 @@ DTSTART:20260227T160600
 DTEND:20260227T180000
 DESCRIPTION:TIDES:\n-0.068ft at 16:06\n-2.111ft at 18:00\n\nOBSERVATION:\n
  Old swell WNW swell mix remnants for weak waves mainly under waist high. E
- arly morning swamped out by a high tide. \n\nWinds looking light\, conditi
- ons mostly clean. 
+ arly morning swamped out by a high tide\, early afternoon drained by negat
+ ive low tide. \n\nWinds looking light\, conditions mostly clean. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260228T104800
 DTEND:20260228T125400
-DESCRIPTION:TIDES:\n-2.932ft at 10:48\n-0.04ft at 12:54\n\nOBSERVATION:\n 
- Early morning high tide for a swampy dawn patrol. Old swell limps in as a 
- modest scale new longer-period NW and SSW swell combo creeps up. Most size
-  shows in the afternoon\, for thigh to stomach high surf\, while top combo
-  breaks hit shoulder high.\n\nLight/variable winds due for the morning\, t
- urn light+ SW over the afternoon. 
+DESCRIPTION:TIDES:\n-2.932ft at 10:48\n-0.04ft at 12:54\n\nOBSERVATION:\nE
+ arly morning high tide for a swampy dawn patrol. Old swell limps in as a m
+ odest scale new longer-period NW and SSW swell combo creeps up. Most size 
+ shows in the afternoon\, for thigh to waist high surf\, while top combo br
+ eaks see plus sets.\n\nLight/variable winds due for the morning\, turn lig
+ ht+ SW over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260228T164800
 DTEND:20260228T180000
 DESCRIPTION:TIDES:\n-0.073ft at 16:48\n-1.465ft at 18:00\n\nOBSERVATION:\n
-  Early morning high tide for a swampy dawn patrol. Old swell limps in as a
-  modest scale new longer-period NW and SSW swell combo creeps up. Most siz
- e shows in the afternoon\, for thigh to stomach high surf\, while top comb
- o breaks hit shoulder high.\n\nLight/variable winds due for the morning\, 
- turn light+ SW over the afternoon. 
+ Early morning high tide for a swampy dawn patrol. Old swell limps in as a 
+ modest scale new longer-period NW and SSW swell combo creeps up. Most size
+  shows in the afternoon\, for thigh to waist high surf\, while top combo b
+ reaks see plus sets.\n\nLight/variable winds due for the morning\, turn li
+ ght+ SW over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260301T113600
 DTEND:20260301T134200
-DESCRIPTION:-2.906ft at 11:36\n-0.021ft at 13:42
+DESCRIPTION:TIDES:\n-2.906ft at 11:36\n-0.021ft at 13:42\n\nOBSERVATION:\n
+ Fading mix of WNW/NW swell and SSW Southern Hemi pulse for thigh to stomac
+ h waves in the morning. That surf will be slowed by the mid-morning high t
+ ide. Size tapers off back half of the day as the swell eases. \n\nWinds ex
+ pected to stay light/variable for the morning\, light+ SW for the afternoo
+ n.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260301T171800
 DTEND:20260301T180000
-DESCRIPTION:-0.077ft at 17:18\n-0.875ft at 18:00
+DESCRIPTION:TIDES:\n-0.077ft at 17:18\n-0.875ft at 18:00\n\nOBSERVATION:\n
+ Fading mix of WNW/NW swell and SSW Southern Hemi pulse for thigh to stomac
+ h waves in the morning. That surf will be slowed by the mid-morning high t
+ ide. Size tapers off back half of the day as the swell eases. \n\nWinds ex
+ pected to stay light/variable for the morning\, light+ SW for the afternoo
+ n.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -196,5 +190,17 @@ SUMMARY:Surf's Up
 DTSTART:20260312T090000
 DTEND:20260312T191200
 DESCRIPTION:-2.964ft at 09:00\n-2.942ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260313T095400
+DTEND:20260313T140000
+DESCRIPTION:-2.998ft at 09:54\n-0.009ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260313T144800
+DTEND:20260313T191200
+DESCRIPTION:-0.011ft at 14:48\n-2.758ft at 19:12
 END:VEVENT
 END:VCALENDAR
