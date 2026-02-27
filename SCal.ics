@@ -3,26 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260226T085400
-DTEND:20260226T112400
-DESCRIPTION:TIDES:\n-2.985ft at 08:54\n-0.072ft at 11:24\n\nOBSERVATION:\n
- Easing blend of WNW-NW swell rolls in with mainly thigh to stomach high su
- rf. Dawn patrol will be slowed by high tide\, then mid day gets drained by
-  negative low tide.\n\nWinds stay light\, conditions at least semi-clean a
- ll day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260226T150600
-DTEND:20260226T175400
-DESCRIPTION:TIDES:\n-0.035ft at 15:06\n-2.586ft at 17:54\n\nOBSERVATION:\n
- Easing blend of WNW-NW swell rolls in with mainly thigh to stomach high su
- rf. Dawn patrol will be slowed by high tide\, then mid day gets drained by
-  negative low tide.\n\nWinds stay light\, conditions at least semi-clean a
- ll day. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260227T095400
 DTEND:20260227T120600
 DESCRIPTION:TIDES:\n-2.965ft at 09:54\n-0.093ft at 12:06\n\nOBSERVATION:\n
@@ -87,13 +67,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260302T121800
 DTEND:20260302T143000
-DESCRIPTION:-2.919ft at 12:18\n-0.07ft at 14:30
+DESCRIPTION:TIDES:\n-2.919ft at 12:18\n-0.07ft at 14:30\n\nOBSERVATION:\nE
+ asing\, modest scale mix of NW and SSW swell with mainly knee to waist hig
+ h zone surf. Tide sensitive breaks bogged down by the mid morning high tid
+ e. \n\nLight/variable morning winds\, followed by a light SW afternoon sea
+  breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260302T173600
 DTEND:20260302T180000
-DESCRIPTION:-0.069ft at 17:36\n-0.469ft at 18:00
+DESCRIPTION:TIDES:\n-0.069ft at 17:36\n-0.469ft at 18:00\n\nOBSERVATION:\n
+ Easing\, modest scale mix of NW and SSW swell with mainly knee to waist hi
+ gh zone surf. Tide sensitive breaks bogged down by the mid morning high ti
+ de. \n\nLight/variable morning winds\, followed by a light SW afternoon se
+ a breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -202,5 +190,17 @@ SUMMARY:Surf's Up
 DTSTART:20260313T144800
 DTEND:20260313T191200
 DESCRIPTION:-0.011ft at 14:48\n-2.758ft at 19:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260314T104800
+DTEND:20260314T140000
+DESCRIPTION:-2.911ft at 10:48\n-0.005ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260314T160000
+DTEND:20260314T191200
+DESCRIPTION:-0.0ft at 16:00\n-2.51ft at 19:12
 END:VEVENT
 END:VCALENDAR
