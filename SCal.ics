@@ -3,30 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260303T125400
-DTEND:20260303T153600
-DESCRIPTION:TIDES:\n-2.986ft at 12:54\n-0.019ft at 15:36\n\nOBSERVATION:\n
- Old NW and SSW swell tapers off for waves down in the knee-thigh high rang
- e\, once the tide drops. \n\nLight/variable morning winds\, followed by a 
- light+ SW afternoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260303T173600
-DTEND:20260303T180000
-DESCRIPTION:TIDES:\n-0.042ft at 17:36\n-0.329ft at 18:00\n\nOBSERVATION:\n
- Old NW and SSW swell tapers off for waves down in the knee-thigh high rang
- e\, once the tide drops. \n\nLight/variable morning winds\, followed by a 
- light+ SW afternoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260304T063600
 DTEND:20260304T074800
 DESCRIPTION:TIDES:\n-1.796ft at 06:36\n-2.948ft at 07:48\n\nOBSERVATION:\n
  Meager pulse of fresh WNW swell to lap in with knee-thigh high waves on th
- e lower tides. \n\nAt this point\, winds are looking offshore NW through t
- he day\, potentially becoming breezy in the afternoon. 
+ e lower tides. \n\nWinds are offshore NW through the day\, light in the mo
+ rning then picking up to moderate over the afternoon\, keeping town spots 
+ offshore.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -34,34 +17,35 @@ DTSTART:20260304T133000
 DTEND:20260304T180000
 DESCRIPTION:TIDES:\n-2.988ft at 13:30\n-0.47ft at 18:00\n\nOBSERVATION:\nM
  eager pulse of fresh WNW swell to lap in with knee-thigh high waves on the
-  lower tides. \n\nAt this point\, winds are looking offshore NW through th
- e day\, potentially becoming breezy in the afternoon. 
+  lower tides. \n\nWinds are offshore NW through the day\, light in the mor
+ ning then picking up to moderate over the afternoon\, keeping town spots o
+ ffshore.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260305T063600
 DTEND:20260305T085400
 DESCRIPTION:TIDES:\n-1.078ft at 06:36\n-2.957ft at 08:54\n\nOBSERVATION:\n
- Shorter to mid period NW swell mix due to pick up. The shorter period will
-  limit size a bit for Santa Cruz\, but it still looks good for fun waist t
- o shoulder high range waves\, showing most size in the afternoon on the eb
- bing tide. There will also be a little underlying S Southern Hemi pulse he
- lping then.\n\nLight northerly wind is currently expected in the morning\,
-  becoming moderate NW for the afternoon. Conditions in town should stay cl
- ean or at least semi clean all day. 
+ Shorter to mid period NW swell mix picks up. The shorter period will limit
+  size a bit for Santa Cruz\, but it still looks good for fun waist to shou
+ lder high range waves\, showing most size in the afternoon on the ebbing t
+ ide. There will also be a little underlying S Southern Hemi pulse helping 
+ then.\n\nLight northerly wind is currently expected in the morning\, becom
+ ing moderate NW for the afternoon. Conditions in town should stay clean or
+  at least semi clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260305T140600
 DTEND:20260305T180600
 DESCRIPTION:TIDES:\n-2.957ft at 14:06\n-0.87ft at 18:06\n\nOBSERVATION:\nS
- horter to mid period NW swell mix due to pick up. The shorter period will 
- limit size a bit for Santa Cruz\, but it still looks good for fun waist to
-  shoulder high range waves\, showing most size in the afternoon on the ebb
- ing tide. There will also be a little underlying S Southern Hemi pulse hel
- ping then.\n\nLight northerly wind is currently expected in the morning\, 
- becoming moderate NW for the afternoon. Conditions in town should stay cle
- an or at least semi clean all day. 
+ horter to mid period NW swell mix picks up. The shorter period will limit 
+ size a bit for Santa Cruz\, but it still looks good for fun waist to shoul
+ der high range waves\, showing most size in the afternoon on the ebbing ti
+ de. There will also be a little underlying S Southern Hemi pulse helping t
+ hen.\n\nLight northerly wind is currently expected in the morning\, becomi
+ ng moderate NW for the afternoon. Conditions in town should stay clean or 
+ at least semi clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -70,9 +54,10 @@ DTEND:20260306T100600
 DESCRIPTION:TIDES:\n-0.733ft at 06:36\n-2.959ft at 10:06\n\nOBSERVATION:\n
  Holding shorter-period NW swell\, along with a secondary pulse of S Southe
  rn Hemi\, will keep surf in the waist to shoulder high zone for good spots
- . Mid day high tide will slow tide sensitive breaks. \n\nLight northerly w
- ind expected in the morning\, becoming moderate NW for the afternoon. Cond
- itions in town expected to stay clean or at least semi clean all day. 
+  in the morning. Mid day high tide will slow tide sensitive breaks. Waves 
+ dip a bit in the afternoon as the swell starts to ease. \n\nLight northerl
+ y wind expected in the morning\, becoming moderate NW for the afternoon. C
+ onditions in town expected to stay clean or at least semi clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -81,21 +66,32 @@ DTEND:20260306T180600
 DESCRIPTION:TIDES:\n-2.985ft at 14:36\n-1.369ft at 18:06\n\nOBSERVATION:\n
  Holding shorter-period NW swell\, along with a secondary pulse of S Southe
  rn Hemi\, will keep surf in the waist to shoulder high zone for good spots
- . Mid day high tide will slow tide sensitive breaks. \n\nLight northerly w
- ind expected in the morning\, becoming moderate NW for the afternoon. Cond
- itions in town expected to stay clean or at least semi clean all day. 
+  in the morning. Mid day high tide will slow tide sensitive breaks. Waves 
+ dip a bit in the afternoon as the swell starts to ease. \n\nLight northerl
+ y wind expected in the morning\, becoming moderate NW for the afternoon. C
+ onditions in town expected to stay clean or at least semi clean all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260307T063600
 DTEND:20260307T113600
-DESCRIPTION:-0.766ft at 06:36\n-2.982ft at 11:36
+DESCRIPTION:TIDES:\n-0.766ft at 06:36\n-2.982ft at 11:36\n\nOBSERVATION:\n
+ Fading mix of short-period NW swell and smaller S Southern Hemi pulse is s
+ till good for thigh to stomach high waves in the morning\, then surf taper
+ s off during the day. Mid day high tide slows down tide sensitive breaks. 
+ \n\nLight winds\, mainly northerly\, and favorable conditions in town due 
+ all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260307T150600
 DTEND:20260307T180600
-DESCRIPTION:-2.972ft at 15:06\n-1.913ft at 18:06
+DESCRIPTION:TIDES:\n-2.972ft at 15:06\n-1.913ft at 18:06\n\nOBSERVATION:\n
+ Fading mix of short-period NW swell and smaller S Southern Hemi pulse is s
+ till good for thigh to stomach high waves in the morning\, then surf taper
+ s off during the day. Mid day high tide slows down tide sensitive breaks. 
+ \n\nLight winds\, mainly northerly\, and favorable conditions in town due 
+ all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -204,5 +200,17 @@ SUMMARY:Surf's Up
 DTSTART:20260318T133000
 DTEND:20260318T191800
 DESCRIPTION:-2.896ft at 13:30\n-1.523ft at 19:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260319T071800
+DTEND:20260319T084200
+DESCRIPTION:-1.491ft at 07:18\n-2.929ft at 08:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260319T140600
+DTEND:20260319T191800
+DESCRIPTION:-2.978ft at 14:06\n-1.399ft at 19:18
 END:VEVENT
 END:VCALENDAR
