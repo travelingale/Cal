@@ -3,22 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260309T073000
-DTEND:20260309T190600
-DESCRIPTION:TIDES:\n-1.792ft at 07:30\n-2.769ft at 19:06\n\nOBSERVATION:\n
- Mix of mid-period NW swell edges up while short-period NW swell eases\, fo
- r mainly thigh-waist high+ waves at good exposures. \n\nWinds looking ligh
- t offshore most of the morning\, shift light+ SW for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260310T073000
 DTEND:20260310T190600
 DESCRIPTION:TIDES:\n-2.532ft at 07:30\n-2.969ft at 19:06\n\nOBSERVATION:\n
  Blend of shorter-period NW swell lingers as traces of fresh long-period S 
  Southern Hemi creep in\, for mainly knee to waist high+ zone surf. \n\nLig
- ht/variable winds expected in the morning\, turn light SW in the afternoon
- \, maintaining nice conditions. 
+ ht/variable winds in the morning\, turn light SW in the afternoon\, mainta
+ ining nice conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -44,13 +35,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260313T095400
 DTEND:20260313T140000
-DESCRIPTION:-2.998ft at 09:54\n-0.009ft at 14:00
+DESCRIPTION:TIDES:\n-2.998ft at 09:54\n-0.009ft at 14:00\n\nOBSERVATION:\n
+ Gradually easing\, steep-angled\, selective S Southern Hemi swell\, along 
+ with some secondary NW swell\, is still good for chest to head high waves 
+ at well exposed spots in the morning\, while top breaks hit overhead. Surf
+  tapers off during the day as the swell winds down. \n\nLight offshore NW 
+ winds expected through the day in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260313T144800
 DTEND:20260313T191200
-DESCRIPTION:-0.011ft at 14:48\n-2.758ft at 19:12
+DESCRIPTION:TIDES:\n-0.011ft at 14:48\n-2.758ft at 19:12\n\nOBSERVATION:\n
+ Gradually easing\, steep-angled\, selective S Southern Hemi swell\, along 
+ with some secondary NW swell\, is still good for chest to head high waves 
+ at well exposed spots in the morning\, while top breaks hit overhead. Surf
+  tapers off during the day as the swell winds down. \n\nLight offshore NW 
+ winds expected through the day in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -189,5 +190,17 @@ SUMMARY:Surf's Up
 DTSTART:20260324T114800
 DTEND:20260324T163000
 DESCRIPTION:-0.033ft at 11:48\n-2.983ft at 16:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260325T070600
+DTEND:20260325T100000
+DESCRIPTION:-2.933ft at 07:06\n-0.054ft at 10:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260325T131200
+DTEND:20260325T172400
+DESCRIPTION:-0.01ft at 13:12\n-2.96ft at 17:24
 END:VEVENT
 END:VCALENDAR
