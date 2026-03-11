@@ -3,23 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260310T073000
-DTEND:20260310T190600
-DESCRIPTION:TIDES:\n-2.532ft at 07:30\n-2.969ft at 19:06\n\nOBSERVATION:\n
- Blend of shorter-period NW swell lingers as traces of fresh long-period S 
- Southern Hemi creep in\, for mainly knee to waist high+ zone surf. \n\nLig
- ht/variable winds in the morning\, turn light SW in the afternoon\, mainta
- ining nice conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260311T080000
 DTEND:20260311T190000
 DESCRIPTION:TIDES:\n-2.934ft at 08:00\n-2.981ft at 19:00\n\nOBSERVATION:\n
  Fresh mix of longer-period steep-angled S Southern Hemi and NW swell gradu
  ally fills in\, setting up waist to shoulder high waves at good exposures\
- , while long-period focal points hit head high+ during the afternoon. \n\n
- Light/variable winds due all day for mostly clean conditions. 
+ , while long-period summertime focal points see sets going overhead during
+  the afternoon\, largest late. \n\nLight\, mainly offshore winds all day f
+ or clean conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -28,8 +19,8 @@ DTEND:20260312T191200
 DESCRIPTION:TIDES:\n-2.964ft at 09:00\n-2.942ft at 19:12\n\nOBSERVATION:\n
  Selective\, steep-angled\, long-period S Southern Hemi swell tops out\, as
   modest scale NW swell lingers. Good southerly exposures are chest to head
-  high\, while standouts go 1-2' overhead on sets. \n\nWinds looking light\
- , primarily offshore all day\, keeping town conditions clean. 
+  high\, while standouts go 1-2'+ overhead on sets. \n\nWinds looking light
+ /variable for the morning\, gentle SW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -39,8 +30,8 @@ DESCRIPTION:TIDES:\n-2.998ft at 09:54\n-0.009ft at 14:00\n\nOBSERVATION:\n
  Gradually easing\, steep-angled\, selective S Southern Hemi swell\, along 
  with some secondary NW swell\, is still good for chest to head high waves 
  at well exposed spots in the morning\, while top breaks hit overhead. Surf
-  tapers off during the day as the swell winds down. \n\nLight offshore NW 
- winds expected through the day in town. 
+  tapers off during the day as the swell winds down. \n\nLight/variable win
+ ds expected through the day\, keeping conditions nice.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -50,20 +41,28 @@ DESCRIPTION:TIDES:\n-0.011ft at 14:48\n-2.758ft at 19:12\n\nOBSERVATION:\n
  Gradually easing\, steep-angled\, selective S Southern Hemi swell\, along 
  with some secondary NW swell\, is still good for chest to head high waves 
  at well exposed spots in the morning\, while top breaks hit overhead. Surf
-  tapers off during the day as the swell winds down. \n\nLight offshore NW 
- winds expected through the day in town. 
+  tapers off during the day as the swell winds down. \n\nLight/variable win
+ ds expected through the day\, keeping conditions nice.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260314T104800
 DTEND:20260314T140000
-DESCRIPTION:-2.911ft at 10:48\n-0.005ft at 14:00
+DESCRIPTION:TIDES:\n-2.911ft at 10:48\n-0.005ft at 14:00\n\nOBSERVATION:\n
+ Old\, mid-period S swell has well exposed spots in waist+ surf in the morn
+ ing\, as best breaks hit shoulder high+\, after that dawn patrol high tide
+  backs out a bit. Secondary NW swell lingers. Waves dip during the day. \n
+ \nGentle southerly sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260314T160000
 DTEND:20260314T191200
-DESCRIPTION:-0.0ft at 16:00\n-2.51ft at 19:12
+DESCRIPTION:TIDES:\n-0.0ft at 16:00\n-2.51ft at 19:12\n\nOBSERVATION:\nOld
+ \, mid-period S swell has well exposed spots in waist+ surf in the morning
+ \, as best breaks hit shoulder high+\, after that dawn patrol high tide ba
+ cks out a bit. Secondary NW swell lingers. Waves dip during the day. \n\nG
+ entle southerly sea breeze due most of the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -202,5 +201,17 @@ SUMMARY:Surf's Up
 DTSTART:20260325T131200
 DTEND:20260325T172400
 DESCRIPTION:-0.01ft at 13:12\n-2.96ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260326T081800
+DTEND:20260326T110600
+DESCRIPTION:-2.903ft at 08:18\n-0.043ft at 11:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260326T143000
+DTEND:20260326T180600
+DESCRIPTION:-0.027ft at 14:30\n-2.992ft at 18:06
 END:VEVENT
 END:VCALENDAR
