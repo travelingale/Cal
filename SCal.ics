@@ -3,24 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260311T080000
-DTEND:20260311T190000
-DESCRIPTION:TIDES:\n-2.934ft at 08:00\n-2.981ft at 19:00\n\nOBSERVATION:\n
- Fresh mix of longer-period steep-angled S Southern Hemi and NW swell gradu
- ally fills in\, setting up waist to shoulder high waves at good exposures\
- , while long-period summertime focal points see sets going overhead during
-  the afternoon\, largest late. \n\nLight\, mainly offshore winds all day f
- or clean conditions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260312T090000
 DTEND:20260312T191200
 DESCRIPTION:TIDES:\n-2.964ft at 09:00\n-2.942ft at 19:12\n\nOBSERVATION:\n
  Selective\, steep-angled\, long-period S Southern Hemi swell tops out\, as
   modest scale NW swell lingers. Good southerly exposures are chest to head
-  high\, while standouts go 1-2'+ overhead on sets. \n\nWinds looking light
- /variable for the morning\, gentle SW sea breeze in the afternoon. 
+  high+\, while standouts hit several feet+ overhead. \n\nWinds are light/v
+ ariable for the morning\, gentle SW sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -52,7 +41,7 @@ DESCRIPTION:TIDES:\n-2.911ft at 10:48\n-0.005ft at 14:00\n\nOBSERVATION:\n
  Old\, mid-period S swell has well exposed spots in waist+ surf in the morn
  ing\, as best breaks hit shoulder high+\, after that dawn patrol high tide
   backs out a bit. Secondary NW swell lingers. Waves dip during the day. \n
- \nGentle southerly sea breeze due most of the day. 
+ \nLight winds/clean conditions due all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -61,20 +50,28 @@ DTEND:20260314T191200
 DESCRIPTION:TIDES:\n-0.0ft at 16:00\n-2.51ft at 19:12\n\nOBSERVATION:\nOld
  \, mid-period S swell has well exposed spots in waist+ surf in the morning
  \, as best breaks hit shoulder high+\, after that dawn patrol high tide ba
- cks out a bit. Secondary NW swell lingers. Waves dip during the day. \n\nG
- entle southerly sea breeze due most of the day. 
+ cks out a bit. Secondary NW swell lingers. Waves dip during the day. \n\nL
+ ight winds/clean conditions due all day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260315T113000
 DTEND:20260315T141800
-DESCRIPTION:-2.928ft at 11:30\n-0.052ft at 14:18
+DESCRIPTION:TIDES:\n-2.928ft at 11:30\n-0.052ft at 14:18\n\nOBSERVATION:\n
+ Modest scale combo of old and new S-SSW swell\, plus lingering NW swell\, 
+ for mainly thigh to waist high waves\, plus sets at top breaks. High tide 
+ slows down most spots during the first half of the morning. \n\nLight/vari
+ able winds due in the morning\, shift light SW onshore in the afternoon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260315T164200
 DTEND:20260315T191200
-DESCRIPTION:-0.003ft at 16:42\n-2.225ft at 19:12
+DESCRIPTION:TIDES:\n-0.003ft at 16:42\n-2.225ft at 19:12\n\nOBSERVATION:\n
+ Modest scale combo of old and new S-SSW swell\, plus lingering NW swell\, 
+ for mainly thigh to waist high waves\, plus sets at top breaks. High tide 
+ slows down most spots during the first half of the morning. \n\nLight/vari
+ able winds due in the morning\, shift light SW onshore in the afternoon.  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -213,5 +210,17 @@ SUMMARY:Surf's Up
 DTSTART:20260326T143000
 DTEND:20260326T180600
 DESCRIPTION:-0.027ft at 14:30\n-2.992ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260327T092400
+DTEND:20260327T120600
+DESCRIPTION:-2.941ft at 09:24\n-0.028ft at 12:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260327T153000
+DTEND:20260327T183600
+DESCRIPTION:-0.055ft at 15:30\n-2.993ft at 18:36
 END:VEVENT
 END:VCALENDAR
