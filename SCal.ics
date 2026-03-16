@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260315T113000
-DTEND:20260315T141800
-DESCRIPTION:TIDES:\n-2.928ft at 11:30\n-0.052ft at 14:18\n\nOBSERVATION:\n
- Small to fun zone blend of old and new S-SSW swell\, plus lingering NW swe
- ll\, for mainly thigh to stomach high waves\, chest+ sets at top breaks. H
- igh tide slows down most spots during the first half of the morning\, then
-  ebbing tide helps through mid day. \n\nLight/variable to light southerly 
- winds due through the day for nice conditions in town. NW wind further wes
- t. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260315T164200
-DTEND:20260315T191200
-DESCRIPTION:TIDES:\n-0.003ft at 16:42\n-2.225ft at 19:12\n\nOBSERVATION:\n
- Small to fun zone blend of old and new S-SSW swell\, plus lingering NW swe
- ll\, for mainly thigh to stomach high waves\, chest+ sets at top breaks. H
- igh tide slows down most spots during the first half of the morning\, then
-  ebbing tide helps through mid day. \n\nLight/variable to light southerly 
- winds due through the day for nice conditions in town. NW wind further wes
- t. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260316T121200
 DTEND:20260316T145400
 DESCRIPTION:TIDES:\n-2.888ft at 12:12\n-0.022ft at 14:54\n\nOBSERVATION:\n
@@ -34,7 +10,8 @@ DESCRIPTION:TIDES:\n-2.888ft at 12:12\n-0.022ft at 14:54\n\nOBSERVATION:\n
   NW swell persists. Better summertime spots are running chest to head high
  \, while focal points see overhead sets\, showing most consistently over t
  he afternoon. Mid morning high tide slows down tide sensitive spots. \n\nC
- onditions looking clean all day with light\, primarily offshore winds. 
+ onditions looking clean all day. Lightly offshore in the morning with just
+  a light seabreeze adding minimal texture in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -45,7 +22,8 @@ DESCRIPTION:TIDES:\n-0.04ft at 17:12\n-1.925ft at 19:12\n\nOBSERVATION:\nF
  NW swell persists. Better summertime spots are running chest to head high\
  , while focal points see overhead sets\, showing most consistently over th
  e afternoon. Mid morning high tide slows down tide sensitive spots. \n\nCo
- nditions looking clean all day with light\, primarily offshore winds. 
+ nditions looking clean all day. Lightly offshore in the morning with just 
+ a light seabreeze adding minimal texture in the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -97,13 +75,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260319T071800
 DTEND:20260319T084200
-DESCRIPTION:-1.491ft at 07:18\n-2.929ft at 08:42
+DESCRIPTION:TIDES:\n-1.491ft at 07:18\n-2.929ft at 08:42\n\nOBSERVATION:\n
+ Easing blend of SSW swell and shorter-period NW swell has lots of spots in
+  waist to chest high+ waves\, as best combo breaks hit shoulder high+. Mid
+  day high tide bogs down tide sensitive spots.\n\nLight offshore winds mos
+ t of the morning\, followed by light SW winds in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260319T140600
 DTEND:20260319T191800
-DESCRIPTION:-2.978ft at 14:06\n-1.399ft at 19:18
+DESCRIPTION:TIDES:\n-2.978ft at 14:06\n-1.399ft at 19:18\n\nOBSERVATION:\n
+ Easing blend of SSW swell and shorter-period NW swell has lots of spots in
+  waist to chest high+ waves\, as best combo breaks hit shoulder high+. Mid
+  day high tide bogs down tide sensitive spots.\n\nLight offshore winds mos
+ t of the morning\, followed by light SW winds in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -242,5 +228,17 @@ SUMMARY:Surf's Up
 DTSTART:20260330T163600
 DTEND:20260330T192400
 DESCRIPTION:-0.027ft at 16:36\n-2.702ft at 19:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260331T070000
+DTEND:20260331T073000
+DESCRIPTION:-2.499ft at 07:00\n-2.999ft at 07:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260331T124800
+DTEND:20260331T192400
+DESCRIPTION:-2.956ft at 12:48\n-2.411ft at 19:24
 END:VEVENT
 END:VCALENDAR
