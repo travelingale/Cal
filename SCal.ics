@@ -3,38 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260317T124800
-DTEND:20260317T154200
-DESCRIPTION:TIDES:\n-2.949ft at 12:48\n-0.003ft at 15:42\n\nOBSERVATION:\n
- Long-period\, steep-angled SSW Southern Hemi maxes out\, as some secondary
-  mid-period WNW swell joins in. That swell blend puts lots of spots in wai
- st to shoulder high waves\, while better southerly exposures go head high+
-  and summertime standouts hit 1-2'+ overhead. Mid morning high tide will b
- og down tide sensitive spots. \n\nLight winds through the day\, variable f
- or the morning\, gentle southerly sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260317T172400
-DTEND:20260317T191200
-DESCRIPTION:TIDES:\n-0.037ft at 17:24\n-1.639ft at 19:12\n\nOBSERVATION:\n
- Long-period\, steep-angled SSW Southern Hemi maxes out\, as some secondary
-  mid-period WNW swell joins in. That swell blend puts lots of spots in wai
- st to shoulder high waves\, while better southerly exposures go head high+
-  and summertime standouts hit 1-2'+ overhead. Mid morning high tide will b
- og down tide sensitive spots. \n\nLight winds through the day\, variable f
- or the morning\, gentle southerly sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260318T071800
 DTEND:20260318T074200
 DESCRIPTION:TIDES:\n-2.593ft at 07:18\n-2.999ft at 07:42\n\nOBSERVATION:\n
  Nice mix of long-period\, steep-angled S Southern Hemi and mid-period WNW 
  swell hold\, maintaining widespread waist to shoulder high+ surf\, while b
  est summertime exposures and combo breaks pull in overhead sets. Later mor
- ning high tide slows most spots. \n\nLight offshore winds expected in the 
- morning\, shifting light SW onshore for the afternoon. 
+ ning high tide slows most spots. \n\nLight offshore winds in the morning\,
+  shifting light SW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -44,8 +20,8 @@ DESCRIPTION:TIDES:\n-2.896ft at 13:30\n-1.523ft at 19:18\n\nOBSERVATION:\n
  Nice mix of long-period\, steep-angled S Southern Hemi and mid-period WNW 
  swell hold\, maintaining widespread waist to shoulder high+ surf\, while b
  est summertime exposures and combo breaks pull in overhead sets. Later mor
- ning high tide slows most spots. \n\nLight offshore winds expected in the 
- morning\, shifting light SW onshore for the afternoon. 
+ ning high tide slows most spots. \n\nLight offshore winds in the morning\,
+  shifting light SW onshore for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -91,13 +67,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260321T074800
 DTEND:20260321T111200
-DESCRIPTION:-0.012ft at 07:48\n-2.971ft at 11:12
+DESCRIPTION:TIDES:\n-0.012ft at 07:48\n-2.971ft at 11:12\n\nOBSERVATION:\n
+ Lingering mix of mid-period SSW swell and shorter-period NW swell for main
+ ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
+ e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
+ \nLight winds due through the day\, offshore much of the morning\, gentle 
+ southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260321T153000
 DTEND:20260321T191800
-DESCRIPTION:-2.989ft at 15:30\n-1.664ft at 19:18
+DESCRIPTION:TIDES:\n-2.989ft at 15:30\n-1.664ft at 19:18\n\nOBSERVATION:\n
+ Lingering mix of mid-period SSW swell and shorter-period NW swell for main
+ ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
+ e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
+ \nLight winds due through the day\, offshore much of the morning\, gentle 
+ southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -236,5 +222,17 @@ SUMMARY:Surf's Up
 DTSTART:20260401T133000
 DTEND:20260401T193000
 DESCRIPTION:-2.928ft at 13:30\n-2.324ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260402T065400
+DTEND:20260402T093000
+DESCRIPTION:-0.589ft at 06:54\n-2.96ft at 09:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260402T140600
+DTEND:20260402T193000
+DESCRIPTION:-2.971ft at 14:06\n-2.238ft at 19:30
 END:VEVENT
 END:VCALENDAR
