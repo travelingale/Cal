@@ -3,35 +3,13 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260319T071800
-DTEND:20260319T084200
-DESCRIPTION:TIDES:\n-1.491ft at 07:18\n-2.929ft at 08:42\n\nOBSERVATION:\n
- Easing blend of SSW swell and shorter-period NW swell has lots of spots in
-  waist to chest high+ waves\, as best combo breaks hit shoulder high+. Mid
-  day high tide bogs down tide sensitive spots.\n\nLight/variable winds mos
- t of the morning\, followed by a light southerly sea breeze in the afterno
- on. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260319T140600
-DTEND:20260319T191800
-DESCRIPTION:TIDES:\n-2.978ft at 14:06\n-1.399ft at 19:18\n\nOBSERVATION:\n
- Easing blend of SSW swell and shorter-period NW swell has lots of spots in
-  waist to chest high+ waves\, as best combo breaks hit shoulder high+. Mid
-  day high tide bogs down tide sensitive spots.\n\nLight/variable winds mos
- t of the morning\, followed by a light southerly sea breeze in the afterno
- on. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260320T071200
 DTEND:20260320T095400
 DESCRIPTION:TIDES:\n-0.437ft at 07:12\n-2.979ft at 09:54\n\nOBSERVATION:\n
  Decent size mix of mid-period SSW swell and NW swell keeps many spots in w
  aist to chest high surf\, while best combo breaks see better sets. Mid day
-  high tide slows tide sensitive spots.\n\nLight winds due all day\, offsho
- re most of the morning\, gentle SW sea breeze for the afternoon. 
+  high tide slows tide sensitive spots.\n\nLight winds all day\, offshore m
+ ost of the morning\, gentle SW-S sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -40,8 +18,8 @@ DTEND:20260320T191800
 DESCRIPTION:TIDES:\n-2.972ft at 14:48\n-1.438ft at 19:18\n\nOBSERVATION:\n
  Decent size mix of mid-period SSW swell and NW swell keeps many spots in w
  aist to chest high surf\, while best combo breaks see better sets. Mid day
-  high tide slows tide sensitive spots.\n\nLight winds due all day\, offsho
- re most of the morning\, gentle SW sea breeze for the afternoon. 
+  high tide slows tide sensitive spots.\n\nLight winds all day\, offshore m
+ ost of the morning\, gentle SW-S sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -51,7 +29,7 @@ DESCRIPTION:TIDES:\n-0.012ft at 07:48\n-2.971ft at 11:12\n\nOBSERVATION:\n
  Lingering mix of mid-period SSW swell and shorter-period NW swell for main
  ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
  e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
- \nLight winds due through the day\, offshore much of the morning\, gentle 
+ \nLight winds due through the day\, variable much of the morning\, gentle 
  southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +40,7 @@ DESCRIPTION:TIDES:\n-2.989ft at 15:30\n-1.664ft at 19:18\n\nOBSERVATION:\n
  Lingering mix of mid-period SSW swell and shorter-period NW swell for main
  ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
  e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
- \nLight winds due through the day\, offshore much of the morning\, gentle 
+ \nLight winds due through the day\, variable much of the morning\, gentle 
  southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
@@ -91,19 +69,37 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260323T071200
 DTEND:20260323T074200
-DESCRIPTION:-0.428ft at 07:12\n-0.052ft at 07:42
+DESCRIPTION:TIDES:\n-0.428ft at 07:12\n-0.052ft at 07:42\n\nOBSERVATION:\n
+ Smaller combo of SSW swell and NW swell rolling in with mainly thigh to wa
+ ist high waves. Early morning is drained by a negative low tide\, then the
+  mid afternoon high tide bogs down tide sensitive breaks. Some new\, steep
+ -angled NW swell shows over the afternoon to bump up best exposures a litt
+ le towards the end of the day. \n\nLight/variable morning winds are expect
+ ed to be followed by light afternoon SW-S onshores. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260323T102400
 DTEND:20260323T144200
-DESCRIPTION:-0.018ft at 10:24\n-2.968ft at 14:42
+DESCRIPTION:TIDES:\n-0.018ft at 10:24\n-2.968ft at 14:42\n\nOBSERVATION:\n
+ Smaller combo of SSW swell and NW swell rolling in with mainly thigh to wa
+ ist high waves. Early morning is drained by a negative low tide\, then the
+  mid afternoon high tide bogs down tide sensitive breaks. Some new\, steep
+ -angled NW swell shows over the afternoon to bump up best exposures a litt
+ le towards the end of the day. \n\nLight/variable morning winds are expect
+ ed to be followed by light afternoon SW-S onshores. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260323T171800
 DTEND:20260323T191800
-DESCRIPTION:-2.981ft at 17:18\n-2.532ft at 19:18
+DESCRIPTION:TIDES:\n-2.981ft at 17:18\n-2.532ft at 19:18\n\nOBSERVATION:\n
+ Smaller combo of SSW swell and NW swell rolling in with mainly thigh to wa
+ ist high waves. Early morning is drained by a negative low tide\, then the
+  mid afternoon high tide bogs down tide sensitive breaks. Some new\, steep
+ -angled NW swell shows over the afternoon to bump up best exposures a litt
+ le towards the end of the day. \n\nLight/variable morning winds are expect
+ ed to be followed by light afternoon SW-S onshores. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -236,5 +232,17 @@ SUMMARY:Surf's Up
 DTSTART:20260403T144200
 DTEND:20260403T193000
 DESCRIPTION:-2.997ft at 14:42\n-2.266ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260404T072400
+DTEND:20260404T113600
+DESCRIPTION:-0.002ft at 07:24\n-2.95ft at 11:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260404T152400
+DTEND:20260404T193000
+DESCRIPTION:-2.969ft at 15:24\n-2.386ft at 19:30
 END:VEVENT
 END:VCALENDAR
