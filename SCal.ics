@@ -3,34 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260320T071200
-DTEND:20260320T095400
-DESCRIPTION:TIDES:\n-0.437ft at 07:12\n-2.979ft at 09:54\n\nOBSERVATION:\n
- Decent size mix of mid-period SSW swell and NW swell keeps many spots in w
- aist to chest high surf\, while best combo breaks see better sets. Mid day
-  high tide slows tide sensitive spots.\n\nLight winds all day\, offshore m
- ost of the morning\, gentle SW-S sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260320T144800
-DTEND:20260320T191800
-DESCRIPTION:TIDES:\n-2.972ft at 14:48\n-1.438ft at 19:18\n\nOBSERVATION:\n
- Decent size mix of mid-period SSW swell and NW swell keeps many spots in w
- aist to chest high surf\, while best combo breaks see better sets. Mid day
-  high tide slows tide sensitive spots.\n\nLight winds all day\, offshore m
- ost of the morning\, gentle SW-S sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260321T074800
 DTEND:20260321T111200
 DESCRIPTION:TIDES:\n-0.012ft at 07:48\n-2.971ft at 11:12\n\nOBSERVATION:\n
  Lingering mix of mid-period SSW swell and shorter-period NW swell for main
- ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
- e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
- \nLight winds due through the day\, variable much of the morning\, gentle 
- southerly sea breeze for the afternoon. 
+ ly thigh to stomach high waves\, as best exposures/combo breaks hit should
+ er high on sets. Tide sensitive spots are slowed by mid day high tide. \n\
+ nLight winds through the day\, variable much of the morning\, gentle south
+ erly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -38,10 +18,10 @@ DTSTART:20260321T153000
 DTEND:20260321T191800
 DESCRIPTION:TIDES:\n-2.989ft at 15:30\n-1.664ft at 19:18\n\nOBSERVATION:\n
  Lingering mix of mid-period SSW swell and shorter-period NW swell for main
- ly thigh to stomach high waves\, as best exposures/combo breaks do a littl
- e better on sets. Tide sensitive spots are slowed by mid day high tide. \n
- \nLight winds due through the day\, variable much of the morning\, gentle 
- southerly sea breeze for the afternoon. 
+ ly thigh to stomach high waves\, as best exposures/combo breaks hit should
+ er high on sets. Tide sensitive spots are slowed by mid day high tide. \n\
+ nLight winds through the day\, variable much of the morning\, gentle south
+ erly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -105,13 +85,25 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260324T070600
 DTEND:20260324T085400
-DESCRIPTION:-1.628ft at 07:06\n-0.008ft at 08:54
+DESCRIPTION:TIDES:\n-1.628ft at 07:06\n-0.008ft at 08:54\n\nOBSERVATION:\n
+ New round of fair size SW Southern Hemi fills in\, as secondary NW swell l
+ ingers. By the afternoon good southerly exposures are running waist to sho
+ ulder high\, while focal points hit head high\, largest late. Mid morning 
+ drained by a negative low tide.\n\nAt this point the call is for light off
+ shores in the morning\, turning to light southerly onshores over the after
+ noon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260324T114800
 DTEND:20260324T163000
-DESCRIPTION:-0.033ft at 11:48\n-2.983ft at 16:30
+DESCRIPTION:TIDES:\n-0.033ft at 11:48\n-2.983ft at 16:30\n\nOBSERVATION:\n
+ New round of fair size SW Southern Hemi fills in\, as secondary NW swell l
+ ingers. By the afternoon good southerly exposures are running waist to sho
+ ulder high\, while focal points hit head high\, largest late. Mid morning 
+ drained by a negative low tide.\n\nAt this point the call is for light off
+ shores in the morning\, turning to light southerly onshores over the after
+ noon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -244,5 +236,17 @@ SUMMARY:Surf's Up
 DTSTART:20260404T152400
 DTEND:20260404T193000
 DESCRIPTION:-2.969ft at 15:24\n-2.386ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260405T064800
+DTEND:20260405T130000
+DESCRIPTION:-0.174ft at 06:48\n-2.998ft at 13:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260405T160000
+DTEND:20260405T193000
+DESCRIPTION:-2.992ft at 16:00\n-2.564ft at 19:30
 END:VEVENT
 END:VCALENDAR
