@@ -3,36 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260321T074800
-DTEND:20260321T111200
-DESCRIPTION:TIDES:\n-0.012ft at 07:48\n-2.971ft at 11:12\n\nOBSERVATION:\n
- Lingering mix of mid-period SSW swell and shorter-period NW swell for main
- ly thigh to stomach high waves\, as best exposures/combo breaks hit should
- er high on sets. Tide sensitive spots are slowed by mid day high tide. \n\
- nLight winds through the day\, variable much of the morning\, gentle south
- erly sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260321T153000
-DTEND:20260321T191800
-DESCRIPTION:TIDES:\n-2.989ft at 15:30\n-1.664ft at 19:18\n\nOBSERVATION:\n
- Lingering mix of mid-period SSW swell and shorter-period NW swell for main
- ly thigh to stomach high waves\, as best exposures/combo breaks hit should
- er high on sets. Tide sensitive spots are slowed by mid day high tide. \n\
- nLight winds through the day\, variable much of the morning\, gentle south
- erly sea breeze for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260322T090600
 DTEND:20260322T124800
 DESCRIPTION:TIDES:\n-0.001ft at 09:06\n-2.986ft at 12:48\n\nOBSERVATION:\n
  Decent size blend of mid-period SSW swell and secondary NW swell has surf 
  mainly running thigh-waist-stomach high. Dawn patrol is drained by a negat
  ive low tide\, then the early afternoon high tide slows down the smaller s
- urf. \n\nAt this point\, winds are looking light/variable in the morning\,
-  light southerly onshore for the afternoon. 
+ urf. \n\nWinds are light/variable in the morning\, light southerly onshore
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -42,8 +20,8 @@ DESCRIPTION:TIDES:\n-2.978ft at 16:18\n-2.053ft at 19:18\n\nOBSERVATION:\n
  Decent size blend of mid-period SSW swell and secondary NW swell has surf 
  mainly running thigh-waist-stomach high. Dawn patrol is drained by a negat
  ive low tide\, then the early afternoon high tide slows down the smaller s
- urf. \n\nAt this point\, winds are looking light/variable in the morning\,
-  light southerly onshore for the afternoon. 
+ urf. \n\nWinds are light/variable in the morning\, light southerly onshore
+  for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -109,13 +87,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260325T070600
 DTEND:20260325T100000
-DESCRIPTION:-2.933ft at 07:06\n-0.054ft at 10:00
+DESCRIPTION:TIDES:\n-2.933ft at 07:06\n-0.054ft at 10:00\n\nOBSERVATION:\n
+ Blend of long-period SW swell and steep-angled\, shorter-period NW swell i
+ s scheduled to rise through the day\, with waves getting into the chest-sh
+ oulder-head high range at better breaks over the afternoon\, showing large
+ st late. Mid day negative low tide drains most spots. \n\nNNW winds due th
+ rough the day\, keeping town spots offshore. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260325T131200
 DTEND:20260325T172400
-DESCRIPTION:-0.01ft at 13:12\n-2.96ft at 17:24
+DESCRIPTION:TIDES:\n-0.01ft at 13:12\n-2.96ft at 17:24\n\nOBSERVATION:\nBl
+ end of long-period SW swell and steep-angled\, shorter-period NW swell is 
+ scheduled to rise through the day\, with waves getting into the chest-shou
+ lder-head high range at better breaks over the afternoon\, showing largest
+  late. Mid day negative low tide drains most spots. \n\nNNW winds due thro
+ ugh the day\, keeping town spots offshore. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -248,5 +236,17 @@ SUMMARY:Surf's Up
 DTSTART:20260405T160000
 DTEND:20260405T193000
 DESCRIPTION:-2.992ft at 16:00\n-2.564ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260406T064800
+DTEND:20260406T144200
+DESCRIPTION:-0.663ft at 06:48\n-2.993ft at 14:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260406T164200
+DTEND:20260406T193000
+DESCRIPTION:-2.994ft at 16:42\n-2.765ft at 19:30
 END:VEVENT
 END:VCALENDAR
