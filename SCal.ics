@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260322T090600
-DTEND:20260322T124800
-DESCRIPTION:TIDES:\n-0.001ft at 09:06\n-2.986ft at 12:48\n\nOBSERVATION:\n
- Decent size blend of mid-period SSW swell and secondary NW swell has surf 
- mainly running thigh-waist-stomach high. Dawn patrol is drained by a negat
- ive low tide\, then the early afternoon high tide slows down the smaller s
- urf. \n\nWinds are light/variable in the morning\, light southerly onshore
-  for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260322T161800
-DTEND:20260322T191800
-DESCRIPTION:TIDES:\n-2.978ft at 16:18\n-2.053ft at 19:18\n\nOBSERVATION:\n
- Decent size blend of mid-period SSW swell and secondary NW swell has surf 
- mainly running thigh-waist-stomach high. Dawn patrol is drained by a negat
- ive low tide\, then the early afternoon high tide slows down the smaller s
- urf. \n\nWinds are light/variable in the morning\, light southerly onshore
-  for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260323T071200
 DTEND:20260323T074200
 DESCRIPTION:TIDES:\n-0.428ft at 07:12\n-0.052ft at 07:42\n\nOBSERVATION:\n
@@ -109,13 +87,25 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260326T081800
 DTEND:20260326T110600
-DESCRIPTION:-2.903ft at 08:18\n-0.043ft at 11:06
+DESCRIPTION:TIDES:\n-2.903ft at 08:18\n-0.043ft at 11:06\n\nOBSERVATION:\n
+ Holding mix of long-period SW swell and steep-angled\, shorter-period NW s
+ well maintains chest-shoulder-head high surf in the morning\, as standouts
+  see better sets. Waves will slowly taper off during the afternoon when th
+ e swell eases. Negative low tide mid day will be draining most areas. \n\n
+ At this point\, winds are looking to stay light all day for nice condition
+ s. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260326T143000
 DTEND:20260326T180600
-DESCRIPTION:-0.027ft at 14:30\n-2.992ft at 18:06
+DESCRIPTION:TIDES:\n-0.027ft at 14:30\n-2.992ft at 18:06\n\nOBSERVATION:\n
+ Holding mix of long-period SW swell and steep-angled\, shorter-period NW s
+ well maintains chest-shoulder-head high surf in the morning\, as standouts
+  see better sets. Waves will slowly taper off during the afternoon when th
+ e swell eases. Negative low tide mid day will be draining most areas. \n\n
+ At this point\, winds are looking to stay light all day for nice condition
+ s. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -248,5 +238,17 @@ SUMMARY:Surf's Up
 DTSTART:20260406T164200
 DTEND:20260406T193000
 DESCRIPTION:-2.994ft at 16:42\n-2.765ft at 19:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260407T064800
+DTEND:20260407T163600
+DESCRIPTION:-1.349ft at 06:48\n-2.996ft at 16:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260407T181800
+DTEND:20260407T193000
+DESCRIPTION:-2.996ft at 18:18\n-2.962ft at 19:30
 END:VEVENT
 END:VCALENDAR
