@@ -3,66 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260326T081800
-DTEND:20260326T110600
-DESCRIPTION:TIDES:\n-2.903ft at 08:18\n-0.043ft at 11:06\n\nOBSERVATION:\n
- Nice mix of long-period SW swell and steep-angled\, shorter-period NW swel
- l sets up chest-shoulder-head high surf\, topping out mid day then easing 
- a bit during the afternoon when the swell starts to ease. Tide sensitive b
- reaks slowed by dawn patrol high tide\, then negative low tide mid day wil
- l be draining most areas. \n\nLight/variable winds most of the day\, shift
- ing offshore over the afternoon.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260326T143000
-DTEND:20260326T180600
-DESCRIPTION:TIDES:\n-0.027ft at 14:30\n-2.992ft at 18:06\n\nOBSERVATION:\n
- Nice mix of long-period SW swell and steep-angled\, shorter-period NW swel
- l sets up chest-shoulder-head high surf\, topping out mid day then easing 
- a bit during the afternoon when the swell starts to ease. Tide sensitive b
- reaks slowed by dawn patrol high tide\, then negative low tide mid day wil
- l be draining most areas. \n\nLight/variable winds most of the day\, shift
- ing offshore over the afternoon.  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260327T092400
-DTEND:20260327T120600
-DESCRIPTION:TIDES:\n-2.941ft at 09:24\n-0.028ft at 12:06\n\nOBSERVATION:\n
- Easing blend of mid-period SW swell and shorter-period\, steep-angled NW s
- well for waves mainly running thigh to stomach high in the morning\, as be
- st combo breaks see better sets. Surf backs off a bit during the afternoon
-  along with the fading swell. Dawn patrol is slowed by an early AM high ti
- de. Mid day gets drained by a negative low tide. \n\nLight/variable winds 
- through the morning\, turning light+ SW in the afternoon for some texture.
-  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260327T153000
-DTEND:20260327T183600
-DESCRIPTION:TIDES:\n-0.055ft at 15:30\n-2.993ft at 18:36\n\nOBSERVATION:\n
- Easing blend of mid-period SW swell and shorter-period\, steep-angled NW s
- well for waves mainly running thigh to stomach high in the morning\, as be
- st combo breaks see better sets. Surf backs off a bit during the afternoon
-  along with the fading swell. Dawn patrol is slowed by an early AM high ti
- de. Mid day gets drained by a negative low tide. \n\nLight/variable winds 
- through the morning\, turning light+ SW in the afternoon for some texture.
-  
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260328T102400
 DTEND:20260328T130000
 DESCRIPTION:TIDES:\n-2.963ft at 10:24\n-0.051ft at 13:00\n\nOBSERVATION:\n
  Morning starts off slow\, then a decent fresh blend of SSW swell and short
  er-period NW swell moves in\, for surf mainly running waist-stomach-chest 
- high in the afternoon\, while summertime focal points push head high\, sho
- wing largest late.  Dawn patrol is slowed by an early AM high tide. Mid da
- y gets drained by a negative low\, then incoming tide push helps through m
- uch of the afternoon. \n\nLight winds due all day\, variable in the mornin
- g\, southerly sea  breeze for the afternoon. 
+ high in the afternoon\, while summertime focal points push head high\, lar
+ gest on the PM tide push.  Dawn patrol is slowed by an early AM high tide.
+  Mid day gets drained by a negative low\, then incoming tide push helps th
+ rough much of the afternoon. \n\nLight winds due all day\, variable in the
+  morning\, southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -71,11 +21,11 @@ DTEND:20260328T190000
 DESCRIPTION:TIDES:\n-0.077ft at 16:12\n-2.981ft at 19:00\n\nOBSERVATION:\n
  Morning starts off slow\, then a decent fresh blend of SSW swell and short
  er-period NW swell moves in\, for surf mainly running waist-stomach-chest 
- high in the afternoon\, while summertime focal points push head high\, sho
- wing largest late.  Dawn patrol is slowed by an early AM high tide. Mid da
- y gets drained by a negative low\, then incoming tide push helps through m
- uch of the afternoon. \n\nLight winds due all day\, variable in the mornin
- g\, southerly sea  breeze for the afternoon. 
+ high in the afternoon\, while summertime focal points push head high\, lar
+ gest on the PM tide push.  Dawn patrol is slowed by an early AM high tide.
+  Mid day gets drained by a negative low\, then incoming tide push helps th
+ rough much of the afternoon. \n\nLight winds due all day\, variable in the
+  morning\, southerly sea breeze for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -105,25 +55,45 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260330T120600
 DTEND:20260330T150600
-DESCRIPTION:-2.939ft at 12:06\n-0.036ft at 15:06
+DESCRIPTION:TIDES:\n-2.939ft at 12:06\n-0.036ft at 15:06\n\nOBSERVATION:\n
+ Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
+ g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
+ gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nMorning w
+ inds look light\, then light+ SW onshore due for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260330T163600
 DTEND:20260330T192400
-DESCRIPTION:-0.027ft at 16:36\n-2.702ft at 19:24
+DESCRIPTION:TIDES:\n-0.027ft at 16:36\n-2.702ft at 19:24\n\nOBSERVATION:\n
+ Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
+ g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
+ gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nMorning w
+ inds look light\, then light+ SW onshore due for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260331T070000
 DTEND:20260331T073000
-DESCRIPTION:-2.499ft at 07:00\n-2.999ft at 07:30
+DESCRIPTION:TIDES:\n-2.499ft at 07:00\n-2.999ft at 07:30\n\nOBSERVATION:\n
+ Morning starts off small with meager swell and a 5'+ mid AM high tide.  Wa
+ ves getting thigh-stomach high zone over the afternoon as fresh mix of WNW
+  swell and shorter-period SSW windswell rolls in. Nice incoming tide push 
+ later afternoon/evening. \n\nConditions looking a little sketchy at this p
+ oint\, with SSW winds due through the day\, light+ in the morning then ris
+ ing to moderate during the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260331T124800
 DTEND:20260331T192400
-DESCRIPTION:-2.956ft at 12:48\n-2.411ft at 19:24
+DESCRIPTION:TIDES:\n-2.956ft at 12:48\n-2.411ft at 19:24\n\nOBSERVATION:\n
+ Morning starts off small with meager swell and a 5'+ mid AM high tide.  Wa
+ ves getting thigh-stomach high zone over the afternoon as fresh mix of WNW
+  swell and shorter-period SSW windswell rolls in. Nice incoming tide push 
+ later afternoon/evening. \n\nConditions looking a little sketchy at this p
+ oint\, with SSW winds due through the day\, light+ in the morning then ris
+ ing to moderate during the afternoon.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -226,5 +196,17 @@ SUMMARY:Surf's Up
 DTSTART:20260410T074200
 DTEND:20260410T180600
 DESCRIPTION:-2.985ft at 07:42\n-2.981ft at 18:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260411T084200
+DTEND:20260411T181800
+DESCRIPTION:-2.991ft at 08:42\n-2.965ft at 18:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260412T094200
+DTEND:20260412T183000
+DESCRIPTION:-2.935ft at 09:42\n-2.992ft at 18:30
 END:VEVENT
 END:VCALENDAR
