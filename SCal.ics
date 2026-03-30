@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260329T111800
-DTEND:20260329T140000
-DESCRIPTION:TIDES:\n-2.953ft at 11:18\n-0.015ft at 14:00\n\nOBSERVATION:\n
- SSW Southern Hemi pulse eases\, along with NW swell. Widespread waist to s
- tomach high waves in the morning as standouts see better sets\, then surf 
- slowly winds down during the day. Mid morning is slowed by a high tide. Mi
- d afternoon gets drained by a negative low tide.  Best to plan around the 
- tide extremes. \n\nLight/variable winds most of the morning\, followed by 
- a light SW sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260329T163600
-DTEND:20260329T191800
-DESCRIPTION:TIDES:\n-0.066ft at 16:36\n-2.929ft at 19:18\n\nOBSERVATION:\n
- SSW Southern Hemi pulse eases\, along with NW swell. Widespread waist to s
- tomach high waves in the morning as standouts see better sets\, then surf 
- slowly winds down during the day. Mid morning is slowed by a high tide. Mi
- d afternoon gets drained by a negative low tide.  Best to plan around the 
- tide extremes. \n\nLight/variable winds most of the morning\, followed by 
- a light SW sea breeze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260330T120600
 DTEND:20260330T150600
 DESCRIPTION:TIDES:\n-2.939ft at 12:06\n-0.036ft at 15:06\n\nOBSERVATION:\n
  Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
  g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
- gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nMorning w
- inds look light\, then light+ SW onshore due for the afternoon. 
+ gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nClean sta
+ rt and winds stay decent as the tide drops midday/early afternoon. Expect 
+ a little SW wind wrapping into town for some crumble in the afternoon. Eve
+ ning window worth watching as the tide recovers from a drained mid-PM low.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -42,8 +20,10 @@ DTEND:20260330T192400
 DESCRIPTION:TIDES:\n-0.027ft at 16:36\n-2.702ft at 19:24\n\nOBSERVATION:\n
  Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
  g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
- gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nMorning w
- inds look light\, then light+ SW onshore due for the afternoon. 
+ gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nClean sta
+ rt and winds stay decent as the tide drops midday/early afternoon. Expect 
+ a little SW wind wrapping into town for some crumble in the afternoon. Eve
+ ning window worth watching as the tide recovers from a drained mid-PM low.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -95,13 +75,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260402T065400
 DTEND:20260402T093000
-DESCRIPTION:-0.589ft at 06:54\n-2.96ft at 09:30
+DESCRIPTION:TIDES:\n-0.589ft at 06:54\n-2.96ft at 09:30\n\nOBSERVATION:\nA
+  mix of shorter and mid-period NW swells keeps waist-chest high waves runn
+ ing in the morning\, possibly building throughout the day\, especially in 
+ the afternoon. Nice morning tide push and light winds for the best shape o
+ f the day.\n\nClean morning window and potential for afternoon offshores\,
+  but the wind forecast is lower confidence for now.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260402T140600
 DTEND:20260402T193000
-DESCRIPTION:-2.971ft at 14:06\n-2.238ft at 19:30
+DESCRIPTION:TIDES:\n-2.971ft at 14:06\n-2.238ft at 19:30\n\nOBSERVATION:\n
+ A mix of shorter and mid-period NW swells keeps waist-chest high waves run
+ ning in the morning\, possibly building throughout the day\, especially in
+  the afternoon. Nice morning tide push and light winds for the best shape 
+ of the day.\n\nClean morning window and potential for afternoon offshores\
+ , but the wind forecast is lower confidence for now.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -198,5 +188,11 @@ SUMMARY:Surf's Up
 DTSTART:20260413T103000
 DTEND:20260413T183600
 DESCRIPTION:-2.988ft at 10:30\n-2.964ft at 18:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260414T112400
+DTEND:20260414T184200
+DESCRIPTION:-2.918ft at 11:24\n-2.922ft at 18:42
 END:VEVENT
 END:VCALENDAR
