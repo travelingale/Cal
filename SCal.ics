@@ -3,119 +3,93 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260330T120600
-DTEND:20260330T150600
-DESCRIPTION:TIDES:\n-2.939ft at 12:06\n-0.036ft at 15:06\n\nOBSERVATION:\n
- Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
- g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
- gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nClean sta
- rt and winds stay decent as the tide drops midday/early afternoon. Expect 
- a little SW wind wrapping into town for some crumble in the afternoon. Eve
- ning window worth watching as the tide recovers from a drained mid-PM low.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260330T163600
-DTEND:20260330T192400
-DESCRIPTION:TIDES:\n-0.027ft at 16:36\n-2.702ft at 19:24\n\nOBSERVATION:\n
- Easing\, modest scale mix of SSW swell and NW swell for surf mainly runnin
- g thigh to waist high. Tide sensitive breaks bogged down by mid morning hi
- gh tide. Ebbing\, early afternoon tide likely most favorable.\n\nClean sta
- rt and winds stay decent as the tide drops midday/early afternoon. Expect 
- a little SW wind wrapping into town for some crumble in the afternoon. Eve
- ning window worth watching as the tide recovers from a drained mid-PM low.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260331T070000
-DTEND:20260331T073000
-DESCRIPTION:TIDES:\n-2.499ft at 07:00\n-2.999ft at 07:30\n\nOBSERVATION:\n
- Morning starts off small with meager swell and a 5'+ mid AM high tide.  Wa
- ves getting thigh-stomach high zone over the afternoon as fresh mix of WNW
-  swell and shorter-period SSW windswell rolls in. Nice incoming tide push 
- later afternoon/evening. \n\nConditions looking a little sketchy at this p
- oint\, with SSW winds due through the day\, light+ in the morning then ris
- ing to moderate during the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260331T124800
-DTEND:20260331T192400
-DESCRIPTION:TIDES:\n-2.956ft at 12:48\n-2.411ft at 19:24\n\nOBSERVATION:\n
- Morning starts off small with meager swell and a 5'+ mid AM high tide.  Wa
- ves getting thigh-stomach high zone over the afternoon as fresh mix of WNW
-  swell and shorter-period SSW windswell rolls in. Nice incoming tide push 
- later afternoon/evening. \n\nConditions looking a little sketchy at this p
- oint\, with SSW winds due through the day\, light+ in the morning then ris
- ing to moderate during the afternoon.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260401T065400
 DTEND:20260401T083000
 DESCRIPTION:TIDES:\n-1.384ft at 06:54\n-2.964ft at 08:30\n\nOBSERVATION:\n
- Modest scale mix of peaking WNW swell and lingering SSW swell looks good f
- or waist-stomach-chest high surf in the morning\, followed by slow fading 
- waves over the afternoon. \n\nNice tide push early morning\, then tide sen
- sitive spots get bogged down by later morning high tide. Offshore NW winds
-  due all day\, light in the morning then moderate for the afternoon. 
+ Modest scale mix of WNW swell and SSW swell for thigh-waist high surf. Fav
+ orable early morning tide push\, then later AM/mid day higher tide slows t
+ ide sensitive breaks. Incoming tide helps again later afternoon/evening. \
+ n\nLight S winds much of the morning\, shifting SW and puffing up to low-e
+ nd moderate over the afternoon for some lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260401T133000
 DTEND:20260401T193000
 DESCRIPTION:TIDES:\n-2.928ft at 13:30\n-2.324ft at 19:30\n\nOBSERVATION:\n
- Modest scale mix of peaking WNW swell and lingering SSW swell looks good f
- or waist-stomach-chest high surf in the morning\, followed by slow fading 
- waves over the afternoon. \n\nNice tide push early morning\, then tide sen
- sitive spots get bogged down by later morning high tide. Offshore NW winds
-  due all day\, light in the morning then moderate for the afternoon. 
+ Modest scale mix of WNW swell and SSW swell for thigh-waist high surf. Fav
+ orable early morning tide push\, then later AM/mid day higher tide slows t
+ ide sensitive breaks. Incoming tide helps again later afternoon/evening. \
+ n\nLight S winds much of the morning\, shifting SW and puffing up to low-e
+ nd moderate over the afternoon for some lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260402T065400
 DTEND:20260402T093000
-DESCRIPTION:TIDES:\n-0.589ft at 06:54\n-2.96ft at 09:30\n\nOBSERVATION:\nA
-  mix of shorter and mid-period NW swells keeps waist-chest high waves runn
- ing in the morning\, possibly building throughout the day\, especially in 
- the afternoon. Nice morning tide push and light winds for the best shape o
- f the day.\n\nClean morning window and potential for afternoon offshores\,
-  but the wind forecast is lower confidence for now.
+DESCRIPTION:TIDES:\n-0.589ft at 06:54\n-2.96ft at 09:30\n\nOBSERVATION:\nM
+ orning stays on the smaller side\, thigh-waist high\, then a fresh mix of 
+ shorter and mid-period NW swell gradually rises\, along with some longer-p
+ eriod SW swell\, during the back half of the day\, setting up  keeps waist
+ -chest high waves\, showing most size late. Nice early morning tide push. 
+ Tide sensitive spots slowed by mid day high.  \n\nWinds looking NW-NNW all
+  day for offshore conditions in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260402T140600
 DTEND:20260402T193000
 DESCRIPTION:TIDES:\n-2.971ft at 14:06\n-2.238ft at 19:30\n\nOBSERVATION:\n
- A mix of shorter and mid-period NW swells keeps waist-chest high waves run
- ning in the morning\, possibly building throughout the day\, especially in
-  the afternoon. Nice morning tide push and light winds for the best shape 
- of the day.\n\nClean morning window and potential for afternoon offshores\
- , but the wind forecast is lower confidence for now.
+ Morning stays on the smaller side\, thigh-waist high\, then a fresh mix of
+  shorter and mid-period NW swell gradually rises\, along with some longer-
+ period SW swell\, during the back half of the day\, setting up  keeps wais
+ t-chest high waves\, showing most size late. Nice early morning tide push.
+  Tide sensitive spots slowed by mid day high.  \n\nWinds looking NW-NNW al
+ l day for offshore conditions in town. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260403T065400
 DTEND:20260403T103000
-DESCRIPTION:-0.102ft at 06:54\n-2.947ft at 10:30
+DESCRIPTION:TIDES:\n-0.102ft at 06:54\n-2.947ft at 10:30\n\nOBSERVATION:\n
+ Nice blend of NW swell and longer-period SSW/S swell looks good for waist 
+ to shoulder high surf in the morning\, tapering off a bit over the afterno
+ on. Incoming tide push helps much of the morning\, then the higher mid day
+  tide bogs down tide sensitive spots some. \n\nLight\, primarily offshore 
+ winds expected through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260403T144200
 DTEND:20260403T193000
-DESCRIPTION:-2.997ft at 14:42\n-2.266ft at 19:30
+DESCRIPTION:TIDES:\n-2.997ft at 14:42\n-2.266ft at 19:30\n\nOBSERVATION:\n
+ Nice blend of NW swell and longer-period SSW/S swell looks good for waist 
+ to shoulder high surf in the morning\, tapering off a bit over the afterno
+ on. Incoming tide push helps much of the morning\, then the higher mid day
+  tide bogs down tide sensitive spots some. \n\nLight\, primarily offshore 
+ winds expected through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260404T072400
 DTEND:20260404T113600
-DESCRIPTION:-0.002ft at 07:24\n-2.95ft at 11:36
+DESCRIPTION:TIDES:\n-0.002ft at 07:24\n-2.95ft at 11:36\n\nOBSERVATION:\nA
+  fair size blend of steeper-angled\, selective SSW/S swell rolls in\, as s
+ horter-period NW swell fades. Good southerly exposures are waist to chest 
+ high\, while focal points see head high sets on the morning tide push. \n\
+ nLight winds due all day\, offshore most of the morning\, SW sea breeze in
+  the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260404T152400
 DTEND:20260404T193000
-DESCRIPTION:-2.969ft at 15:24\n-2.386ft at 19:30
+DESCRIPTION:TIDES:\n-2.969ft at 15:24\n-2.386ft at 19:30\n\nOBSERVATION:\n
+ A fair size blend of steeper-angled\, selective SSW/S swell rolls in\, as 
+ shorter-period NW swell fades. Good southerly exposures are waist to chest
+  high\, while focal points see head high sets on the morning tide push. \n
+ \nLight winds due all day\, offshore most of the morning\, SW sea breeze i
+ n the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -194,5 +168,29 @@ SUMMARY:Surf's Up
 DTSTART:20260414T112400
 DTEND:20260414T184200
 DESCRIPTION:-2.918ft at 11:24\n-2.922ft at 18:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260415T063600
+DTEND:20260415T071200
+DESCRIPTION:-2.377ft at 06:36\n-2.946ft at 07:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260415T121200
+DTEND:20260415T185400
+DESCRIPTION:-2.933ft at 12:12\n-2.962ft at 18:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260416T063600
+DTEND:20260416T081800
+DESCRIPTION:-1.192ft at 06:36\n-2.977ft at 08:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260416T130000
+DTEND:20260416T190600
+DESCRIPTION:-2.961ft at 13:00\n-2.964ft at 19:06
 END:VEVENT
 END:VCALENDAR
