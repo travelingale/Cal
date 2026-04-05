@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260404T072400
-DTEND:20260404T113600
-DESCRIPTION:TIDES:\n-0.002ft at 07:24\n-2.95ft at 11:36\n\nOBSERVATION:\nA
-  fair size blend of steeper-angled\, selective SSW/S swell rolls in\, as s
- horter-period NW swell fades. Good southerly exposures are thigh-waist hig
- h+\, while focal points see better sets on the morning tide. \n\nLight win
- ds through the day\, offshore most of the morning\, SW sea breeze in the a
- fternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260404T152400
-DTEND:20260404T193000
-DESCRIPTION:TIDES:\n-2.969ft at 15:24\n-2.386ft at 19:30\n\nOBSERVATION:\n
- A fair size blend of steeper-angled\, selective SSW/S swell rolls in\, as 
- shorter-period NW swell fades. Good southerly exposures are thigh-waist hi
- gh+\, while focal points see better sets on the morning tide. \n\nLight wi
- nds through the day\, offshore most of the morning\, SW sea breeze in the 
- afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260405T064800
 DTEND:20260405T130000
 DESCRIPTION:TIDES:\n-0.174ft at 06:48\n-2.998ft at 13:00\n\nOBSERVATION:\n
@@ -55,8 +33,8 @@ DESCRIPTION:TIDES:\n-0.663ft at 06:48\n-2.993ft at 14:42\n\nOBSERVATION:\n
  Continued long-period\, selective S swell rolling in\, along with a little
   lingering NW swell\, maintaining waist to chest high waves at exposures\,
   while standouts go head high. Favorable tide push most of the morning. \n
- \nLight winds due all day\, offshore most of the morning\, followed by a S
- W sea breeze in the afternoon. 
+ \nLight winds due all day\, offshore most of the morning\, followed by a W
+  sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -66,8 +44,8 @@ DESCRIPTION:TIDES:\n-2.994ft at 16:42\n-2.765ft at 19:30\n\nOBSERVATION:\n
  Continued long-period\, selective S swell rolling in\, along with a little
   lingering NW swell\, maintaining waist to chest high waves at exposures\,
   while standouts go head high. Favorable tide push most of the morning. \n
- \nLight winds due all day\, offshore most of the morning\, followed by a S
- W sea breeze in the afternoon. 
+ \nLight winds due all day\, offshore most of the morning\, followed by a W
+  sea breeze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -75,9 +53,10 @@ DTSTART:20260407T064800
 DTEND:20260407T163600
 DESCRIPTION:TIDES:\n-1.349ft at 06:48\n-2.996ft at 16:36\n\nOBSERVATION:\n
  Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
- tomach-chest high waves at well exposed spots in the morning\, then surf s
- lowly tapers off during the day. \n\nWinds looking light/variable for a cl
- ean morning\, then rising WSW winds add some lump over the afternoon. 
+ tomach-chest high waves at well exposed spots in the morning with a few la
+ rger sets. Surf slowly tapers off during the day but still enough energy f
+ or a surf in the PM.\n\nWinds looking light/variable for a clean morning\,
+  then rising W winds over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -85,15 +64,20 @@ DTSTART:20260407T181800
 DTEND:20260407T193000
 DESCRIPTION:TIDES:\n-2.996ft at 18:18\n-2.962ft at 19:30\n\nOBSERVATION:\n
  Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
- tomach-chest high waves at well exposed spots in the morning\, then surf s
- lowly tapers off during the day. \n\nWinds looking light/variable for a cl
- ean morning\, then rising WSW winds add some lump over the afternoon. 
+ tomach-chest high waves at well exposed spots in the morning with a few la
+ rger sets. Surf slowly tapers off during the day but still enough energy f
+ or a surf in the PM.\n\nWinds looking light/variable for a clean morning\,
+  then rising W winds over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260408T064800
 DTEND:20260408T171800
-DESCRIPTION:-2.13ft at 06:48\n-2.982ft at 17:18
+DESCRIPTION:TIDES:\n-2.13ft at 06:48\n-2.982ft at 17:18\n\nOBSERVATION:\nO
+ ld S swell drops while NW swell lingers\, for mainly thigh to stomach high
+  surf. Best shape due on the mid day tide push. \n\nLight/variable winds d
+ ue in the morning\, followed by low-end moderate onshores in the afternoon
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -190,5 +174,17 @@ SUMMARY:Surf's Up
 DTSTART:20260419T154200
 DTEND:20260419T194200
 DESCRIPTION:-2.989ft at 15:42\n-2.78ft at 19:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260420T100600
+DTEND:20260420T130600
+DESCRIPTION:-0.089ft at 10:06\n-2.97ft at 13:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260420T165400
+DTEND:20260420T194200
+DESCRIPTION:-2.984ft at 16:54\n-2.701ft at 19:42
 END:VEVENT
 END:VCALENDAR
