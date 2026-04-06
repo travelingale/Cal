@@ -3,38 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260405T064800
-DTEND:20260405T130000
-DESCRIPTION:TIDES:\n-0.174ft at 06:48\n-2.998ft at 13:00\n\nOBSERVATION:\n
- Primarily long-period\, selective S swell getting in\, along with a little
-  NW swell. Good summertime breaks are running waist to chest high\, as sta
- ndouts hit head high. Dawn patrol drained some by a negative low tide\, th
- en incoming tide push gets an assist for the rest of the morning. \n\nLigh
- t winds due all day\, offshore most of the morning\, WSW breeze in the aft
- ernoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260405T160000
-DTEND:20260405T193000
-DESCRIPTION:TIDES:\n-2.992ft at 16:00\n-2.564ft at 19:30\n\nOBSERVATION:\n
- Primarily long-period\, selective S swell getting in\, along with a little
-  NW swell. Good summertime breaks are running waist to chest high\, as sta
- ndouts hit head high. Dawn patrol drained some by a negative low tide\, th
- en incoming tide push gets an assist for the rest of the morning. \n\nLigh
- t winds due all day\, offshore most of the morning\, WSW breeze in the aft
- ernoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260406T064800
 DTEND:20260406T144200
 DESCRIPTION:TIDES:\n-0.663ft at 06:48\n-2.993ft at 14:42\n\nOBSERVATION:\n
  Continued long-period\, selective S swell rolling in\, along with a little
   lingering NW swell\, maintaining waist to chest high waves at exposures\,
-  while standouts go head high. Favorable tide push most of the morning. \n
- \nLight winds due all day\, offshore most of the morning\, followed by a W
-  sea breeze in the afternoon. 
+  while select standouts go shoulder-head high. Favorable tide push most of
+  the morning. \n\nLight offshore for the morning\, followed by a W sea bre
+ eze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -43,9 +19,9 @@ DTEND:20260406T193000
 DESCRIPTION:TIDES:\n-2.994ft at 16:42\n-2.765ft at 19:30\n\nOBSERVATION:\n
  Continued long-period\, selective S swell rolling in\, along with a little
   lingering NW swell\, maintaining waist to chest high waves at exposures\,
-  while standouts go head high. Favorable tide push most of the morning. \n
- \nLight winds due all day\, offshore most of the morning\, followed by a W
-  sea breeze in the afternoon. 
+  while select standouts go shoulder-head high. Favorable tide push most of
+  the morning. \n\nLight offshore for the morning\, followed by a W sea bre
+ eze in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -83,7 +59,14 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260409T064200
 DTEND:20260409T174800
-DESCRIPTION:-2.969ft at 06:42\n-2.99ft at 17:48
+DESCRIPTION:TIDES:\n-2.969ft at 06:42\n-2.99ft at 17:48\n\nOBSERVATION:\nW
+ e're expecting a nice shot of SSW swell to begin filling in courtesy of a 
+ good looking low that recently spun up below New Zealand. This swell will 
+ also be a bit less selective than the S swell we saw early in the week. Th
+ is swell will show best size at exposures through the afternoon in the wai
+ st-chest+ high range. \n\nThere will also be some minor WNW swell on the 
+ rise. A bit smaller than the SSW swell but likely enough help with size/co
+ nsistency at some spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -186,5 +169,17 @@ SUMMARY:Surf's Up
 DTSTART:20260420T165400
 DTEND:20260420T194200
 DESCRIPTION:-2.984ft at 16:54\n-2.701ft at 19:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260421T110600
+DTEND:20260421T142400
+DESCRIPTION:-0.05ft at 11:06\n-2.953ft at 14:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260421T183000
+DTEND:20260421T194800
+DESCRIPTION:-2.998ft at 18:30\n-2.837ft at 19:48
 END:VEVENT
 END:VCALENDAR
