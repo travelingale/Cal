@@ -3,36 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260406T064800
-DTEND:20260406T144200
-DESCRIPTION:TIDES:\n-0.663ft at 06:48\n-2.993ft at 14:42\n\nOBSERVATION:\n
- Continued long-period\, selective S swell rolling in\, along with a little
-  lingering NW swell\, maintaining waist to chest high waves at exposures\,
-  while select standouts go shoulder-head high. Favorable tide push most of
-  the morning. \n\nLight offshore for the morning\, followed by a W sea bre
- eze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260406T164200
-DTEND:20260406T193000
-DESCRIPTION:TIDES:\n-2.994ft at 16:42\n-2.765ft at 19:30\n\nOBSERVATION:\n
- Continued long-period\, selective S swell rolling in\, along with a little
-  lingering NW swell\, maintaining waist to chest high waves at exposures\,
-  while select standouts go shoulder-head high. Favorable tide push most of
-  the morning. \n\nLight offshore for the morning\, followed by a W sea bre
- eze in the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260407T064800
 DTEND:20260407T163600
 DESCRIPTION:TIDES:\n-1.349ft at 06:48\n-2.996ft at 16:36\n\nOBSERVATION:\n
  Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
  tomach-chest high waves at well exposed spots in the morning with a few la
  rger sets. Surf slowly tapers off during the day but still enough energy f
- or a surf in the PM.\n\nWinds looking light/variable for a clean morning\,
-  then rising W winds over the afternoon. 
+ or a surf in the PM.\n\nWinds are light/variable for a clean early morning
+ \, then a light southerly sea breeze over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -42,8 +20,8 @@ DESCRIPTION:TIDES:\n-2.996ft at 18:18\n-2.962ft at 19:30\n\nOBSERVATION:\n
  Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
  tomach-chest high waves at well exposed spots in the morning with a few la
  rger sets. Surf slowly tapers off during the day but still enough energy f
- or a surf in the PM.\n\nWinds looking light/variable for a clean morning\,
-  then rising W winds over the afternoon. 
+ or a surf in the PM.\n\nWinds are light/variable for a clean early morning
+ \, then a light southerly sea breeze over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -52,8 +30,8 @@ DTEND:20260408T171800
 DESCRIPTION:TIDES:\n-2.13ft at 06:48\n-2.982ft at 17:18\n\nOBSERVATION:\nO
  ld S swell drops while NW swell lingers\, for mainly thigh to stomach high
   surf. Best shape due on the mid day tide push. \n\nLight/variable winds d
- ue in the morning\, followed by low-end moderate onshores in the afternoon
- . 
+ ue in the morning\, followed by a mainly light sea breeze most of the afte
+ rnoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -66,13 +44,20 @@ DESCRIPTION:TIDES:\n-2.969ft at 06:42\n-2.99ft at 17:48\n\nOBSERVATION:\nW
  is swell will show best size at exposures through the afternoon in the wai
  st-chest+ high range. \n\nThere will also be some minor WNW swell on the 
  rise. A bit smaller than the SSW swell but likely enough help with size/co
- nsistency at some spots.
+ nsistency at some spots.\n\nPossible SW wind bump in the PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260410T074200
 DTEND:20260410T180600
-DESCRIPTION:-2.985ft at 07:42\n-2.981ft at 18:06
+DESCRIPTION:TIDES:\n-2.985ft at 07:42\n-2.981ft at 18:06\n\nOBSERVATION:\n
+ Size will be up a notch from Thursday with widespread waist to chest high 
+ surf at average breaks. SSW swell builds a little more and holds\, with ex
+ posures seeing sets up to head high to a little larger. Small WNW swell bu
+ mps up a touch\, continuing to help the cause especially at spots that don
+ 't receive as much southerly energy. \n\nSome light onshore wind is possi
+ ble from an expected nearby low\, but right now it's looking pretty light 
+ and mainly due in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -181,5 +166,17 @@ SUMMARY:Surf's Up
 DTSTART:20260421T183000
 DTEND:20260421T194800
 DESCRIPTION:-2.998ft at 18:30\n-2.837ft at 19:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260422T063000
+DTEND:20260422T075400
+DESCRIPTION:-1.669ft at 06:30\n-0.065ft at 07:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260422T120600
+DTEND:20260422T153000
+DESCRIPTION:-0.04ft at 12:06\n-2.951ft at 15:30
 END:VEVENT
 END:VCALENDAR
