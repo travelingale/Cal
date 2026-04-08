@@ -3,48 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260407T064800
-DTEND:20260407T163600
-DESCRIPTION:TIDES:\n-1.349ft at 06:48\n-2.996ft at 16:36\n\nOBSERVATION:\n
- Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
- tomach-chest high waves at well exposed spots in the morning with a few la
- rger sets. Surf slowly tapers off during the day but still enough energy f
- or a surf in the PM.\n\nWinds are light/variable for a clean early morning
- \, then a light southerly sea breeze over the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260407T181800
-DTEND:20260407T193000
-DESCRIPTION:TIDES:\n-2.996ft at 18:18\n-2.962ft at 19:30\n\nOBSERVATION:\n
- Easing\, mid-period S swell\, plus a little NW swell\, is good for waist-s
- tomach-chest high waves at well exposed spots in the morning with a few la
- rger sets. Surf slowly tapers off during the day but still enough energy f
- or a surf in the PM.\n\nWinds are light/variable for a clean early morning
- \, then a light southerly sea breeze over the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260408T064800
 DTEND:20260408T171800
 DESCRIPTION:TIDES:\n-2.13ft at 06:48\n-2.982ft at 17:18\n\nOBSERVATION:\nO
- ld S swell drops while NW swell lingers\, for mainly thigh to stomach high
-  surf. Best shape due on the mid day tide push. \n\nLight/variable winds d
- ue in the morning\, followed by a mainly light sea breeze most of the afte
- rnoon. 
+ ld S swell eases while NW swell lingers\, for mainly thigh to stomach high
+  surf\, while standout summer breaks see better sets. Little drained on th
+ e mid morning low tide\, then best shape on the mid day tide push. \n\nLig
+ ht/variable winds in the morning\, followed by a light SW sea breeze most 
+ of the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260409T064200
 DTEND:20260409T174800
-DESCRIPTION:TIDES:\n-2.969ft at 06:42\n-2.99ft at 17:48\n\nOBSERVATION:\nW
- e're expecting a nice shot of SSW swell to begin filling in courtesy of a 
- good looking low that recently spun up below New Zealand. This swell will 
- also be a bit less selective than the S swell we saw early in the week. Th
- is swell will show best size at exposures through the afternoon in the wai
- st-chest+ high range. \n\nThere will also be some minor WNW swell on the 
- rise. A bit smaller than the SSW swell but likely enough help with size/co
- nsistency at some spots.\n\nPossible SW wind bump in the PM.
+DESCRIPTION:TIDES:\n-2.969ft at 06:42\n-2.99ft at 17:48\n\nOBSERVATION:\nA
+  nice shot of SSW swell begins filling in courtesy of a good looking low t
+ hat was spinning near New Zealand. This swell will also be a bit less sele
+ ctive than the S swell rolling in during the first half of this week. This
+  swell will show best size at exposures through the afternoon in the waist
+ -chest+ high range. \n\nThere will also be some minor WNW swell. Smaller 
+ than the SSW swell but enough to help with size/consistency at some spots.
+ \n\nAM wind is light. Some WSW wind bump due in the PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -55,15 +34,22 @@ DESCRIPTION:TIDES:\n-2.985ft at 07:42\n-2.981ft at 18:06\n\nOBSERVATION:\n
  surf at average breaks. SSW swell builds a little more and holds\, with ex
  posures seeing sets up to head high to a little larger. Small WNW swell bu
  mps up a touch\, continuing to help the cause especially at spots that don
- 't receive as much southerly energy. \n\nSome light onshore wind is possi
- ble from an expected nearby low\, but right now it's looking pretty light 
- and mainly due in the afternoon. 
+ 't receive as much southerly energy. \n\nSome light onshore wind expected
+  in the morning\, then moderate SW onshores due in the afternoon for some 
+ bump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260411T084200
 DTEND:20260411T181800
-DESCRIPTION:-2.991ft at 08:42\n-2.965ft at 18:18
+DESCRIPTION:TIDES:\n-2.991ft at 08:42\n-2.965ft at 18:18\n\nOBSERVATION:\n
+ Size will hold from Friday as primary SSW swell continues for more widespr
+ ead waist to chest high surf. Exposures continue to see sets in the head h
+ igh+ range. WNW swell eases and will be less noticeable than the primary S
+ SW swell. Dawn patrol high tide slows tide sensitive breaks\, getting bett
+ er as the morning tide ebbs. \n\nIt will be another day of quality waves\,
+  with the best conditions in the morning. Moderate onshore SW wind bump li
+ kely in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -178,5 +164,17 @@ SUMMARY:Surf's Up
 DTSTART:20260422T120600
 DTEND:20260422T153000
 DESCRIPTION:-0.04ft at 12:06\n-2.951ft at 15:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260423T063000
+DTEND:20260423T091200
+DESCRIPTION:-2.995ft at 06:30\n-0.065ft at 09:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260423T130000
+DTEND:20260423T161800
+DESCRIPTION:-0.019ft at 13:00\n-2.937ft at 16:18
 END:VEVENT
 END:VCALENDAR
