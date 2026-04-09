@@ -3,27 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260408T064800
-DTEND:20260408T171800
-DESCRIPTION:TIDES:\n-2.13ft at 06:48\n-2.982ft at 17:18\n\nOBSERVATION:\nO
- ld S swell eases while NW swell lingers\, for mainly thigh to stomach high
-  surf\, while standout summer breaks see better sets. Little drained on th
- e mid morning low tide\, then best shape on the mid day tide push. \n\nLig
- ht/variable winds in the morning\, followed by a light SW sea breeze most 
- of the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260409T064200
 DTEND:20260409T174800
 DESCRIPTION:TIDES:\n-2.969ft at 06:42\n-2.99ft at 17:48\n\nOBSERVATION:\nA
   nice shot of SSW swell begins filling in courtesy of a good looking low t
  hat was spinning near New Zealand. This swell will also be a bit less sele
- ctive than the S swell rolling in during the first half of this week. This
-  swell will show best size at exposures through the afternoon in the waist
- -chest+ high range. \n\nThere will also be some minor WNW swell. Smaller 
- than the SSW swell but enough to help with size/consistency at some spots.
- \n\nAM wind is light. Some WSW wind bump due in the PM.
+ ctive than the S swell rolling in during the first half of this week. The 
+ swell will show best size at exposures through the afternoon in the waist-
+ chest+ high range. \n\nThere will also be some minor WNW swell. Smaller t
+ han the SSW swell but enough to help with size/consistency at some spots.\
+ n\nAM wind is light. Some WSW wind bump develops in the PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -55,7 +44,13 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260412T094200
 DTEND:20260412T183000
-DESCRIPTION:-2.935ft at 09:42\n-2.992ft at 18:30
+DESCRIPTION:TIDES:\n-2.935ft at 09:42\n-2.992ft at 18:30\n\nOBSERVATION:\n
+ There is potential for some new W windswell joining in as SSW Southern Hem
+ i lingers. That mix looks good for fairly jumbled surf running chest to sh
+ oulder high+\, while standouts go a foot overhead. Dawn patrol's high tide
+  will slow down tide sensitive breaks. Ebbing tide helps shape most of the
+  morning.\n\nRight now the call is for moderate SW-WSW winds through the d
+ ay for lower quality conditions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -176,5 +171,17 @@ SUMMARY:Surf's Up
 DTSTART:20260423T130000
 DTEND:20260423T161800
 DESCRIPTION:-0.019ft at 13:00\n-2.937ft at 16:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260424T073600
+DTEND:20260424T103600
+DESCRIPTION:-2.967ft at 07:36\n-0.012ft at 10:36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260424T134800
+DTEND:20260424T165400
+DESCRIPTION:-0.05ft at 13:48\n-2.924ft at 16:54
 END:VEVENT
 END:VCALENDAR
