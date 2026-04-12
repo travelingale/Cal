@@ -3,29 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260411T084200
-DTEND:20260411T181800
-DESCRIPTION:TIDES:\n-2.991ft at 08:42\n-2.965ft at 18:18\n\nOBSERVATION:\n
- Size holds as primary SSW swell and secondary WNW swell continues and some
-  new windswell joins in. Widespread waist to shoulder high+ waves\, as sta
- ndouts hit 1-2' overhead. Dawn patrol high tide slows tide sensitive break
- s\, getting better as the morning tide ebbs. \n\nUnfortunately\, there wil
- l also be SW-SSW winds through the day\, light+ for the dawn patrol\, mode
- rate by mid morning\, then getting breezy in the afternoon for sloppy cond
- itions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260412T094200
 DTEND:20260412T183000
 DESCRIPTION:TIDES:\n-2.935ft at 09:42\n-2.992ft at 18:30\n\nOBSERVATION:\n
  A storm moving into the coast kicks up a peaking W windswell\, as SSW Sout
- hern Hemi lingers and WNW swell fades. That mix looks good for jumbled sur
- f running head high+ at average spots\, while better exposures are consist
- ently overhead in the morning. Slow fading but still punchy waves over the
-  afternoon. \n\nRight now the call is for moderate+ SW winds for a bumpy m
- orning\, then some improvement during the day as the onshores back off a b
- it. 
+ hern Hemi lingers and WNW swell fades. That mix is good for jumbled surf r
+ unning head high+ at average spots\, while better exposures are consistent
+ ly overhead in the morning. Slow fading but still punchy waves over the af
+ ternoon. \n\nModerate SW-WSW winds for generally bumpy conditions.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -54,13 +39,21 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260415T063600
 DTEND:20260415T071200
-DESCRIPTION:-2.377ft at 06:36\n-2.946ft at 07:12
+DESCRIPTION:TIDES:\n-2.377ft at 06:36\n-2.946ft at 07:12\n\nOBSERVATION:\n
+ Old SSW swell and shorter-period WNW swell combo lingers\, keeping waves i
+ n the thigh to waist high zone. Mid morning high tide slows the small surf
+ . \n\nLight/variable winds in the morning\, due to shift light+ offshore N
+ W over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260415T121200
 DTEND:20260415T185400
-DESCRIPTION:-2.933ft at 12:12\n-2.962ft at 18:54
+DESCRIPTION:TIDES:\n-2.933ft at 12:12\n-2.962ft at 18:54\n\nOBSERVATION:\n
+ Old SSW swell and shorter-period WNW swell combo lingers\, keeping waves i
+ n the thigh to waist high zone. Mid morning high tide slows the small surf
+ . \n\nLight/variable winds in the morning\, due to shift light+ offshore N
+ W over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -187,5 +180,11 @@ SUMMARY:Surf's Up
 DTSTART:20260426T094200
 DTEND:20260426T174800
 DESCRIPTION:-2.953ft at 09:42\n-2.968ft at 17:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260427T103600
+DTEND:20260427T180600
+DESCRIPTION:-2.982ft at 10:36\n-2.968ft at 18:06
 END:VEVENT
 END:VCALENDAR
