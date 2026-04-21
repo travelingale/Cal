@@ -3,75 +3,53 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260420T100600
-DTEND:20260420T130600
-DESCRIPTION:TIDES:\n-0.089ft at 10:06\n-2.97ft at 13:06\n\nOBSERVATION:\nO
- ld SSW swell starts the day off small: knee-thigh-waist high\, and drained
-  by an early morning negative low tide. A fresh pulse of mid-period WNW sw
- ell fills in during the day\, potentially setting up waist to chest high+ 
- surf over the afternoon\, largest late. \n\nLight S/SE early\, but overnig
- ht southerly winds look to make for a lumpy start. Even worse conditions d
- ue in the afternoon from breezy to strong S/SSE wind.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260420T165400
-DTEND:20260420T194200
-DESCRIPTION:TIDES:\n-2.984ft at 16:54\n-2.701ft at 19:42\n\nOBSERVATION:\n
- Old SSW swell starts the day off small: knee-thigh-waist high\, and draine
- d by an early morning negative low tide. A fresh pulse of mid-period WNW s
- well fills in during the day\, potentially setting up waist to chest high+
-  surf over the afternoon\, largest late. \n\nLight S/SE early\, but overni
- ght southerly winds look to make for a lumpy start. Even worse conditions 
- due in the afternoon from breezy to strong S/SSE wind.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260421T110600
 DTEND:20260421T142400
 DESCRIPTION:TIDES:\n-0.05ft at 11:06\n-2.953ft at 14:24\n\nOBSERVATION:\nM
- id-period WNW swell\, along with lingering SSW swell\,  is looking good fo
- r waist-shoulder high waves in the morning\, before slowly tapering off a 
- bit during the afternoon. Draining negative low tide mid morning\, then fa
- vorable incoming tide push through mid day. \n\nAt this point\, the call i
- s for mainly light+ SE morning winds\, picking up and shifting SSW for the
-  afternoon.
+ id-period WNW swell\, along with lingering SSW swell\,  is good for widesp
+ read waist-shoulder high waves in the morning while better breaks are head
+  high+. Surf slowly tapers off during the afternoon as the swell mix eases
+ . Draining negative low tide mid morning\, then favorable incoming tide pu
+ sh through mid day. \n\nOnshore SSW winds through the day\, light+ early m
+ orning\, then moderate for most of the rest of the day\, for bumpy conditi
+ ons. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260421T183000
 DTEND:20260421T194800
 DESCRIPTION:TIDES:\n-2.998ft at 18:30\n-2.837ft at 19:48\n\nOBSERVATION:\n
- Mid-period WNW swell\, along with lingering SSW swell\,  is looking good f
- or waist-shoulder high waves in the morning\, before slowly tapering off a
-  bit during the afternoon. Draining negative low tide mid morning\, then f
- avorable incoming tide push through mid day. \n\nAt this point\, the call 
- is for mainly light+ SE morning winds\, picking up and shifting SSW for th
- e afternoon.
+ Mid-period WNW swell\, along with lingering SSW swell\,  is good for wides
+ pread waist-shoulder high waves in the morning while better breaks are hea
+ d high+. Surf slowly tapers off during the afternoon as the swell mix ease
+ s. Draining negative low tide mid morning\, then favorable incoming tide p
+ ush through mid day. \n\nOnshore SSW winds through the day\, light+ early 
+ morning\, then moderate for most of the rest of the day\, for bumpy condit
+ ions. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260422T063000
 DTEND:20260422T075400
 DESCRIPTION:TIDES:\n-1.669ft at 06:30\n-0.065ft at 07:54\n\nOBSERVATION:\n
- Decent mix of WNW/NW swells and some S swell also showing. Knee-waist high
-  surf for average zones\, pushing chest-shoulder high for select spots abl
- e to pull in the S swell on tap.\n\nAnother drained low tide to try and wo
- rk around\, but winds look pretty light all day (and much better than Tues
- day's S wind). The afternoon stays in play with mellow SW/WSW wind wrappin
- g into town.
+ Decent mix of WNW/NW swells and some S swell also showing. Thigh-waist hig
+ h surf for average zones\, pushing chest-shoulder high for select spots ab
+ le to pull in the S swell on tap.\n\nAnother drained mid morning low tide 
+ to try work around\, but light/variable winds due in the morning for impro
+ ving conditions from Tuesday's S wind. The afternoon gets better too as wi
+ nds go offshore WNW for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260422T120600
 DTEND:20260422T153000
 DESCRIPTION:TIDES:\n-0.04ft at 12:06\n-2.951ft at 15:30\n\nOBSERVATION:\nD
- ecent mix of WNW/NW swells and some S swell also showing. Knee-waist high 
- surf for average zones\, pushing chest-shoulder high for select spots able
-  to pull in the S swell on tap.\n\nAnother drained low tide to try and wor
- k around\, but winds look pretty light all day (and much better than Tuesd
- ay's S wind). The afternoon stays in play with mellow SW/WSW wind wrapping
-  into town.
+ ecent mix of WNW/NW swells and some S swell also showing. Thigh-waist high
+  surf for average zones\, pushing chest-shoulder high for select spots abl
+ e to pull in the S swell on tap.\n\nAnother drained mid morning low tide t
+ o try work around\, but light/variable winds due in the morning for improv
+ ing conditions from Tuesday's S wind. The afternoon gets better too as win
+ ds go offshore WNW for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -79,10 +57,11 @@ DTSTART:20260423T063000
 DTEND:20260423T091200
 DESCRIPTION:TIDES:\n-2.995ft at 06:30\n-0.065ft at 09:12\n\nOBSERVATION:\n
  Mix of WNW/NW swells and some S swell is slightly down from Wednesday\, bu
- t a new mid-period WNW may be on the rise through the back half of the day
- . This could push better spots back into the chest to shoulder high range 
- in the afternoon. \n\nConditions are looking much better compared to previ
- ous days with light AM winds currently expected. 
+ t a new mid-period WNW will be on the rise through the back half of the da
+ y. That pushes better spots back into the chest to shoulder high range in 
+ the afternoon. Mind the mid day\, draining negative low tide. \n\nConditio
+ ns are looking much better compared to previous days with light/variable w
+ inds expected through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -90,22 +69,31 @@ DTSTART:20260423T130000
 DTEND:20260423T161800
 DESCRIPTION:TIDES:\n-0.019ft at 13:00\n-2.937ft at 16:18\n\nOBSERVATION:\n
  Mix of WNW/NW swells and some S swell is slightly down from Wednesday\, bu
- t a new mid-period WNW may be on the rise through the back half of the day
- . This could push better spots back into the chest to shoulder high range 
- in the afternoon. \n\nConditions are looking much better compared to previ
- ous days with light AM winds currently expected. 
+ t a new mid-period WNW will be on the rise through the back half of the da
+ y. That pushes better spots back into the chest to shoulder high range in 
+ the afternoon. Mind the mid day\, draining negative low tide. \n\nConditio
+ ns are looking much better compared to previous days with light/variable w
+ inds expected through the day. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260424T073600
 DTEND:20260424T103600
-DESCRIPTION:-2.967ft at 07:36\n-0.012ft at 10:36
+DESCRIPTION:TIDES:\n-2.967ft at 07:36\n-0.012ft at 10:36\n\nOBSERVATION:\n
+ Decent mix of WNW/NW swell and lingering S swell keeps thigh to waist high
+  waves rolling in\, as top spots hit shoulder high on favorable tides\, ou
+ tside the mid day low. \n\nLight/variable morning winds\, shift light+ SW-
+ WSW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260424T134800
 DTEND:20260424T165400
-DESCRIPTION:-0.05ft at 13:48\n-2.924ft at 16:54
+DESCRIPTION:TIDES:\n-0.05ft at 13:48\n-2.924ft at 16:54\n\nOBSERVATION:\nD
+ ecent mix of WNW/NW swell and lingering S swell keeps thigh to waist high 
+ waves rolling in\, as top spots hit shoulder high on favorable tides\, out
+ side the mid day low. \n\nLight/variable morning winds\, shift light+ SW-W
+ SW for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -226,5 +214,17 @@ SUMMARY:Surf's Up
 DTSTART:20260505T093000
 DTEND:20260505T140000
 DESCRIPTION:-0.044ft at 09:30\n-2.974ft at 14:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260506T061200
+DTEND:20260506T074800
+DESCRIPTION:-1.09ft at 06:12\n-0.0ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260506T100000
+DTEND:20260506T150000
+DESCRIPTION:-0.007ft at 10:00\n-2.98ft at 15:00
 END:VEVENT
 END:VCALENDAR
