@@ -3,53 +3,25 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260421T110600
-DTEND:20260421T142400
-DESCRIPTION:TIDES:\n-0.05ft at 11:06\n-2.953ft at 14:24\n\nOBSERVATION:\nM
- id-period WNW swell\, along with lingering SSW swell\,  is good for widesp
- read waist-shoulder high waves in the morning while better breaks are head
-  high+. Surf slowly tapers off during the afternoon as the swell mix eases
- . Draining negative low tide mid morning\, then favorable incoming tide pu
- sh through mid day. \n\nOnshore SSW winds through the day\, light+ early m
- orning\, then moderate for most of the rest of the day\, for bumpy conditi
- ons. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260421T183000
-DTEND:20260421T194800
-DESCRIPTION:TIDES:\n-2.998ft at 18:30\n-2.837ft at 19:48\n\nOBSERVATION:\n
- Mid-period WNW swell\, along with lingering SSW swell\,  is good for wides
- pread waist-shoulder high waves in the morning while better breaks are hea
- d high+. Surf slowly tapers off during the afternoon as the swell mix ease
- s. Draining negative low tide mid morning\, then favorable incoming tide p
- ush through mid day. \n\nOnshore SSW winds through the day\, light+ early 
- morning\, then moderate for most of the rest of the day\, for bumpy condit
- ions. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260422T063000
 DTEND:20260422T075400
 DESCRIPTION:TIDES:\n-1.669ft at 06:30\n-0.065ft at 07:54\n\nOBSERVATION:\n
- Decent mix of WNW/NW swells and some S swell also showing. Thigh-waist hig
- h surf for average zones\, pushing chest-shoulder high for select spots ab
- le to pull in the S swell on tap.\n\nAnother drained mid morning low tide 
- to try work around\, but light/variable winds due in the morning for impro
- ving conditions from Tuesday's S wind. The afternoon gets better too as wi
- nds go offshore WNW for town spots.
+ Decent mix of WNW/NW swells and some S swell rolling in. Thigh-waist high 
+ surf for average spots\, hitting shoulder high for select spots able to pu
+ ll in the S swell on tap.\n\nAnother drained mid morning low tide to try w
+ ork around. Light+ S winds then for some crumble.  Afternoon gets cleaner 
+ as winds go offshore WNW for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260422T120600
 DTEND:20260422T153000
 DESCRIPTION:TIDES:\n-0.04ft at 12:06\n-2.951ft at 15:30\n\nOBSERVATION:\nD
- ecent mix of WNW/NW swells and some S swell also showing. Thigh-waist high
-  surf for average zones\, pushing chest-shoulder high for select spots abl
- e to pull in the S swell on tap.\n\nAnother drained mid morning low tide t
- o try work around\, but light/variable winds due in the morning for improv
- ing conditions from Tuesday's S wind. The afternoon gets better too as win
- ds go offshore WNW for town spots.
+ ecent mix of WNW/NW swells and some S swell rolling in. Thigh-waist high s
+ urf for average spots\, hitting shoulder high for select spots able to pul
+ l in the S swell on tap.\n\nAnother drained mid morning low tide to try wo
+ rk around. Light+ S winds then for some crumble.  Afternoon gets cleaner a
+ s winds go offshore WNW for town spots.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -99,13 +71,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260425T084200
 DTEND:20260425T115400
-DESCRIPTION:-2.939ft at 08:42\n-0.035ft at 11:54
+DESCRIPTION:TIDES:\n-2.939ft at 08:42\n-0.035ft at 11:54\n\nOBSERVATION:\n
+ Easing combo of WNW/NW swell and lingering S swell for surf mainly running
+  thigh to waist high. Dawn patrol high tide slows tide sensitive breaks th
+ en ebbing tide helps through mid morning. \n\nLight/variable winds due muc
+ h of the morning\, shift to low-end moderate SW onshores for the afternoon
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260425T141800
 DTEND:20260425T172400
-DESCRIPTION:-0.051ft at 14:18\n-2.944ft at 17:24
+DESCRIPTION:TIDES:\n-0.051ft at 14:18\n-2.944ft at 17:24\n\nOBSERVATION:\n
+ Easing combo of WNW/NW swell and lingering S swell for surf mainly running
+  thigh to waist high. Dawn patrol high tide slows tide sensitive breaks th
+ en ebbing tide helps through mid morning. \n\nLight/variable winds due muc
+ h of the morning\, shift to low-end moderate SW onshores for the afternoon
+ . 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -226,5 +208,17 @@ SUMMARY:Surf's Up
 DTSTART:20260506T100000
 DTEND:20260506T150000
 DESCRIPTION:-0.007ft at 10:00\n-2.98ft at 15:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260507T061200
+DTEND:20260507T085400
+DESCRIPTION:-1.866ft at 06:12\n-0.026ft at 08:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260507T103600
+DTEND:20260507T154200
+DESCRIPTION:-0.026ft at 10:36\n-2.967ft at 15:42
 END:VEVENT
 END:VCALENDAR
