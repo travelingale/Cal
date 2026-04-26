@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260425T084200
-DTEND:20260425T115400
-DESCRIPTION:TIDES:\n-2.939ft at 08:42\n-0.035ft at 11:54\n\nOBSERVATION:\n
- Easing combo of WNW/NW swell and selective S swell for surf mainly running
-  thigh to waist high\, as top spots hit shoulder high+. Dawn patrol high t
- ide slows tide sensitive breaks then ebbing tide helps through mid morning
- . Draining mid day low\, then afternoon tide push lends a hand.\n\nLight/v
- ariable winds much of the morning\, shift to low-end moderate WSW side sho
- res for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260425T141800
-DTEND:20260425T172400
-DESCRIPTION:TIDES:\n-0.051ft at 14:18\n-2.944ft at 17:24\n\nOBSERVATION:\n
- Easing combo of WNW/NW swell and selective S swell for surf mainly running
-  thigh to waist high\, as top spots hit shoulder high+. Dawn patrol high t
- ide slows tide sensitive breaks then ebbing tide helps through mid morning
- . Draining mid day low\, then afternoon tide push lends a hand.\n\nLight/v
- ariable winds much of the morning\, shift to low-end moderate WSW side sho
- res for the afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260426T094200
 DTEND:20260426T174800
 DESCRIPTION:TIDES:\n-2.953ft at 09:42\n-2.968ft at 17:48\n\nOBSERVATION:\n
@@ -73,13 +49,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260429T061800
 DTEND:20260429T081800
-DESCRIPTION:-1.195ft at 06:18\n-2.967ft at 08:18
+DESCRIPTION:TIDES:\n-1.195ft at 06:18\n-2.967ft at 08:18\n\nOBSERVATION:\n
+ A new blend of primary NW/WNW swell and secondary\, longer-period SSW swel
+ l scheduled to fill in during the day\, showing most size over the afterno
+ on\, with widespread waist to shoulder high surf. Standouts see better set
+ s\, largest late. \n\nLight/variable morning winds\, light+ WSW side shore
+ s due in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260429T121800
 DTEND:20260429T183000
-DESCRIPTION:-2.978ft at 12:18\n-2.939ft at 18:30
+DESCRIPTION:TIDES:\n-2.978ft at 12:18\n-2.939ft at 18:30\n\nOBSERVATION:\n
+ A new blend of primary NW/WNW swell and secondary\, longer-period SSW swel
+ l scheduled to fill in during the day\, showing most size over the afterno
+ on\, with widespread waist to shoulder high surf. Standouts see better set
+ s\, largest late. \n\nLight/variable morning winds\, light+ WSW side shore
+ s due in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -194,5 +180,11 @@ SUMMARY:Surf's Up
 DTSTART:20260510T072400
 DTEND:20260510T164200
 DESCRIPTION:-2.996ft at 07:24\n-2.97ft at 16:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260511T082400
+DTEND:20260511T164800
+DESCRIPTION:-2.976ft at 08:24\n-2.926ft at 16:48
 END:VEVENT
 END:VCALENDAR
