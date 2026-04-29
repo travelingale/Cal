@@ -3,47 +3,27 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260428T061800
-DTEND:20260428T071200
-DESCRIPTION:TIDES:\n-2.191ft at 06:18\n-2.944ft at 07:12\n\nOBSERVATION:\n
- Old combo of WNW swell and selective S swell fades to mainly thigh-waist h
- igh leftovers\, while top spots see better sets on favorable tides. Mid mo
- rning high tide slows the smaller waves. Ebbing tide helps a bit through m
- id day. \n\nLight/variable winds in the morning\, shift to a light+ SW aft
- ernoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260428T113000
-DTEND:20260428T181800
-DESCRIPTION:TIDES:\n-2.958ft at 11:30\n-2.926ft at 18:18\n\nOBSERVATION:\n
- Old combo of WNW swell and selective S swell fades to mainly thigh-waist h
- igh leftovers\, while top spots see better sets on favorable tides. Mid mo
- rning high tide slows the smaller waves. Ebbing tide helps a bit through m
- id day. \n\nLight/variable winds in the morning\, shift to a light+ SW aft
- ernoon sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260429T061800
 DTEND:20260429T081800
 DESCRIPTION:TIDES:\n-1.195ft at 06:18\n-2.967ft at 08:18\n\nOBSERVATION:\n
- A new blend of primary NW/WNW swell and secondary\, longer-period SSW swel
- l gradually fill in during the day\, showing most size over the afternoon\
- , with widespread waist to chest high+ surf. Standouts see better sets\, l
- argest late. \n\nLight/variable morning winds\, light+ WSW side shores due
-  in the afternoon. 
+ Morning starts off slow\, then a new blend of primary NW/WNW swell and sec
+ ondary\, longer-period SSW swell gradually fill in during the day.  Over t
+ he afternoon\, that sets up widespread waist-stomach- chest high range sur
+ f\, while standouts see better sets\, largest late. \n\nLight/variable mor
+ ning winds\, shift light+ WSW side shores mid day\, then offshore NW later
+  afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260429T121800
 DTEND:20260429T183000
 DESCRIPTION:TIDES:\n-2.978ft at 12:18\n-2.939ft at 18:30\n\nOBSERVATION:\n
- A new blend of primary NW/WNW swell and secondary\, longer-period SSW swel
- l gradually fill in during the day\, showing most size over the afternoon\
- , with widespread waist to chest high+ surf. Standouts see better sets\, l
- argest late. \n\nLight/variable morning winds\, light+ WSW side shores due
-  in the afternoon. 
+ Morning starts off slow\, then a new blend of primary NW/WNW swell and sec
+ ondary\, longer-period SSW swell gradually fill in during the day.  Over t
+ he afternoon\, that sets up widespread waist-stomach- chest high range sur
+ f\, while standouts see better sets\, largest late. \n\nLight/variable mor
+ ning winds\, shift light+ WSW side shores mid day\, then offshore NW later
+  afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -51,8 +31,8 @@ DTSTART:20260430T061800
 DTEND:20260430T091800
 DESCRIPTION:TIDES:\n-0.363ft at 06:18\n-2.998ft at 09:18\n\nOBSERVATION:\n
  Combo of NW/WNW swell and SSW swell tops out\, for widespread\, peaky wais
- t-shoulder-head high range waves. \n\nWinds looking light/variable for the
-  morning\, then low-end moderate WSW side shore in the afternoon. 
+ t-chest-shoulder high zone waves. \n\nWinds looking light/variable for the
+  morning\, then light+ WSW side shore in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -60,42 +40,52 @@ DTSTART:20260430T130600
 DTEND:20260430T184200
 DESCRIPTION:TIDES:\n-2.988ft at 13:06\n-2.983ft at 18:42\n\nOBSERVATION:\n
  Combo of NW/WNW swell and SSW swell tops out\, for widespread\, peaky wais
- t-shoulder-head high range waves. \n\nWinds looking light/variable for the
-  morning\, then low-end moderate WSW side shore in the afternoon. 
+ t-chest-shoulder high zone waves. \n\nWinds looking light/variable for the
+  morning\, then light+ WSW side shore in the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260501T064800
 DTEND:20260501T100600
 DESCRIPTION:TIDES:\n-0.059ft at 06:48\n-2.936ft at 10:06\n\nOBSERVATION:\n
- Slow fading blend of WNW and SSW swell is still good for waist to chest hi
- gh surf in the morning\, as standouts see better sets. Waves gradually win
- d down during the day.  Mid day high tide slows tide sensitive breaks. \n\
- nLight/variable morning winds\, followed by a light+ SSW afternoon sea bre
- eze. 
+ Slow fading blend of WNW and SSW swell is still good for thigh-waist-stoma
+ ch high surf in the morning then waves gradually wind down during the day.
+   Mid day high tide slows tide sensitive breaks. \n\nLight/variable mornin
+ g winds\, followed by a light+ SW afternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260501T135400
 DTEND:20260501T184800
 DESCRIPTION:TIDES:\n-2.999ft at 13:54\n-2.961ft at 18:48\n\nOBSERVATION:\n
- Slow fading blend of WNW and SSW swell is still good for waist to chest hi
- gh surf in the morning\, as standouts see better sets. Waves gradually win
- d down during the day.  Mid day high tide slows tide sensitive breaks. \n\
- nLight/variable morning winds\, followed by a light+ SSW afternoon sea bre
- eze. 
+ Slow fading blend of WNW and SSW swell is still good for thigh-waist-stoma
+ ch high surf in the morning then waves gradually wind down during the day.
+   Mid day high tide slows tide sensitive breaks. \n\nLight/variable mornin
+ g winds\, followed by a light+ SW afternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260502T073600
 DTEND:20260502T110000
-DESCRIPTION:-0.061ft at 07:36\n-2.956ft at 11:00
+DESCRIPTION:TIDES:\n-0.061ft at 07:36\n-2.956ft at 11:00\n\nOBSERVATION:\n
+ Lingering mix of WNW and SSW swell starts the morning off in mainly thigh 
+ to waist high+ waves\, then surf slowly tapers off during the afternoon as
+  the old swell eases. Draining dawn patrol negative low tide\, then the in
+ coming tide push gets an assist through mid morning. \n\nWinds looking lig
+ ht/variable much of the morning\, light+ SW onshore mid day\, then turning
+  offshore WNW for town spots over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260502T144800
 DTEND:20260502T185400
-DESCRIPTION:-2.978ft at 14:48\n-2.956ft at 18:54
+DESCRIPTION:TIDES:\n-2.978ft at 14:48\n-2.956ft at 18:54\n\nOBSERVATION:\n
+ Lingering mix of WNW and SSW swell starts the morning off in mainly thigh 
+ to waist high+ waves\, then surf slowly tapers off during the afternoon as
+  the old swell eases. Draining dawn patrol negative low tide\, then the in
+ coming tide push gets an assist through mid morning. \n\nWinds looking lig
+ ht/variable much of the morning\, light+ SW onshore mid day\, then turning
+  offshore WNW for town spots over the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -198,5 +188,17 @@ SUMMARY:Surf's Up
 DTSTART:20260513T103000
 DTEND:20260513T170600
 DESCRIPTION:-2.992ft at 10:30\n-2.901ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260514T060600
+DTEND:20260514T074800
+DESCRIPTION:-1.416ft at 06:06\n-2.946ft at 07:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260514T113600
+DTEND:20260514T172400
+DESCRIPTION:-2.995ft at 11:36\n-2.981ft at 17:24
 END:VEVENT
 END:VCALENDAR
