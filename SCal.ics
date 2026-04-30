@@ -3,36 +3,14 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260429T061800
-DTEND:20260429T081800
-DESCRIPTION:TIDES:\n-1.195ft at 06:18\n-2.967ft at 08:18\n\nOBSERVATION:\n
- Morning starts off slow\, then a new blend of primary NW/WNW swell and sec
- ondary\, longer-period SSW swell gradually fill in during the day.  Over t
- he afternoon\, that sets up widespread waist-stomach- chest high range sur
- f\, while standouts see better sets\, largest late. \n\nLight/variable mor
- ning winds\, shift light+ WSW side shores mid day\, then offshore NW later
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260429T121800
-DTEND:20260429T183000
-DESCRIPTION:TIDES:\n-2.978ft at 12:18\n-2.939ft at 18:30\n\nOBSERVATION:\n
- Morning starts off slow\, then a new blend of primary NW/WNW swell and sec
- ondary\, longer-period SSW swell gradually fill in during the day.  Over t
- he afternoon\, that sets up widespread waist-stomach- chest high range sur
- f\, while standouts see better sets\, largest late. \n\nLight/variable mor
- ning winds\, shift light+ WSW side shores mid day\, then offshore NW later
-  afternoon. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260430T061800
 DTEND:20260430T091800
 DESCRIPTION:TIDES:\n-0.363ft at 06:18\n-2.998ft at 09:18\n\nOBSERVATION:\n
  Combo of NW/WNW swell and SSW swell tops out\, for widespread\, peaky wais
- t-chest-shoulder high zone waves. \n\nWinds looking light/variable for the
-  morning\, then light+ WSW side shore in the afternoon. 
+ t-chest-shoulder high range waves. Morning incoming tide push gets an assi
+ st. Mid day and evening high tides will slow tide sensitive breaks.\n\nWin
+ ds are light/variable for the morning\, then light WSW side shore in the a
+ fternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -40,8 +18,10 @@ DTSTART:20260430T130600
 DTEND:20260430T184200
 DESCRIPTION:TIDES:\n-2.988ft at 13:06\n-2.983ft at 18:42\n\nOBSERVATION:\n
  Combo of NW/WNW swell and SSW swell tops out\, for widespread\, peaky wais
- t-chest-shoulder high zone waves. \n\nWinds looking light/variable for the
-  morning\, then light+ WSW side shore in the afternoon. 
+ t-chest-shoulder high range waves. Morning incoming tide push gets an assi
+ st. Mid day and evening high tides will slow tide sensitive breaks.\n\nWin
+ ds are light/variable for the morning\, then light WSW side shore in the a
+ fternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -50,8 +30,10 @@ DTEND:20260501T100600
 DESCRIPTION:TIDES:\n-0.059ft at 06:48\n-2.936ft at 10:06\n\nOBSERVATION:\n
  Slow fading blend of WNW and SSW swell is still good for thigh-waist-stoma
  ch high surf in the morning then waves gradually wind down during the day.
-   Mid day high tide slows tide sensitive breaks. \n\nLight/variable mornin
- g winds\, followed by a light+ SW afternoon sea breeze. 
+   Draining dawn patrol negative low tide\, then incoming tide push helps f
+ irst half of the morning. Mid day and evening high tides bog down tide sen
+ sitive breaks. \n\nLight/variable morning winds\, followed by a light SW a
+ fternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -60,8 +42,10 @@ DTEND:20260501T184800
 DESCRIPTION:TIDES:\n-2.999ft at 13:54\n-2.961ft at 18:48\n\nOBSERVATION:\n
  Slow fading blend of WNW and SSW swell is still good for thigh-waist-stoma
  ch high surf in the morning then waves gradually wind down during the day.
-   Mid day high tide slows tide sensitive breaks. \n\nLight/variable mornin
- g winds\, followed by a light+ SW afternoon sea breeze. 
+   Draining dawn patrol negative low tide\, then incoming tide push helps f
+ irst half of the morning. Mid day and evening high tides bog down tide sen
+ sitive breaks. \n\nLight/variable morning winds\, followed by a light SW a
+ fternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -69,11 +53,11 @@ DTSTART:20260502T073600
 DTEND:20260502T110000
 DESCRIPTION:TIDES:\n-0.061ft at 07:36\n-2.956ft at 11:00\n\nOBSERVATION:\n
  Lingering mix of WNW and SSW swell starts the morning off in mainly thigh 
- to waist high+ waves\, then surf slowly tapers off during the afternoon as
-  the old swell eases. Draining dawn patrol negative low tide\, then the in
- coming tide push gets an assist through mid morning. \n\nWinds looking lig
- ht/variable much of the morning\, light+ SW onshore mid day\, then turning
-  offshore WNW for town spots over the afternoon. 
+ to waist high+ waves\, then surf slowly dips during the afternoon as the o
+ ld swell eases. Draining dawn patrol negative low tide\, then the incoming
+  tide push gets an assist through mid morning. Mid day high tide slow tide
+  sensitive spots.\n\nWinds looking light/variable much of the morning\, li
+ ght+ SW shifting WSW onshore mid day through the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -81,23 +65,35 @@ DTSTART:20260502T144800
 DTEND:20260502T185400
 DESCRIPTION:TIDES:\n-2.978ft at 14:48\n-2.956ft at 18:54\n\nOBSERVATION:\n
  Lingering mix of WNW and SSW swell starts the morning off in mainly thigh 
- to waist high+ waves\, then surf slowly tapers off during the afternoon as
-  the old swell eases. Draining dawn patrol negative low tide\, then the in
- coming tide push gets an assist through mid morning. \n\nWinds looking lig
- ht/variable much of the morning\, light+ SW onshore mid day\, then turning
-  offshore WNW for town spots over the afternoon. 
+ to waist high+ waves\, then surf slowly dips during the afternoon as the o
+ ld swell eases. Draining dawn patrol negative low tide\, then the incoming
+  tide push gets an assist through mid morning. Mid day high tide slow tide
+  sensitive spots.\n\nWinds looking light/variable much of the morning\, li
+ ght+ SW shifting WSW onshore mid day through the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260503T081200
 DTEND:20260503T115400
-DESCRIPTION:-0.0ft at 08:12\n-2.952ft at 11:54
+DESCRIPTION:TIDES:\n-0.0ft at 08:12\n-2.952ft at 11:54\n\nOBSERVATION:\nSl
+ ow start in the morning with not much swell and a draining negative low ti
+ de for the dawn patrol. After that\, a new combo of primary NW swell and s
+ econdary SW Southern Hemi will be gradually filling in\, setting up waist-
+ stomach-chest high range waves over the afternoon\, showing most size late
+ . \n\nLight/variable winds due in the morning\, followed by a low end mode
+ rate afternoon SW sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260503T154200
 DTEND:20260503T190000
-DESCRIPTION:-2.982ft at 15:42\n-2.962ft at 19:00
+DESCRIPTION:TIDES:\n-2.982ft at 15:42\n-2.962ft at 19:00\n\nOBSERVATION:\n
+ Slow start in the morning with not much swell and a draining negative low 
+ tide for the dawn patrol. After that\, a new combo of primary NW swell and
+  secondary SW Southern Hemi will be gradually filling in\, setting up wais
+ t-stomach-chest high range waves over the afternoon\, showing most size la
+ te. \n\nLight/variable winds due in the morning\, followed by a low end mo
+ derate afternoon SW sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -200,5 +196,17 @@ SUMMARY:Surf's Up
 DTSTART:20260514T113600
 DTEND:20260514T172400
 DESCRIPTION:-2.995ft at 11:36\n-2.981ft at 17:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260515T060000
+DTEND:20260515T084800
+DESCRIPTION:-0.055ft at 06:00\n-2.925ft at 08:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260515T124800
+DTEND:20260515T174200
+DESCRIPTION:-2.941ft at 12:48\n-2.993ft at 17:42
 END:VEVENT
 END:VCALENDAR
