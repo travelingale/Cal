@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260503T081200
-DTEND:20260503T115400
-DESCRIPTION:TIDES:\n-0.0ft at 08:12\n-2.952ft at 11:54\n\nOBSERVATION:\nSl
- ow start in the morning with not much swell and a draining negative low ti
- de for the dawn patrol. After that\, a new combo of NW/WNW swell will be g
- radually filling in\, setting up waist-stomach-chest high range waves over
-  the afternoon\, showing most size late. \n\nLight/variable winds due earl
- y morning\, followed by a low end moderate afternoon WSW sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260503T154200
-DTEND:20260503T190000
-DESCRIPTION:TIDES:\n-2.982ft at 15:42\n-2.962ft at 19:00\n\nOBSERVATION:\n
- Slow start in the morning with not much swell and a draining negative low 
- tide for the dawn patrol. After that\, a new combo of NW/WNW swell will be
-  gradually filling in\, setting up waist-stomach-chest high range waves ov
- er the afternoon\, showing most size late. \n\nLight/variable winds due ea
- rly morning\, followed by a low end moderate afternoon WSW sea breeze. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260504T085400
 DTEND:20260504T130000
 DESCRIPTION:TIDES:\n-0.046ft at 08:54\n-2.999ft at 13:00\n\nOBSERVATION:\n
  Nice size blend of NW/WNW swell and some secondary SSW Southern Hemi tops 
  out\, for widespread waist to shoulder high waves\, as top exposures/combo
   breaks are head high+. Draining negative low for the dawn patrol\, then i
- ncoming tide push helps through the morning. \n\nLight/variable winds due 
- much of the morning\, then low-end moderate afternoon SW onshores set up s
- ome lump. 
+ ncoming tide push helps through the morning. Size holds steady most of the
+  day.\n\nLight/variable onshore winds due much of the morning\, then low-e
+ nd moderate afternoon SW onshores set up some minor lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -43,9 +21,9 @@ DESCRIPTION:TIDES:\n-2.993ft at 16:42\n-2.983ft at 19:06\n\nOBSERVATION:\n
  Nice size blend of NW/WNW swell and some secondary SSW Southern Hemi tops 
  out\, for widespread waist to shoulder high waves\, as top exposures/combo
   breaks are head high+. Draining negative low for the dawn patrol\, then i
- ncoming tide push helps through the morning. \n\nLight/variable winds due 
- much of the morning\, then low-end moderate afternoon SW onshores set up s
- ome lump. 
+ ncoming tide push helps through the morning. Size holds steady most of the
+  day.\n\nLight/variable onshore winds due much of the morning\, then low-e
+ nd moderate afternoon SW onshores set up some minor lump. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -53,11 +31,11 @@ DTSTART:20260505T061200
 DTEND:20260505T064200
 DESCRIPTION:TIDES:\n-0.379ft at 06:12\n-0.043ft at 06:42\n\nOBSERVATION:\n
  Slow fading combo of NW/WNW and SSW swell shows best in the morning with w
- aist-chest-shoulder high surf\, as standouts hit head high. Waves graduall
- y dip during the day along with the easing swell. Early morning drained by
-  a negative low tide\, then incoming tide push lends a hand through mid da
- y.\n\nLight/variable winds due in the morning\, followed by a light+ SW af
- ternoon sea breeze. 
+ aist-chest-shoulder high surf\, as standouts go a bit larger. Waves gradua
+ lly dip during the day along with the easing swell. Early morning drained 
+ by a negative low tide\, then incoming tide push lends a hand through mid 
+ day.\n\nLight/variable winds due in the morning\, followed by a light+ SW 
+ afternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -65,11 +43,11 @@ DTSTART:20260505T093000
 DTEND:20260505T140000
 DESCRIPTION:TIDES:\n-0.044ft at 09:30\n-2.974ft at 14:00\n\nOBSERVATION:\n
  Slow fading combo of NW/WNW and SSW swell shows best in the morning with w
- aist-chest-shoulder high surf\, as standouts hit head high. Waves graduall
- y dip during the day along with the easing swell. Early morning drained by
-  a negative low tide\, then incoming tide push lends a hand through mid da
- y.\n\nLight/variable winds due in the morning\, followed by a light+ SW af
- ternoon sea breeze. 
+ aist-chest-shoulder high surf\, as standouts go a bit larger. Waves gradua
+ lly dip during the day along with the easing swell. Early morning drained 
+ by a negative low tide\, then incoming tide push lends a hand through mid 
+ day.\n\nLight/variable winds due in the morning\, followed by a light+ SW 
+ afternoon sea breeze. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -96,13 +74,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260507T061200
 DTEND:20260507T085400
-DESCRIPTION:-1.866ft at 06:12\n-0.026ft at 08:54
+DESCRIPTION:TIDES:\n-1.866ft at 06:12\n-0.026ft at 08:54\n\nOBSERVATION:\n
+ SSW swell holds as NW/WNW swell nudges up\, for mainly waist to chest high
+  surf in the morning\, while best breaks see better sets. Draining mid mor
+ ning negative low tide\, then incoming tide push helps through mid day. Wa
+ ves gradually wind down during the afternoon when the swell starts to tape
+ r off. \n\nMorning winds are looking light and favorable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260507T103600
 DTEND:20260507T154200
-DESCRIPTION:-0.026ft at 10:36\n-2.967ft at 15:42
+DESCRIPTION:TIDES:\n-0.026ft at 10:36\n-2.967ft at 15:42\n\nOBSERVATION:\n
+ SSW swell holds as NW/WNW swell nudges up\, for mainly waist to chest high
+  surf in the morning\, while best breaks see better sets. Draining mid mor
+ ning negative low tide\, then incoming tide push helps through mid day. Wa
+ ves gradually wind down during the afternoon when the swell starts to tape
+ r off. \n\nMorning winds are looking light and favorable.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -205,5 +193,17 @@ SUMMARY:Surf's Up
 DTSTART:20260518T161200
 DTEND:20260518T190600
 DESCRIPTION:-2.984ft at 16:12\n-2.996ft at 19:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260519T101200
+DTEND:20260519T124800
+DESCRIPTION:-0.051ft at 10:12\n-2.925ft at 12:48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260519T173000
+DTEND:20260519T194800
+DESCRIPTION:-2.992ft at 17:30\n-2.99ft at 19:48
 END:VEVENT
 END:VCALENDAR
