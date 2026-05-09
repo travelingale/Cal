@@ -3,24 +3,16 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260508T061200
-DTEND:20260508T161200
-DESCRIPTION:TIDES:\n-2.602ft at 06:12\n-2.972ft at 16:12\n\nOBSERVATION:\n
- <strong>Dawn to 10:00AM:</strong> Easing blend of SSW and WNW swell for wa
- ves mainly running thigh-waist high+. Light/variable winds through the mor
- ning. Incoming tide push mid day gets an assist. \n\n<strong>Afternoon Out
- look:</strong> Wave size holds. Gentle S sea breeze for some afternoon tex
- ture. Later afternoon high tide slows tide sensitive breaks. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260509T063600
 DTEND:20260509T163000
 DESCRIPTION:TIDES:\n-2.938ft at 06:36\n-2.969ft at 16:30\n\nOBSERVATION:\n
- Mainly old swell for thigh-waist high surf in the morning\, then some new 
+ <strong>Dawn to 10:00AM:</strong> Mainly old swell for thigh-waist high su
+ rf in the morning. Winds are light/variable\, while the tide backs out to 
+ a draining late AM low. \n\n<strong>Afternoon Outlook:</strong>  Some new 
  WNW/NW swell and SSW Southern Hemi joins in during the afternoon\, for mor
- e waist-stomach high waves. \n\nLight/variable winds due all day for at le
- ast semi-clean conditions. 
+ e waist-stomach high waves. Gentle S wind develops back half of the day fo
+ r a little texture.  Late afternoon high tide slows tide sensitive breaks.
+  
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -29,8 +21,9 @@ DTEND:20260510T164200
 DESCRIPTION:TIDES:\n-2.996ft at 07:24\n-2.97ft at 16:42\n\nOBSERVATION:\nN
  ice combo of long-period SSW Southern Hemi and shorter-period NW/WNW swell
   mix rolling in\, setting up widespread waist-chest high waves\, as summer
- time focal points go head high. Afternoon sees most size. \n\nLight/variab
- le winds through the morning\, turning light S onshore for the afternoon. 
+ time focal points go head high+. Afternoon sees most size. \n\nLight/varia
+ ble winds through the morning\, turning light S onshore for the afternoon.
+  Late afternoon/early evening high tides bog down tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -38,15 +31,22 @@ DTSTART:20260511T082400
 DTEND:20260511T164800
 DESCRIPTION:TIDES:\n-2.976ft at 08:24\n-2.926ft at 16:48\n\nOBSERVATION:\n
  Long-period SSW Southern Hemi peaks\, while and shorter-period NW/WNW swel
- l mix holds\, maintaining waist-chest high waves\, as summertime standouts
-  are head high+. \n\nPattern of light/variable winds through the morning\,
-  followed by light+ SW afternoon onshores expected to persist. 
+ l mix holds\, maintaining waist-chest high+ waves\, as summertime standout
+ s hit a foot+ overhead on favorable tides. \n\nPattern of light/variable w
+ inds through the morning\, followed by light+ SW afternoon onshores expect
+ ed to persist. Late afternoon/early evening high tides slow tide sensitive
+  breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260512T093000
 DTEND:20260512T170000
-DESCRIPTION:-2.939ft at 09:30\n-2.977ft at 17:00
+DESCRIPTION:TIDES:\n-2.939ft at 09:30\n-2.977ft at 17:00\n\nOBSERVATION:\n
+ Holding blend of long-period SSW Southern Hemi and shorter-period NW/WNW s
+ well mix keeps many spots in waist-chest high+ waves\, as summertime stand
+ outs see sets going a foot+ overhead on favorable tides. \n\nLight/variabl
+ e winds through the morning\, turning light+ SW onshore for the afternoon.
+  Late afternoon/evening high tides bog down tide sensitive spots. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -179,5 +179,11 @@ SUMMARY:Surf's Up
 DTSTART:20260523T122400
 DTEND:20260523T154200
 DESCRIPTION:-0.034ft at 12:24\n-2.975ft at 15:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260524T074800
+DTEND:20260524T160600
+DESCRIPTION:-2.983ft at 07:48\n-2.963ft at 16:06
 END:VEVENT
 END:VCALENDAR
