@@ -3,27 +3,15 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260510T072400
-DTEND:20260510T164200
-DESCRIPTION:TIDES:\n-2.996ft at 07:24\n-2.97ft at 16:42\n\nOBSERVATION:\n<
- strong>Dawn to 10:00AM:</strong> Nice combo of long-period SSW Southern He
- mi and shorter-period NW/WNW swell mix rolling in\, setting up widespread 
- waist-chest high waves\, as summertime focal points go head high+. Light/v
- ariable winds through the morning.\n\n<strong>Afternoon Outlook:</strong> 
- Surf size holds. Light S wind for some texture. Late afternoon/early eveni
- ng high tides bog down tide sensitive spots. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260511T082400
 DTEND:20260511T164800
 DESCRIPTION:TIDES:\n-2.976ft at 08:24\n-2.926ft at 16:48\n\nOBSERVATION:\n
- Long-period SSW Southern Hemi peaks\, while and shorter-period NW/WNW swel
- l mix holds\, maintaining waist-chest high+ waves\, as summertime standout
- s hit a foot+ overhead on favorable tides. \n\nPattern of light/variable w
- inds through the morning\, followed by light+ SW afternoon onshores expect
- ed to persist. Late afternoon/early evening high tides slow tide sensitive
-  breaks. 
+ <strong>Dawn to 10:00AM:</strong> Long-period SSW Southern Hemi peaks\, wh
+ ile and shorter-period NW/WNW swell mix holds\, maintaining waist-chest-sh
+ oulder high waves\, as summertime standouts hit a foot+ overhead on favora
+ ble tides. Light/variable winds through the morning\,\n\n<strong>Afternoon
+  Outlook:</strong> Light+ SW afternoon onshores for some texture. Late aft
+ ernoon/early evening high tide slows tide sensitive breaks. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -62,13 +50,23 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260514T060600
 DTEND:20260514T074800
-DESCRIPTION:-1.416ft at 06:06\n-2.946ft at 07:48
+DESCRIPTION:TIDES:\n-1.416ft at 06:06\n-2.946ft at 07:48\n\nOBSERVATION:\n
+ Another nice shot of SSW Southern Hemi rolls in\, along with some shorter-
+ period WNW swell. That's good for widespread waist to shoulder high+ waves
+ \, while focal points are hitting a foot overhead. Favorable early morning
+  tide push. \n\nLight S winds due much of the morning\, turn to light+/per
+ iodically more SW onshores for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260514T113600
 DTEND:20260514T172400
-DESCRIPTION:-2.995ft at 11:36\n-2.981ft at 17:24
+DESCRIPTION:TIDES:\n-2.995ft at 11:36\n-2.981ft at 17:24\n\nOBSERVATION:\n
+ Another nice shot of SSW Southern Hemi rolls in\, along with some shorter-
+ period WNW swell. That's good for widespread waist to shoulder high+ waves
+ \, while focal points are hitting a foot overhead. Favorable early morning
+  tide push. \n\nLight S winds due much of the morning\, turn to light+/per
+ iodically more SW onshores for the afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -189,5 +187,17 @@ SUMMARY:Surf's Up
 DTSTART:20260525T084800
 DTEND:20260525T162400
 DESCRIPTION:-2.957ft at 08:48\n-2.937ft at 16:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260526T055400
+DTEND:20260526T065400
+DESCRIPTION:-2.394ft at 05:54\n-2.967ft at 06:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260526T094800
+DTEND:20260526T164200
+DESCRIPTION:-2.984ft at 09:48\n-2.985ft at 16:42
 END:VEVENT
 END:VCALENDAR
