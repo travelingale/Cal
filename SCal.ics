@@ -3,57 +3,29 @@ VERSION:2.0
 PRODID:-//My calendar product//example.com//
 BEGIN:VEVENT
 SUMMARY:Surf's Up
-DTSTART:20260514T060600
-DTEND:20260514T074800
-DESCRIPTION:TIDES:\n-1.416ft at 06:06\n-2.946ft at 07:48\n\nOBSERVATION:\n
- <strong>Dawn to 10:00AM:</strong> Another nice shot of SSW Southern Hemi r
- olls in\, along with some shorter-period WNW swell. That's good for widesp
- read waist to shoulder high zone waves\, while focal points are hitting he
- ad high+. Light/variable winds. Favorable early morning tide push\, then e
- levated mid AM high tide slows tide sensitive breaks a bit. \n\n<strong>Af
- ternoon Outlook:</strong> Surf size holds. Light southerly winds add a lit
- tle texture. Late afternoon/evening high tide bogs down tide sensitive spo
- ts. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
-DTSTART:20260514T113600
-DTEND:20260514T172400
-DESCRIPTION:TIDES:\n-2.995ft at 11:36\n-2.981ft at 17:24\n\nOBSERVATION:\n
- <strong>Dawn to 10:00AM:</strong> Another nice shot of SSW Southern Hemi r
- olls in\, along with some shorter-period WNW swell. That's good for widesp
- read waist to shoulder high zone waves\, while focal points are hitting he
- ad high+. Light/variable winds. Favorable early morning tide push\, then e
- levated mid AM high tide slows tide sensitive breaks a bit. \n\n<strong>Af
- ternoon Outlook:</strong> Surf size holds. Light southerly winds add a lit
- tle texture. Late afternoon/evening high tide bogs down tide sensitive spo
- ts. 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf's Up
 DTSTART:20260515T060000
 DTEND:20260515T084800
 DESCRIPTION:TIDES:\n-0.055ft at 06:00\n-2.925ft at 08:48\n\nOBSERVATION:\n
- Holding blend of SSW Southern Hemi and shorter-period WNW swell maintains 
- waist to shoulder high+ surf at many spots\, as top breaks go overhead on 
- sets. Favorable early morning tide push. Deepening high tides later mornin
- g and again later afternoon/evening will bog down tide sensitive spots. \n
- \nMorning winds expected to be light/variable\, light SW onshores are due 
- most of the afternoon\, possibly turning NW offshore by the end of the day
- . 
+ <strong>Dawn to 10:00AM:</strong> Holding blend of SSW Southern Hemi and s
+ horter-period WNW swell maintains waist to shoulder high+ surf at many spo
+ ts\, as top breaks go overhead on sets. Favorable early morning tide push 
+ with clean conditions. Deepening high tides later morning.\n\n<strong>Afte
+ rnoon Outlook:</strong> Conditions are set to stay pretty clean all aftern
+ oon for spots in town. Mid-PM lower tide window is the next best after the
+  AM tide push\, slowing down again in the evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260515T124800
 DTEND:20260515T174200
 DESCRIPTION:TIDES:\n-2.941ft at 12:48\n-2.993ft at 17:42\n\nOBSERVATION:\n
- Holding blend of SSW Southern Hemi and shorter-period WNW swell maintains 
- waist to shoulder high+ surf at many spots\, as top breaks go overhead on 
- sets. Favorable early morning tide push. Deepening high tides later mornin
- g and again later afternoon/evening will bog down tide sensitive spots. \n
- \nMorning winds expected to be light/variable\, light SW onshores are due 
- most of the afternoon\, possibly turning NW offshore by the end of the day
- . 
+ <strong>Dawn to 10:00AM:</strong> Holding blend of SSW Southern Hemi and s
+ horter-period WNW swell maintains waist to shoulder high+ surf at many spo
+ ts\, as top breaks go overhead on sets. Favorable early morning tide push 
+ with clean conditions. Deepening high tides later morning.\n\n<strong>Afte
+ rnoon Outlook:</strong> Conditions are set to stay pretty clean all aftern
+ oon for spots in town. Mid-PM lower tide window is the next best after the
+  AM tide push\, slowing down again in the evening.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -107,13 +79,25 @@ BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260518T091800
 DTEND:20260518T115400
-DESCRIPTION:-0.048ft at 09:18\n-2.995ft at 11:54
+DESCRIPTION:TIDES:\n-0.048ft at 09:18\n-2.995ft at 11:54\n\nOBSERVATION:\n
+ Blend of SSW swell and NW swell tapers off\, with mainly waist-chest high 
+ waves in the morning\, dipping in the afternoon. \n\nDraining negative low
+  tide for the dawn patrol\, then incoming tide push lends a hand much of t
+ he morning. Early afternoon high tide bogs down tide sensitive spots. Ligh
+ t/variable winds through the morning\, expected to turn light SW over the 
+ afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
 DTSTART:20260518T161200
 DTEND:20260518T190600
-DESCRIPTION:-2.984ft at 16:12\n-2.996ft at 19:06
+DESCRIPTION:TIDES:\n-2.984ft at 16:12\n-2.996ft at 19:06\n\nOBSERVATION:\n
+ Blend of SSW swell and NW swell tapers off\, with mainly waist-chest high 
+ waves in the morning\, dipping in the afternoon. \n\nDraining negative low
+  tide for the dawn patrol\, then incoming tide push lends a hand much of t
+ he morning. Early afternoon high tide bogs down tide sensitive spots. Ligh
+ t/variable winds through the morning\, expected to turn light SW over the 
+ afternoon. 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf's Up
@@ -234,5 +218,17 @@ SUMMARY:Surf's Up
 DTSTART:20260529T132400
 DTEND:20260529T170600
 DESCRIPTION:-2.97ft at 13:24\n-2.98ft at 17:06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260530T065400
+DTEND:20260530T102400
+DESCRIPTION:-0.019ft at 06:54\n-2.963ft at 10:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf's Up
+DTSTART:20260530T143000
+DTEND:20260530T171200
+DESCRIPTION:-2.986ft at 14:30\n-2.986ft at 17:12
 END:VEVENT
 END:VCALENDAR
